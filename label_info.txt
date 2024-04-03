@@ -1,0 +1,30 @@
+{'word': 'Thompson', 'start_index': 4, 'end_index': 11}
+{'word': 'anhedonia', 'start_index': 124, 'end_index': 132}
+{'word': 'six months', 'start_index': 177, 'end_index': 186}
+{'word': 'construction worker', 'start_index': 197, 'end_index': 215}
+{'word': 'Union member', 'start_index': 223, 'end_index': 234}
+{'word': 'Thompson', 'start_index': 242, 'end_index': 249}
+{'word': 'death of his wife', 'start_index': 287, 'end_index': 303}
+{'word': 'March 2024', 'start_index': 308, 'end_index': 317}
+{'word': 'weight loss of 20 pounds', 'start_index': 492, 'end_index': 515}
+{'word': 'four months', 'start_index': 531, 'end_index': 541}
+{'word': 'Thompson', 'start_index': 548, 'end_index': 555}
+{'word': 'Thompson', 'start_index': 659, 'end_index': 666}
+{'word': 'email', 'start_index': 681, 'end_index': 685}
+{'word': 'john.t@example.com', 'start_index': 688, 'end_index': 705}
+{'word': 'phone number', 'start_index': 742, 'end_index': 753}
+{'word': 'residence on 456 Elm Street, Springfield, IL', 'start_index': 829, 'end_index': 872}
+{'word': 'hypertension', 'start_index': 915, 'end_index': 926}
+{'word': 'lisinopril 10 mg daily', 'start_index': 942, 'end_index': 963}
+{'word': 'alcohol abuse', 'start_index': 990, 'end_index': 1002}
+{'word': 'ten years', 'start_index': 1034, 'end_index': 1042}
+{'word': 'depression', 'start_index': 1131, 'end_index': 1140}
+{'word': 'bipolar disorder', 'start_index': 1160, 'end_index': 1175}
+{'word': 'Thompson', 'start_index': 1233, 'end_index': 1240}
+{'word': 'Thompson', 'start_index': 1665, 'end_index': 1672}
+{'word': 'sertraline 50 mg daily', 'start_index': 1694, 'end_index': 1715}
+{'word': 'four weeks', 'start_index': 1745, 'end_index': 1754}
+{'word': 'local mental health clinic', 'start_index': 1813, 'end_index': 1838}
+{'word': 'two-week medical leave from work', 'start_index': 2022, 'end_index': 2053}
+{'word': 'Thompson', 'start_index': 2073, 'end_index': 2080}
+{'word': '48-year-old male', 'start_index': 2087, 'end_index': 2102}
