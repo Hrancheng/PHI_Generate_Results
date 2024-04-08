@@ -25,7 +25,7 @@ def remove_labels_and_compute_indices(input_file, output_file, label_info_file):
     # Iterate over the matches and compute the indices in the cleaned text
     for _, word in matches:
         start_index = cleaned_text.find(word)
-        end_index = start_index + len(word) - 1
+        end_index = start_index + len(word)  # exclusive
         results.append({'word': word, 'start_index': start_index, 'end_index': end_index})
         cleaned_text = cleaned_text.replace(word, ' ' * len(word), 1)
 
