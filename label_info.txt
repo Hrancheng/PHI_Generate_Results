@@ -12,19 +12,19 @@
 {'word': 'Thompson', 'start_index': 657, 'end_index': 665}
 {'word': 'email', 'start_index': 679, 'end_index': 684}
 {'word': 'john.t@example.com', 'start_index': 686, 'end_index': 704}
-{'word': 'phone number', 'start_index': 740, 'end_index': 752}
-{'word': 'residence on 456 Elm Street, Springfield, IL', 'start_index': 827, 'end_index': 871}
-{'word': 'hypertension', 'start_index': 912, 'end_index': 924}
-{'word': 'lisinopril 10 mg daily', 'start_index': 939, 'end_index': 961}
-{'word': 'alcohol abuse', 'start_index': 987, 'end_index': 1000}
-{'word': 'ten years', 'start_index': 1031, 'end_index': 1040}
-{'word': 'depression', 'start_index': 1128, 'end_index': 1138}
-{'word': 'bipolar disorder', 'start_index': 1157, 'end_index': 1173}
-{'word': 'Thompson', 'start_index': 1229, 'end_index': 1237}
-{'word': 'Thompson', 'start_index': 1660, 'end_index': 1668}
-{'word': 'sertraline 50 mg daily', 'start_index': 1689, 'end_index': 1711}
-{'word': 'four weeks', 'start_index': 1740, 'end_index': 1750}
-{'word': 'local mental health clinic', 'start_index': 1808, 'end_index': 1834}
-{'word': 'two-week medical leave from work', 'start_index': 2017, 'end_index': 2049}
-{'word': 'Thompson', 'start_index': 2067, 'end_index': 2075}
-{'word': '48-year-old male', 'start_index': 2081, 'end_index': 2097}
+{'word': '123-4567', 'start_index': 754, 'end_index': 762}
+{'word': 'residence on 456 Elm Street, Springfield, IL', 'start_index': 810, 'end_index': 854}
+{'word': 'hypertension', 'start_index': 895, 'end_index': 907}
+{'word': 'lisinopril 10 mg daily', 'start_index': 922, 'end_index': 944}
+{'word': 'alcohol abuse', 'start_index': 970, 'end_index': 983}
+{'word': 'ten years', 'start_index': 1014, 'end_index': 1023}
+{'word': 'depression', 'start_index': 1111, 'end_index': 1121}
+{'word': 'bipolar disorder', 'start_index': 1140, 'end_index': 1156}
+{'word': 'Thompson', 'start_index': 1212, 'end_index': 1220}
+{'word': 'Thompson', 'start_index': 1643, 'end_index': 1651}
+{'word': 'sertraline 50 mg daily', 'start_index': 1672, 'end_index': 1694}
+{'word': 'four weeks', 'start_index': 1723, 'end_index': 1733}
+{'word': 'local mental health clinic', 'start_index': 1791, 'end_index': 1817}
+{'word': 'two-week medical leave from work', 'start_index': 2000, 'end_index': 2032}
+{'word': 'Thompson', 'start_index': 2050, 'end_index': 2058}
+{'word': '48-year-old male', 'start_index': 2064, 'end_index': 2080}
