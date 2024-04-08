@@ -9,5 +9,5 @@ On mental status examination, Mr. [B-NAME]Thompson[O-NAME] appeared his stated a
 
 The treatment plan for Mr. [B-NAME]Thompson[O-NAME] includes initiating [B-ID]sertraline 50 mg daily[O-ID], with a plan to reassess in [B-DATE]four weeks[O-DATE] for efficacy and tolerability. He was also referred to a [B-ORGANIZATION]local mental health clinic[O-ORGANIZATION] for psychotherapy, specifically cognitive-behavioral therapy (CBT). Furthermore, given the significant impact of his symptoms on his daily functioning, a note will be provided for a [B-DATE]two-week medical leave from work[O-DATE].
 
-In summary, Mr. [B-NAME]Thompson[O-NAME] is a [B-AGE]48-year-old male[O-AGE] presenting with symptoms consistent with MDD. The onset of his depressive symptoms correlates with significant life stressors, including the loss of his spouse. The treatment regimen includes pharmacotherapy, psychotherapy, and social support measures to address his comprehensive healthcare needs.
+In summary, Mr. [B-NAME]Thompson[O-NAME] is a [B-AGE]48-year-old[O-AGE] male presenting with symptoms consistent with MDD. The onset of his depressive symptoms correlates with significant life stressors, including the loss of his spouse. The treatment regimen includes pharmacotherapy, psychotherapy, and social support measures to address his comprehensive healthcare needs.
 

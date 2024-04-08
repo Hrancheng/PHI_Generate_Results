@@ -27,4 +27,4 @@
 {'word': 'local mental health clinic', 'start_index': 1791, 'end_index': 1817}
 {'word': 'two-week medical leave from work', 'start_index': 2000, 'end_index': 2032}
 {'word': 'Thompson', 'start_index': 2050, 'end_index': 2058}
-{'word': '48-year-old male', 'start_index': 2064, 'end_index': 2080}
+{'word': '48-year-old', 'start_index': 2064, 'end_index': 2075}
