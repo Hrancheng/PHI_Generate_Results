@@ -2,7 +2,7 @@ import re
 
 def remove_labels_and_compute_indices(input_file, output_file, label_info_file):
     # Define the pattern to find and remove labels
-    pattern = r'\[B-(.*?)\](.*?)\[O-\1\]'
+    pattern = r'\[B-(.*?)\](.*?)\[O\]'
     
     # Read the input file and remove empty lines
     with open(input_file, 'r') as file:
