@@ -1,3 +1,4 @@
+import os
 import re
 import argparse
 
@@ -6,7 +7,9 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     pattern = r'\[B-(.*?)\](.*?)\[O\]'
     
     # Read the input file and remove empty lines
-    with open(input_file, 'r') as file:
+    input_folder = 'gpt_text'
+    input_path = os.path.join(input_folder, input_file)
+    with open(input_path, 'r') as file:
         lines = file.readlines()
         text = ''.join([line for line in lines if line.strip()])
 
@@ -20,7 +23,9 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     cleaned_text = cleaned_text.rstrip('\n')
 
     # Write the cleaned text to the output file
-    with open(output_file, 'w') as file:
+    cleaned_text_folder = 'text'
+    cleaned_text_path = os.path.join(cleaned_text_folder, output_file)
+    with open(cleaned_text_path, 'w') as file:
         file.write(cleaned_text)
 
     ########### ADDED: HTML FORMAT TO HIGHLIGHT KEY PHRASES ###############
@@ -28,7 +33,7 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     cleaned_text_copy = cleaned_text
 
     # Read the input file and remove empty lines
-    with open(input_file, 'r') as file:
+    with open(input_path, 'r') as file:
         lines = file.readlines()
         text = ''.join([line for line in lines if line.strip()])
 
@@ -95,7 +100,9 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
         cleaned_text = cleaned_text.replace(word, ' ' * len(word), 1)
 
     # Write the label info to the label info file
-    with open(label_info_file, 'w') as file:
+    label_folder = 'anno'
+    label_file_path = os.path.join(label_folder, label_info_file)
+    with open(label_file_path, 'w') as file:
          file.write('\n'.join(results))
 
     return results
@@ -104,14 +111,15 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
 def main():
     parser = argparse.ArgumentParser(description='Process input file and output cleaned files.')
     parser.add_argument('input_file', nargs='?', default='example.txt', help='Input file name')
-    parser.add_argument('output_file', nargs='?', default='cleaned_example_ann.txt', help='Output file name')
-    parser.add_argument('output_file_html', nargs='?', default='cleaned_example_ann.html', help='HTML output file name')
-    parser.add_argument('label_info_file', nargs='?', default='label_info_ann.txt', help='Label info file name')
+    parser.add_argument('output_file', nargs='?', default='cleaned_example.txt', help='Output file name')
+    parser.add_argument('output_file_html', nargs='?', default='cleaned_example.html', help='HTML output file name')
+    parser.add_argument('label_info_file', nargs='?', default='label_info.ann', help='Label info file name')
     args = parser.parse_args()
 
     results = remove_labels_and_compute_indices(args.input_file, args.output_file, args.output_file_html, args.label_info_file)
-    for result in results:
-        print(result)
+    # for result in results:
+    #     print(result)
+    print("done")
 
 if __name__ == '__main__':
     main()
