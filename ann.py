@@ -1,4 +1,5 @@
 import re
+import argparse
 
 def remove_labels_and_compute_indices(input_file, output_file, output_file_html, label_info_file):
     # Define the pattern to find and remove labels
@@ -101,12 +102,14 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
 
 
 def main():
-    # Example usage
-    input_file = 'example.txt'
-    output_file = 'cleaned_example_ann.txt'
-    output_file_html = 'cleaned_example_ann.html'
-    label_info_file = 'label_info_ann.txt'
-    results = remove_labels_and_compute_indices(input_file, output_file, output_file_html, label_info_file)
+    parser = argparse.ArgumentParser(description='Process input file and output cleaned files.')
+    parser.add_argument('input_file', nargs='?', default='example.txt', help='Input file name')
+    parser.add_argument('output_file', nargs='?', default='cleaned_example_ann.txt', help='Output file name')
+    parser.add_argument('output_file_html', nargs='?', default='cleaned_example_ann.html', help='HTML output file name')
+    parser.add_argument('label_info_file', nargs='?', default='label_info_ann.txt', help='Label info file name')
+    args = parser.parse_args()
+
+    results = remove_labels_and_compute_indices(args.input_file, args.output_file, args.output_file_html, args.label_info_file)
     for result in results:
         print(result)
 
