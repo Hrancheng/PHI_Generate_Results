@@ -1,0 +1,7 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated 10/21/2020 at 3:30 PM. INDICATION: 58-year-old female with new onset seizures. COMPARISON: MRI brain dated 9/15/2020. TECHNIQUE: High-resolution MRI performed using Valley Health Neuroimaging standard brain protocol. Pre and post-contrast sequences obtained with Gadolinium administration without complication. 
+FINDINGS: There is a new 2 cm enhancing lesion involving the left temporal lobe suggestive of a primary brain tumor or metastasis. This is a change compared to the prior MRI, where this lesion was not visualized. No evidence of significant midline shift. The basal ganglia, thalami, and cerebellum are unremarkable. There is no significant white matter disease or hydrocephalus. The major intracranial vessels demonstrate patent flow voids.
+IMPRESSION: 
+1. New left temporal lobe enhancing lesion highly suggestive of neoplasia.
+2. No significant progression in white matter disease.
+3. Continued monitoring and follow-up with a repeat MRI in three months, or earlier if clinically indicated.

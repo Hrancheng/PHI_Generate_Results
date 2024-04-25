@@ -1,0 +1,10 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated 7/25/2022 at 10:15 AM. 
+INDICATION: Suspected intracranial pathology. 
+COMPARISON: CT scan of the brain dated 6/10/2022.
+TECHNIQUE: MRI was performed on a 1.5 Tesla unit using the standard brain protocol with and without administration of 15 mL of gadolinium-based contrast. 
+FINDINGS: There is evidence of a 2 cm enhancing lesion within the right cerebral hemisphere, suggestive of a high-grade glioma. Surrounding vasogenic edema is noted. No evidence of midline shift. The ventricles and sulci are otherwise normal in configuration. No additional enhancing lesions are identified. No evidence of acute hemorrhage or infarct. The visualized orbits, paranasal sinuses, and mastoid air cells are unremarkable.
+IMPRESSION:
+1. New 2 cm enhancing lesion in the right cerebral hemisphere, most likely representing a primary brain tumor.
+2. No evidence of acute infarction or hemorrhage.
+3. No midline shift or significant mass effect despite the presence of the lesion.

@@ -1,0 +1,2 @@
+Example 21:
+ECHOCARDIOGRAM REPORT 9/25/2021. CLINICAL INDICATION: Suspected heart failure. FINDINGS: The echocardiogram demonstrates normal left ventricular size with preserved ejection fraction. Right ventricular size and function are normal. There is no evidence of valvular heart disease. The aortic root is of normal dimension. No pericardial effusion is seen. A normal inferior vena cava size with normal respiratory variation is noted, suggesting normal right atrial pressures. IMPRESSION: 1. Normal echocardiogram with no signs of heart failure or structural heart disease.

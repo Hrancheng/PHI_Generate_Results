@@ -1,0 +1,15 @@
+Example 21:
+EXAM: MRI SPINE, LUMBAR DATED 09/15/2021. 
+CLINICAL INDICATION: Lower back pain with radiation to lower limbs. HISTORY OF DISC DEGENERATION.
+COMPARISON: MRI dated 03/21/2019. 
+TECHNIQUE: MRI Lumbar spine was performed with and without contrast on a 3 Tesla machine, following standard institutional protocol.
+FINDINGS: 
+1. L4-L5: Moderate disc bulging with a broad-based central disc protrusion contacting the thecal sac but not causing significant spinal stenosis. No nerve root impingement observed.
+2. L5-S1: Mild disc bulge without disc herniation. No spinal canal or foraminal stenosis. Sacral roots appear intact.
+3. Vertebral body heights and alignments are maintained with no evidence of acute fracture. Normal marrow signal is retained.
+4. Conus medullaris terminates at the appropriate level, with no abnormal signal intensity.
+5. Soft tissues surrounding the spine are unremarkable.
+IMPRESSION:
+1. Disc protrusion at L4-L5 without significant spinal canal stenosis or nerve root compression.
+2. No progressive degenerative changes when compared to 03/21/2019.
+3. Recommended follow-up in 1 year or sooner if symptoms worsen.

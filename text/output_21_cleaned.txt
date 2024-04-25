@@ -1,0 +1,16 @@
+Example 21: 
+MRI LUMBAR SPINE WITH AND WITHOUT CONTRAST, dated 9/15/2022 at 10:30 AM. INDICATION: Persistent lower back pain with radiculopathy. COMPARISON: Previous MRI dated 1/18/2022. TECHNIQUE: MRI performed on a 3 Tesla magnet using the Central City Health lumbar spine protocol.
+FINDINGS:
+- Lumbar intervertebral discs display mild degenerative changes without significant disc herniation.
+- The L4-L5 and L5-S1 facet joints show mild arthritic changes.
+- No fracture or significant alignment abnormality noted.
+- The conus medullaris terminates at L1 level and appears normal.
+- Paravertebral soft tissues are unremarkable.
+- No abnormal enhancement or mass lesion post contrast administration.
+- The cauda equina nerve roots are evenly distributed without clumping or thickening.
+- A tiny Tarlov cyst is noted at S2 level without significant mass effect.
+IMPRESSION:
+1. No significant change from previous MRI dated 1/18/2022.
+2. Mild degenerative changes of lumbar intervertebral discs and facet joints.
+3. Tiny Tarlov cyst at S2 level of no clinical significance.
+4. No evidence of disc herniation or significant spinal canal stenosis.

@@ -1,0 +1,19 @@
+Example 21:
+ECHOGRAPHY OF THE ABDOMEN AND PELVIS, [B-DATE]9/28/2021[O]. CLINICAL INDICATION: Evaluation of acute abdominal pain and rule out cholecystitis. 
+
+COMPARISON: [B-DATE]Ultrasound from 10/15/2019[O].
+
+FINDINGS: 
+- Liver: No focal liver lesions noted. The liver size and echogenicity are normal.
+- Gallbladder: The gallbladder wall is thickened measuring approximately 4 mm without pericholecystic fluid; several gallstones are identified, with the largest measuring about 1.5 cm. No evidence of shadowing.
+- Pancreas: Normal in size and echotexture with no evidence of pancreatitis.
+- Kidneys: Both kidneys are normal in size with preserved corticomedullary differentiation. No hydronephrosis or stones.
+- Spleen: Normal size and homogeneous echotexture.
+- Aorta: No evidence of aneurysm.
+- Bladder: Normal in appearance with no intraluminal pathology.
+- Free Fluid: No free fluid seen in the abdomen or pelvis.
+
+IMPRESSION:
+1. Cholecystolithiasis with gallbladder wall thickening, likely indicative of acute cholecystitis.
+2. No evidence of common bile duct stones or pancreatitis.
+3. Normal appearance of liver, pancreas, spleen, kidneys, and bladder.

@@ -1,0 +1,26 @@
+Example 21:
+
+PROCEDURE: MR ANGIOGRAM OF BRAIN AND NECK
+
+DATE: [B-DATE]10/21/2022[O]
+
+HISTORY: Evaluation of headache and possible aneurysm.
+
+COMPARISON: None 
+
+TECHNIQUE: MR angiography was performed encompassing cranial vault through the circle of Willis using [B-ORGANIZATION]Harvard University Medical Center[O]'s standard MRA protocol. No contrast was administered.
+
+FINDINGS: 
+The visualized intracranial arteries show no evidence of aneurysm. The circle of Willis is intact with no significant stenosis or abnormalities detected. Flow in the vertebral and basilar arteries is normal. Major branches off the circle of Willis such as the anterior, middle, and posterior cerebral arteries are patent with no signs of occlusion or narrowing.
+
+Neck arteries including the common carotid artery and its bifurcation into internal and external branches appear normal with no significant stenosis or plaque observed. The jugular veins are patent with normal venous outflow.
+
+IMPACT:
+1. No aneurysm or vascular malformation detected within the brain.
+2. Normal vascular anatomy with no significant stenosis or occlusion. 
+
+SCHEDULING FOLLOW-UP: For reassessment or if symptoms persist, a follow-up consultation can be scheduled after 6 months. For any urgent concerns prior to the follow-up, patients are advised to contact the clinic directly.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+EMERGENCY CONTACT: 24/7 Emergency line at the [B-ORGANIZATION]Harvard University Medical Center[O] available at [B-PHONE]617-555-0101[O].

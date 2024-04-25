@@ -1,0 +1,25 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated 9/15/2021
+---------------------------------------------------
+PATIENT NAME: Robert Thompson
+PROCEDURE: Transthoracic Echocardiogram
+INDICATION: Evaluation of left ventricular function and valve abnormalities.
+TECHNIQUE: Standard transthoracic windows with 2D imaging, Doppler, and color flow mapping.
+FINDINGS:
+- The left ventricle is normal in size with preserved systolic function; ejection fraction estimated at 55%.
+- No regional wall motion abnormalities are detected.
+- The right ventricle is normal in size and function.
+- Valves: The mitral valve leaflets are mildly thickened but demonstrate normal mobility. No significant mitral regurgitation. The aortic valve is trileaflet with no significant stenosis or regurgitation.
+- The tricuspid valve and pulmonary valve are unremarkable with no evidence of significant stenosis or regurgitation.
+- Pericardium: There is no pericardial effusion.
+- Chambers: The atria are normal in size.
+IMPRESSION:
+1. Normal left ventricular size and systolic function.
+2. Mild mitral valve leaflet thickening without significant dysfunction.
+3. No evidence of significant valvular stenosis or regurgitation.
+4. No pericardial effusion.
+COMMENTS:
+The patient's echocardiographic evaluation shows overall normal cardiac structure and function with mild mitral valve leaflet thickening. No urgent concerns. Recommend follow-up as clinically indicated.
+Md reviewed by Dr. Emily Stanton at General Hospital Heart Center.
+---------------------------------------------------
+End of Report

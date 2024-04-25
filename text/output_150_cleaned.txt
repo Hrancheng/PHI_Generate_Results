@@ -1,0 +1,10 @@
+Example 21:
+PROCEDURE: MRI BRAIN WITHOUT AND WITH CONTRAST, 09/15/2022 10:30 AM. 
+INDICATION: 58-year-old female with new-onset seizures and headache. 
+COMPARISON: MRI brain dated 08/10/2022.
+TECHNIQUE: MRI of the brain performed on a 3 Tesla scanner using a standard brain protocol with and without gadolinium enhancement. 
+FINDINGS: 
+Presence of a non-enhancing 2 cm left parietal lobe lesion with surrounding vasogenic edema. Differential considerations include low-grade glioma vs. metastasis. No midline shift. Ventricles and sulci are normal in size and configuration for patient's age. No evidence of hemorrhage or acute ischemic changes. Pituitary and pineal glands are normal. Mastoid air cells and paranasal sinuses are clear.
+IMPRESSION: 
+1. No significant interval change from previous MRI on 08/10/2022. 
+2. Stable appearance of left parietal lesion, likely low-grade glioma. Continued follow-up and potential biopsy recommended.

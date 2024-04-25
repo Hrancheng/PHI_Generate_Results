@@ -1,0 +1,4 @@
+Example 21:
+MRI PELVIS WITH AND WITHOUT CONTRAST, [B-DATE]7/18/2021[O] 10:30 AM INDICATION: [B-AGE]52-year-old[O] female with history of chronic pelvic pain, rule out endometriosis. COMPARISON: Pelvic ultrasound dated [B-DATE]5/22/2021[O]. TECHNIQUE: Dynamic pelvic MRI was performed using a multisequence, multiplanar approach both with and without intravenous contrast. FINDINGS: The uterus is normal in size and contour with a homogenous myometrium. There is no evidence of leiomyoma or adenomyosis. The endometrial stripe measures 5 mm, which is appropriate for the patient's menopausal status. Ovaries are not enlarged, and no significant adnexal masses are identified. Mild bilateral pelvic free fluid is seen, which is non-specific but could be physiologic. No significant lymphadenopathy is identified. IMPRESSION: 
+1. No evidence of deep infiltrating endometriosis or significant pelvic pathology.
+2. Mild nonspecific pelvic free fluid, likely physiologic.

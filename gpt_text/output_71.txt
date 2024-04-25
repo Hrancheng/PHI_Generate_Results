@@ -1,0 +1,19 @@
+Example 21:
+CHEST CT WITH CONTRAST [B-DATE]10/14/2022[O] CLINICAL INDICATION: Suspected pulmonary embolism. COMPARISON: Prior chest x-ray dated [B-DATE]9/20/2022[O]. TECHNIQUE: Multidetector CT of the chest was performed after the intravenous administration of 100 mL of nonionic contrast material. Scans were obtained from the thoracic inlet to the upper abdomen. IMAGES: coronal, sagittal, and axial planes generated and reviewed. 
+
+FINDINGS: 
+The lungs demonstrate no acute pulmonary emboli. There is a 0.3 cm nodule in the right upper lobe, which appears benign and stable when compared to the previous examination. The bronchovascular markings are otherwise normal. 
+
+Pleura: No pleural effusions or masses noted. 
+
+The heart and pericardium: There is no pericardial effusion. The heart size is within normal limits for the patient's age. 
+
+Aorta and great vessels: There are no aneurysms or dissection.
+
+Upper abdomen: Visualized portions of the liver, spleen, adrenal glands, and upper kidneys are unremarkable.
+
+IMPRESSION: 
+1. No evidence of pulmonary embolism. 
+2. Stable small right upper lobe nodule, likely benign.
+3. No significant change in cardiac and pleural findings.
+

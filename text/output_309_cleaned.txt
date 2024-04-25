@@ -1,0 +1,15 @@
+Example 21:  
+MRI BRAIN WITH AND WITHOUT CONTRAST, 6/21/2022, Time of Exam: 08:30 AM  
+INDICATION: 53-year-old female patient with new-onset seizures.  
+COMPARISON: MRI from 5/15/2022.  
+TECHNIQUE: MRI performed on a 1.5 Tesla scanner using the Boston General Hospital comprehensive brain protocol. Post-contrast images obtained following distribution of 20 ml Gadovist.  
+FINDINGS:  
+1. There is no evidence of acute infarction.  
+2. Normal morphology and signal of the cerebral lobes, basal ganglia, thalamus, brainstem, and cerebellum.  
+3. There is a 2 mm focus of gadolinium enhancement in the left frontal lobe which may represent a small vascular malformation or a developing lesion. Further evaluation with MR angiography is suggested.  
+4. Ventricles and sulci are within normal limits for patient age. No midline shift.  
+5. No significant white matter hyperintensities or signs of demyelination.  
+IMPRESSION:  
+1. No acute brain injury or infarction.  
+2. Small enhancing lesion in the left frontal lobe, possibly vascular, merits further evaluation with focused MR angiography.  
+3. Stable exam compared to the last MRI dated 5/15/2022. No progression of any abnormal findings.

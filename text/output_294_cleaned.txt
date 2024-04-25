@@ -1,0 +1,18 @@
+Example 21:
+PROCEDURE: MRI BRAIN WITH AND WITHOUT CONTRAST
+Date: 10/15/2022
+COMPARISON: Previous MRI dated 07/13/2022
+INDICATION: Evaluation for progression of known glioblastoma multiforme (GBM).
+TECHNIQUE: MRI of the brain was performed with a 1.5 Tesla system. Sequences included axial, coronal, and sagittal T1 with and without gadolinium, T2 FLAIR, and diffusion-weighted imaging.
+FINDINGS:
+- There is an increase in the size of the enhancing mass in the right frontal lobe measuring 3.2 x 4.1 x 4.5 cm, previously 2.9 x 3.8 x 4.1 cm.
+- Surrounding vasogenic edema has also increased, extending into the right temporal and parietal lobes.
+- Midline shift to the left has worsened from 3 mm to 5 mm.
+- No new areas of abnormal enhancement suggesting distant metastasis.
+- The ventricles are stable in size with mild transependymal flow consistent with ex-vacuo changes.
+- No evidence of acute hemorrhage or recent infarction.
+IMPRESSION:
+1. Progression of size and extent of known right frontal GBM with increased surrounding edema and worsening midline shift.
+2. Continued surveillance recommended with follow-up MRI in three months or sooner if clinically indicated.
+3. Discussion for potential therapeutic adjustments recommended; please consult with the treating oncologist.
+Signed by Dr. Emily Tran, City Hospital Neuroimaging Center.

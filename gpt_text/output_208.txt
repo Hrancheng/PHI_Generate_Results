@@ -1,0 +1,9 @@
+Example 21:
+CHEST X-RAY, PORTABLE, [B-DATE]10/05/2023[O] at 11:45 AM.
+CLINICAL INDICATION: Evaluation of chest pain and suspected pneumonia.
+COMPARISON: Chest x-ray dated [B-DATE]09/20/2023[O].
+FINDINGS: The lung fields show increased interstitial markings bilaterally, consistent with an inflammatory process. There is no evidence of pneumothorax or pleural effusion. The heart size is within normal limits for patient's age. No mediastinal widening is noted. The diaphragm and bony thorax appear intact.
+IMPRESSION: IMPRESSION:
+1. Findings suggestive of early interstitial pneumonitis.
+2. No pneumothorax or large pleural effusions identified.
+3. Recommend clinical correlation and follow-up imaging if symptoms persist or worsen.

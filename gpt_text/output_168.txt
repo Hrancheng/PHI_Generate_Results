@@ -1,0 +1,7 @@
+Example 21:
+MRI SPINE LUMBAR WITHOUT CONTRAST, dated [B-DATE]10/05/2022[O]. CLINICAL INDICATION: Chronic lower back pain with history of previous lumbar surgical interventions. COMPARISON: MRI dated [B-DATE]04/15/2021[O]. TECHNIQUE: Standard non-contrast lumbar spine MRI protocol was utilized. FINDINGS: The lumbar spine shows post-surgical changes with evidence of laminectomy at L4 and L5. There is mild recurrent disc protrusion at L4-L5 that is impinging on the thecal sac but not severely affecting the nerve roots. Mild facet joint arthrosis is noted at L3-L4 and L4-L5 levels. No significant canal stenosis or neural foraminal narrowing is evident. Bone marrow signal is unremarkable. The conus medullaris terminates at the appropriate level, and the cauda equina nerve roots appear normal.
+
+IMPRESSION:
+1. Post-surgical changes at L4 and L5 with mild recurrent disc protrusion at L4-L5.
+2. No significant canal stenosis or neural foraminal narrowing.
+3. Mild facet joint arthrosis at L3-L4 and L4-L5 levels.

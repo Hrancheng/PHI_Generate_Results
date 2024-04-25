@@ -1,0 +1,18 @@
+### Example 21:
+**MRI LUMBAR SPINE WITHOUT CONTRAST**, dated [B-DATE]10/21/2021[O] 14:45 PM  
+**INDICATION:** [B-AGE]58-year-old[O] female with a history of lower back pain and suspected lumbar spondylosis.  
+**COMPARISON:** MRI lumbar spine dated [B-DATE]5/16/2019[O].  
+**TECHNIQUE:** A multi-sequence, multi-planar MRI of the lumbar spine was performed without the administration of intravenous contrast.  
+**FINDINGS:**  
+- The lumbar vertebral bodies maintain normal height and marrow signal.  
+- Mild broad-based disc bulge at L3-L4 and L4-L5 without significant central canal or foraminal stenosis.  
+- Facet joints at L4-L5 and L5-S1 show mild degenerative changes.  
+- No acute disc herniation or nerve root impingement is evident.  
+- The conus medullaris terminates at L1 without abnormal signal.  
+- Incidental note is made of a 9 mm hemangioma in the body of L3.  
+
+**IMPRESSION:**  
+1. No significant change when compared to [B-DATE]5/16/2019[O]. Mild degenerative disc disease as described above.  
+2. Incidental hemangioma at L3, unchanged.  
+
+All findings were discussed with [B-ID]#45235[O] over the phone immediately after study completion at 15:30 PM.

@@ -1,0 +1,10 @@
+Example 21:
+PEDIATRIC ECHO DOPPLER STUDY dated [B-DATE]9/15/2021[O] - Review of prior echocardiogram dated [B-DATE]6/12/2020[O]. CLINICAL INDICATION: Evaluation of murmurs.
+TECHNIQUE: Standard echocardiographic windows with color, spectral Doppler, and M-mode imaging were obtained at rest without complications. 
+COMPARISON: Echocardiogram [B-DATE]12/5/2019[O].
+FINDINGS: The cardiac chambers appeared normal in size. The left ventricular systolic function was preserved with an ejection fraction estimated at 65%. No structural abnormalities were noted on this echocardiogram. The aortic valve was trileaflet with no evidence of stenosis or regurgitation. The mitral valve exhibited mild mitral regurgitation with normal leaflet motion. The pulmonary valve and the tricuspid valve were normal. No pericardial effusion was detected.
+IMPRESSION: IMPRESSION: 1. Normal size and function of the cardiac chambers.
+2. Mild mitral regurgitation without hemodynamic compromise.
+3. No evidence of significant structural heart disease.
+------------------------------------------------------------------------------------------------------------------------------------------------
+Please note: Recommendations for follow-up based strictly on cardiology review. Further assessments should be considered if clinical symptoms evolve.

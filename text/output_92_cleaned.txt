@@ -1,0 +1,16 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST, 09/15/2020 10:00 AM
+INDICATION: Evaluation of 63-year-old male with history of myocardial infarction and recent onset of atypical chest pain.
+COMPARISON: Cardiac MRI dated 01/05/2019.
+TECHNIQUE: Cardiac MRI was completed using a 3 Tesla Siemens Skyra with cardiac gating, without and with administration of 15 mL Gadovist gadolinium contrast. Sequences included steady-state free precession (SSFP) cine, late gadolinium enhancement, and T2-weighted images.
+FINDINGS: 
+The left ventricle demonstrates normal systolic function with an ejection fraction estimated at 60%. There is no evidence of regional wall motion abnormalities. Late gadolinium enhancement imaging shows a small area of fibrosis in the basal inferolateral wall, consistent with an old myocardial scar. No additional areas of enhancement indicative of active or recent myocardial damage.
+The right ventricle is normal in size and function.
+The valves are structurally normal without significant stenosis or regurgitation.
+Pericardium is normal without thickening or pericardial effusion.
+There is a mild dilation of the ascending aorta measuring 3.8 cm. No aortic dissection flap or intramural hematoma is seen.
+Coronary arteries are visualized with normal origins and no significant stenosis.
+IMPRESSION:
+1. Continued stability of the basal inferolateral scar without new myocardial damage.
+2. Normal biventricular systolic function and valve morphology.
+3. Mild ascending aortic dilation without acute complication; recommend follow-up imaging in 1 year.

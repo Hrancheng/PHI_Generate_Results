@@ -1,0 +1,30 @@
+Example 21:
+DISCHARGE SUMMARY:
+Patient Name: Elizabeth Johnson
+Medical Record Number: 00112233
+Admission Date: 03/12/2023
+Discharge Date: 03/19/2023
+Admitting Diagnosis: Acute cholecystitis
+Discharge Diagnosis: Acute cholecystitis resolved, diabetes type 2 managed
+Patient Age: 58 years old
+HISTORY OF PRESENT ILLNESS:
+Elizabeth presented to the emergency department with severe right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed the presence of gallstones and thickening of the gallbladder wall, consistent with acute cholecystitis. Additionally, her blood glucose on admission was elevated at 300 mg/dL.
+HOSPITAL COURSE:
+The patient was admitted under the care of Dr. Susan Hill and was managed with IV antibiotics and pain control. Her cholecystolethiasis was addressed with an elective laparoscopic cholecystectomy performed by Dr. Michael Anderson on 03/14/2023. Postoperative course was uneventful with good control of her diabetes using insulin sliding scale protocol. She was transitioned to oral diabetes medications post-procedure.
+MEDICATIONS ON DISCHARGE:
+1. Metformin 1000 mg twice daily
+2. Insulin aspart 10 units with meals
+3. Ibuprofen 400 mg as needed for pain
+FOLLOW-UP:
+Follow-up appointment with Dr. Susan Hill in two weeks at her office located at 123 Wellness Blvd, Suite 400, Columbus, Ohio 43215. Please bring all discharged medications to the follow-up visit.
+Diabetes management review scheduled with the Community Diabetes Care Center on 03/30/2023.
+INSTRUCTIONS:
+Patient is advised to maintain a low-fat diet, monitor blood glucose levels thrice daily, and gradually increase physical activities as tolerated. Signs of infection or any complications from surgery should prompt immediate care.
+For concerns, patient or relatives may contact 555-123-4567.
+DISCHARGE PREPARED BY:
+Linda Evans, RN
+[date] 03/19/2023
+[time] 11:40 AM
+SIGNATURE:
+[Signature not displayed for privacy]
+In this discharge summary, personal identifiers and sensitive information were annotated according to the PHI De-Identification Annotation Guidelines provided to ensure the privacy and protection of the patient's personal information.

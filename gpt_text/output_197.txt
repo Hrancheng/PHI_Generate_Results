@@ -1,0 +1,43 @@
+Example 21:
+DISCHARGE SUMMARY:
+
+Patient: [B-NAME]Michael Thompson[O]  
+MRN: [B-ID]02299438[O]  
+Admission Date: [B-DATE]June 5, 2023[O]  
+Discharge Date: [B-DATE]June 15, 2023[O]   
+Age: [B-AGE]58 years old[O]  
+Address: [B-ADDRESS]473 West Elm Street, Springfield, IL 62704[O]  
+Phone: [B-PHONE]312-555-0198[O]  
+Admitting Diagnosis: Acute myocardial infarction  
+Discharge Diagnoses:  
+1. Acute myocardial infarction  
+2. Type 2 Diabetes Mellitus  
+
+Hospital Course:  
+Mr. [B-NAME]Thompson[O] presented to the Emergency Department on [B-DATE]June 5, 2023[O] complaining of severe chest pain radiating to his left arm. ECG confirmed ST-elevation MI. He was immediately taken to the [B-LOCATION]cath lab[O] where a stent was placed in the proximal left anterior descending artery. The patient was started on dual antiplatelet therapy and high-intensity statins. His blood sugars were elevated on admission, and he was stabilized on an insulin regimen during his hospital stay.
+
+Medications on Discharge:  
+1. Aspirin 81 mg daily  
+2. Metformin 500 mg twice daily  
+3. Insulin Glargine 40 units at bedtime  
+4. Atorvastatin 80 mg at bedtime  
+
+Follow-Up:  
+Patient is to follow up with his primary care provider, Dr. [B-NAME]Lisa Crane[O], at [B-ORGANIZATION]Springfield Medical Associates[O] on [B-DATE]June 22, 2023[O]. Cardiology follow-up with Dr. [B-NAME]Aaron Miles[O] at [B-ORGANIZATION]Heart Health Clinic[O] within two weeks. Diabetic education and management with [B-ORGANIZATION]Springfield Diabetes and Wellness Center[O]. 
+
+Care Instructions:  
+Continue with a low sodium, diabetes-friendly diet. Increase physical activity gradually as tolerated. Monitor blood sugar levels at least four times a day. Attend all scheduled follow-up appointments and complete cardiac rehabilitation program.
+
+Emergency Contact:  
+Wife: [B-NAME]Sara Thompson[O]  
+Phone: [B-PHONE]312-555-0278[O]
+
+Discharge Prepared by:  
+[B-NAME]Emily Tran, RN[O]  
+[B-ORGANIZATION]Springfield General Hospital[O]  
+
+The patient and his wife were educated about signs and symptoms of heart attack, importance of medication adherence, and diabetes management. They expressed understanding of all discharge instructions.
+
+This discharge summary was reviewed and signed by:  
+Dr. [B-NAME]Aaron Miles[O], MD, Cardiologist  
+Dr. [B-NAME]Lisa Crane[O], MD, Internal Medicine  

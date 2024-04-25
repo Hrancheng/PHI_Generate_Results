@@ -1,0 +1,27 @@
+**Example 21:**
+Procedure: MRI BRAIN WITH AND WITHOUT CONTRAST  
+Date: 05/07/2021  
+Indication: Suspected multiple sclerosis.  
+Comparison: Prior MRI dated 03/15/2020.  
+**TECHNIQUE:**  
+MRI performed with standard multiple sclerosis protocol using 1.5 Tesla machine. Both T1-weighted sequences with and without gadolinium contrast and T2-weighted sequences were acquired. FLAIR sequences extensively reviewed.  
+**FINDINGS:**  
+Examination of the brain reveals several new foci of T2 hyperintensity and FLAIR within the periventricular white matter bilaterally compared to the previous examination dated 03/15/2020. The largest new lesion measures approximately 6 mm located in the left frontal lobe. No evidence of restricted diffusion to suggest acute infarction. Post-contrast images show no abnormal enhancement to suggest active demyelination.  
+**BRAINSTEM AND CEREBELLUM:**  
+No pathologic signal changes or abnormal enhancement.  
+**INTRACRANIAL VASCULATURE:**  
+Major arterial and venous structures appear patent with normal flow voids on spin-echo sequences.  
+**VENTRICLES AND SULCI:**  
+Stable size of the ventricular system. No evidence of midline shift. Sulci are age-appropriate.  
+**SKULL BASE AND CRANIAL NERVES:**  
+Unremarkable.  
+**ORBITS:**  
+The visualized portions of the orbits are within normal limits, with extraocular muscles of normal size and configuration. Optic nerves are symmetric without enlargement or enhancement.  
+**PARANASAL SINUSES AND MASTOID AIR CELLS:**  
+Mild mucosal thickening noted in the maxillary sinuses. Mastoid air cells are well-aerated.  
+**IMPRESSION:**  
+ 1. New scattered white matter lesions in periventricular locations, probably representative of disease progression in the setting of suspected multiple sclerosis.  
+ 2. No evidence of active demyelination on post-contrast images.  
+ 3. No acute intracranial pathology.  
+**FOLLOW-UP:**  
+Recommend clinical correlation with neurology for possible therapy adjustment. Consider follow-up MRI in 6 months or sooner if clinically indicated.

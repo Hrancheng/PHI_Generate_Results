@@ -1,0 +1,12 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated [B-DATE]03/15/2021[O] 10:30 AM. INDICATION: [B-AGE]58-year-old[O] female with recent onset of headaches and visual disturbances. COMPARISON: MRI of the brain dated [B-DATE]11/20/2020[O]. TECHNIQUE: MRI is performed on a 3 Tesla machine using the [B-ORGANIZATION]Central City Neurological Institute[O] standard brain protocol. Images obtained before and after the administration of 15 mL of Gadovist intravenous contrast. 
+
+FINDINGS: 
+The ventricles and sulci are within normal limits for the patient's age. There is no evidence of midline shift. No intracranial mass effect is observed. The pituitary gland is normal in size and signal intensity with no evidence of enhancement. The cerebral hemispheres show no areas of abnormal signal intensity or abnormal enhancement post-contrast. 
+
+Minor white matter hyperintensities are noted, likely related to small vessel ischemic changes. The major intracranial vessels show patent flow voids. There are no acute infarcts, hemorrhages, or extra-axial collections. The orbits, paranasal sinuses, and mastoid air cells are clear.
+
+IMPRESSION:
+1. No evidence of acute intracranial pathology.
+2. Stable minor white matter hyperintensities compared to previous MRI.
+3. Continue to monitor symptoms and consider follow-up MRI as clinically indicated.

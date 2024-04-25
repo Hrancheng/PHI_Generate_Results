@@ -1,0 +1,9 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated [B-DATE]10/05/2021[O]. CLINICAL INDICATION: Shortness of breath and suspected heart failure. 
+FINDINGS: The left ventricle is mildly dilated with an ejection fraction estimated at 40%. There is mild global hypokinesis. No significant wall motion abnormalities were noted. The right ventricle appears normal in size and function. No intracardiac thrombus or masses are visible. Valvular structures demonstrate mild mitral regurgitation and mild tricuspid regurgitation; the aortic and pulmonic valves are unremarkable. No pericardial effusion is present. 
+IMPRESSION: IMPRESSION:
+1. Mild left ventricular dysfunction with an ejection fraction of 40%. 
+2. Mild mitral and tricuspid regurgitation without stenosis.
+3. Normal right ventricular size and function.
+++++++++++++++++++++++++++++++++
+The echocardiogram results were discussed with the patient by Dr. [B-NAME]A. Roberts[O] at approximately [B-DATE]10/05/2021[O] 4:20 PM.

@@ -1,0 +1,9 @@
+Example 21:
+ABDOMINAL CT SCAN WITH AND WITHOUT CONTRAST, dated 10/15/2022. HISTORY: Patient complaining of persistent lower abdominal pain. CLINICAL INDICATION: Evaluation for appendicitis. COMPARISON: Prior abdominal ultrasound 9/5/2022. TECHNIQUE: Multi-phase abdominal CT scan utilizing 100 mL of non-ionic contrast. Images acquired from diaphragm to pubic symphysis with coronal and sagittal reconstructions. 
+FINDINGS: 
+The liver, spleen, pancreas, adrenal glands, and kidneys are normal in size and attenuation without evidence of mass or lesion. The appendix is visualized and appears normal without enlargement or signs of inflammation. The bowel loops are generally unremarkable without evidence of obstruction. No free fluid or free air is present in the abdomen. Mild diverticulosis is noted in the sigmoid colon without signs of acute diverticulitis. 
+IMPRESSION: 
+1. No evidence of appendicitis.
+2. Unremarkable examination of the liver, pancreas, spleen, and kidneys.
+3. Mild diverticulosis of the sigmoid colon without acute diverticulitis.
+4. Follow-up as clinically indicated for persistent symptoms.

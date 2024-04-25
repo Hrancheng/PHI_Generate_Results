@@ -1,0 +1,17 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, 11/15/2021
+INDICATION: 58-year-old female with recurring headaches and suspected demyelinating disease.
+COMPARISON: Previous MRI dated 8/24/2020.
+TECHNIQUE: Multiplanar, multisequence MRI of the brain was performed with and without gadolinium contrast on a high-field 3.0 Tesla MRI machine. 
+FINDINGS: 
+- Ventricles and basal cisterns are normal in size and configuration.
+- No evidence of intra or extra-axial hemorrhage, mass effect, or midline shift.
+- Scattered foci of T2/FLAIR hyperintensity within the bilateral periventricular white matter and subcortical regions likely represent chronic microvascular ischemic changes.
+- No new areas of abnormal enhancement post-contrast.
+- Major intracranial vessels show patent flow voids with no evidence of stenosis or occlusion.
+- Visualized paranasal sinuses and mastoid air cells are well-aerated.
+IMPRESSION:
+1. No evidence of acute intracranial pathology.
+2. Stable appearance of white matter lesions when compared to 8/24/2020, likely ischemic in origin.
+3. No findings suggestive of active demyelinating disease.
+4. Recommend follow-up MRI in one year or sooner if symptoms progress.

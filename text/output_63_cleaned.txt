@@ -1,0 +1,13 @@
+Example 21:
+NEUROLOGICAL MRI BRAIN WITH AND WITHOUT CONTRAST, dated 10/25/2022. INDICATION: Evaluation for multiple sclerosis. HISTORY: Progressive sensory disturbances and fatigue. COMPARISON: MRI Brain on 07/15/2021.
+TECHNIQUE: MRI performed using a 3 Tesla machine with multi-sequence imaging in axial, coronal, and sagittal planes. Post-contrast sequences were obtained after IV administration of 15 mL Gadovist.
+FINDINGS:
+1. Several new white matter lesions visible on FLAIR and T2-weighted images, predominantly in the periventricular and subcortical regions.
+2. No evidence of brainstem or cerebellar lesions.
+3. No abnormal meningeal enhancement post-contrast.
+4. Ventricles and sulci are within normal limits for patient age.
+IMPRESSION:
+1. New demyelinating lesions compatible with diagnosed relapsing-remitting multiple sclerosis.
+2. No signs of acute infraction or malignancy.
+3. Recommend clinical correlation with neurology for possible medication adjustment or therapy initiation.
+RECOMMENDATION: Follow-up MRI in one year or sooner if clinically indicated.

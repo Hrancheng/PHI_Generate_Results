@@ -1,0 +1,16 @@
+Example 21:  
+ECHOCARDIOGRAM REPORT dated 02/14/2021. 
+HISTORY: Suspected myocardial infarction. 
+COMPARISON: Echocardiogram dated 01/20/2021. 
+TECHNIQUE: Transthoracic echocardiography was performed using the Heart and Health Institute cardiac protocol. A total of 16 views were obtained for comprehensive evaluation. 
+FINDINGS: 
+- Left ventricular systolic function is preserved with an ejection fraction estimated at 55%. 
+- No regional wall motion abnormalities were noted. 
+- The right ventricle is normal in size and function. 
+- Valves appear structurally normal without significant stenosis or regurgitation. 
+- Atrial sizes are within normal limits. 
+- No pericardial effusion or intracardiac thrombus is visualized. 
+IMPRESSION: 
+1. Normal left ventricular systolic function. 
+2. No acute cardiomyopathy or significant valvular disease. 
+3. Comparison with previous echocardiogram shows stable cardiac structure and function.

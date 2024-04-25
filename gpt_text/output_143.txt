@@ -1,0 +1,16 @@
+Example 21:
+ECHOCARDIOGRAM REPORT, dated [B-DATE]09/15/2022[O] 
+INDICATION: Evaluation of murmurs and shortness of breath. 
+TECHNIQUE: Transthoracic echocardiogram performed using the [B-ORGANIZATION]City Hospital Heart Center[O] protocol with Spectral and Color Doppler, 2D and 3D imaging.
+FINDINGS: 
+1. Left ventricular ejection fraction estimated at 55%, indicating normal systolic function.
+2. No significant valvular regurgitation or stenosis observed. Mild tricuspid regurgitation noted which is physiologically normal.
+3. Normal chamber sizes and wall thickness.
+4. No evidence of intracardiac shunt on bubble study.
+5. Aortic root dimensions are within normal limits.
+6. [B-LOCATION]ICU monitoring station[O] conducted consecutive heart rate monitoring revealing normal sinus rhythm throughout the recording.
+IMPRESSSION:
+1. Normal left ventricular systolic function.
+2. No evidence of significant valvular disease. Mild tricuspid regurgitation likely physiologic.
+CONCLUSION:
+The echocardiographic study reveals a structurally normal heart with normal systolic function and no significant hemodynamically valvular disease. Follow-up in clinical cardiology clinic recommended in one year, or sooner if symptoms increase.

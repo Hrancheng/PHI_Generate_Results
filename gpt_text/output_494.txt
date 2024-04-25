@@ -1,0 +1,12 @@
+Example 21:
+ULTRASOUND OF THE GALLBLADDER AND BILIARY TRACT, dated [B-DATE]4/15/2024[O] 10:45 AM. INDICATION: [B-AGE]58-year-old[O] female presenting with right upper quadrant pain and suspected cholelithiasis. COMPARISON: Ultrasound dated [B-DATE]3/10/2023[O]. TECHNIQUE: Ultrasound examination of the gallbladder and biliary tree was performed. Doppler studies were conducted to assess vascular flow. 
+
+FINDINGS: 
+The gallbladder is contracted with a wall thickness of 4 mm. Multiple gallstones are present, with the largest measuring 1.5 cm. There is no evidence of gallbladder polyps or gallbladder carcinoma. The common bile duct is not dilated, measuring 3 mm. Liver parenchyma appears homogenous with no focal lesions observed. No ascites or abnormal masses are noted in the visualized portions of the abdomen.
+
+IMPRESSION:
+1. Multiple gallstones without evidence of cholecystitis.
+2. No biliary ductal dilatation. 
+3. Liver appears normal for age with no hepatic lesions detected. 
+
+This detailed examination provides a comprehensive evaluation of the patient's symptomatic concerns with correlations to prior imaging, ensuring continuity and accuracy in managing the suspected cholelithiasis.

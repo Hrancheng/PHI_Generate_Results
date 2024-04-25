@@ -1,0 +1,6 @@
+Example 21:
+CHEST X-RAY, PA AND LATERAL VIEWS, dated [B-DATE]10/5/2022[O]. CLINICAL INDICATION: Evaluation of persistent cough and rule out pneumonia. COMPARISON: Chest radiograph dated [B-DATE]9/25/2022[O]. 
+FINDINGS: The lungs are adequately inflated without evidence of focal airspace disease. There is no pleural effusion or pneumothorax. Heart size and mediastinal contours are within normal limits. No calcified lymph nodes are visible. The bones are intact without acute fractures. 
+IMPRESSION: 
+1. No acute cardiopulmonary process identified. 
+2. No change from prior examination dated [B-DATE]9/25/2022[O], consistent with no acute disease.

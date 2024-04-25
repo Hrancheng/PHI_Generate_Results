@@ -1,0 +1,9 @@
+Example 21:
+BRAIN MRI: 
+DATE: 09/15/2022
+HISTORY: Headaches and dizziness. 
+TECHNIQUE: MRI of the brain was performed using a 3 Tesla MRI scanner. Sequences included T1, T2, FLAIR, DWI, and post-contrast T1 sequences.
+FINDINGS: There is a presence of a 5 mm focal area of increased T2/FLAIR signal within the left occipital lobe. No significant mass effect or midline shift. Post-contrast images show no abnormal enhancement. The remainder of the brain parenchyma appears unremarkable. Major intracranial flow voids are preserved. No evidence of acute infarction or hemorrhage.
+IMPRESSION: 
+1. Small area of increased T2/FLAIR signal intensity in the left occipital lobe likely represents a gliotic focus or low-grade glioma. Clinical correlation and follow-up MRI recommended. 
+2. No acute intracranial pathology.

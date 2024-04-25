@@ -1,0 +1,14 @@
+Example 21:
+
+PROCEDURE: MRI LUMBAR SPINE WITHOUT CONTRAST [B-DATE]9/15/2022[O] CLINICAL INDICATION: Chronic back pain with suspected lumbar disc herniation. HISTORY: Lower back pain persisting for several months, worsening with physical activity. COMPARISON: Previous MRI dated [B-DATE]4/5/2020[O]. TECHNIQUE: MRI performed on a 1.5 Tesla scanner without the use of contrast. The study includes sagittal T1, T2, and axial T2-weighted images of the lumbar spine.
+
+FINDINGS: 
+- The lumbar vertebral bodies maintain normal height and alignment with no evidence of acute fracture.
+- L3-L4 intervertebral disc shows mild disc bulge without significant central canal or neural foraminal narrowing.
+- L4-L5 disc exhibits moderate disc bulge with superimposed broad-based left paracentral disc protrusion. This protrusion contacts the traversing left L5 nerve root but does not cause significant displacement.
+- Surrounding soft tissue structures are intact and unremarkable. 
+- Sacroiliac joints and visualized portions of the pelvis appear normal.
+
+IMPRESSION:
+1. Moderate disc bulge at L4-L5 with a left paracentral disc protrusion contacting the left L5 nerve root. Correlate with patient symptoms and consider clinical management based on pain and mobility assessment.
+2. Stable mild disc bulge at L3-L4 without significant neural compression compared to prior study from [B-DATE]4/5/2020[O].

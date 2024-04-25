@@ -1,0 +1,35 @@
+Example 21:
+DISCHARGE SUMMARY: 
+Date of Admission: 06/22/2023
+Date of Discharge: 06/30/2023
+Patient: Emily Thomas
+Age: 52 years
+Address: 2120 Lakeview Drive, Boston, MA 02461
+Chief Complaint:
+Patient presented with severe abdominal pain and nausea.
+History of Present Illness:
+Emily Thomas was admitted with a sudden onset of sharp, persistent abdominal pain, accompanied by vomiting. No prior history of similar symptoms. Denies any recent travel or uncooked food intake.
+Past Medical History:
+- Hypertension
+- Type 2 Diabetes
+Medications on Admission:
+- Metformin 500mg twice daily
+- Lisinopril 10mg once daily
+Hospital Course:
+Upon admission, the patient was managed with IV fluids and pain management. An abdominal ultrasound and CT confirmed the presence of gallstones. The patient underwent a laparoscopic cholecystectomy on 06/24/2023, which was uneventful. Post-operative recovery was smooth with adequate pain control. The patient tolerated a regular diet before discharge and was ambulating independently.
+Discharge Medications:
+- Metformin 500mg twice daily
+- Lisinopril 10mg once daily
+- Oxycodone 5mg as needed for pain
+Follow-up:
+The patient is scheduled to follow up with Dr. Susan Lee at Boston General Hospital on 07/10/2023. Any signs of infection, uncontrolled pain, or digestive issues should prompt an earlier visit.
+Discharge Instructions:
+- Gradually resume regular activities as tolerated.
+- Maintain a low-fat diet for 4 weeks post cholecystectomy.
+- Monitor blood pressure and blood sugar levels regularly.
+Emergency Contact:
+- Daughter, Claire Thomas, 617-555-0198
+Signature:
+Dr. Robert King
+Boston General Hospital
+06/30/2023

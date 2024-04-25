@@ -1,0 +1,6 @@
+Example 21:
+CHEST X-RAY, PA AND LATERAL [B-DATE]03/14/2023[O]. CLINICAL INDICATION: Evaluate for pneumonia. COMPARE TO: None. FINDINGS: The frontal and lateral views of the chest demonstrate no acute cardiopulmonary disease. The lungs are clear of any focal airspace disease. Heart size is within normal limits. Mediastinal and hilar contours are normal. No pleural effusion or pneumothorax is visible. The visualized osseous structures are intact.
+
+IMPRESSION:
+1. No evidence of pneumonia. 
+2. Normal cardiopulmonary appearance.

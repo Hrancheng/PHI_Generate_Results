@@ -1,0 +1,2 @@
+Example 21:
+MAMMOGRAPHY SCREENING REPORT dated 10/21/2021. HISTORY: Routine annual screening. COMPARISON: Mammogram from 10/22/2020. FINDINGS: The breast parenchyma demonstrates scattered fibroglandular densities, unchanged from prior studies. No suspicious mass, architectural distortion, or suspicious calcifications noted in either breast. The skin and subcutaneous tissues appear normal. Bilateral axillae are without adenopathy. IMPRESSION: 1. No evidence of malignancy. BI-RADS Category 1: Negative. Recommendation for routine mammography screening next year.

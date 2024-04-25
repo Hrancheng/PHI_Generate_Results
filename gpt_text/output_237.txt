@@ -1,0 +1,7 @@
+Example 21:
+CHEST X-RAY PA AND LATERAL [B-DATE]11/15/2021[O] TIME OF PROCEDURE: 10:30 AM
+CLINICAL INDICATION: Evaluation for potential pneumonia.
+COMPARISON: Chest X-ray dated [B-DATE]10/01/2021[O].
+TECHNIQUE: PA and lateral projections were obtained without complication.
+FINDINGS: The lungs are fairly well-expanded and show no evidence of focal airspace disease. The visualized osseous structures are intact without acute fracture. Heart size is normal. No pleural effusions or pneumothorax is apparent. Comparison with previous studies shows no significant change.
+IMPRESSION: No evidence of acute pulmonary disease is seen on today's examination. Stable when compared with [B-DATE]10/01/2021[O]. Further clinical assessment and follow-up as indicated based on patient symptoms.

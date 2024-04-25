@@ -1,0 +1,14 @@
+Example 21:
+CARDIAC MRI dated [B-DATE]9/27/2021[O]. CLINICAL INDICATION: Evaluation of potential myocarditis. COMPARISON: Previous echocardiogram dated [B-DATE]8/15/2021[O]. TECHNIQUE: MRI of the heart was conducted using [B-ORGANIZATION]General Hospital Cardiac Imaging[O] specialized cardiac sequences. Images were gathered at multiple phases of the cardiac cycle without complication.
+
+FINDINGS:
+1. The left ventricular wall appears normal in thickness with no focal wall motion abnormalities. Normal left ventricular systolic function without dilation. Estimated ejection fraction is 55%.
+2. The right ventricle is normal in size and function with no wall motion abnormalities.
+3. No evidence of myocardial edema or delayed hyperenhancement suggestive of myocarditis or fibrosis.
+4. Pericardium is normal without thickening or pericardial effusion.
+5. Valves appear functional without significant regurgitation or stenosis.
+
+IMPRESSION:
+1. Normal cardiac morphology and function.
+2. No MRI evidence of myocarditis.
+3. Comparison with previous echocardiogram shows no significant interval change.

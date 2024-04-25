@@ -1,0 +1,9 @@
+Example 21:
+PROCEDURE: MRI BRAIN WITH AND WITHOUT CONTRAST, dated 09/04/2021. 
+HISTORY: Chronic headaches and suspicion of demyelinating disease. 
+COMPARISON: MRI dated 02/15/2020. 
+TECHNIQUE: Multiplanar, multisequence imaging of the brain was performed using a 1.5 Tesla magnet with and without the administration of 20 mL Gadavist. 
+FINDINGS: There is no evidence of abnormal enhancement to suggest active demyelination. No new or enlarging T2/FLAIR hyperintense lesions when compared with 02/15/2020 MRI. The ventricles and sulci appear normal for patient's age. No evidence of midline shift or mass effect. The major intracranial vessels demonstrate normal flow voids. The sella and parasellar regions are unremarkable. The visualized orbits, paranasal sinuses, and mastoid air cells are clear. 
+IMPRESSION: 
+1. No evidence of active demyelinating disease.
+2. Stable appearance of the brain when compared to previous MRI.

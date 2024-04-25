@@ -1,0 +1,26 @@
+### Discharge Summary
+**Patient Name**: Jane Doe  
+**Date of Admission**: 09/15/2023  
+**Date of Discharge**: 09/22/2023  
+**Admitting Diagnosis**: Acute cholecystitis  
+**Discharge Diagnosis**: Resolved acute cholecystitis, post cholecystectomy
+#### History of Present Illness:
+Jane Doe, a 47-year-old female, presented to the Emergency Department (ED) on 09/15/2023 complaining of severe right upper quadrant abdominal pain, nausea, and vomiting. The patient described the pain as sudden and worsening over the last 24 hours prior to admission. She denies any previous similar episodes.
+#### Hospital Course:
+Upon admission, patient was evaluated, and labs including CBC, LFTs, and Lipase were drawn. Abdominal ultrasound confirmed gallstones and signs of cholecystitis. The patient was started on IV antibiotics and scheduled for a laparoscopic cholecystectomy, which was successfully performed on 09/17/2023. Post-operatively, the patient’s recovery was uneventful. Antibiotics were continued, and pain was well controlled with IV acetaminophen. The patient was advanced to a regular diet and ambulation was encouraged.
+#### Discharge Medications:
+1. Acetaminophen 500 mg PO q6hr PRN for pain  
+2. Ibuprofen 400 mg PO q8hr PRN for pain  
+#### Follow-Up:
+Follow-up visit with Dr. Emily Stanton at Downtown Medical Clinic is scheduled for 10/02/2023.  
+Contact 555-123-4567 for any urgent queries or to reschedule.
+#### Instructions:
+The patient is advised to avoid heavy lifting and strenuous activities for the next 4 weeks. She should report immediately to the ED if she experiences fever, uncontrollable pain, jaundice, or dark urine.
+#### Signature:
+Dr. Richard Lively, MD
+General Hospital
+#### Contact Information:
+Emergency Contact: Husband, John Doe  
+Phone: 555-987-6543
+---
+This example discharge summary includes simulated PHI annotated according to the guidelines provided, encompassing personal names, dates, ages, organizations, and telephone numbers.

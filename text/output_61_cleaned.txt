@@ -1,0 +1,12 @@
+Example 21:
+CARDIAC MRI 7/22/2021 - INDICATION: Evaluation for myocarditis given recent viral infection symptoms. COMPARISON: None. TECHNIQUE: MRI of the heart with and without gadolinium-based contrast, following standard cardiac imaging protocols.
+FINDINGS: 
+1. Myocardial structure: The left and right ventricular size, wall thickness, and function are within normal limits. 
+2. Valves: All cardiac valves appear morphologically normal with no significant stenosis or regurgitation.
+3. Pericardium: No pericardial thickening or effusion noted.
+4. Major vessels: The aorta and pulmonary arteries are normal in caliber.
+5. Late Gadolinium Enhancement (LGE): There is a patchy, non-ischemic pattern of enhancement in the lateral wall of the left ventricle suggesting myocardial inflammation consistent with myocarditis.
+IMPRESSION:
+1. MRI indications of myocarditis with features of inflammation observed in the lateral wall of the left ventricle.
+2. Normal cardiac chamber sizes and valvular function.
+FOLLOW-UP: Recommend clinical follow-up and possibly a repeat MRI in 3 months to monitor resolution of inflammation. Ensure patient adherence to prescribed anti-inflammatory medications and limit strenuous activities as discussed.

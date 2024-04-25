@@ -1,0 +1,13 @@
+Example 21:
+HEART ECHO STUDY, dated 04/14/2021. CLINICAL INDICATION: Evaluation of cardiac function following myocardial infarction. COMPARISON: Prior echocardiogram 01/20/2021. TECHNIQUE: Transthoracic echocardiogram was performed using standard views with color flow, Doppler, and 2D imaging. 
+FINDINGS: 
+- Left ventricle: Normal size with mild hypertrophy. Systolic function is reduced with an estimated ejection fraction of 40%. No regional wall motion abnormalities noted.
+- Right ventricle: Normal in size and function.
+- Valves: Mild mitral and tricuspid regurgitation. No stenosis on any valves.
+- Atria: Normal size of both left and right atria.
+- Pericardium: No evidence of pericardial effusion.
+- Aorta: Normal in size and no evidence of aneurysm.
+IMPRESSION:
+1. Decreased ejection fraction at 40%, indicative of systolic dysfunction, stable compared to previous study.
+2. Mild valvular regurgitation without significant hemodynamic consequence.
+3. Overall stable echocardiographic findings with no acute changes. Further follow-up as clinically indicated.

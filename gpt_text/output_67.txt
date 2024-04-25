@@ -1,0 +1,7 @@
+Example 21:
+BRAIN MRI WITH AND WITHOUT CONTRAST, dated [B-DATE]09/17/2022[O] at 3:15 PM. INDICATION: [B-AGE]58-year-old[O] male with new onset seizures and suspected encephalitis. COMPARISON: MRI of the brain dated [B-DATE]08/12/2022[O]. TECHNIQUE: MRI is performed on a 3 Tesla scanner using the [B-ORGANIZATION]Bethesda Neurological Institute[O] comprehensive brain assessment protocol. Images obtained before and after the administration of 15 mL of Gadovist intravenous contrast. FINDINGS: The MRI demonstrates areas of hyperintensity on T2/FLAIR in the left temporal and frontal lobes, consistent with inflammation. There is moderate post-contrast enhancement suggesting active inflammation. No evidence of mass effect or midline shift. Ventricles and sulci are normal in size taking age into account. Cerebellar and brainstem structures appear normal. No abnormal meningeal enhancement is noted. 
+
+IMPRESSION: 
+1. Findings suggest active encephalitis in the left cerebral hemisphere.
+2. No evidence of mass or significant ischemic injury.
+3. Follow-up MRI is recommended in [B-DATE]60 days[O] to assess treatment response and progression.

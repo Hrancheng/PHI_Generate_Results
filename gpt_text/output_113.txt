@@ -1,0 +1,17 @@
+Example 21:
+MAGNETIC RESONANCE IMAGING (MRI) OF THE BRAIN without contrast, dated [B-DATE]10/14/2022[O]. 
+INDICATION: [B-AGE]58-year-old[O] female presenting with new onset of headaches and vertigo.
+COMPARISON: CT scan of the brain dated [B-DATE]09/29/2022[O].
+TECHNIQUE: MRI performed on a 3 Tesla unit, with sequences including FLAIR, T2* gradient echo, T1 pre and post gadolinium, amongst others, conducted sequentially.
+FINDINGS: 
+1. No evidence of acute intracranial hemorrhage or recent infarct.
+2. There is a small 3 mm focus of increased FLAIR signal intensity in the right frontal lobe, likely representing a nonspecific gliotic focus.
+3. The ventricles and sulci are normal in size for patient’s age.
+4. No significant midline shift or mass effect.
+5. The orbits, paranasal sinuses, and mastoid air cells are unremarkable.
+6. No abnormal enhancement post-contrast administration.
+
+IMPRESSION: 
+1. MRI brain findings are generally unremarkable, with no significant abnormality detected to explain patient's symptoms.
+2. Small nonspecific gliotic focus in the right frontal lobe noted. Clinical correlation suggested.
+3. Recommend follow-up or additional diagnostic evaluation for unexplained vertigo and headaches, as MRI findings alone do not fully account for clinical symptoms.

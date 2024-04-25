@@ -1,0 +1,2 @@
+Example 21:
+CHEST X-RAY, PORTABLE [B-DATE]11/7/2021[O] 3:15 PM CLINICAL INDICATION: Evaluate for pneumonia. COMPARISON: Chest X-ray from [B-DATE]10/15/2021[O]. FINDINGS: Heart size is within normal limits. The lungs are adequately inflated with no evidence of focal airspace disease. There is no pleural effusion or pneumothorax. The visualized osseous structures of the thorax are intact. IMPRESSION: No acute cardiopulmonary process. Retrospectively, the patient's previous imaging from [B-DATE]October[O] shows no significant change.

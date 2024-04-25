@@ -1,0 +1,9 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated 11/22/2021 at 10:45 AM.
+INDICATION: 54-year-old female with complaints of recurrent headaches and dizziness.
+COMPARISON: MRI brain dated 10/15/2021.
+TECHNIQUE: MRI performed on a 3 Tesla machine using a comprehensive brain protocol with and without the administration of 15 mL of Gadavist intravenous contrast.
+FINDINGS: No evidence of acute infarct or intracranial hemorrhage. There is a stable 6 mm enhancing lesion in the right frontal lobe, unchanged from the previous MRI. No midline shift or significant mass effect is seen. The ventricles and sulci are normal in size and configuration. There is no evidence of hydrocephalus. The major intracranial vessels demonstrate normal flow voids. The pituitary gland and sella are unremarkable.
+IMPRESSION:
+1. Stable enhancing lesion in the right frontal lobe, unchanged compared to 10/15/2021.
+2. No acute intracranial abnormalities. Continued follow-up recommended.

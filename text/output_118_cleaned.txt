@@ -1,0 +1,32 @@
+Example 21:
+DISCHARGE SUMMARY
+Patient Name: Michael Johnson  
+Date of Birth: 04/03/1981  
+Hospital Service: General Medicine  
+Admitting Date: 06/15/2023  
+Discharge Date: 06/22/2023  
+Address: 123 Cherry Lane, Springfield, IL 62704
+Chief Complaint: Chest pain
+History of Present Illness:
+Michael Johnson is a 42-year-old male who presented to the emergency department on June 15th, 2023 with an acute onset of substernal chest pain radiating to his left arm. The pain was associated with shortness of breath and diaphoresis.
+Hospital Course:
+Patient was managed by cardiologist Dr. Susan Gregory for suspected myocardial infarction. Initial EKG showed ST-segment elevations. He underwent cardiac catheterization which revealed two blocked coronary arteries, successfully treated with angioplasty and stenting.
+Medications upon discharge include aspirin, clopidogrel, metoprolol, and atorvastatin.
+Discharge Instructions:
+1. Follow up with cardiologist Dr. Susan Gregory at the Springfield Heart Clinic within one week.
+2. Continue taking prescribed medications without interruption.
+3. Engage in light activity, avoid heavy lifting and strenuous exercise for the next 4 weeks.
+4. Report immediately if symptoms of chest pain, shortness of breath, or dizziness occur.
+Emergency Contact:
+Wife: Jessica Johnson  
+Phone: 555-123-4567
+Next Appointment:
+With Dr. Susan Gregory on June 29, 2023 at the Springfield Heart Clinic, 456 Heart Road, Springfield, IL 62704.
+The patient was advised about the importance of lifestyle modifications including diet and smoking cessation. He expressed understanding of the discharge instructions and voiced no further questions at this time.
+Follow-Up Contact:
+If issues or questions arise before the next scheduled appointment, patient should contact Dr. Susan Gregory's office at 555-888-9999, or visit the nearest emergency department for immediate concerns.
+Discharge Mediator: Nurse Linda Krebs  
+Date: 06/22/2023  
+Signed,
+Dr. Susan Gregory, MD  
+Springfield Heart Clinic

@@ -1,0 +1,19 @@
+Example 21:
+ECHOCARDIOGRAM REPORT 09/22/2022 at 10:00 AM.
+CLINICAL INDICATION: Suspected heart failure.
+COMPARISON: Echocardiogram dated 06/15/2022.
+FINDINGS:
+Left ventricular ejection fraction estimated at 40%, decreased compared to previous ejection fraction of 52%.
+Left ventricular diastolic dimension (LVIDd) is measured at 5.4 cm, suggesting left ventricular dilatation.
+Right atrium and ventricle are normal in size and function.
+Mild mitral regurgitation and mild tricuspid regurgitation were noted.
+No pericardial effusion.
+Pulmonary artery systolic pressure estimated at 30 mmHg, indicating mild pulmonary hypertension.
+The aortic root diameter is within normal limits.
+Bioprosthetic aortic valve is functionally normally with no evidence of stenosis or regurgitation.
+Technical quality of the examination was good.
+IMPRESSION:
+1. Reduced left ventricular ejection fraction, consistent with systolic dysfunction, indicating progression of suspected heart failure. Further clinical correlation and potential upward adjustment of heart failure therapy recommended.
+2. Mild valvular regurgitations without hemodynamic compromise.
+3. Stable pulmonary artery pressures with mild pulmonary hypertension.
+No follow-up recommendations included in this report due to lack of significant interval change apart from the noted progression in systolic function.

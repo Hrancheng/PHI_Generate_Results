@@ -1,0 +1,8 @@
+Example 21:
+PROCEDURE: BRAIN MRI WITHOUT CONTRAST dated [B-DATE]10/15/2021[O]. INDICATION: Evaluation for possible intracranial mass or lesion following persistent headaches. COMPARISON: Previous MRI dated [B-DATE]02/18/2020[O]. TECHNIQUE: MRI was conducted using a 3 Tesla magnet, sequences obtained included T1, T2, FLAIR, and diffusion-weighted imaging without the use of contrast agents.
+
+FINDINGS: There is no evidence of mass effect or midline shift. The ventricles and sulci are of normal size and configuration. There is no abnormal signal intensity within the brain parenchyma. Normal flow voids are seen in the major intracranial vessels, suggestive of patent vasculature. No acute hemorrhage or old blood breakdown products are identified. No evidence of abnormal enhancement or lesions was observed, and there are no regions of restricted diffusion to suggest acute ischemia.
+
+IMPRESSION: IMPRESSION:
+1. No intracranial mass, hemorrhage, or acute ischemic changes.
+2. No significant change from prior examination dated [B-DATE]02/18/2020[O], stable MRI findings.

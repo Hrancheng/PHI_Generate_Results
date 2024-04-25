@@ -1,0 +1,12 @@
+Example 21:
+PROCEDURE: Abdominal CT scan with and without contrast 
+DATE: [B-DATE]07/25/2023[O]
+INDICATION: Evaluating for possible appendicitis symptoms in [B-AGE]47-year-old[O] male with severe right lower quadrant pain and fever.
+COMPARISON: Prior abdominal ultrasound dated [B-DATE]06/10/2023[O]
+TECHNIQUE: Helical multi-detector CT was utilized from diaphragm to pelvis with oral and IV contrast. IV contrast dose was 100 mL Omnipaque 350.
+FINDINGS: The appendix measures 10 mm in diameter with periappendiceal fat stranding. No appendicolith identified. Minor fluid collection adjacent to the inflamed appendix suggesting localized perforation or abscess formation. The liver, spleen, pancreas, and adrenal glands are unremarkable, with normal attenuation and no focal lesions. No obstruction in the kidneys, ureters, or bladder. Small bowel and colon appear normal without dilatation.
+IMPRESSION: 
+1. Findings are consistent with acute appendicitis with potential localized perforation. Urgent surgical consultation recommended.
+2. No evidence of alternative acute intra-abdominal pathology.
+
+This example of an abdominal CT scan report provides detailed insights into the detection and initial management of suspected acute appendicitis, including identification of key indications, technique, and comparative findings from a prior study for comprehensive patient evaluation.

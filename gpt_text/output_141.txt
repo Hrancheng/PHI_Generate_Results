@@ -1,0 +1,27 @@
+Example 21:
+ECHOCARDIOGRAM REPORT [B-DATE]10/14/2022[O]
+CLINICAL HISTORY: [B-AGE]72-year-old[O] male with a history of congestive heart failure and recent hospitalization due to worsening shortness of breath.
+INDICATION: Evaluation of cardiac ejection fraction and chamber sizes.
+TECHNIQUE: Transthoracic echocardiography was performed using a phased-array transducer. Images were captured in multiple views, including parasternal long and short axis, apical four-chamber, and subcostal views.
+
+FINDINGS:
+1. Left Ventricular Function: The left ventricular ejection fraction is estimated to be 45-50%, indicating mild systolic dysfunction. The left ventricle is mildly dilated.
+2. Valves: The mitral valve exhibits mild regurgitation. The aortic valve is trileaflet with mild stenosis. The tricuspid valve shows trace regurgitation.
+3. Atria: The left atrium is mildly dilated. The right atrium is normal in size.
+4. Pericardium: No evidence of pericardial effusion.
+5. Additional Findings: There is no intracardiac thrombus or mass seen. The aortic root is normal size.
+
+IMPRESSION:
+1. Mild left ventricular systolic dysfunction with an ejection fraction of approximately 45-50%.
+2. Mild dilation of the left atrium and left ventricle.
+3. Mild mitral regurgitation and mild aortic stenosis.
+4. Trace tricuspid regurgitation.
+5. No pericardial effusion.
+
+RECOMMENDATIONS:
+- Continue medical management of heart failure.
+- Follow up echocardiogram in one year to reassess cardiac function and valve status.
+
+SIGNED by Dr. [B-NAME]Alice Johnson[O], [B-ORGANIZATION]Crescent Cardiology Associates[O]
+
+Patient notified of results by telephone on [B-DATE]10/16/2022[O] by nurse [B-NAME]Sarah Thompson[O]. Patient encouraged to keep all scheduled appointments and continue current medications as prescribed. Further adjustments will be discussed during follow-up visits.

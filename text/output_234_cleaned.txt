@@ -1,0 +1,18 @@
+Example 21:
+CT ABDOMEN AND PELVIS WITH CONTRAST 10/13/2021 8:30 AM INDICATION: 58-year-old male with history of abdominal pain and weight loss. COMPARISON: CT scan dated 8/5/2021. TECHNIQUE: CT performed using oral and IV contrast without any reported adverse events. Axial and coronal reconstructions were made.
+FINDINGS:
+Liver: Multiple low-density lesions are seen, largest in segment 6 measuring 3 cm. No bile duct dilation.
+Gallbladder: Normal.
+Pancreas: Normal with no signs of pancreatic mass or pancreatitis.
+Spleen: Unremarkable.
+Kidneys: Bilateral renal cysts with no hydronephrosis.
+Aorta: Normal caliber without evidence of aneurysm.
+Adrenal: Normal.
+Lymph Nodes: No pathologically enlarged nodes identified in the abdomen or pelvis.
+Bones: No lytic or sclerotic lesions.
+Bladder: Normal.
+Bowels: No evidence of obstruction or significant wall thickening. Normal appendiceal caliber.
+IMPRESSION:
+1. Multiple benign liver lesions likely representing hemangiomas, largest in segment 6 measuring 3 cm, stable compared to prior exam.
+2. No acute intra-abdominal abnormality. Persistent abdominal pain may warrant further endoscopic evaluation if clinically indicated.
+3. Stable renal cysts with no change from previous examination.

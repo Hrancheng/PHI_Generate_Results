@@ -1,0 +1,11 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST, dated 09/15/2021. INDICATION: Evaluation for myocardial fibrosis. COMPARISON: Previous echocardiogram dated 05/12/2021. TECHNIQUE: MRI was performed using a phased array cardiac coil on a 1.5 Tesla scanner, utilizing both T1 and T2 weighted imaging protocols with late gadolinium enhancement. Images were acquired from the cardiac apex to the base in multiple views including short axis, two-chamber, and four-chamber views. 
+FINDINGS: 
+1. There is patchy myocardial enhancement noted predominantly in the mid-wall of the basal lateral segment suggestive of myocardial fibrosis.
+2. Normal left and right ventricular chamber sizes with preserved systolic function; left ventricular ejection fraction calculated at 62%.
+3. No evidence of pericardial effusion.
+4. Mild dilation of the aortic root, but within normal limits. 
+IMPRESSION:
+1. Patchy fibrosis in the basal lateral wall of the left ventricle likely representing an area of myocardial scarring. 
+2. Normal ventricular size and function with no acute cardiomyopathy. 
+Images were reviewed and impressions discussed with Dr. Alice Monroe at Riverdale Cardiac Imaging Center. Follow-up MRI recommended in 1 year to monitor progression. Furthermore, patient’s medication regimen may need adjustment after a detailed discussion with their cardiologist, Dr. Henry Fielding.

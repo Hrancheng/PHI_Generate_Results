@@ -1,0 +1,6 @@
+Example 21:
+NEUROIMAGING BRAIN MRI W/ AND W/O CONTRAST, dated [B-DATE]4/12/2021[O]. HISTORY: Evaluation of headaches and visual changes. COMPARISON: Previous MRI [B-DATE]3/15/2019[O]. TECHNIQUE: Multiplanar, multisequence MRI of the brain was performed without and with intravenous gadolinium contrast. Total dose of contrast used: 15 mL Gadovist.
+
+FINDINGS: There is no evidence of intracranial mass, midline shift, or acute ischemic changes. Mild diffuse cerebral atrophy is noted. There are several small, non-enhancing white matter hyperintensities consistent with chronic small vessel ischemic changes. The pituitary gland is normal in size and configuration without evidence of enhancing mass. Ventricles and sulci are normal in size and configuration appropriate for [B-AGE]57-year-old[O] patient. Orbits, paranasal sinuses, and mastoid air cells are unremarkable.
+
+IMPRESSION: IMPRESSION: 1. No acute intracranial abnormalities. 2. Mild chronic small vessel ischemic changes without appreciable progression from prior study on [B-DATE]3/15/2019[O].

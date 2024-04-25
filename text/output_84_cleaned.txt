@@ -1,0 +1,26 @@
+Example 21:
+ECHOCARDIOGRAM REPORT
+———————————————
+PROCEDURE: Comprehensive Echocardiogram 09/15/2023.
+CLINICAL INDICATION: Evaluation of cardiac function due to suspected heart failure.
+TECHNIQUE: A complete 2D, Doppler, and color flow imaging study was performed using the General Hospital Cardiology Department echocardiogram protocol.
+COMPARISON: Prior echocardiogram dated 01/08/2021.
+FINDINGS:
+- The left ventricular cavity size is normal with preserved systolic function, estimated EF is 55%.
+- No wall motion abnormalities were detected.
+- The left atrium is mildly dilated.
+- Right atrial and ventricular sizes are within normal limits.
+- Valve assessment:
+  - Mild mitral regurgitation.
+  - Tricuspid valve appears normal with trivial regurgitation.
+  - Aortic valve is trileaflet and functions normally without stenosis or significant regurgitation.
+  - Pulmonary valve was not well visualized but appeared normal from the images obtained.
+- No pericardial effusion.
+- Normal intracardiac pressures estimated from Doppler flow patterns.
+IMPRESSION:
+1. Normal left ventricular systolic function with an ejection fraction of 55%.
+2. Mild mitral regurgitation; no other significant valve abnormalities.
+3. Slightly dilated left atrium.
+4. Stable cardiac function compared to previous evaluation on 01/08/2021.
+FOLLOW-UP:
+Recommend annual echocardiographic monitoring and follow up with Cardiology in three months or sooner if symptoms of heart failure worsen or new symptoms occur. Please consult with your primary care provider or the cardiology team at General Hospital for further management.

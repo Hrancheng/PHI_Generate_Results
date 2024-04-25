@@ -1,0 +1,18 @@
+Example 21:
+ABDOMINAL CT SCAN dated [B-DATE]9/14/2021[O] 1600 hours
+CLINICAL INDICATION: Suspected acute appendicitis.
+COMPARISON: Ultrasound abdomen dated [B-DATE]9/10/2021[O].
+TECHNIQUE: Continuous helical scanning was performed from the diaphragm to the symphysis pubis after the administration of intravenous contrast. No adverse reactions noted.
+
+FINDINGS: 
+The appendix measures 10 mm in diameter with periappendiceal fat stranding suggestive of appendicitis. The cecum and remaining colon are normal without diverticuli or mass lesions. No free air or significant ascites noted. The liver, spleen, pancreas, and adrenal glands are without focal lesion. The kidneys demonstrate normal size, contour and enhancement without evidence of obstruction or stones. A small simple cyst at the right kidney measuring 2.4 cm is noted. 
+
+IMPRESSION:
+1. Acute appendicitis.
+2. Stable small simple cyst in the right kidney without any significant change from prior ultrasound.
+
+ADDITIONAL NOTES:
+The patient [B-NAME]John Doe[O] was advised for surgical consultation and potentially an appendectomy. Follow-up imaging and labs post-operative recommended to ensure resolution of inflammation and assess renal cyst.  
+
+[PHI POINTER]
+Emergency contact for surgical scheduling available at [B-PHONE]555-234-5678[O].

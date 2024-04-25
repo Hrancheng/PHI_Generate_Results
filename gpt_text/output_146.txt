@@ -1,0 +1,6 @@
+Example 21:
+CHEST X-RAY dated [B-DATE]9/15/2021[O] at 10:30 AM
+CLINICAL INDICATION: Persistent cough and fever.
+COMPARISON: Chest x-ray from [B-DATE]8/01/2021[O]
+FINDINGS: There is no acute cardiopulmonary disease. The heart size is normal. The mediastinum remains stable. There are stable calcified granulomas in the left lung base. No new infiltrate or consolidation. No pleural effusion or pneumothorax. The osseous structures appear intact.
+IMPRESSION: IMPRESSION: 1. No evidence of acute pulmonary pathology. 2. Stable granulomas without change from prior examination.

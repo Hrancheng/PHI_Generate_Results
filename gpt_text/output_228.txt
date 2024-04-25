@@ -1,0 +1,20 @@
+Example 21:
+CHEST X-RAY PORTABLE [B-DATE]4/25/2023[O] AT 10:15 AM
+CLINICAL INDICATION: Suspected pneumonia in [B-AGE]78-year-old[O] patient with chronic obstructive pulmonary disease. 
+COMPARISON: Prior X-ray dated [B-DATE]1/30/2023[O].
+
+TECHNIQUE: Anteroposterior view performed at bedside.
+
+FINDINGS:
+There is increased opacification in the right lower lobe consistent with consolidation. No significant change in heart size compared to prior imaging. The trachea is midline. There are no large pleural effusions. Bones and soft tissues appear intact.
+
+IMPRESSION:
+1. Right lower lobe consolidation likely representing pneumonia.
+2. No evidence of pleural effusion or pneumothorax.
+3. Stable cardiac silhouette.
+
+FOLLOW-UP:
+Recommend follow-up with primary care provider and possible antibiotic therapy based on clinical symptoms. Further imaging may be warranted if there is no clinical improvement.
+
+ADDITIONAL NOTES:
+The patient’s primary care provider, Dr. [B-NAME]Robertson[O], has been notified, and a copy of this report will be sent to [B-ADDRESS]24 Healthway Drive, Suite 100, Springfield, MA 01109[O] for record updating.

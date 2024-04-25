@@ -1,0 +1,14 @@
+Example 21:
+CHEST CT WITH AND WITHOUT CONTRAST 10/13/2022 
+CLINICAL INDICATION: Evaluation of pulmonary nodules detected on prior imaging. 
+COMPARISON: CT scan dated 07/19/2022.
+TECHNIQUE: Helical CT scan from the thoracic inlet to the upper abdomen using IV contrast, followed by a high-resolution scan without contrast.
+FINDINGS:
+- Lungs: A 15 mm non-calcified nodule in the right upper lobe without significant change in size since the last examination. Subtle ground-glass opacities noted in the left lower lobe.
+- Mediastinum: No significant lymphadenopathy or masses.
+- Pleura: No evidence of pleural effusion or thickening.
+- Heart: Normal cardiac silhouette.
+- Other: No other significant findings.
+IMPRESSION:
+1. Stable 15 mm pulmonary nodule in the right upper lobe. Recommend continued surveillance.
+2. New ground-glass opacities in the left lower lobe, likely inflammatory. Suggest clinical correlation and follow-up imaging if symptoms persist.

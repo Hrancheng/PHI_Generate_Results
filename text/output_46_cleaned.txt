@@ -1,0 +1,7 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, 10/21/2022 1:15 PM INDICATION: 72-year-old female with new onset seizures. COMPARISON: MRI brain dated 8/29/2022. TECHNIQUE: MRI performed on a 3 Tesla scanner using the General Hospital's comprehensive brain evaluation protocol. Images were obtained before and after the administration of 15 mL of Gadovist intravenous contrast without any adverse reaction.
+FINDINGS: The MRI demonstrates an enhancing lesion in the left temporal lobe measuring approximately 2 cm x 1.5 cm, which appears slightly more pronounced than the previous study. There is mild surrounding vasogenic edema but no significant midline shift. The rest of the brain parenchyma shows normal signal intensity for age with no other focal lesion. The ventricles and sulci are within normal limits for the patient's age.
+IMPRESSION: IMPRESSION: 
+1. Slight progression of the left temporal lobe lesion when compared to the 8/29/2022 MRI, suggestive of a low-grade glioma.
+2. No acute intracranial pathology. 
+Discussion about possible biopsy and further management with neuro-oncology should be considered.

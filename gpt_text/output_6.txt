@@ -1,0 +1,12 @@
+Example 21:
+EXAM: MRI BRAIN WITH AND WITHOUT CONTRAST [B-DATE]10/22/2021[O] CLINICAL INDICATION: New onset seizures. COMPARISON: Previous head CT on [B-DATE]10/05/2021[O]. TECHNIQUE: MRI was performed using a 3.0 Tesla machine following standard protocols for brain assessment with gadolinium contrast (20 mL). 
+
+HISTORY: Recent unexplained headaches and witnessed seizure activity leading to diagnostic imaging investigations. 
+
+FINDINGS: The MRI shows no evidence of acute hemorrhage or mass effect. There is a 2 mm focus of increased T2/FLAIR signal in the left frontal lobe which may represent a small area of gliosis or demyelination. No significant midline shift. Ventricles and sulci are within normal limits for patient's age. Cerebellum and brainstem appear normal. There are no signs of hydrocephalus. Post-contrast images show no abnormal enhancement suggesting active disease or malignancy. 
+
+IMPRESSION: 
+1. No acute intracranial abnormality detected.
+2. Small region of increased signal in left frontal lobe likely non-specific but could represent early gliotic changes; clinical correlation is recommended. 
+3. No evidence of tumor, abscess, or acute infarct.
+

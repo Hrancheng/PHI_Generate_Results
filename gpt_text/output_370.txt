@@ -1,0 +1,12 @@
+Example 21:
+RENAL FUNCTION TEST REPORT dated [B-DATE]09/15/2021[O]. HISTORY: Chronic renal failure stage 3. COMPARISON: Blood tests from [B-DATE]03/12/2021[O]. 
+
+FINDINGS:  
+- Creatinine: 2.8 mg/dL, previously was 2.5 mg/dL.  
+- GFR: 35 mL/min/1.73m², indicating stage 3 chronic kidney disease, deterioration from previous 40 mL/min/1.73m².  
+- Potassium: 4.9 mEq/L within normal limits.  
+- Urea: 55 mg/dL, previously 48 mg/dL.
+
+IMPRESSION:
+1. Worsening renal function as evidenced by decrease in GFR and elevation in creatinine and urea levels compared to [B-DATE]March[O] [B-DATE]2021[O].  
+2. Maintain monitoring and adjust treatment accordingly.

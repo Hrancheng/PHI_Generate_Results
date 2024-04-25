@@ -1,0 +1,16 @@
+Example 21:
+ELECTROCARDIOGRAM REPORT dated 9/18/2022 at 10:15 AM
+INDICATION: 54-year-old male presenting with palpitations and dizziness.
+PRIOR COMPARISON: None.
+TECHNIQUE: 12-lead resting ECG performed using Metro Health Medical Center standard protocol.
+FINDINGS:
+- The rate is regular at 88 beats per minute.
+- Normal sinus rhythm.
+- No evidence of atrial enlargement.
+- Normal PR interval and QRS duration.
+- T waves are normal in morphology with no evidence of ischemic changes.
+- QT/QTc interval normal.
+IMPRESSION:
+1. Normal sinus rhythm.
+2. No acute ST or T wave changes to suggest ischemia.
+3. Recommend follow-up with primary care physician or a cardiologist if symptoms persist.

@@ -1,0 +1,11 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST, dated 07/15/2021 at 10:45 AM. INDICATION: Assessment of myocardial viability post infarction. COMPARISON: Prior echocardiogram 01/20/2021. TECHNIQUE: MRI performed on a 3 Tesla machine using Mercy General Hospital's standard cardiac viability protocol. Delayed enhancement sequences were employed to evaluate for myocardial scar. 
+FINDINGS: 
+1. Myocardium: There is delayed enhancement involving the basal to mid inferolateral wall which is consistent with myocardial scar.
+2. Left Ventricle: Normal size with mild hypokinesia of the affected wall. Ejection fraction estimated at 48%.
+3. Valves: Aortic, mitral, pulmonary, and tricuspid valves appear normal in morphology and function.
+4. Pericardium: No evidence of pericardial effusion or thickening.
+IMPRESSION:
+1. Myocardial scar in the basal to mid inferolateral wall consistent with a history of myocardial infarction.
+2. Mildly reduced left ventricular systolic function with an ejection fraction of 48%.
+3. No valvular or pericardial abnormalities detected.

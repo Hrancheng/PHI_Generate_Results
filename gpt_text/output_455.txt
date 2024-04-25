@@ -1,0 +1,2 @@
+Example 21:
+CHEST X-RAY PORTABLE [B-DATE]10/21/2022[O] TIME: 0923 HOURS. CLINICAL INDICATION: Suspected pneumonia. COMPARISON: None IMPRESSION: IMPRESSION: 1. Increased opacities noted in the right lower lung zone, suggestive of infectious process, likely pneumonia. 2. No pleural effulsion or pneumothorax identified. 3. Cardiomediastinal silhouette within normal limits for age.

@@ -1,0 +1,2 @@
+Example 21:
+CHEST X-RAY, PORTABLE [B-DATE]09/15/2022[O] 10:47 AM CLINICAL INDICATION: Evaluation for suspected pneumonia. COMPARISON: None IMPRESSION: Impression: 1. No acute cardiopulmonary findings. Lungs are clear. Heart size within normal limits for patient's age. Diaphragm and costophrenic angles are intact. 2. No evidence of pneumonia or pleural effusion. 3. Stable minimal basilar atelectasis, which may relate to hypoventilation. 4. Recommend follow-up or additional imaging if clinically indicated.

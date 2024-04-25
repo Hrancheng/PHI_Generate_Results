@@ -1,0 +1,4 @@
+Example 21:
+PROCEDURE: Abdominal MRI with and without contrast dated [B-DATE]10/13/2023[O]. CLINICAL INDICATION: Evaluate postoperative complications in liver. COMPARISON: MRI dated [B-DATE]09/05/2023[O]. TECHNIQUE: The study was conducted using both T1 and T2-weighted sequences with fat suppression. Dynamic contrast enhanced images were obtained post-administration of 20ml Gadovist. IMPRESSION: IMPRESSION: 1. Postoperative liver: Stable post-surgical changes in the right hepatic lobe with no new focal lesions. 2. Previous surgical clips are present with no evidence of hemorrhage or fluid collection. 3. Mild biliary duct dilation which may reflect early postoperative changes or need further evaluation if clinically correlated. 4. No evidence of abscess formation or significant free fluid. 
+
+Addendum: The scans were reviewed and confirmed on the PACS system. Further review or follow up may be considered as clinically indicated.

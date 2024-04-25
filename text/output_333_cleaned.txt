@@ -1,0 +1,12 @@
+Example 21:
+CARDIAC MRI 4/14/2022 TIME: 2:30 PM INDICATION: Suspicion of cardiac sarcoidosis. COMPARISON: Prior echocardiogram 2/20/2022. TECHNIQUE: Cardiac MRI was performed using both T1 and T2 sequences. Late gadolinium enhancement imaging was performed to assess for myocardial fibrosis or scarring indicative of sarcoid or other myocardial disease.
+FINDINGS:
+1. Myocardial: Patchy areas of delayed hyperenhancement in the basal septum and lateral wall of the left ventricle suggesting non-ischemic myocardial damage, possibly sarcoidosis.
+2. Ventricles: Left ventricular systolic function is within normal limits with an ejection fraction of 55%. Right ventricular size and function are also normal.
+3. Valves: Aortic, mitral, tricuspid, and pulmonary valves appear normal with no significant regurgitation.
+4. Pericardium: No pericardial effusion or thickening noted.
+IMPRESSION:
+1. Findings suggestive of cardiac sarcoidosis given the patchy pattern of late gadolinium enhancement.
+2. Normal left and right ventricular size and function.
+3. No valvular or pericardial abnormalities detected.
+Follow-up recommendations include clinical correlation with serum markers and potential initiation of corticosteroid therapy depending on clinical symptoms and lab results. Further FDG-PET scanning may be considered to assess for active inflammation.

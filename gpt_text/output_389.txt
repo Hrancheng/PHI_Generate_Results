@@ -1,0 +1,6 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated [B-DATE]10/23/2021[O] at 3:15 PM. INDICATION: [B-AGE]62-year-old[O] male with history of recurrent glioblastoma. COMPARISON: Prior MRI dated [B-DATE]8/15/2021[O]. TECHNIQUE: MRI performed on a 3 Tesla unit following administration of 15 mL Gadavist intravenous contrast without complication. Images were obtained in multiple sequences.
+
+FINDINGS: There is increasing size and enhancing components of the right parietal lobe mass measuring currently 2.5 x 3.2 cm, previously measured at 2.0 x 2.8 cm on [B-DATE]8/15/2021[O]. There is also midline shift to the left by approximately 5 mm, increased from 2 mm noted on the prior study. Associated surrounding vasogenic edema and mass effect on the adjacent lateral ventricle are noted. No new areas of abnormal enhancement are detected elsewhere in the brain. The ventricular system remains stable with no evidence of hydrocephalus. No significant hemorrhage or acute infarct is noted.
+
+IMPRESSION: 1. Progression of right parietal lobe tumor with increased mass effect and midline shift. 2. Stable ventricular system without acute hydrocephalus. Suggest clinical correlation and further multidisciplinary team review for management.

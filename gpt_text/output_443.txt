@@ -1,0 +1,12 @@
+Example 21:  
+CHEST X-RAY [B-DATE]10/15/2021[O] CLINICAL INDICATION: Evaluate for potential pneumonia. COMPARISON: Chest x-ray from [B-DATE]9/28/2021[O] and [B-DATE]10/1/2021[O].  
+IMPRESSION:  
+1. The lungs are moderately hyperexpanded. There are diffuse bilateral interstitial and peribronchial thickening more pronounced in the right lung compared to the left.  
+2. No acute focal consolidations to suggest active pneumonia. However, the chronic changes are likely related to the patient's known COPD.  
+3. There is no pleural effusion or pneumothorax.  
+4. The heart size is within normal limits for age and body habitus.  
+5. Stable mediastinal and hilar contours with no new lymphadenopathy.  
+6. Comparison with previous studies indicates no significant progression.  
+Routine clinical follow-up and management in accordance with established COPD guidelines are recommended. Continued monitoring for symptoms of infection given chronic lung changes. If symptoms worsen, further imaging such as a CT scan may be considered.  
+_________________________________  
+This imaging review is inherently limited by the absence of comparison to real-time physical examination results and laboratory data which could further refine the diagnostic considerations discussed here. Please correlate with clinical findings.

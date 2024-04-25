@@ -1,0 +1,32 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated [B-DATE]9/27/2021[O]
+HISTORY: [B-AGE]65-year-old[O] male with a history of hypertension and dyspnea on exertion.
+COMPARISON: Echocardiogram [B-DATE]10/20/2019[O].
+TECHNIQUE: Standard transthoracic echocardiogram with color Doppler.
+
+FINDINGS: 
+**Heart Chambers and Valves:**
+- Left ventricular size is within normal limits with an ejection fraction estimated at 55%.
+- No significant wall motion abnormalities noted.
+- Mild left atrial enlargement is observed.
+- The aortic valve appears to be trileaflet with mild-to-moderate calcific degeneration but without significant stenosis.
+- Mild mitral regurgitation and mild tricuspid regurgitation are noted.
+- The pulmonary valve is unremarkable.
+
+**Great Vessels:**
+- The aorta is normal in size and morphology. No evidence of aortic dissection.
+- Pulmonary artery and veins are normal with no signs of pulmonary hypertension.
+
+**Pericardium:**
+- No pericardial effusion is detected.
+
+IMPRESSION:
+1. Ejection fraction preserved at 55%.
+2. Mild left atrial enlargement likely due to hypertension.
+3. Calcific changes in the aortic valve without hemodynamically significant stenosis.
+4. Mild regurgitations noted across mitral and tricuspid valves but are not clinically significant at this stage.
+5. No pericardial effusion.
+6. Overall, the structure and function of the heart are within normal limits for the patient’s age.
+
+FOLLOW UP: Recommend clinical follow-up in one year or earlier if symptoms increase. Further imaging may be considered if there is a change in clinical status.
+

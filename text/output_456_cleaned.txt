@@ -1,0 +1,7 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST 07/15/2021 TIME: 1400 hours. CLINICAL INDICATION: Headaches and dizziness. COMPARISON: Previous MRI dated 03/18/2020. TECHNIQUE: MRI performed using a 1.5 Tesla magnet, brain standard protocol with administration of 15 mL Gadavist intravenous contrast.
+FINDINGS: No significant interval change since prior MRI. No abnormal signal intensity within the brain parenchyma. Ventricles and sulci are within normal limits for patient's age. There is no evidence of mass effect, midline shift, or acute infarct. Visualized parts of the paranasal sinuses are clear. Mastoid air cells are well-aerated.
+IMPRESSION:
+1. No acute intracranial pathology.
+2. Stable appearance compared to 03/18/2020.
+3. Continued follow-up as clinically indicated.

@@ -1,0 +1,8 @@
+Example 21:
+PROCEDURE: BRAIN MRI WITH AND WITHOUT CONTRAST 09/25/2021. CLINICAL INDICATION: Evaluation for multiple sclerosis. HISTORY: New onset of neurologic symptoms, mainly visual disturbances and gait imbalance. COMPARISON: Prior CT head from 08/18/2021.
+TECHNIQUE: Multi-planar, multi-sequence magnetic resonance imaging of the brain was conducted, both with and without the administration of 15 mL Gadovist intravenous contrast. The exam was uncomplicated.
+FINDINGS: There are several new discrete white matter lesions on T2/FLAIR sequences consistent with demyelinating plaques, primarily periventricularly located. No significant mass effect or midline shift observed. The older lesions noted on prior CT head have enlarged slightly. No enhanced lesions were identified post-contrast.
+IMPRESSION: IMPRESSION: 
+1. New multifocal white matter lesions consistent with an active phase of multiple sclerosis.
+2. No evidence of current enhancement suggesting absence of acute plaque inflammation.
+3. Recommend clinical correlation for treatment eligibility and modification if symptomatic.

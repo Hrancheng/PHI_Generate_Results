@@ -1,0 +1,11 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, [B-DATE]11/15/2022[O] at 10:30 AM
+INDICATION: [B-AGE]57-year-old[O] male with new-onset seizures and history of hypertension. 
+COMPARISON: MRI of the brain dated [B-DATE]10/01/2022[O].
+TECHNIQUE: MRI is conducted on a 3 Tesla machine using the [B-ORGANIZATION]Mount Sinai Hospital[O] standard brain protocol. Images obtained pre and post the administration of 15 mL Gadovist intravenous contrast without adverse effects.
+FINDINGS: The MRI revealed a 2.5 cm enhancing lesion in the left temporal lobe suggestive of a primary brain tumor. No evidence of significant midline shift. The ventricular system is normal in size. There is mild white matter signal hyperintensity, consistent with small vessel ischemic changes. No signs of acute infarction or hemorrhage.
+IMPRESSION: 
+1. New 2.5 cm enhancing lesion in left temporal lobe, likely representing a primary brain tumor.
+2. Chronic small vessel ischemic changes. No acute intracranial pathology.
+
+Discussion with the patient's primary care physician [B-NAME]Dr. Stephanie Lee[O] is recommended for further management planning including possible referral for neurosurgical evaluation.

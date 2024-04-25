@@ -1,0 +1,6 @@
+Example 21:
+CARDIAC MRI with and without gadolinium, dated [B-DATE]09/15/2021[O]. CLINICAL INDICATION: Evaluation for myocardial viability after recent myocardial infarction. COMPARISON: Previous echocardiogram dated [B-DATE]08/01/2021[O]. TECHNIQUE: Cardiac MRI performed using a 1.5 Tesla magnet with dedicated cardiac coils. Sequences included steady-state free precession (SSFP) cine imaging, T2-weighted imaging for edema, and late gadolinium enhancement (LGE) imaging for fibrosis and scar. FINDINGS: Left ventricular ejection fraction estimated at 40%. Transmural late enhancement noted in the anterior wall suggesting myocardial scarring. No evidence of pericardial effusion or significant valvular disease. 
+
+IMPRESSION:
+1. Reduced left ventricular ejection fraction with transmural scarring of the anterior wall.
+2. No pericardial effusion or significant valvular abnormalities.

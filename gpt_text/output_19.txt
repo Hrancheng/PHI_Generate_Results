@@ -1,0 +1,15 @@
+Example 21:
+CARDIAC MRI dated [B-DATE]10/15/2021[O]. 11:30 AM INDICATION: Evaluation of heart function post-myocardial infarction. COMPARISON: Previous echocardiogram [B-DATE]8/20/2021[O]. TECHNIQUE: 1.5 Tesla MRI scanner was utilized using a comprehensive cardiac protocol encompassing both static and dynamic imaging phases to assess cardiac structure and function. ECG-gated imaging was performed. 
+
+FINDINGS:
+1. The left ventricle demonstrates normal systolic function with an ejection fraction estimated at 55%.
+2. No evidence of mural thrombus or regional wall motion abnormalities.
+3. The right ventricle and both atria appear normal in size.
+4. No pericardial effusions are identified.
+5. Valves are morphologically normal without signs of significant valvular dysfunction.
+6. No delayed enhancement patterns suggestive of fibrosis or scar tissue.
+7. Aortic root and ascending aorta are within normal dimensions.
+
+IMPRESSION:
+1. Normal cardiac function with no signs of dysfunction or structural anomalies post-myocardial infarction.
+2. Stable cardiac profile compared to the previous echocardiogram dated [B-DATE]8/20/2021[O].

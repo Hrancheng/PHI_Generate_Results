@@ -1,0 +1,24 @@
+Example 21:
+CT ABDOMEN AND PELVIS WITH CONTRAST, [B-DATE]10/22/2022[O]. CLINICAL INDICATION: [B-AGE]53-year-old[O] female with persistent lower abdominal pain. COMPARISON: Previous CT dated [B-DATE]5/15/2020[O]
+
+TECHNIQUE: Helical CT was performed from the diaphragm to the symphysis pubis using IV contrast material without any adverse reactions. Images were reconstructed at 5 mm slice thickness.
+
+FINDINGS: 
+- Liver: Normal in size and attenuation without focal lesions.
+- Gallbladder: Unremarkable, no cholelithiasis or wall thickening observed.
+- Pancreas: Normal morphology without evidence of mass or inflammation.
+- Spleen: Homogeneously enhancing without focal lesions.
+- Kidneys: Both kidneys appear normal in size and contour. No evidence of hydronephrosis or stones.
+- Adrenal Glands: No masses or enlargement.
+- Bladder: Normally distended without wall thickening.
+- Pelvic Region: Uterus and ovaries appear normal for age. No free fluid or significant lymphadenopathy. Multiple small fibroids are observed in the uterine wall; the largest measures approximately 2.0 cm.
+- Small and Large Bowels: No evidence of obstruction or significant wall thickening. Normal appendix.
+
+No evidence of acute intra-abdominal or pelvic pathology.
+
+IMPRESSION:
+1. No acute intra-abdominal or pelvic abnormalities identified in the [B-AGE]53-year-old[O] female.
+2. Stable small uterine fibroids without significant change from prior exam dated [B-DATE]5/15/2020[O].
+3. Recommend clinical correlation for persistent symptoms and consider gynecological evaluation for further assessment of fibroids.
+
+_______________________________

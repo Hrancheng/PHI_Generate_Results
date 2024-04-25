@@ -1,0 +1,22 @@
+Example 21:
+ECHOCARDIOGRAM REPORT
+----------------------------------------
+PROCEDURE: Comprehensive Echocardiogram [B-DATE]9/21/2023[O]
+INDICATION: Evaluation of cardiac structures and function due to recent onset of dyspnea.
+TECHNIQUE: Standard transthoracic echocardiogram performed using a [B-ORGANIZATION]Philips Epiq 7[O] cardiac ultrasound machine. 
+
+FINDINGS:
+1. LEFT VENTRICLE: Normal size with estimated ejection fraction of 55%. No regional wall motion abnormalities were observed.
+2. RIGHT VENTRICLE: Normal in size and function.
+3. VALVES: Mild tricuspid regurgitation, other valves are structurally normal with no significant stenosis or regurgitation.
+4. ATRIA: Left and right atrial sizes are within normal limits.
+5. PERICARDIUM: No evidence of pericardial effusion.
+6. AORTA: Normal aortic root diameter.
+7. DOPPLER STUDY: Normal diastolic function. No signs of increased intracardiac pressures.
+
+IMPRESSION:
+1. Normal echocardiographic study with mild tricuspid regurgitation.
+2. No evidence of significant valve disease, pericardial effusion, or ventricular systolic dysfunction.
+
+FOLLOW-UP:
+Recommend follow-up in one year or sooner if symptoms change.

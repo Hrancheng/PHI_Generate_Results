@@ -1,0 +1,14 @@
+Example 21:
+ABDOMINAL CT SCAN WITH CONTRAST, dated 10/21/2021, 3:30 PM.
+INDICATION: 55-year-old female with suspected gallstones.
+COMPARISON: Ultrasound from 08/15/2021.
+TECHNIQUE: CT scan of the abdomen was performed with intravenous contrast material.
+FINDINGS: 
+1. The liver is normal in size with no evidence of masses or abnormal enhancement.
+2. The gallbladder is distended with multiple calculi, the largest measuring approximately 1.2 cm. No evidence of cholecystitis.
+3. The pancreas, spleen, and adrenal glands are unremarkable.
+4. No free air or fluid in the abdominal cavity.
+5. Normal appearance of the small and large bowels.
+IMPRESSION:
+1. Multiple gallstones with no signs of acute inflammation.
+2. No other acute intra-abdominal pathology noted.

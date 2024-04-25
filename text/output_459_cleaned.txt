@@ -1,0 +1,17 @@
+Example 21:  
+ECHOCARDIOGRAM REPORT dated 09/15/2021  
+CLINICAL INDICATION: Suspected heart failure due to recent history of dyspnea on exertion.  
+FINDINGS:  
+1. Left ventricular ejection fraction (LVEF) measured at 40%, indicating mild systolic dysfunction.  
+2. Mild left atrial enlargement.  
+3. Normal right ventricular size and function.  
+4. No significant valvular abnormalities detected.  
+5. No pericardial effusion.  
+COMPARISON: Echocardiogram dated 03/01/2019.  
+IMPRESSION:  
+1. Reduced left ventricular ejection fraction as compared to previous measurement of 55% on 03/01/2019 suggestive of progressive systolic dysfunction.  
+2. Mild left atrial enlargement likely related to left ventricular diastolic pressure increase.  
+RECOMMENDATIONS:  
+1. Initiate or optimize medical therapy for heart failure as clinically indicated.  
+2. Consider follow-up echocardiogram in 6 months to monitor cardiac function and response to therapy.  
+3. Cardiology follow-up recommended.

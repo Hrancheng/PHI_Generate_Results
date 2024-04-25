@@ -1,0 +1,13 @@
+Example 21:
+PROCEDURE: MRI BRAIN WITH AND WITHOUT CONTRAST dated [B-DATE]9/15/2023[O]. CLINICAL INDICATION: Evaluation of new-onset seizures. COMPARISON: None. TECHNIQUE: Multi-sequence, multi-planar MRI of the brain was performed using high-field 3.0 Tesla MRI system. Intravenous contrast was administered without incident.
+
+FINDINGS:
+- There are no areas of restricted diffusion to suggest acute ischemia. 
+- The cerebral hemispheres, brainstem, and cerebellum appear normal without evidence of mass effect or midline shift. 
+- No intra or extra-axial fluid collections noted.
+- The ventricular system is within normal limits for age. 
+- Post-contrast images show no abnormal enhancement within the brain parenchyma or meninges.
+
+IMPRESSION:
+1. No evidence of acute ischemic injury.
+2. Normal MRI of the brain with and without contrast. No findings suggest an underlying cause for seizures, and further clinical correlation is recommended.

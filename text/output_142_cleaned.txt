@@ -1,0 +1,31 @@
+Example 21:
+Echocardiogram Report
+DATE OF PROCEDURE: 05/04/2022
+INDICATION: Evaluation of heart murmurs and suspected left ventricular hypertrophy.
+TECHNIQUE: Transthoracic echocardiogram
+FINDINGS:
+- Left ventricle: The left ventricular cavity size is normal with preserved wall thickness.
+- Left atrial enlargement is noted.
+- Valves: Mild to moderate mitral regurgitation. Aortic and tricuspid valves appear normal.
+- Right ventricle: Normal size and function.
+- No pericardial effusion is seen.
+IMPRESSION:
+1. Mild to moderate mitral regurgitation.
+2. Left atrial enlargement.
+FOLLOW-UP: Recommend clinical follow-up and repeat echocardiogram in one year to monitor the progression of mitral regurgitation and left atrial size.
+Preparation for the study was performed by Nancy Turner, sonographer at Heart Care Associates. The patient tolerated the procedure well and was advised to rest for a short period after the test.
+Please refer to Cardiology Specialists Clinic for future appointments or any urgent concerns related to heart conditions.
+Completed by: Dr. Richard Webber, MD, Cardiovascular Medicine Department
+Results were reviewed and signed off by: Dr. Ellen Cormier
+Patient Admission Information:
+- Full name: Robert D. Winston
+- Date of Birth: April 2, 1965
+- Medical Record Number: []001234987[O]
+- Address: 1234 Heartbeat Lane, Heartsville, TX, 78910
+- Phone: (555) 987-6543
+Patient Consent:
+- Consent obtained from patient for echocardiogram procedure and to share the findings with relevant healthcare providers within Heart Care Associates.
+Emergency Contact:
+- Name: Samantha Winston
+- Relationship: Wife
+- Phone: (555) 654-3210

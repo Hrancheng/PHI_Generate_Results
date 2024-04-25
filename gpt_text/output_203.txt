@@ -1,0 +1,20 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated [B-DATE]10/25/2020[O].
+CLINICAL INDICATION: Evaluate for changes in known brain lesions, monitor therapy effects.
+COMPARISON: MRI dated [B-DATE]7/15/2020[O].
+TECHNIQUE: Multiplanar, multisequence imaging including diffusion-weighted and fluid-attenuated inversion recovery sequences performed with and without the administration of 15 mL Gadavist intravenous contrast.
+FINDINGS: There is a stable appearance of previously noted multiple sclerosis plaques located in the periventricular white matter bilaterally. No new white matter lesions are noted. The previously identified largest demyelinating plaque measuring approximately 1.2 cm in the right frontal lobe appears unchanged. There is no abnormal enhancement to suggest active disease. Ventricular size and cerebral sulci remain stable compared to the previous examination.
+IMPRESSION: IMPRESSION:
+1. No evidence of new or progressive demyelinating lesions.
+2. Stable known lesions without active disease.
+
+Example 22:
+CHEST X-RAY, PORTABLE AP VIEW, dated [B-DATE]5/11/2023[O] 10:03 AM.
+CLINICAL INDICATION: Respiratory distress, rule out pneumothorax.
+COMPARISON: Previous chest x-ray dated [B-DATE]5/4/2023[O].
+FINDINGS: The lungs appear hyperexpanded but no definitive evidence of pneumothorax is noted bilaterally. The cardiac silhouette is within normal limits for size and shape. There is no evidence of significant mediastinal shift. The diaphragm and costophrenic angles are intact. No acute osseous abnormalities are identified.
+IMPRESSION: IMPRESSION:
+1. No pneumothorax.
+2. Hyperexpanded lungs possibly related to chronic obstructive pulmonary disorder.
+3. Recommend clinical correlation with respiratory symptoms.
+

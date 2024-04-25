@@ -1,0 +1,10 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST [B-DATE]10/14/2021[O]. CLINICAL INDICATION: Evaluation of suspected myocardial fibrosis. HISTORY: [B-AGE]63-year-old[O] female with a history of hypertension and recent abnormal ECG. COMPARISON: Previous echocardiogram on [B-DATE]05/12/2021[O]. TECHNIQUE: A cardiac MRI was performed using a 1.5 Tesla scanner following the administration of 15 mL of Gadolinium contrast without any adverse reaction. Multi-phase sequences were obtained in multiple views to assess cardiac function and tissue characteristics.
+
+FINDINGS: 
+The left ventricle appears normal in size with preserved systolic function; estimated ejection fraction is approximately 65%. There is a mild diffuse late gadolinium enhancement in the basal to mid inferolateral wall, suggestive of non-ischemic cardiomyopathy. No evidence of myocardial scarring or focal fibrosis was noted. The right ventricle and atria are normal in size and function. There are no valvular abnormalities. 
+
+IMPRESSION:
+1. Preserved left ventricular systolic function.
+2. Mild diffuse late gadolinium enhancement consistent with hypertensive heart disease. No obvious focal fibrosis or myocardial scarring.
+3. Overall findings suggest a non-ischemic cardiomyopathy likely related to longstanding hypertension. Further clinical correlation and follow-up as clinically indicated.

@@ -1,0 +1,18 @@
+Example 21:
+ELECTROCARDIOGRAM (EKG) REPORT [B-DATE]09/15/2021[O]. INDICATION: Evaluation for chest pain and palpitations. HISTORY: Episodic palpitations with moderate exertion, no prior cardiac history. COMPARISON: EKG from [B-DATE]03/22/2021[O].
+
+TECHNIQUE: Standard 12-lead EKG was performed at a paper speed of 25 mm/sec and a gain of 10 mm/mV, using the [B-ORGANIZATION]Greenwich Cardiology Associates[O] protocol.
+
+FINDINGS:
+- Rate: Sinus rhythm at 75 beats per minute
+- Axis: Normal cardiac axis
+- Intervals: PR interval is 160 ms, QRS duration is 90 ms, QT/QTc interval is 400/430 ms
+- Morphology: No significant ST-segment or T-wave abnormalities are noted. Normal R wave progression.
+- Conclusion: No acute ischemic changes.
+
+IMPRESSION:
+1. Normal sinus rhythm without evidence of acute ischemic changes.
+2. Compared with previous EKG from [B-DATE]03/22/2021[O], no significant changes noted.
+  
+RECOMMENDATION:
+Continue monitoring. Follow-up with cardiology recommended if symptoms persist or worsen.

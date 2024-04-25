@@ -1,0 +1,2 @@
+Example 21:
+CHEST X-RAY [B-DATE]9/25/2022[O] CLINICAL INDICATION: Evaluate for potential pneumonia. COMPARISON: Chest x-ray [B-DATE]9/15/2022[O]. IMPRESSION: IMPRESSION: 1. No acute cardiopulmonary process. The cardiac size is within normal limits. 2. No evidence of focal consolidation, pleural effusion, or pneumonia. 3. Stable mediastinal and hilar contours compared to the prior study. 4. No pneumothorax or significant pleural effusion. 5. Clear lung fields without evidence of active disease.

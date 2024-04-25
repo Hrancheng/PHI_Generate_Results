@@ -1,0 +1,17 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated [B-DATE]10/5/2022[O]
+CLINICAL INDICATION: Evaluation of heart murmur and suspected heart failure.
+TECHNIQUE: Complete echocardiographic evaluation including 2D, M-mode, Doppler, and color flow imaging.
+FINDINGS:
+- Left ventricular ejection fraction estimated at 55%, within normal limits.
+- Mild concentric left ventricular hypertrophy.
+- No significant valvular abnormalities; mild mitral regurgitation noted.
+- Heart chambers are normal in size.
+- No pericardial effusion.
+- Normal right ventricular size and function.
+- Normal atrial sizes.
+IMPRESSION:
+1. Normal left ventricular systolic function.
+2. Mild mitral regurgitation, likely functional.
+3. No evidence of significant structural heart disease.
+**Test results discussed with patient by Dr. [B-NAME]Helen Carter[O] and patient instructed for follow-up in [B-ORGANIZATION]Central City Heart Specialists[O].**

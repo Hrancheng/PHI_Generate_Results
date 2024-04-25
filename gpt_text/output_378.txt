@@ -1,0 +1,20 @@
+Example 21:
+
+**PROCEDURE: BRAIN MRI WITHOUT CONTRAST**
+**Date:[B-DATE] 09/14/2022[O]**
+**CLINICAL INDICATION:** Evaluation for possible multiple sclerosis.
+**COMPARISON:** MRI brain dated [B-DATE]01/20/2022[O].
+**TECHNIQUE:** MRI of the brain performed without contrast on a 3 Tesla scanner. Axial, sagittal, and coronal T2 FLAIR, T1 pre and post-gadolinium, and susceptibility weighted imagings were obtained.
+**FINDINGS:**
+- **Ventricals and Sulci:** No enlargement of the ventricles. The cortical sulci are normal in appearance for [B-AGE]45-year[O] old patient.
+- **White Matter:** There are several nonspecific foci of T2/FLAIR hyperintensity in the periventricular and subcortical white matter bilaterally which could represent demyelinating plaques. No evidence of restricted diffusion.
+- **Brainstem and Cerebellum:** No abnormal signal changes or masses noted.
+- **Enhancement:** No abnormal enhancement identified to suggest active plaques.
+- **Miscellaneous:** No evidence of acute infarction or hemorrhage.
+
+**IMPRESSION:**
+1. Multiple nonspecific white matter hyperintensities as described. Differential diagnosis includes demyelination among others. Correlation with clinical symptoms of multiple sclerosis is suggested.
+2. No evidence of acute demyelinating event.
+
+**NOTIFICATION:**
+Results were communicated to Dr. [B-NAME]Amanda Smith[O]'s office via electronic medical record notification system. Further consultation may be scheduled based on the clinical review of the imaging findings.

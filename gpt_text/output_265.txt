@@ -1,0 +1,10 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated [B-DATE]11/21/2021[O] CLINICAL INDICATION: Evaluation of suspected multiple sclerosis. COMPARISON: MRI of the brain dated [B-DATE]8/15/2021[O]. TECHNIQUE: MRI brain with IV contrast performed on a 3.0 Tesla machine. Images acquired using an [B-ORGANIZATION]ABC Medical Center[O] standard MS protocol. 
+
+FINDINGS:
+The scans reveal several periventricular white matter lesions with characteristics typical of demyelinating plaques. There is evidence suggestive of new lesion formation when compared to the previous study from [B-DATE]August 2021[O]. There is no abnormal enhancement after contrast administration, suggesting the absence of acute active inflammation. Ventricular system is stable without hydrocephalus or midline shift. Cerebral cortex and major intracranial vessels appear normal.
+
+IMPRESSION:
+1. Multiple periventricular white matter lesions, consistent with a diagnosis of multiple sclerosis.
+2. No evidence of acute disease activity since the last MRI dated [B-DATE]8/15/2021[O].
+3. Recommend follow-up MRI in six months or sooner if clinically indicated.

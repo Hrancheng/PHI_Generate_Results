@@ -1,0 +1,15 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated 07/15/2021 CLINICAL INDICATION: Evaluation of cardiac function due to recent episodes of atypical chest pain. HISTORY: Patient reports increasing shortness of breath and intermittent pressure-like chest pain over the last 3 months. FAMILY HISTORY: Father had bypass surgery at 55 years old. COMPARISON: Prior echocardiogram dated 12/10/2019.
+TECHNIQUE: Standard transthoracic echocardiogram performed with Color Doppler, Tissue Doppler, and spectral Doppler evaluations.
+FINDINGS:
+- The left ventricle is normal in size with preserved wall thickness.
+- Left ventricular ejection fraction is estimated at 60% with no regional wall motion abnormalities.
+- Right ventricle is normal in size and function.
+- Valves are generally unremarkable with trace mitral and tricuspid regurgitation.
+- No pericardial effusion or intracardiac masses are noted.
+IMPRESSION:
+1. Normal left and right ventricular size and function.
+2. No evidence of significant valvular disease.
+3. The symptoms could be non-cardiac, but recommend correlation with clinical symptoms and possible further testing as clinically indicated.
+4. Follow-up as needed based on clinical symptoms.
+This echocardiogram provides an overview of current cardiac structure and function, aligning with patient-reported symptoms for informed clinical follow-up and management.

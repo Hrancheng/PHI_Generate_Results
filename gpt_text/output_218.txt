@@ -1,0 +1,16 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT GADOLINIUM, [B-DATE]11/14/2022[O] 
+INDICATION: Evaluation for myocardial viability post-[B-NAME]James[O]'s myocardial infarction. 
+COMPARISON: Previous cardiac MRI dated [B-DATE]10/10/2022[O]. 
+TECHNIQUE: Cardiac MRI performed using gadolinium contrast at [B-ORGANIZATION]North Valley Cardiac Center[O].
+FINDINGS: 
+- The left ventricular function appears reduced with a left ventricular ejection fraction estimated at approximately 30%. 
+- No new areas of myocardial enhancement suggesting no additional myocardial damage since the last assessment.
+- Patchy areas of delayed gadolinium enhancement noted in the septal and inferior walls, consistent with the known territory of previous myocardial infarction. 
+- No evidence of thrombus formation in the ventricles or atria.
+- Pericardium is normal without signs of effusion.
+
+IMPRESSION:
+1. Stable post-infarction changes with no new myocardial damage.
+2. Reduced left ventricular function with ejection fraction approximately 30%. 
+3. Follow up in [B-DATE]6 months[O] or earlier if symptoms worsen.

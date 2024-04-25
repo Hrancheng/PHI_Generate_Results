@@ -1,0 +1,4 @@
+Example 21:
+ECHOCARDIOGRAM dated [B-DATE]9/27/2021[O]. Findings: The left ventricular systolic function is preserved with an estimated ejection fraction of 55%. No significant wall motion abnormalities. The left atrium is mildly dilated. No significant valvular abnormalities are observed. The right ventricle and both atria are normal in size and function. The aortic root is mildly dilated. No pericardial effusion. Pulmonary pressures are within the normal range.
+
+IMPRESSION: 1. Preserved left ventricular systolic function. 2. Mild dilation of the left atrium and aortic root. No evidence of severe valvular heart disease. Suggested follow-up with a cardiology consultation to monitor mild abnormalities.

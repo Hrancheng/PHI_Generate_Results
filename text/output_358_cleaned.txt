@@ -1,0 +1,19 @@
+Example 21:
+CT ABDOMEN/PELVIS WITH AND WITHOUT CONTRAST, 09/27/2023 11:20 AM 
+INDICATION: 52-year-old male with recent onset of severe abdominal pain and weight loss.
+COMPARISON: Abdominal ultrasound from 08/15/2023.
+TECHNIQUE: Multidetector CT was performed of the abdomen and pelvis utilizing oral and IV contrast. Sequential axial images were obtained through the abdomen and pelvis, followed by coronal and sagittal reconstructions.
+FINDINGS: 
+Liver: No hepatic lesions or biliary dilatation. The hepatic texture is homogenous. 
+Pancreas: No evidence of mass or significant pancreatic duct dilatation. 
+Kidneys: Both kidneys are normal in size and contour without evidence of stones or hydronephrosis.
+Adrenals: Unremarkable.
+Spleen: Normal in size and echotexture without focal lesions.
+Bladder: Normal in capacity and wall thickness with no intra-luminal filling defects.
+Lymph Nodes: No pathologically enlarged abdominal or pelvic lymph nodes.
+Bowel: No obstruction. Wall thickening seen in the ascending colon with surrounding fat stranding suggesting colitis. Recommend clinical correlation.
+Bone Structures: Normal appearance of the visualized osseous structures without lytic or sclerotic lesions.
+IMPRESSION:
+1. Normal liver, pancreas, spleen, kidneys, and bladder.
+2. Wall thickening and fat stranding at the ascending colon likely represent colitis; clinical correlation is recommended.
+3. No evidence of metastatic disease or significant lymphadenopathy.

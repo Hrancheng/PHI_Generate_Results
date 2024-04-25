@@ -1,0 +1,15 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST 10/3/2021 
+INDICATION: Evaluation of potential myocardial scar. 
+HISTORY: 54-year-old male with a history of myocardial infarction, currently experiencing atypical chest pains. 
+TECHNIQUE: Dynamic and static images were acquired using a 3 Tesla MRI system according to the standardized cardiac protocol. 
+FINDINGS: 
+1. The left ventricle demonstrates normal systolic function with an ejection fraction estimated at 60%.
+2. There is a small area of delayed enhancement at the inferolateral wall of the left ventricle, suggestive of a small, non-transmural myocardial scar. 
+No new wall motion abnormalities were detected. Right ventricle and atria are normal in size and function.
+3. The pericardium is unremarkable without evidence of thickening or fluid collection.
+IMPRESSION: 
+1. Small area of myocardial scarring at the inferolateral wall of the left ventricle likely related to previous myocardial infarction.
+2. No evidence of active ischemia or adverse remodeling.
+___
+Continued surveillance and follow-up recommended with echocardiography in one year, or sooner if symptoms recur. Further evaluation with a stress test may be considered.

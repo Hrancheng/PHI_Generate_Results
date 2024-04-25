@@ -1,0 +1,22 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated 04/28/2021 2:15 PM
+INDICATION: Evaluation of suspected heart failure.
+COMPARISON: Echocardiogram dated 10/15/2020
+TECHNIQUE: Standard transthoracic echocardiogram performed using Heart and Vascular Clinic's echocardiography protocol. Comprehensive 2D and Doppler echocardiographic examination completed.
+FINDINGS: 
+- The left ventricular ejection fraction is estimated at 45%, which is decreased compared to 55% observed on previous echocardiogram.
+- Mild generalized hypokinesia is noted. No evidence of ventricular aneurysm.
+- Diastolic dysfunction is present with abnormal relaxation pattern.
+- The mitral valve shows mild regurgitation. 
+- No significant aortic stenosis, the aortic valve presents trileaflet with mild regurgitation.
+- Tricuspid and pulmonary valves are structurally normal with trivial regurgitations.
+- Estimated pulmonary artery systolic pressure is increased at 38 mmHg suggesting mild pulmonary hypertension.
+IMPRESSION:
+1. Decreased left ventricular ejection fraction with evidence of mild systolic dysfunction.
+2. Diastolic dysfunction with abnormal relaxation, unchanged from prior.
+3. Mild tricuspid, mitral and aortic regurgitations noted with an increased estimate of pulmonary artery pressure.
+RECOMMENDATIONS:
+- Continue monitoring cardiac function and consider echocardiogram in 6 months or sooner if symptoms persist or worsen.
+- Consider evaluation for potential underlying causes of the cardiac dysfunction reported.
+- Patient continued on current heart failure management regimen.
+Patient was seen in consultation with Dr. Emily Stanton, Cardiology Associates. Follow-up appointment scheduled for 11/05/2021 at Clinic Room 204.

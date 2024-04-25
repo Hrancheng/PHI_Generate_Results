@@ -1,0 +1,31 @@
+Example 21:
+HEART ECHOGRAM: Comprehensive [B-DATE]7/25/2022[O]
+
+INDICATION:
+Chest pain and dyspnea, evaluate for cardiac function and possible effusion.
+
+HISTORY:
+A previously reported MI in [B-DATE]2019[O] with recurring episodes of angina.
+
+COMPARISON:
+Previous echocardiogram dated [B-DATE]5/10/2020[O].
+
+TECHNIQUE:
+Transthoracic echocardiogram was performed using a [B-ORGANIZATION]Philips Epiq 5[O] cardiac ultrasound machine. Full 2D, M-Mode, Doppler, and tissue Doppler imaging were utilized.
+
+FINDINGS:
+1. Left Ventricular Systolic Function: The left ventricular ejection fraction by Simpson’s biplane method is an estimated 45%, slightly reduced from previous measure of 50%.
+2. Valves: The aortic and mitral valves show mild regurgitative changes without significant stenosis. Tricuspid and pulmonary valves are normal.
+3. Chamber Sizes: Normal left atrial and ventricular chamber sizes.
+4. Wall Motion: There is hypokinesis at the inferior wall, likely ischemic in origin.
+5. Pericardium: No pericardial effusion is visible.
+
+IMPRESSION:
+1. Mild decrease in left ventricular systolic function since last evaluation.
+2. Persistent mild valve regurgitation without progression.
+3. Stable chamber sizes with ongoing inferior wall motion abnormality suggestive of ischemia.
+4. No evidence of pericardial effusion.
+
+RECOMMENDATIONS:
+Clinical follow-up with repeat echocardiogram in [B-DATE]6 months[O]. Discussion of findings and management options should be conducted with the referring physician or a cardiologist at [B-ORGANIZATION]Heart Care Associates[O].
+

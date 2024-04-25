@@ -1,0 +1,6 @@
+Example 21:
+CHEST X-RAY, PORTABLE, AP VIEW, [B-DATE]10/14/2021[O] at 9:15 AM: 
+CLINICAL INDICATION: Evaluation for possible pneumonia.
+COMPARISON: Prior x-ray dated [B-DATE]10/01/2021[O].
+FINDINGS: The chest x-ray shows a right lower lobe infiltrate consistent with pneumonia. There are no nodules or masses. The cardiac silhouette and mediastinal contours are within normal limits. The diaphragm and pleural spaces appear normal. No previous films are available for comparison regarding the reported infiltrate.
+IMPRESSION: 1. New right lower lobe infiltrate likely representing acute pneumonia. 2. No evidence of pleural effusion or pneumothorax. Suggest clinical correlation and possibly follow-up imaging if symptoms persist or worsen.

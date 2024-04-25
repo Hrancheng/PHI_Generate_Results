@@ -1,0 +1,25 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated [B-DATE]09/14/2022[O] 
+INDICATION: Evaluation of heart murmur and recent onset of dyspnea on exertion.
+COMPARISON: Echocardiogram dated [B-DATE]03/20/2021[O]
+
+TECHNIQUE: Standard transthoracic echocardiography with Doppler and color flow imaging was performed according to the protocol of [B-ORGANIZATION]General Hospital Cardiology Department[O]. 
+
+FINDINGS: 
+- Left Ventricular Size and Function: The left ventricle is normal in size with mildly reduced systolic function. Estimated ejection fraction is 45%. No significant wall motion abnormalities were noted.
+- Right Ventricular Size and Function: The right ventricle is normal in size and function.
+- Valves: Mild mitral regurgitation. The aortic valve appears trileaflet with mild aortic stenosis. Tricuspid and pulmonary valves are normal.
+- Atria: The left atrium is mildly dilated. The right atrium is normal in size.
+- Pericardium: No pericardial effusion.
+- Aorta: The ascending aorta is normal in diameter.
+
+IMPRESSION:
+1. Mildly reduced left ventricular ejection fraction with mild mitral regurgitation and aortic stenosis.
+2. Mild enlargement of the left atrium.
+3. Overall cardiac function within normal limits with noted findings specified.
+
+RECOMMENDATIONS:
+- Follow-up echocardiogram in one year or sooner if symptoms worsen.
+- Clinical correlation with physical examination findings and consideration of additional imaging or cardiology consultation as deemed necessary by the treating physician.
+
+Please feel free to contact the cardiology department at [B-PHONE]555-123-4567[O] for further discussion or to schedule a follow-up appointment.

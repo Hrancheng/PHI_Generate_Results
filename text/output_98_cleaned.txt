@@ -1,0 +1,37 @@
+Example 21:
+DISCHARGE SUMMARY 09/28/2023
+PATIENT NAME: Robert Johnson
+DATE OF BIRTH: January 15, 1980 
+AGE: 43 years old
+SEX: Male
+ADMISSION DATE: 09/20/2023
+DISCHARGE DATE: 09/28/2023
+ADMITTING DIAGNOSIS: Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+HISTORY OF PRESENT ILLNESS: 
+The patient is a 43-year-old male with a known history of COPD who presented to the emergency department with increased shortness of breath, wheezing, and productive cough for the past three days. He reports increased use of his albuterol inhaler with minimal relief.
+HOSPITAL COURSE:
+Upon admission, the patient was started on IV corticosteroids and nebulized bronchodilators. His respiratory status gradually improved over the course of the stay with reduced wheezing and improved oxygen saturation. He received respiratory therapy twice daily and participated in a smoking cessation consultation.
+MEDICATIONS ON DISCHARGE:
+1. Albuterol inhaler - Use as needed for wheezing.
+2. Tiotropium - One puff daily.
+3. Prednisone - Taper over 10 days.
+FOLLOW-UP CARE:
+The patient is instructed to follow up with his primary care provider, Dr. Susan Miller, within one week of discharge. He is also scheduled for a follow-up in the Pulmonary Clinic at Riverdale Medical Center in two weeks to reassess his condition.
+INSTRUCTIONS FOR PATIENT:
+Continue respiratory therapies at home and avoid any smoking or exposure to secondhand smoke. Maintain a healthy diet and stay hydrated. Watch for signs of respiratory distress, and if symptoms worsen, return to the hospital or call 911.
+DISCHARGE CONDITION:
+The patient is stable with significantly improved respiratory function, tolerating a regular diet, and ambulating with ease.
+PROVIDER: 
+Name: Dr. Gregory Phelps
+Specialty: Pulmonary Medicine
+Phone: (555) 324-1127
+CONTACT INFORMATION:
+Emergency: Dial 911
+Nursing Station: (555) 324-1000
+Dr. Susan Miller's Office: (555) 324-1400
+All patient information is confidential and should be handled per HIPAA regulations. Please contact our office if you have any questions regarding your care.
+SIGNATURE:
+Dr. Gregory Phelps
+Pulmonary Specialist
+Riverdale Medical Center
+Please note, this document is meant for the use of the individual addressee only and contains privileged and confidential information. Unauthorized review, use, disclosure, or distribution is prohibited.

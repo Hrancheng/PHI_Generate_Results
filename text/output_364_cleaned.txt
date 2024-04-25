@@ -1,0 +1,9 @@
+Example 21:
+CHOLECYSTECTOMY PATHOLOGY REPORT
+DATE OF PROCEDURE: 9/15/2020
+HISTORY: Chronic cholecystitis, recurrent gallstone pancreatitis.
+GROSS DESCRIPTION: The specimen is received in formalin labeled with the patient's name and 28204-3. The gallbladder measures 7.5 cm in length and 2.5 cm in diameter. The serosal surface is greenish and moderately inflamed.
+MICROSCOPIC DESCRIPTION: Histological examination reveals chronic inflammation with Rokitansky-Aschoff sinuses. Multiple cholesterol crystals are seen within the lumen with calcified gallstones measuring up to 1 cm in diameter.
+DIAGNOSIS: Chronic cholecystitis with cholelithiasis.
+IMPRESSION: Pathology confirms chronic cholecystitis; consistent with clinical history of recurrent gallstone pancreatitis.
+RECOMMENDATION: Regular follow-up with gastroenterologist, Central City Medical Center recommended.

@@ -1,0 +1,15 @@
+Example 21:
+CT ABDOMEN AND PELVIS WITH CONTRAST, [B-DATE]07/26/2021[O] 3:15 PM INDICATION: Evaluation for acute abdominal pain. COMPARISON: CT from [B-DATE]12/14/2020[O]. 
+
+TECHNIQUE: Multi-detector CT was performed including the abdomen and pelvis after the administration of intravenous contrast. No oral contrast was administered. 
+
+FINDINGS: Liver, spleen, pancreas, adrenal glands, and gallbladder appear normal in morphology and attenuation. No hepatic or splenic lesions identified. The stomach and bowel loops are normally distended without evidence of obstruction or wall thickening. The appendix is non-dilated and unremarkable. 
+
+The kidneys are symmetric without any evidence of stone or hydronephrosis. The bladder and prostate are unremarkable. No significant pelvic or retroperitoneal lymphadenopathy is noted. 
+
+Small amount of free fluid is present in the pelvis, which may be physiological. No enlarged lymph nodes or focal lesions are evident in the visualized portions of the thorax. 
+
+IMPRESSION: 
+1. No acute abdominal or pelvic pathology identified on today's study.
+2. Small amount of free pelvic fluid likely physiological.
+3. Stable compared to [B-DATE]12/14/2020[O] scan with no significant interval change.

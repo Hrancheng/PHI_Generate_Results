@@ -1,0 +1,11 @@
+Example 21:
+**MRI BRAIN WITH AND WITHOUT CONTRAST**  
+Date: 10/15/2021  
+**INDICATION:** Evaluation for suspected multiple sclerosis in a 34-year-old patient with vision changes and recent onset of gait instability.  
+**COMPARISON:** MRI dated 07/28/2021  
+**TECHNIQUE:** MRI of the brain was performed on a 3 Tesla machine using the City Hospital Neurology Imaging Protocol. Images were obtained before and after the administration of 15mL of Gadovist intravenous contrast without any adverse reaction.  
+**FINDINGS:** Several new periventricular white matter lesions are seen compared to the previous exam, characterized by high FLAIR signal intensity. These lesions demonstrate partial gadolinium enhancement, suggesting active demyelination. There is no evidence of mass effect, midline shift, or hydrocephalus. The basal ganglia, thalami, brainstem, and cerebellum appear normal.  
+**IMPRESSION:**  
+1. New demyelinating lesions indicative of an active phase of multiple sclerosis.  
+2. No evidence of tumor or acute infarct.  
+**RECOMMENDATION:** Recommend clinical correlation and possible initiation of steroid therapy to manage exacerbation. Further follow-up with a neurologist at City Hospital Neurology Department is advised to discuss ongoing management and potential disease-modifying therapies.

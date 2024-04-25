@@ -1,0 +1,31 @@
+Example 21:
+DISCHARGE SUMMARY
+Date of Admission: 09/06/2023
+Date of Discharge: 09/13/2023
+Patient Name: Elizabeth Thompson
+Patient MRN: 4839205
+Age: 72 years
+Attending Physician: Dr. Amanda Greer
+Hospital: Riverbend Medical Center
+Procedure: Total Hip Replacement
+HISTORY OF PRESENT ILLNESS:
+Ms. Thompson admitted to Riverbend Medical Center with a diagnosis of left hip osteoarthritis. The condition progressively worsened, leading to decision for surgery.
+HOSPITAL COURSE:
+Surgery was performed on 09/07/2023. The procedure was a total hip replacement performed by Dr. Jonathan Lee. Post-operatively, the patient recovered in the post-anesthesia care unit, followed by rehabilitation on the orthopedic floor. No complications were noted. Recovery was smooth with good pain control and satisfactory progress in mobility.
+MEDICATIONS AT DISCHARGE:
+1. Acetaminophen 500 mg every six hours as needed for pain
+2. Meloxicam 15 mg daily
+DISCHARGE INSTRUCTIONS:
+1. Weight bearing as tolerated
+2. Follow up in two weeks at Riverbend Orthopedics Clinic with Dr. Lee
+3. Continue physical therapy at home through BetterCare Home Health Services
+FOLLOW-UP PHONE NUMBER:
+For questions or concerns, please contact Dr. Lee's office at (555) 123-9876.
+CONDITION AT DISCHARGE:
+72-year-old female in stable condition, cleared for discharge to home with home health services arranged.
+EMERGENCY CONTACT:
+Dennis Thompson, husband - (555) 492-2591
+By:
+Signed Dr. Amanda Greer
+09/13/2023
+Riverbend Medical Center

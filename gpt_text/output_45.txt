@@ -1,0 +1,16 @@
+Example 21:
+ULTRASOUND OF THE ABDOMEN dated [B-DATE]07/30/2022[O]. CLINICAL INDICATION: Suspected hepatomegaly. COMPARISON: Prior ultrasonography dated [B-DATE]03/15/2021[O]. TECHNIQUE: The ultrasound examination included assessment of the liver, gallbladder, spleen, pancreas, and kidneys using both grayscale and Doppler modalities.
+
+FINDINGS:
+- Liver: Measure 18 cm in span, with a smooth contour and homogeneous echotexture. No focal lesions or hepatic duct dilatation were noted.
+- Gallbladder: Normal in size and configuration with no gallstones or wall thickening.
+- Common bile duct: Measures within normal limits, no dilatation.
+- Spleen: Normal in size and echogenicity, measuring 11 cm.
+- Pancreas: Normal in size, contour, and echogenicity. No pancreatic duct dilatation.
+- Kidneys: Both kidneys are normal in size with clear differentiation between cortex and medulla. No hydronephrosis or nephrolithiasis.
+- Free fluid: No free fluid is apparent in the abdomen.
+
+IMPRESSION:
+1. Liver size at the upper limit of normal, consistent with clinical suspicion of hepatomegaly, however no underlying pathology detected.
+2. No acute abdominal pathology identified.
+3. Recommend clinical correlation and follow-up as needed.

@@ -1,0 +1,23 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated [B-DATE]07/21/2021[O]  
+CLINICAL INDICATION: Evaluation of chest pain and shortness of breath.  
+COMPARISON: Echocardiogram from [B-DATE]03/15/2020[O].  
+TECHNIQUE: Transthoracic echocardiography performed using standard views with Doppler and color flow imaging.  
+
+FINDINGS:  
+Left Ventricular Function: The left ventricle is normal in size with preserved systolic function, ejection fraction estimated at 55-60%. No regional wall motion abnormalities are observed.  
+Right Ventricular Function: The right ventricle is normal in size and function.  
+Valves:  
+- Mitral Valve: Mild mitral regurgitation.  
+- Aortic Valve: Trileaflet aortic valve without significant stenosis or regurgitation.  
+- Tricuspid and Pulmonic Valves: Normal in appearance and function without significant regurgitation.  
+Atria: Normal size of both the left and right atria.  
+Pericardium: No pericardial effusion noted.  
+Doppler: Normal diastolic function with no evidence of pulmonary hypertension.  
+
+IMPRESSION:  
+1. Normal left ventricular size and systolic function with an ejection fraction of 55-60%.  
+2. Mild mitral regurgitation.  
+3. No evidence of pericardial effusion or pulmonary hypertension.  
+Recommend follow up with cardiology in [B-DATE]6 months[O] for routine monitoring.
+

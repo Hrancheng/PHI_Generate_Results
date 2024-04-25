@@ -1,0 +1,17 @@
+Example 21:
+PROCEDURE: MRI SPINE LUMBAR WITH AND WITHOUT CONTRAST, dated [B-DATE]9/15/2021[O]. CLINICAL INDICATION: Severe lower back pain with radiculopathy. COMPARISON: Previous CT scan dated [B-DATE]8/1/2021[O]. TECHNIQUE: MRI performed with and without the administration of 15 mL Gadavist intravenous contrast. Images obtained in multiple planes and sequences to adequately assess the lumbar spine.
+
+FINDINGS:
+- The lumbar spine demonstrates normal vertebral body alignment with no acute fracture or malalignment.
+- Disc desiccation noted at L4-L5 and L5-S1 levels.
+- Moderate disc bulge at L4-L5 with superimposed broad-based central disc protrusion exerting pressure on the thecal sac and contributing to mild bilateral neural foraminal narrowing.
+- No significant central canal stenosis observed at other levels.
+- The conus medullaris and cauda equina appear normal.
+- Post-contrast images show no abnormal enhancement to suggest active inflammation or infection.
+
+IMPRESSION:
+1. Lumbar spondylosis most pronounced at L4-L5 and L5-S1 levels with associated disc protrusion contributing to mild bilateral neural foraminal narrowing.
+2. No evidence of significant central canal stenosis or nerve root impingement.
+3. Stable findings compared to previous imaging.
+
+Follow-up with [B-ORGANIZATION]Spine Care Associates[O] is recommended for potential therapeutic injections to alleviate pain and physical therapy to improve back function. Further evaluation may include electromyography (EMG) if symptoms persist or worsen.

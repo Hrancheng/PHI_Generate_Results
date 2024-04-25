@@ -1,0 +1,18 @@
+Example 21:
+ECHO CARDIOGRAM REPORT dated [B-DATE]09/15/2021[O] 10:30 AM
+INDICATION: [B-AGE]68-year-old[O] male with history of chronic heart failure and recent worsening of dyspnea.
+COMPARISON: Echocardiogram dated [B-DATE]03/12/2021[O].
+TECHNIQUE: Standard echocardiographic views were obtained using the [B-ORGANIZATION]City Hospital[O] cardiac imaging protocol.
+FINDINGS:
+1. Left Ventricular Ejection Fraction: Reduced to approximately 35% consistent with global hypokinesis, slightly worse compared to prior ejection fraction of 40%.
+2. Valvular Function: Mild to moderate mitral regurgitation and mild aortic stenosis without significant hemodynamic compromise.
+3. Dimensions: Left atrial enlargement noted, consistent with chronic pressure overload.
+4. Additional Findings: No evidence of pericardial effusion. Normal right ventricular size and function.
+
+IMPRESSION: 
+1. Deterioration in left ventricular systolic function with ejection fraction decreased from 40% to 35% when compared to the last exam.
+2. Chronic valvular changes with no acute abnormalities requiring immediate intervention.
+3. Advised follow-up with cardiologist for possible medication adjustment and closely monitor symptoms of heart failure.
+
+FOLLOW-UP: 
+Patient is to schedule a follow-up visit within [B-DATE]3 months[O] and earlier if symptoms worsen.

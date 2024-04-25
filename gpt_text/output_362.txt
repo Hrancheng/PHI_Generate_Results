@@ -1,0 +1,29 @@
+Example 21:
+ECHOCARDIOGRAM REPORT - [B-DATE]07/15/2021[O]
+CLINICAL INDICATION: Suspected congestive heart failure.
+COMPARISON: Echocardiogram dated [B-DATE]03/21/2020[O].
+
+FINDINGS:
+LEFT VENTRICLE: The left ventricular cavity size is normal with preserved systolic function. Estimated ejection fraction is 55%. No wall motion abnormalities.
+
+RIGHT VENTRICLE: Normal size and function of the right ventricle. No tricuspid regurgitation.
+
+VALVES: Mild mitral regurgitation. The aortic valve is trileaflet with mild aortic regurgitation. Pulmonic valve is normal.
+
+ATRIUMS: The left and right atriums are normal in size.
+
+PERICARDIUM: No pericardial effusion.
+
+OTHER: No intracardiac mass or thrombus. Aorta is of normal size with no evidence of dilation.
+
+IMPRESSION:
+1. Normal left ventricular size and systolic function with an ejection fraction of 55%.
+2. Mild mitral and aortic valve regurgitation.
+3. No pericardial effusion.
+4. Overall normal echocardiogram with no significant change compared to previous study dated [B-DATE]03/21/2020[O]. 
+
+RECOMMENDATIONS:
+Continue current medical therapy and follow-up as clinically indicated.
+Review of symptoms and clinical status to be completed during follow-up visits.
+
+-----------------------------------------------------------------------------

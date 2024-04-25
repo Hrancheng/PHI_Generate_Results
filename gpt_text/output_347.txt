@@ -1,0 +1,12 @@
+Example 21:
+ABDOMINAL CT SCAN with contrast dated [B-DATE]9/15/2022[O].
+CLINICAL INDICATION: Suspected appendicitis.
+COMPARISON: Previous abdomen scan on [B-DATE]10/10/2021[O].
+TECHNIQUE: Enhanced CT imaging performed using 70 mL of Omnipaque intravenously.
+FINDINGS:
+The appendix measures 1.1 x 1.2 cm with thickening of the wall and periappendiceal fat stranding. The cecum and the remaining colon are unremarkable. Normal caliber and enhancement of the abdominal aorta and its major branches. The liver, spleen, pancreas, and adrenal glands appear normal. No evidence of hepatic or splenic lesions. The gallbladder is physiologically distended with no stones or wall thickening. Kidneys are unremarkable with normal size and enhancement patterns. No hydronephrosis or renal calculi are observed. The bladder is normal in appearance, without thickening.
+IMPRESSION:
+1. Findings suggestive of acute appendicitis.
+2. No evidence of complications such as perforation or abscess formation.
+3. Unremarkable liver, spleen, pancreas, kidneys, and gallbladder.
+________________________________________________-

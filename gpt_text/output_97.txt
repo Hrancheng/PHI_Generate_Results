@@ -1,0 +1,48 @@
+**DISCHARGE SUMMARY**
+
+**Patient Information:**
+- **Name:** [B-NAME]Maria Thompson[O]
+- **Medical Record Number:** [B-ID]MRN20231025[O]
+- **Date of Birth:** [B-DATE]04/08/1965[O] (Age [B-AGE]58 years[O])
+- **Gender:** Female
+- **Admission Date:** [B-DATE]09/15/2023[O]
+- **Discharge Date:** [B-DATE]10/02/2023[O]
+- **Attending Physician:** [B-NAME]Dr. Robert Clarke[O]
+
+**Hospital Course:**
+[B-NAME]Maria Thompson[O] was admitted with a diagnosis of acute cholecystitis. She underwent a laparoscopic cholecystectomy on [B-DATE]09/16/2023[O], performed by [B-NAME]Dr. Emily Stone[O] at [B-ORGANIZATION]General City Hospital[O]. Her post-operative course was unremarkable, and she responded well to treatment without any complications. 
+
+**Medications on Discharge:**
+1. Paracetamol 500 mg orally every 6 hours as needed for pain
+2. Ibuprofen 400 mg orally every 8 hours as needed for inflammation
+3. Omeprazole 20 mg orally once daily
+
+**Follow-up Care:**
+[B-NAME]Maria Thompson[O] is advised to schedule a follow-up appointment with her primary care provider, [B-NAME]Dr. Susan Harrow[O], within two weeks of discharge. She should also have a post-operative follow-up with her surgeon, [B-NAME]Dr. Emily Stone[O], in 4 to 6 weeks. If she experiences any symptoms such as fever, severe abdominal pain, or jaundice, she should seek immediate medical attention.
+
+**Instructions and Advisories:**
+- Keep the surgical site clean and dry. Dressings can be changed every two days unless soaked or dirty.
+- Avoid lifting heavy objects for at least four weeks.
+- Gradually resume normal activities as tolerated.
+
+**Allergies:**
+- Penicillin - causes rash
+- [B-NAME]Maria[O] has no known food allergies.
+
+**Home Medications:**
+- Metformin 500 mg twice daily for type 2 diabetes
+- Lisinopril 10 mg once daily for hypertension
+
+**Additional Comments:**
+No further diagnostic tests are planned at this time. Continue to monitor blood glucose levels due to type 2 diabetes, and adjust Metformin if there are any significant changes in eating or exercise habits.
+
+**Discharge Diet:**
+Low fat, high fiber diet recommended to ease digestion and support gallbladder health.
+
+**Social Work Consultation:**
+Met with [B-NAME]Sarah Jennings[O], LCSW, to discuss post-operative home care and support systems in place at home.
+
+**Emergency Contact:**
+Contact [B-NAME]John Thompson[O] - Husband at [B-PHONE]555-322-0003[O].
+
+This discharge summary must be completed by [B-NAME]Dr. Robert Clarke[O], with the medical team acknowledging the patient's status and discharge arrangements.

@@ -1,0 +1,2 @@
+Example 21:
+CHEST X-RAY [B-DATE]10/22/2022[O] 14:30 INDICATION: Suspected pneumonia. Comparison: Chest x-ray [B-DATE]10/14/2022[O]. FINDINGS: Increased bilateral lower lobe opacities compared to the previous study. No new pleural effusion or pneumothorax is identified. The cardiomediastinal silhouette is stable. IMPRESSION: IMPRESSION: 1. Persistent bilateral lower lobe opacities consistent with suspected infectious process, suggest clinical correlation and potential antibiotic therapy adjustment. 2. No acute cardiopulmonary abnormality.

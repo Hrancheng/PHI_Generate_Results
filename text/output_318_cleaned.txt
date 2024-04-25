@@ -1,0 +1,5 @@
+Example 21:
+PROCEDURE: MRI BRAIN WITH AND WITHOUT CONTRAST, dated 10/23/2021. CLINICAL INDICATION: Headaches and dizziness. COMPARISON: Previous MRI dated 1/15/2019. TECHNIQUE: MRI was conducted using a 3 Tesla magnet. Both T1 and T2-weighted images along with FLAIR sequences were obtained prior to and after the administration of gadolinium contrast. FINDINGS: 
+There is no evidence of acute intracranial hemorrhage, mass effect, or midline shift. The ventricles and sulci appear normal in size and configuration. There are a few nonspecific white matter hyperintensities likely related to small vessel ischemic changes. There is no abnormal enhancement to suggest active demyelination or infection. 
+The visualized portions of the orbits, skull base, and major intracranial vessels are unremarkable. Optimization of angiographic detail was performed using Johns Hopkins University advanced MR angiography protocol.
+IMPRESSION: IMPRESSION: 1. Stable nonspecific small vessel white matter changes when compared to the previous MRI. 2. No new significant abnormal findings.

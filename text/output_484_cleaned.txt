@@ -1,0 +1,7 @@
+Example 21:
+CARDIAC MRI WITHOUT CONTRAST 9/14/2022 10:30 AM INDICATION: 56-year-old male with recent myocardial infarction and ongoing chest pain. COMPARISON: Previous echocardiogram dated 8/22/2022. TECHNIQUE: A standard cardiac MRI protocol was used without the administration of intravenous contrast. The images were obtained using both steady-state free precession and gradient echo sequences.
+FINDINGS: 
+The left ventricular ejection fraction is moderately reduced at approximately 40%. There is evidence of regional wall motion abnormalities with hypokinesis in the inferolateral wall. The right ventricle appears normal in size and function. No evidence of myocardial scars or fibrosis was noted. No pericardial effusion is present.
+IMPRESSION: 
+1. Reduced left ventricular ejection fraction with regional wall motion abnormality suggestive of ischemic cardiomyopathy.
+2. No evidence of myocardial fibrosis or pericardial effusion. Continued clinical follow-up and management of ischemic heart disease are recommended.

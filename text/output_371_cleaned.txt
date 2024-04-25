@@ -1,0 +1,19 @@
+Example 21:
+EKG INTERPRETATION AND ANALYSIS dated 09/05/2022.  
+CLINICAL INDICATION: 67-year-old male with palpitations and a history of atrial fibrillation.  
+COMPARISON: EKG from 02/14/2021.  
+FINDINGS:  
+1. Atrial fibrillation with a ventricular rate of approximately 110 bpm.  
+2. Normal axis and intervals.  
+3. No significant ST-T wave changes observed.  
+4. Ventricular pre-excitation pattern is not evident.  
+5. The comparison with the previous EKG shows a new onset of atrial fibrillation  
+6. Chest X-ray indicated to exclude any potential pulmonary causes of palpitations.  
+IMPRESSION:  
+1. New atrial fibrillation without rapid ventricular response.  
+2. No evidence of ischemic changes or other acute findings on the current EKG compared to February 2021.  
+3. Recommend echocardiogram to assess atrial size and rule out structural heart disease.  
+4. Consider initiating anticoagulation in the context of CHA2DS2-VASc score.  
+5. Follow-up in the outpatient cardiology clinic for further management.  
+___________________________________________________________________________________  
+Emergency contact is available from 9 AM to 5 PM; for urgent concerns, the cardiologist on-call can be reached at 555-124-6789.

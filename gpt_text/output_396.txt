@@ -1,0 +1,21 @@
+**Example 21:**
+CT ABDOMEN PELVIS WITH CONTRAST, [B-DATE]9/15/2023[O] 10:30 AM 
+INDICATION: [B-AGE]58-year-old[O] male with history of abdominal pain and weight loss. 
+COMPARISON: CT scan [B-DATE]7/10/2022[O]. 
+TECHNIQUE: Multi-phase CT scan was performed of the abdomen and pelvis using 100 mL of nonionic contrast, followed by a 20 mL saline chase. Images were obtained and reconstructed in axial, coronal, and sagittal planes. 
+FINDINGS: 
+Liver: No focal lesions detected. Mild diffuse liver steatosis.
+Gallbladder: Normal without gallstones or biliary duct dilation.
+Pancreas: Normal morphology and attenuation without visible masses or ductal dilatation.
+Kidneys: Bilateral normal size and enhancement with no evidence of stones or obstruction.
+Adrenal glands: Unremarkable.
+Spleen: Normal in size and attenuation. 
+Bladder: Normal in configuration; no evidence of thickening or masses.
+Bones: No lytic or blastic lesions identified. 
+Lymph nodes: No pathologically enlarged nodes evident.
+Other: A small amount of free fluid is noted in the pelvis, likely physiological.
+
+IMPRESSION:
+1. No acute intra-abdominal or pelvic pathology identified.
+2. Mild diffuse steatosis of the liver. Further clinical correlation recommended.
+3. Small amount of free pelvic fluid, likely physiological in origin.

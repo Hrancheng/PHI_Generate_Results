@@ -1,0 +1,23 @@
+Example 21:
+NEUROLOGY CONSULTATION NOTE - 09/21/2022 
+PATIENT: Elizabeth Thompson 
+AGE: 78 years old 
+HISTORY: The patient presents with a three-month history of progressive memory loss and intermittent headaches.
+FINDINGS:
+1. Cognitive testing indicates moderate cognitive impairment, likely of a neurodegenerative nature.
+2. MRI Brain, dated 08/15/2022, shows mild cortical atrophy and non-specific white matter changes.
+PLAN:
+1. Start on donepezil to address symptoms of dementia.
+2. Schedule follow-up in 3 months to reassess condition and medication efficacy.
+3. Encourage family to monitor patient’s daily living activities closely and report any significant changes.
+COMMENTS:
+Patient and caregiver (Mark Thompson, son) provided the history. Both were informed about the nature of the diagnosis and the proposed management plan. They agreed to proceed with the recommendations.
+NEXT APPOINTMENT:
+Scheduled for 12/21/2022 at 10:00 AM in clinic room 205.
+EMERGENCY CONTACT:
+Son, Mark Thompson - (555) 123-4567
+PHYSICIAN:
+Dr. Sarah Goldstein, neurologist at Riverdale Neurology Clinic
+Signed,
+Dr. Sarah Goldstein
+09/21/2022

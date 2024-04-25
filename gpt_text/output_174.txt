@@ -1,0 +1,7 @@
+Example 21:
+CT ABDOMEN AND PELVIS WITH CONTRAST dated [B-DATE]9/15/2021[O]. CLINICAL INDICATION: Evaluation for abdominal pain and suspected appendicitis. COMPARISON: Ultrasound abdomen from [B-DATE]8/20/2021[O]. TECHNIQUE: Helical CT was performed from the diaphragmatic domes through the symphysis pubis using 100 mL of nonionic contrast material, followed by image reconstruction in axial, coronal, and sagittal planes. FINDINGS: There is no evidence of appendicitis. The appendix is normal in caliber with no surrounding inflammation or fluid. The liver, spleen, pancreas, and adrenal glands are unremarkable. Kidneys are normal in size and contour with no evidence of hydronephrosis or stones. There is mild fat stranding in the mesentery, which may be nonspecific or related to mild enteritis. No lymphadenopathy or significant free fluid. The bladder is normal in appearance. There is no evidence of bowel obstruction or perforation.
+
+IMPRESSION: 
+1. No evidence of appendicitis.
+2. Nonspecific mild mesenteric fat stranding possibly related to mild enteritis.
+3. Otherwise normal study of the abdomen and pelvis with contrast.

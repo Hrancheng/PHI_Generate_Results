@@ -1,0 +1,12 @@
+Example 21:
+CHEST X-RAY, TWO VIEWS, dated [B-DATE]12/15/2021[O] at 10:30 AM.
+CLINICAL INDICATION: Evaluation for pneumonia and assessment of central lines.
+COMPARISON: Chest x-ray [B-DATE]11/20/2021[O].
+TECHNIQUE: PA and lateral views were obtained.
+FINDINGS:
+The lungs are mildly hyperinflated but show no focal consolidation, pleural effusion, or pneumothorax. The central lines are unchanged in position with the tip of the PICC line terminating in the superior vena cava. The implantable cardioverter-defibrillator (ICD) leads are stable in position.
+Cardiomediastinal silhouette is normal. Osseous structures are intact without acute abnormalities.
+IMPRESSION:
+1. No acute cardiopulmonary disease.
+2. Stable placement of central lines and ICD leads.
+3. Recommend follow-up as clinically indicated.

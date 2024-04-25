@@ -1,0 +1,10 @@
+Example 21:
+ABDOMINAL MRI WITH AND WITHOUT CONTRAST [B-DATE]5/15/2020[O] 10:30 AM INDICATION: [B-AGE]52-year-old[O] female with history of chronic abdominal pain. COMPARISON: Previous CT scan dated [B-DATE]1/12/2018[O]. TECHNIQUE: MRI was performed using a phased array body coil on a 3 Tesla machine. Protocol includes standard sequences through the abdomen with and without gadolinium contrast.
+
+FINDINGS: The liver is unremarkable with no focal lesions or abnormal enhancement. The gallbladder is normal in appearance without stones or wall thickening. The pancreas is homogeneous with no evidence of masses or pancreatic duct dilatation. The spleen and adrenal glands are normal. Kidneys exhibit normal size and contour with no evidence of hydronephrosis or masses. Mild stranding is noted around the sigmoid colon, likely related to patient's known diverticulosis.
+
+IMPRESSION: 
+1. No acute abdominal pathology is identified.
+2. Stable appearance of known diverticulosis without acute inflammation.
+3. No evidence of intra-abdominal mass or lymphadenopathy.
+4. Recommend follow-up for chronic symptoms as clinically indicated.

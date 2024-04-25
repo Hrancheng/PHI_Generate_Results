@@ -1,0 +1,14 @@
+Example 21:
+PROCEDURE: CT ABDOMEN AND PELVIS WITH AND WITHOUT CONTRAST [B-DATE]7/17/2022[O]  
+CLINICAL INDICATION: Evaluation for abdominal pain and suspected pancreatitis. COMPARISON: Ultrasound [B-DATE]1/15/2022[O].  
+TECHNIQUE: Multidetector CT scan performed with oral and IV contrast.  
+FINDINGS:  
+1. The pancreas is enlarged with peripancreatic fat stranding consistent with acute pancreatitis.  
+2. No gallstones or biliary dilatation.  
+3. Liver, spleen, adrenal glands, and kidneys are normal in appearance.  
+4. No evidence of abdominal or pelvic masses.  
+5. Trace free fluid in the pelvis is likely reactive.  
+IMPRESSION:  
+1. CT findings supportive of acute pancreatitis.  
+2. No complications such as necrosis or abscess formation.  
+3. Recommend clinical correlation and follow-up labs including lipase and amylase levels.  

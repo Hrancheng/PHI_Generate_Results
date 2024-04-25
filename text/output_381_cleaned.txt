@@ -1,0 +1,20 @@
+Example 21:
+EXAM: Emergency abdominal CT scan dated 11/28/2023 11:40 PM  
+CLINICAL INDICATION: 54-year-old male presenting with severe abdominal pain and suspected bowel obstruction.  
+COMPARISON: None  
+TECHNIQUE: Contrast-enhanced spiral CT of the abdomen and pelvis was performed.  
+FINDINGS:  
+-The CT scan reveals dilated loops of small bowel consistent with partial small bowel obstruction.  
+-The site of obstruction appears to be near the ileocecal valve.  
+-No free air or signs of perforation are evident.  
+-Moderate volume of ascites is noted.  
+-The liver, spleen, pancreas, and adrenal glands appear unremarkable.  
+-No evidence of hepatic or splenic lesions.  
+IMPRESSION:  
+1. Partial small bowel obstruction at the level of the ileocecal valve with associated moderate ascites. Further evaluation with follow-up imaging and clinical correlation recommended.  
+2. No signs of bowel perforation or free intra-abdominal air.  
+3. Unremarkable findings in liver, spleen, pancreas, and adrenal glands.  
+ADDITIONAL NOTES:  
+-Patient was admitted under the care of Dr. Helen Marsh from Riverside General Hospital.  
+-Follow-up surgical consult and possible interventional radiology evaluation advised.  
+-Outpatient follow-up recommended within one week post-discharge for re-evaluation.

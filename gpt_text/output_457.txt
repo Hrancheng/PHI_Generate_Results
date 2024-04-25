@@ -1,0 +1,14 @@
+Example 21:
+CARDIAC MRI dated [B-DATE]9/9/2021[O]. CLINICAL INDICATION: Evaluation of suspected myocarditis. COMPARISON: Echocardiogram dated [B-DATE]7/15/2021[O]. TECHNIQUE: Cardiac MRI performed using [B-ORGANIZATION]Heart Imaging Technologies[O] protocols with gadolinium contrast enhancement. 
+
+FINDINGS: 
+1. Myocardial edema is noted in the basal segments of the lateral wall, consistent with acute myocarditis.
+2. Normal left ventricular systolic function with ejection fraction estimated at 60%.
+3. No evidence of myocardial fibrosis or scarring on late gadolinium enhancement imaging.
+4. Right ventricular size and function are within normal limits.
+5. No pericardial effusion.
+
+IMPRESSION: 
+1. Imaging findings are suggestive of acute myocarditis with preserved systolic function.
+2. No evidence of chronic myocardial damage or pericardial disease.
+3. Recommend clinical correlation and follow-up MRI in [B-DATE]3 months[O] to assess for resolution or progression of inflammation.

@@ -1,0 +1,40 @@
+Example 21:
+DISCHARGE SUMMARY
+
+Date of Admission: [B-DATE]09/06/2023[O]
+Date of Discharge: [B-DATE]09/13/2023[O]
+Patient Name: [B-NAME]Elizabeth Thompson[O]
+Patient MRN: [B-ID]4839205[O]
+Age: [B-AGE]72 years[O]
+Attending Physician: Dr. [B-NAME]Amanda Greer[O]
+Hospital: [B-ORGANIZATION]Riverbend Medical Center[O]
+Procedure: Total Hip Replacement
+
+HISTORY OF PRESENT ILLNESS:
+[B-NAME]Ms. Thompson[O] admitted to [B-ORGANIZATION]Riverbend Medical Center[O] with a diagnosis of left hip osteoarthritis. The condition progressively worsened, leading to decision for surgery.
+
+HOSPITAL COURSE:
+Surgery was performed on [B-DATE]09/07/2023[O]. The procedure was a total hip replacement performed by Dr. [B-NAME]Jonathan Lee[O]. Post-operatively, the patient recovered in the [B-LOCATION]post-anesthesia care unit[O], followed by rehabilitation on the [B-LOCATION]orthopedic floor[O]. No complications were noted. Recovery was smooth with good pain control and satisfactory progress in mobility.
+
+MEDICATIONS AT DISCHARGE:
+1. Acetaminophen 500 mg every six hours as needed for pain
+2. Meloxicam 15 mg daily
+
+DISCHARGE INSTRUCTIONS:
+1. Weight bearing as tolerated
+2. Follow up in two weeks at [B-ORGANIZATION]Riverbend Orthopedics Clinic[O] with Dr. [B-NAME]Lee[O]
+3. Continue physical therapy at home through [B-ORGANIZATION]BetterCare Home Health Services[O]
+
+FOLLOW-UP PHONE NUMBER:
+For questions or concerns, please contact Dr. [B-NAME]Lee[O]'s office at [B-PHONE](555) 123-9876[O].
+
+CONDITION AT DISCHARGE:
+[B-AGE]72-year-old[O] female in stable condition, cleared for discharge to home with home health services arranged.
+
+EMERGENCY CONTACT:
+[B-NAME]Dennis Thompson[O], husband - [B-PHONE](555) 492-2591[O]
+
+By:
+Signed Dr. [B-NAME]Amanda Greer[O]
+[B-DATE]09/13/2023[O]
+[B-ORGANIZATION]Riverbend Medical Center[O]

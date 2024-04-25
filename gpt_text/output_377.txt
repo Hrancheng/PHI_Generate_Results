@@ -1,0 +1,15 @@
+Example 21:
+CARDIAC MRI WITH AND WITHOUT CONTRAST dated [B-DATE]09/15/2021[O]. CLINICAL INDICATION: Suspected myocardial infarction. COMPARISON: Echocardiogram [B-DATE]08/10/2021[O]. 
+
+TECHNIQUE: Diagnostic imaging performed using [B-ORGANIZATION]Memorial Cardiac Imaging Center[O]. Standard cardiac sequences utilized, both pre- and post-administration of 15 mL of Gadolinium contrast.
+
+FINDINGS: The study shows a left ventricular ejection fraction of 40%. There is hypokinesis of the anterior wall, suggestive of myocardial damage. The remaining myocardial segments display normal contractile function. No signs of myocardial scarring or non-viable myocardium were noted. The cardiac chambers appear normal in size. There are no signs of pericardial effusion.
+
+IMPRESSION: 
+1. Left ventricular systolic dysfunction with anterior wall hypokinesis, suggestive of recent myocardial infarction.
+2. No myocardial scarring or pericardial effusion.
+3. Decreased ejection fraction as compared to previous studies indicating progression of cardiac condition.
+
+RECOMMENDATIONS: 
+- Clinical correlation with cardiac enzymes and clinical presentation is recommended.
+- Follow-up with a cardiology specialist at [B-ORGANIZATION]Memorial Cardiac Imaging Center[O] for further management and possible medical therapy adjustments.

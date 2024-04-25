@@ -1,0 +1,6 @@
+Example 21:
+ULTRASOUND OF THE ABDOMEN dated [B-DATE]11/28/2022[O]. HISTORY: Persistent upper abdominal pain and recent weight loss. Comparisons: Ultrasound abdomen [B-DATE]1/15/2021[O]. IMPRESSION: The liver is normal in size with no evidence of focal hepatic lesions. The common bile duct is normal in caliber, measuring 3 mm. The gallbladder is well distended and demonstrates no gallstones, no wall thickening, and no pericholecystic fluid. The pancreas is visualized and shows normal echogenicity with no evidence of masses or pancreatic duct dilation. The spleen is normal in size. The kidneys are normal in size and contour with no evidence of hydronephrosis or stones. There is no free fluid in the abdomen. 
+
+IMPRESSION: IMPRESSION:
+1. No acute abdominal pathology identified.
+2. Stable appearance compared to [B-DATE]1/15/2021[O] ultrasound, no significant interval change.

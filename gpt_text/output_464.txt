@@ -1,0 +1,17 @@
+Example 21:
+ECHO HEART: Comprehensive Transthoracic Echocardiogram [B-DATE]2/15/2022[O] HISTORY: [B-AGE]63-year-old[O] male with history of hypertension and recent onset of atypical chest pain. COMPARISON: None. TECHNIQUE: Standard transthoracic windows with use of spectral, color, and tissue Doppler imaging. FINDINGS: 
+1. Left ventricular systolic function is normal with an estimated ejection fraction of 55%. 
+2. No wall motion abnormalities are noted. 
+3. The aortic valve is trileaflet and opens well; no significant aortic stenosis or regurgitation. 
+4. The mitral valve leaflets are mildly thickened but there is only trace mitral regurgitation. 
+5. Chambers size and right heart pressures are normal. 
+6. No pericardial effusion.
+
+IMPRESSION: 
+1. Normal left ventricular systolic function without wall motion abnormalities. 
+2. Only trace mitral valve regurgitation with mild leaflet thickening.
+3. No hemodynamically significant valvular disease.
+4. Chamber sizes and function within normal limits. 
+
++++++++++++++++++++++ 
+Sedation and Analgesics were managed by [B-NAME]Dr. Sarah Connors[O] from [B-ORGANIZATION]Heart Health Services[O]. Patient monitored and stable throughout the procedure.

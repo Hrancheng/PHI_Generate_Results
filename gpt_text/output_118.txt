@@ -1,0 +1,43 @@
+Example 21:
+DISCHARGE SUMMARY
+
+Patient Name: [B-NAME]Michael Johnson[O]  
+Date of Birth: [B-DATE]04/03/1981[O]  
+Hospital Service: General Medicine  
+Admitting Date: [B-DATE]06/15/2023[O]  
+Discharge Date: [B-DATE]06/22/2023[O]  
+Address: [B-ADDRESS]123 Cherry Lane, Springfield, IL 62704[O]
+
+Chief Complaint: Chest pain
+
+History of Present Illness:
+[B-NAME]Michael Johnson[O] is a [B-AGE]42-year-old[O] male who presented to the emergency department on [B-DATE]June 15th, 2023[O] with an acute onset of substernal chest pain radiating to his left arm. The pain was associated with shortness of breath and diaphoresis.
+
+Hospital Course:
+Patient was managed by cardiologist Dr. [B-NAME]Susan Gregory[O] for suspected myocardial infarction. Initial EKG showed ST-segment elevations. He underwent cardiac catheterization which revealed two blocked coronary arteries, successfully treated with angioplasty and stenting.
+Medications upon discharge include aspirin, clopidogrel, metoprolol, and atorvastatin.
+
+Discharge Instructions:
+1. Follow up with cardiologist Dr. [B-NAME]Susan Gregory[O] at the [B-ORGANIZATION]Springfield Heart Clinic[O] within one week.
+2. Continue taking prescribed medications without interruption.
+3. Engage in light activity, avoid heavy lifting and strenuous exercise for the next 4 weeks.
+4. Report immediately if symptoms of chest pain, shortness of breath, or dizziness occur.
+
+Emergency Contact:
+Wife: [B-NAME]Jessica Johnson[O]  
+Phone: [B-PHONE]555-123-4567[O]
+
+Next Appointment:
+With Dr. [B-NAME]Susan Gregory[O] on [B-DATE]June 29, 2023[O] at the [B-ORGANIZATION]Springfield Heart Clinic[O], [B-ADDRESS]456 Heart Road, Springfield, IL 62704[O].
+
+The patient was advised about the importance of lifestyle modifications including diet and smoking cessation. He expressed understanding of the discharge instructions and voiced no further questions at this time.
+
+Follow-Up Contact:
+If issues or questions arise before the next scheduled appointment, patient should contact Dr. [B-NAME]Susan Gregory[O]'s office at [B-PHONE]555-888-9999[O], or visit the nearest emergency department for immediate concerns.
+
+Discharge Mediator: Nurse [B-NAME]Linda Krebs[O]  
+Date: [B-DATE]06/22/2023[O]  
+
+Signed,
+Dr. [B-NAME]Susan Gregory[O], MD  
+[B-ORGANIZATION]Springfield Heart Clinic[O]

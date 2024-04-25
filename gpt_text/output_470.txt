@@ -1,0 +1,19 @@
+Example 21:
+
+EXAM: MRI LUMBAR SPINE WITHOUT CONTRAST, dated [B-DATE]11/27/2019[O]. 
+INDICATION: Lower back pain with radiation to the left leg. Rule out nerve impingement. 
+COMPARISON: MRI dated [B-DATE]2/12/2018[O].
+TECHNIQUE: MRI Lumbar spine was performed without contrast on a 3 Tesla magnet. 
+
+FINDINGS: 
+- Lumbar spine shows normal alignment without evidence of significant spondylolisthesis.
+- Intervertebral disc levels from L1-L2 through L5-S1 demonstrate mild diffuse disc bulge. 
+- No significant central canal or neural foraminal narrowing except for a moderate left paracentral disc protrusion at L4-L5 impinging on the left L5 nerve root.
+- The conus medullaris terminates at L1 level and appears normal.
+- Mild facet joint hypertrophy is noted at L4-L5 and L5-S1.
+- No evidence of acute fracture or marrow infiltrative process.
+
+IMPRESSION: 
+1. Moderate left paracentral disc protrusion at L4-L5 level impinging on the left L5 nerve root correlating with clinical symptoms.
+2. No significant central canal stenosis.
+3. Mild facet arthropathy at lower lumbar levels.

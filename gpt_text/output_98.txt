@@ -1,0 +1,48 @@
+Example 21:
+DISCHARGE SUMMARY [B-DATE]09/28/2023[O]
+
+PATIENT NAME: [B-NAME]Robert Johnson[O]
+DATE OF BIRTH: [B-DATE]January 15, 1980[O] 
+AGE: [B-AGE]43 years old[O]
+SEX: Male
+ADMISSION DATE: [B-DATE]09/20/2023[O]
+DISCHARGE DATE: [B-DATE]09/28/2023[O]
+ADMITTING DIAGNOSIS: Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+HISTORY OF PRESENT ILLNESS: 
+The patient is a [B-AGE]43-year-old[O] male with a known history of COPD who presented to the emergency department with increased shortness of breath, wheezing, and productive cough for the past [B-DATE]three days[O]. He reports increased use of his albuterol inhaler with minimal relief.
+
+HOSPITAL COURSE:
+Upon admission, the patient was started on IV corticosteroids and nebulized bronchodilators. His respiratory status gradually improved over the course of the stay with reduced wheezing and improved oxygen saturation. He received respiratory therapy twice daily and participated in a smoking cessation consultation.
+
+MEDICATIONS ON DISCHARGE:
+1. Albuterol inhaler - Use as needed for wheezing.
+2. Tiotropium - One puff daily.
+3. Prednisone - Taper over [B-DATE]10 days[O].
+
+FOLLOW-UP CARE:
+The patient is instructed to follow up with his primary care provider, Dr. [B-NAME]Susan Miller[O], within [B-DATE]one week[O] of discharge. He is also scheduled for a follow-up in the Pulmonary Clinic at [B-ORGANIZATION]Riverdale Medical Center[O] in [B-DATE]two weeks[O] to reassess his condition.
+
+INSTRUCTIONS FOR PATIENT:
+Continue respiratory therapies at home and avoid any smoking or exposure to secondhand smoke. Maintain a healthy diet and stay hydrated. Watch for signs of respiratory distress, and if symptoms worsen, return to the hospital or call [B-PHONE]911[O].
+
+DISCHARGE CONDITION:
+The patient is stable with significantly improved respiratory function, tolerating a regular diet, and ambulating with ease.
+
+PROVIDER: 
+Name: Dr. [B-NAME]Gregory Phelps[O]
+Specialty: Pulmonary Medicine
+Phone: [B-PHONE](555) 324-1127[O]
+
+CONTACT INFORMATION:
+Emergency: Dial [B-PHONE]911[O]
+Nursing Station: [B-PHONE](555) 324-1000[O]
+Dr. [B-NAME]Susan Miller[O]'s Office: [B-PHONE](555) 324-1400[O]
+
+All patient information is confidential and should be handled per HIPAA regulations. Please contact our office if you have any questions regarding your care.
+
+SIGNATURE:
+Dr. [B-NAME]Gregory Phelps[O]
+Pulmonary Specialist
+Riverdale Medical Center
+
+Please note, this document is meant for the use of the individual addressee only and contains privileged and confidential information. Unauthorized review, use, disclosure, or distribution is prohibited.

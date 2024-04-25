@@ -1,0 +1,17 @@
+Example 21:  
+ECHO CARDIOGRAM REPORT Dated [B-DATE]8/25/2022[O]  
+INDICATION: [B-AGE]67-year-old[O] female with history of shortness of breath and palpitations.  
+COMPARISON: Echocardiogram [B-DATE]3/30/2021[O].  
+TECHNIQUE: Standard 2D transthoracic echocardiogram with Doppler study performed in the [B-LOCATION]cardiac imaging suite[O].  
+
+FINDINGS:  
+The left ventricular chamber size is normal with preserved left ventricular systolic function, estimated EF of 55%. Normal right ventricular size and function. No ventricular wall motion abnormalities observed. The valves are structurally normal without significant stenosis or regurgitation. The aortic root and ascending aorta are of normal caliber. There is no pericardial effusion. No clots or masses are seen in the heart chambers. Pulmonary pressures are within normal limits.
+
+IMPRESSION:  
+1. No change in left ventricular systolic function as compared to the last examination.   
+2. Normal valvular function.  
+3. No evidence of intracardiac thrombus or significant aortic pathology.  
+
+++++++++++++++++++  
+ROUTINE TEST RESULT COMMUNICATION: Results of the echocardiogram were discussed with the patient and documented in the medical chart. Follow-up as needed based on clinical symptoms.
+

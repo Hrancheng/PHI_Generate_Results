@@ -1,0 +1,21 @@
+Example 21:
+ECHOCARDIOGRAM REPORT 
+[B-DATE]10/22/2021[O] 
+INDICATION: Evaluation of cardiac function. 
+COMPARISON: Echocardiogram [B-DATE]01/15/2020[O]. 
+TECHNIQUE: Transthoracic echocardiogram was performed including M-mode, 2D, color flow, and Doppler analysis. 
+
+FINDINGS: 
+The left ventricle is normal in size with preserved systolic function. Ejection fraction estimated at 55%. No regional wall motion abnormalities. 
+The right ventricle is normal in size and function. 
+Valves: Mild mitral regurgitation. Tricuspid, aortic, and pulmonic valves appear normal with no significant stenosis or regurgitation. 
+Atrial sizes are normal. 
+No pericardial effusion. 
+
+DIAGNOSIS: 
+No change in cardiac function compared to last evaluation. Mild mitral regurgitation without hemodynamic significance. 
+
+IMPRESSION: 
+1. Normal left and right ventricular size and systolic function.
+2. No significant valvular abnormalities.
+3. Mild mitral regurgitation.

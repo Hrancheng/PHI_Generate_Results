@@ -1,0 +1,24 @@
+### Example 21:
+**MRI BRAIN WITH AND WITHOUT CONTRAST**
+
+**DATE OF STUDY:** [B-DATE]9/14/2022[O]
+
+**CLINICAL INDICATION:** Evaluation for suspected demyelinating disease in a [B-AGE]34 year old[O] patient with new onset neurological symptoms.
+
+**COMPARISON:** MRI dated [B-DATE]6/01/2022[O].
+
+**TECHNIQUE:** Multiplanar, multisequence imaging of the brain was performed with and without administration of gadolinium contrast on a 3 Tesla magnet.
+
+**FINDINGS:**
+- **Brain Parenchyma:** No new white matter lesions are seen when compared to the previous exam. There are several nonspecific small foci of T2 hyperintensity in the white matter of both cerebral hemispheres, unchanged. No evidence of acute infarct.
+- **Ventricals and Sulci:** There is mild ventricular enlargement consistent with cerebral atrophy. No midline shift or herniation.
+- **Post Contrast Imaging:** There is no abnormal enhancement to suggest active demyelination or neoplasm.
+- **Skull Base and Calvarium:** Appearances are unremarkable.
+
+**IMPRESSION:**
+1. No evidence of new or active demyelinating lesions.
+2. Stable mild cerebral atrophy without acute process.
+
+____________________________________________________________________
+
+This document has been created based on the PHI De-Identification Annotation Guidelines provided, ensuring all sensitive details have been labeled appropriately.

@@ -1,0 +1,9 @@
+Example 21:
+MRI LUMBAR SPINE WITHOUT CONTRAST dated [B-DATE]07/15/2020[O]. CLINICAL INDICATION: Persistent lower back pain and radiculopathy. HISTORY: Previous lumbar surgery [B-DATE]2018[O]. COMPARISON: MRI lumbar spine dated [B-DATE]01/10/2019[O]. TECHNIQUE: Standard non-contrast protocol was used. 
+
+FINDINGS: Post-operative changes are noted at the L4-L5 level with residual disc material and post-surgical scarring. No recurrent disc herniation. Mild degenerative changes are observed at the L3-L4 level with a broad-based disc bulge and mild bilateral facet arthropathy, without significant central canal or neural foraminal narrowing. Normal alignment of the lumbar spine without evidence of spondylolisthesis. Conus medullaris terminates normally at L1 level. No significant abnormal enhancement suggesting infection or neoplasm.
+
+IMPRESSION:
+1. Post-surgical changes at L4-L5 with no evidence of recurrent disc herniation.
+2. Mild degenerative changes at L3-L4 as described. No significant neural impingement.
+3. Recommend clinical correlation and follow-up MRI in one year, or sooner if symptoms increase.

@@ -1,0 +1,15 @@
+Example 21:
+CEREBRAL ANGIOGRAPHY 09/30/2023  
+INDICATION: Suspected vascular malformation.  
+HISTORY: Headache and episodic visual disturbances.  
+TECHNIQUE: Digital subtraction angiography was performed.  
+FINDINGS:  
+- The cerebral vasculature detail was normal from the arch through the intracranial compartment.  
+- No aneurysm, vascular malformation, or significant stenosis.  
+- The visualized portions of the anterior, middle, and posterior cerebral arteries were unremarkable without evidence of vasospasm or occlusion.  
+- Venous phase shows normal opacification with no evidence of thrombosis or anomaly.   
+IMPRESSION:  
+1. No evidence of cerebral aneurysm or vascular malformation.  
+2. Normal cerebral angiogram.  
+COMPARISON: MRI brain dated 08/05/2023.  
+FOLLOW-UP: Recommend clinical follow-up and repeat imaging if symptoms persist or worsen.

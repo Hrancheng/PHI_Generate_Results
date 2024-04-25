@@ -1,0 +1,21 @@
+Example 21:
+ECHOCARDIOGRAM REPORT dated 09/15/2021 
+CLINICAL INFORMATION: Suspected myocardial infarction. 
+TECHNIQUE: Transthoracic echocardiogram (TTE) was performed with the use of a Siemens Acuson SC2000 echocardiography system. 
+FINDINGS: 
+1. Left ventricular systolic function is mildly reduced with an estimated ejection fraction of 45%.
+2. No significant wall motion abnormalities noted. 
+3. The left atrial size is normal. Right chambers are normal in size and function.
+4. The mitral valve appears structurally normal with mild regurgitation.
+5. The aortic valve is trileaflet with no stenosis and trivial regurgitation.
+6. No pericardial effusion or intracardiac thrombus identified.
+IMPRESSION:
+1. Mildly reduced left ventricular ejection fraction.
+2. Mild mitral regurgitation.
+3. No evidence of significant aortic stenosis or pericardial effusion.
+RECOMMENDATIONS:
+- Clinical follow-up and repeat echocardiogram in one year.
+- Continue medical management as per current guidelines.
+------------------------------------------------------------------------ -------------
+Clinical documentation provided by the cardiology unit at Grand Mercy Hospital. Patient consultation and results discussion coordinated by Dr. Emily Turner, MD through secure medical communications.
+Please confirm the next review appointment scheduled for 09/15/2022 with Dr. Emily Turner by contacting cardio.appointments@grandmercy.org.

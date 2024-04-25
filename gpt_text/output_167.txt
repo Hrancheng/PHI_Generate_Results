@@ -1,0 +1,7 @@
+Example 21:
+MRI OF THE BRAIN WITHOUT AND WITH CONTRAST, [B-DATE]9/14/2022[O]. INDICATION: [B-AGE]58-year-old[O] male presenting with headaches and recent onset of visual disturbances. COMPARISON: Previous CT scan dated [B-DATE]8/1/2022[O]. TECHNIQUE: MRI was performed on a 3 Tesla machine utilizing both T1 and T2 sequences, with and without IV contrast administration. FINDINGS: 
+The MRI scan of the brain demonstrates no evidence of acute infarction. The ventricles and sulci are within normal limits for patient's age. There is a 2.4 cm enhancing mass located in the right occipital lobe. This mass has characteristics suggestive of a primary brain tumor, likely a glioma. There are no signs of significant midline shift. The basal cisterns are open and there are no signs of hydrocephalus. The diffusion-weighted imaging does not show restricted diffusion in the lesion suggesting it is likely a high-grade malignancy. There is no evidence of hemorrhage within or surrounding the lesion. Enhanced MR angiography shows normal vascular anatomy without evidence of significant vessel encasement. 
+IMPRESSION: 
+1. 2.4 cm enhancing mass in the right occipital lobe suggestive of high-grade glioma. 
+2. No evidence of acute infarction or significant midline shift. 
+3. Suggested follow-up with neurosurgery for management including possible biopsy to determine the exact histological diagnosis.

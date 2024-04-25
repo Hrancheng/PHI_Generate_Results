@@ -1,0 +1,22 @@
+Example 21:
+CT ABDOMEN AND PELVIS WITH CONTRAST [B-DATE]07/25/2021[O]. 
+CLINICAL INDICATION: Evaluate for abdominal pain and known pancreatic mass.
+TECHNIQUE: Helical CT performed from diaphragm to pubic symphysis with 100 mL of IV contrast.
+FINDINGS:
+- Pancreas: Previously noted 3 cm mass in the head of the pancreas, currently measures 3.2 cm. No new lesions.
+- Liver: No hepatic lesions or biliary dilation.
+- Gallbladder: Normal in appearance, no stones.
+- Spleen: Unremarkable.
+- Kidneys: Normal size, contour, and enhancement. No hydronephrosis or stones.
+- Aorta and Major Branches: Unremarkable.
+- Gastrointestinal Tract: No bowel obstruction or focal colonic lesion.
+- Adrenal Glands: Normal.
+- Pelvis: No lytic or blastic lesions.
+
+IMPRESSION:
+1. Stable pancreatic head mass, slightly increased in size.
+2. No new intra-abdominal or pelvic pathology.
+
+Additional Notes:
+- Follow-up MRI recommended for detailed evaluation of the pancreatic mass.
+- Continue with clinical follow-up and routine labs.

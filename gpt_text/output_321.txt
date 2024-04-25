@@ -1,0 +1,6 @@
+Example 21:
+MRI BRAIN WITH AND WITHOUT CONTRAST, dated [B-DATE]09/15/2021[O]. CLINICAL INDICATION: Evaluation for possible demyelinating disease due to recent onset of vision loss in the left eye. COMPARISON: Prior MRI dated [B-DATE]01/20/2021[O]. TECHNIQUE: MRI of the brain was performed with and without intravenous contrast. Axial, coronal, and sagittal images were obtained using standard brain sequences at 3 Tesla including FLAIR, T1, T2, DWI, and post-contrast T1 sequences.
+
+FINDINGS: There is a new 0.6 cm enhancing lesion within the periventricular white matter of the left occipital lobe, which was not evident on the previous MRI. No significant mass effect or midline shift. The previously noted white matter lesions in the frontal lobes are unchanged and do not show enhancement, consistent with chronic findings. No new lesions in other brain regions. Normal appearance of the brainstem, cerebellum, and ventricles. Nothing in the sella or parasellar regions. 
+
+IMPRESSION: IMPRESSION: 1. New demyelinating lesion in the left occipital lobe suggesting disease progression. 2. Stable chronic lesions in the frontal lobes. 3. No evidence of tumefactive demyelination or other mass lesion. Follow-up MRI recommended in six months or sooner if clinical symptoms worsen.

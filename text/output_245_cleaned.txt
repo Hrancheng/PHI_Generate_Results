@@ -1,0 +1,10 @@
+Example 21:
+ULTRASOUND ABDOMEN COMPLETE 08/15/2019 10:30 AM INDICATION: Evaluation for hepatosplenomegaly and ascites. 
+COMPARISON: Ultrasound dated 07/10/2018. 
+FINDINGS: The liver is enlarged measuring 17 cm in span and demonstrates increased echogenicity consistent with steatosis. No discrete hepatic lesion is identified. The portal and hepatic veins appear patent with normal doppler waveforms. 
+The gallbladder is physiologically distended without evidence of cholelithiasis or cholecystitis. 
+The spleen is mildly enlarged measuring 12 cm and shows homogeneous echopattern. 
+The pancreas is visualized and appears unremarkable with no evidence of mass or ductal dilatation.
+Both kidneys are normal in size with clear corticomedullary differentiation; no hydronephrosis or stones are noted. The right kidney measures 11.2 cm and the left kidney measures 10.8 cm. 
+A small amount of free fluid is noted in the pelvis; no significant ascites.
+IMPRESSION: 1. Hepatomegaly with steatosis. 2. Mild splenomegaly. 3. Small volume of pelvic free fluid. No significant ascites.

@@ -1,0 +1,17 @@
+Example 21:
+**MRI BRAIN WITH AND WITHOUT CONTRAST** dated [B-DATE]11/11/2021[O].  
+**CLINICAL INDICATION**: H/O migraine; evaluate for neurological changes.  
+**TECHNIQUE**: MRI was performed utilizing a high-resolution 3T scanner. T1, T2, FLAIR sequences, and diffusion-weighted images were obtained through the brain, followed by administration of 10ml Gadovist contrast.  
+**COMPARISON**: MRI Brain dated [B-DATE]12/07/2019[O].  
+**FINDINGS**:  
+1. No significant interval change in the appearance of the cerebral cortex and no new focal abnormality on the FLAIR sequences.  
+2. The pituitary gland and stalk are normal in entirety without evidence of hypertrophy or lesions.  
+3. The ventricular system remains unchanged with normal configuration and size.  
+4. No evidence of acute infarct or hemorrhage.  
+5. Post-contrast images show no abnormal enhancement.  
+6. Visualized orbits, and paranasal sinuses are unremarkable.
+
+**IMPRESSION**:   
+1. Stable MRI of the brain with no acute intracranial pathology.  
+2. Continuation of current management for migraines is recommended.  
+3. Follow-up as clinically indicated.

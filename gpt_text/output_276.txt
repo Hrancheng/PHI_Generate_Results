@@ -1,0 +1,4 @@
+Example 21:
+CHEST X-RAY PORTABLE [B-DATE]4/15/2021[O] 10:30 AM CLINICAL INDICATION: Evaluate for potential pneumonia. HISTORY: Recent COVID-19 diagnosis. COMPARISON: Chest x-ray dated [B-DATE]3/28/2021[O]. TECHNIQUE: Portable anterior-posterior chest x-ray performed without complications. FINDINGS: The lungs show increased bilateral interstitial markings with subtle opacities in the lower lobes suggesting possible infectious processes. No pleural effusion or pneumothorax is identified. Heart size is normal. IMPRESSION: 1. No definite evidence of pneumonia, though findings are suspicious given recent COVID-19 diagnosis. Suggest clinical correlation with symptoms and possibly follow-up imaging if symptoms persist. 2. No acute cardiopulmonary process identified.
+
+

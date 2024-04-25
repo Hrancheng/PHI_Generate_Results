@@ -1,0 +1,17 @@
+Example 21:
+MRI OF THE BRAIN WITH AND WITHOUT CONTRAST [B-DATE]10/24/2019[O]
+CLINICAL INDICATION: Headache, rule out mass.
+COMPARISON: CT head [B-DATE]9/1/2019[O]
+TECHNIQUE: Multiparametric MRI performed with diffusion, perfusion, and spectroscopy, both with and without 15 mL Gadavist.
+FINDINGS: 
+- The MRI reveals a well-circumscribed lesion measuring 2 cm x 3 cm in the right frontal lobe which is hyperintense on T2 and hypointense on T1. 
+- No significant edema or mass effect is observed. 
+- No midline shift. 
+- The ventricular system is normal and basal cisterns are preserved.
+- Spectroscopy shows increased Cho/Cr ratio indicative of high cellular activity. 
+- Perfusion imaging reveals elevated rCBV within the lesion consistent with a high-grade glioma.
+- No evidence of additional intra or extra-axial lesions.
+IMPRESSSION:
+1. New right frontal lobe lesion consistent with high-grade glioma.
+2. No evidence of metastatic disease or additional intracranial pathology.
+3. Neurosurgical consultation recommended for possible biopsy.

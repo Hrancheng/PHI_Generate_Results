@@ -1,0 +1,2 @@
+Example 21:
+URINALYSIS REPORT dated [B-DATE]01/15/2021[O]. CLINICAL INDICATION: Suspected urinary tract infection. COMPARISON: None TECHNIQUE: Standard urinalysis protocol employed. FINDINGS: The urine appears clear. Specific Gravity: 1.018. pH: 6.5. No blood detected. Negative for nitrites. Leukocyte esterase: Positive. Microscopic examination: Moderate amount of white blood cells observed. Few bacteria seen. No casts or crystals. IMPRESSION: IMPRESSION: 1. Urine findings are suggestive of a urinary tract infection. Appropriate antibiotic therapy is recommended.
