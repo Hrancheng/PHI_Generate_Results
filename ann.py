@@ -36,16 +36,16 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     matches = re.findall(pattern, text)
 
     # Initialize cleaned HTML text
-    cleaned_html = """
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cleaned Text</title>
-    </head>
-    <body>
-    """
+    # cleaned_html = """
+    # <!DOCTYPE html>
+    # <html lang="en">
+    # <head>
+    # <meta charset="UTF-8">
+    # <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    # <title>Cleaned Text</title>
+    # </head>
+    # <body>
+    # """
 
     # Counter for word indices
     index = 1
@@ -58,26 +58,26 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
         end_index = start_index + len(word)
         
         # Generate HTML for the word with red color and superscript index
-        word_html = f'<span style="color:red">{word}<sup>{index}</sup></span>'
+        # word_html = f'<span style="color:red">{word}<sup>{index}</sup></span>'
         
         # Replace the word in the cleaned_html with the styled version
-        cleaned_html += cleaned_text_copy[:start_index] + word_html
+        # cleaned_html += cleaned_text_copy[:start_index] + word_html
         cleaned_text_copy = cleaned_text_copy[end_index:]
         
         # Increment index for the next word
         index += 1
 
     # Append any remaining text to cleaned_html
-    cleaned_html += cleaned_text_copy
+    # cleaned_html += cleaned_text_copy
 
-    cleaned_html += """
-    </body>
-    </html>
-    """
+    # cleaned_html += """
+    # </body>
+    # </html>
+    # """
 
     # Write the cleaned HTML text to the output file
-    with open(output_file_html, 'w') as file:
-        file.write(cleaned_html)
+    # with open(output_file_html, 'w') as file:
+    #     file.write(cleaned_html)
     
     #######################################################################
 
