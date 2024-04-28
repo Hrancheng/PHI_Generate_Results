@@ -1,0 +1,53 @@
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Michael Thompson[O]  
+MRN #: [B-ID]987654321[O]  
+Age: [B-AGE]54 y.o.[O]  
+
+Admission Date: [B-DATE]08/15/2023[O]  
+Discharge Date: [B-DATE]08/25/2023[O]  
+Attending Provider: Dr. [B-NAME]Sarah Connors[O]  
+Admitting Diagnosis: Acute Cholecystitis  
+Discharge Diagnosis: Resolved Acute Cholecystitis  
+Hospital Service: General Surgery  
+
+**Hospital Course:**  
+Mr. [B-NAME]Thompson[O] was admitted with severe abdominal pain and diagnosed with acute cholecystitis. He underwent a laparoscopic cholecystectomy on [B-DATE]08/16/2023[O], which was uncomplicated. Post-operatively, the patient received IV antibiotics and pain management, responding well without any significant issues. His recovery was smooth, and his diet was gradually escalated from liquids to solids as tolerated without complaints. Inflammatory markers improved, and he remained afebrile throughout his stay. Discharge was planned as patient met all criteria for successful recovery.
+
+**Medications on Admission:**  
+None
+
+**Medications on Discharge:**  
+1. Acetaminophen 500 mg Tablet - Take 1 tablet by mouth every 6 hours as needed for pain.  
+2. Ibuprofen 400 mg Tablet - Take 1 tablet by mouth every 8 hours as needed for pain.
+
+**Allergies:**  
+No known drug allergies.
+
+**Follow-Up Appointments:**  
+General Surgery follow-up with Dr. [B-NAME]Sarah Connors[O] on [B-DATE]09/02/2023[O] at [B-ORGANIZATION]City General Hospital[O].
+
+**Diet:**  
+Regular diet as tolerated.
+
+**Activity:**  
+Light activity recommended for the next 2 weeks. No heavy lifting.
+
+**Other Instructions:**  
+Patient educated on signs of infection, proper wound care, and when to seek immediate medical attention. Mr. [B-NAME]Thompson[O] verbalized understanding and agreed to follow all discharge instructions.
+
+**Condition at Discharge:**  
+Stable for discharge. The patient is comfortable, with pain well-controlled on oral medications. He is ambulating independently, and vital signs are within normal limits.
+
+**Next Steps:**  
+Should return to the ER or contact the surgery team if he experiences fever, uncontrolled pain, redness or discharge around the wound site, or any signs of infection.
+
+**Discharge Coordinator:**  
+[B-NAME]Linda Grey[O], RN
+
+**Signature:**  
+Signed by: Dr. [B-NAME]Sarah Connors[O]  
+Date: [B-DATE]08/25/2023[O]  
+Time: 2:00 PM
+
+Please note that this discharge summary contains all necessary appointments and instructions to ensure continuity of care and recovery. The patient's primary care provider has been notified of the discharge and has all pertinent information related to this hospitalization.

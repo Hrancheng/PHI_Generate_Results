@@ -1,0 +1,67 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Matthew Harper[O]
+
+**MRN:** [B-ID]987654321[O]
+
+**Age:** [B-AGE]52 years old[O]
+
+**Admission Date:** [B-DATE]October 15, 2023[O]
+
+**Discharge Date:** [B-DATE]October 22, 2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Elaine Morrison[O]
+
+**Hospital Service:** General Internal Medicine
+
+**Admission Diagnosis:**
+1. Acute cholecystitis
+2. Chronic hypertension
+
+**Procedures:**
+- Laparoscopic Cholecystectomy performed on [B-DATE]October 16, 2023[O]
+
+**Hospital Course:**
+Mr. [B-NAME]Matthew Harper[O] was admitted with a diagnosis of acute cholecystitis. He underwent successful laparoscopic cholecystectomy under the care of Dr. [B-NAME]Elaine Morrison[O]. Post-operative course was uneventful with good control of post-operative pain using IV acetaminophen and oral ibuprofen. His hypertension was well-managed with oral lisinopril. He tolerated a regular diet from post-op day 2. His surgical incisions are clean, dry, and intact with no signs of infection.
+
+**Consultations:**
+Nutrition and pain management teams consulted to aid in post-operative recovery and dietary adjustments.
+
+**Discharge Medications:**
+- Lisinopril 20 mg, one tablet orally once daily
+- Ibuprofen 400 mg, one tablet orally every 6 hours as needed for pain
+- Acetaminophen 500 mg, one tablet orally every 6 hours as needed for fever or pain
+
+**Follow-Up Appointments:**
+1. General Surgery outpatient clinic on [B-DATE]November 5, 2023[O]
+2. Primary Care Provider, Dr. [B-NAME]Susan Lee[O], for hypertension follow-up on [B-DATE]November 10, 2023[O]
+
+**Instructions for Patient:**
+Mr. [B-NAME]Harper[O] is advised to avoid heavy lifting and strenuous activities for 4 weeks. He should report any signs of infection, unusual pain, or any other concerns immediately to his providers. A low-fat diet recommended by the nutrition team should be followed during recovery.
+
+**Condition at Discharge:**
+Stable with all vital signs within normal limits; the patient is ambulatory and reports minimal pain.
+
+**Discharge by:**
+Dr. [B-NAME]Elaine Morrison[O], [B-DATE]October 22, 2023[O] at 2:00 PM.
+
+**Contact Information:**
+General Surgery Clinic: [B-PHONE]555-123-4567[O]
+Dr. [B-NAME]Susan Lee[O]'s Office: [B-PHONE]555-987-6543[O]
+
+**Last Recorded Vital Signs:**
+- BP: 132/82 mmHg
+- Pulse: 74/min
+- Temp: 98.6 °F
+- Resp: 16/min
+- O2 Sat: 98% on room air
+
+**Significant Lab Results:**
+- WBC count: 11,000/uL at admission, normalized to 7,500/uL on discharge
+- Liver function tests: Normal post-operation
+
+*This summary has been reviewed and approved by the attending physician and the patient has acknowledged all discharge instructions and follow-up care.*
+
+--- 
+
+This summary outlines the essential components of a typical discharge summary while ensuring that all personal health information (PHI) is appropriately labeled for confidentiality. This facilitates clear communication and continuity of care while complying with privacy regulations.

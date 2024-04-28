@@ -1,0 +1,49 @@
+Inpatient Discharge Summary
+—————————————————————————————————————
+
+Patient Name: [B-NAME]Elizabeth Johnson[O]
+MRN#: [B-ID]287654321[O]
+[B-AGE]54 years old[O] [B-DATE]female[O], was admitted to the Cardiology Service for evaluation and management of new-onset atrial fibrillation and heart failure.
+
+Admission Date: [B-DATE]September 15, 2023[O]
+Discharge Date: [B-DATE]September 22, 2023[O]
+Attending Provider: Dr. [B-NAME]Michael Smith[O]
+Treatment Team: Cardiology Service
+
+—— Past Medical History ——
+Hypertension, diabetes mellitus type 2, dyslipidemia
+
+—— Hospital Course ——
+Ms. [B-NAME]Johnson[O] presented to the Emergency Department on [B-DATE]September 15, 2023[O], complaining of palpitations and shortness of breath. An EKG performed upon arrival revealed atrial fibrillation with a rapid ventricular rate. She was started on IV diltiazem, which successfully controlled her heart rate. She was admitted for further management of her atrial fibrillation and underlying heart failure.
+
+Echocardiography showed a reduced ejection fraction of 40%, indicative of heart failure. Ms. [B-NAME]Johnson[O] was started on lisinopril and metoprolol for heart failure management and rate control in atrial fibrillation. Anticoagulation therapy was initiated using apixaban to reduce stroke risk.
+ 
+Throughout her stay, her blood glucose levels were managed with an adjusted insulin regimen, and dietary adjustments were made by consulting the nutrition team. 
+
+Discharge medications included lisinopril, metoprolol, apixaban, and a sliding scale insulin regimen. Her diabetes medications were adjusted, discontinuing metformin and initiating a low dose of long-acting insulin at bedtime.
+
+Her condition stabilized, and she was scheduled for a follow-up in the outpatient cardiology clinic on [B-DATE]October 2, 2023[O].
+
+—— Discharge Medications ——
+1. Lisinopril 10 mg, once daily
+2. Metoprolol tartrate 50 mg, twice daily
+3. Apixaban 5 mg, twice daily
+4. Insulin glargine 10 units, at bedtime
+
+—— Follow-up ——
+Ms. [B-NAME]Johnson[O] is scheduled to follow up with her primary care physician, Dr. [B-NAME]Laura Davis[O], on [B-DATE]October 2, 2023[O], and with Cardiology on [B-DATE]October 10, 2023[O]. She has been referred to the heart failure clinic and will also participate in the community-based Diabetic Support Group, [B-ORGANIZATION]Health Partners Community Wellness Program[O].
+
+—— Education ——
+Patient educated about the importance of medication adherence, monitoring her blood pressure and blood sugar at home, and recognizing signs of heart failure exacerbation. She was instructed on the use of a home blood pressure monitor and a glucometer.
+
+—— Discharge Condition ——
+Ms. [B-NAME]Johnson[O] was discharged in stable condition with an improved ejection fraction and controlled blood glucose levels. She reported understanding all discharge instructions and expressed her confidence in managing her conditions at home with the support of her family and outpatient providers.
+
+Signed:
+Dr. [B-NAME]Michael Smith[O], MD [B-DATE]September 22, 2023[O], [B-LOCATION]12:45 PM[O]
+[B-NAME]Nancy Lee[O], RN
+Cardiology Service
+
+[B-DATE]Contact Info:
+Cardiology Clinic: [B-PHONE]555-123-4567[O]
+Diabetes Support Group: [B-PHONE]555-987-6543[O]

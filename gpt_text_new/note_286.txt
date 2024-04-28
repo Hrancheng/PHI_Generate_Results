@@ -1,0 +1,55 @@
+**Jackson Memorial Hospital**
+
+**Inpatient Discharge Summary**
+
+**[B-NAME]Eleanor Turner[O], MRN# [B-ID]728493214[O], is a [B-AGE]65 y.o.[O]** female, admitted to the Cardiology service for investigation of chest pain and management of newly diagnosed atrial fibrillation. 
+
+**Admission Date**: [B-DATE]9/12/2023[O] 
+**Discharge Date**: [B-DATE]9/18/2023[O] 
+**Attending Provider**: Dr. [B-NAME]Ian Clarke[O] 
+
+---
+
+### Discharge Medications:
+1. Metoprolol 50 mg tablet twice daily
+2. Warfarin 5 mg tablet daily; INR monitoring required
+3. Aspirin 81 mg tablet daily
+
+### Summary of Hospital Course:
+**[B-NAME]Eleanor Turner[O]** presented to the ER on [B-DATE]9/12/2023[O] with complaints of intermittent, severe chest pain over the past week. She was found to be in atrial fibrillation with a rapid ventricular response on the initial EKG. 
+
+Initial management included rate control with IV metoprolol and anticoagulation with heparin, transitioned to warfarin for long-term management. A transthoracic echocardiogram showed left atrial enlargement but no significant valvular disease. Cardiac catheterization indicated minor coronary artery disease not requiring intervention.
+
+Throughout her stay, [B-NAME]Eleanor[O] remained hemodynamically stable with improvement in chest pain and heart rate control. Her anticoagulation levels were consistently within therapeutic range.
+
+### Instructions for Patient at Discharge:
+- Continuation of warfarin with regular INR checks. First check scheduled for [B-DATE]9/20/2023[O] at [B-ORGANIZATION]Downtown Labs[O].
+- Follow-up appointment with Cardiology on [B-DATE]10/02/2023[O] at the outpatient clinic.
+- Daily monitoring of heart rate and blood pressure at home.
+
+**Dietary Instructions**:
+Advised to follow a heart-healthy diet low in saturated fats and sodium. Encouraged weight management and moderate-intensity exercise as tolerated.
+
+**Activity**:
+Gradual return to normal activity advised; avoid strenuous activity until cleared by a cardiologist during follow-up visit.
+
+**Symptom Monitoring**:
+Instructed to return to the hospital or contact a healthcare provider immediately if symptoms such as chest pain, shortness of breath, increased swelling in the legs, or dizziness occur.
+
+### Discharge Follow-Up Appointments:
+1. Warfarin clinic at [B-ORGANIZATION]Heart Health Services[O] on [B-DATE]9/20/2023[O]
+2. Cardiology outpatient clinic on [B-DATE]10/02/2023[O]
+
+**Clinic Address**: [B-ADDRESS]123 Heartbeat Lane, Tampa, FL 33607[O]
+**Clinic Phone**: [B-PHONE]813-555-9876[O]
+
+### Discharge Condition:
+The patient's condition at discharge is stable with ongoing management of atrial fibrillation expected to continue on an outpatient basis. The patient understands her discharge instructions and signs of symptom recurrence to watch for. 
+
+**Discharge Coordinator**: [B-NAME]Mia Grant, RN[O]
+
+**Discharge Time**: [B-DATE]9/18/2023[O] at 11:00 AM
+
+---
+
+This summary is a confidential health document intended for use by [B-NAME]Eleanor Turner[O] and her designated healthcare providers. Unauthorized use is strictly prohibited.

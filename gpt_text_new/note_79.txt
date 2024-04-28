@@ -1,0 +1,58 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- Patient Name: [B-NAME]Eleanor Carter[O]
+- Date of Birth: [B-DATE]July 23, 1954[O]
+- Date of Admission: [B-DATE]March 12, 2023[O]
+- Date of Discharge: [B-DATE]March 20, 2023[O]
+- Age: [B-AGE]68 years old[O]
+
+**Admission Diagnosis:**
+- Acute decompensated heart failure
+
+**Hospital Course:**
+[B-NAME]Eleanor Carter[O] was admitted to [B-ORGANIZATION]City General Hospital[O] following a presentation of shortness of breath, orthopnea, and bilateral lower extremity edema. Initial echocardiogram showed reduced ejection fraction of 35%. The patient was managed with diuretics to achieve euvolemia, followed by optimization of heart failure medications. Her condition stabilized, allowing for planned discharge.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg daily
+- Carvedilol 12.5 mg twice daily
+- Furosemide 40 mg daily
+
+**Discharge Instructions:**
+Patient advised to follow a low-salt diet, monitor weight daily, and keep legs elevated whenever seated. [B-NAME]Eleanor Carter[O] is instructed to follow up with her cardiologist, [B-NAME]Dr. Helen Mirren[O], at her practice located in [B-ADDRESS]123 Heart Health Way, Springfield, IL 62704[O] on [B-DATE]March 27, 2023[O].
+
+**Follow-up Appointments:**
+- [B-NAME]Dr. Helen Mirren[O], Cardiology follow-up on [B-DATE]March 27, 2023[O] at 10:00 AM.
+
+**Activity Level:**
+Increase activity as tolerated.
+
+**Diet:**
+Low sodium, fluid restriction of 1.5 liters per day.
+
+**Pending Lab and Imaging Results:**  
+- Blood Urea Nitrogen and Serum Electrolytes to be checked during follow-up visit.
+
+**Consultations:**
+- Nutritionist: [B-NAME]Amy Schumer[O] for dietary counseling.
+- Physical Therapy: Evaluations and recommendations provided by [B-NAME]PT. David Williams[O].
+
+**Discharge Condition:**
+Improved. The patient is stable with plans for outpatient management.
+
+**Responsible Provider at Discharge:**
+- Physician: [B-NAME]Dr. Helen Mirren[O]
+- Nurse Practitioner: [B-NAME]Sarah K. Johnson[O]
+- Contact Number: [B-PHONE]555-123-4567[O] (office)
+
+**Additional Notes:**
+Patient was counseled on recognition of heart failure signs and symptoms including worsening edema, increasing shortness of breath, and weight gain of >3 pounds in a day or 5 pounds in a week. Immediate contact with healthcare provider is recommended if these symptoms occur.
+
+**Code Status:**
+Full
+
+**Elder Care and Safety Considerations:**
+- Home safety evaluation was recommended and will be completed by [B-ORGANIZATION]Community Health Assist[O].
+
+**Signature:**
+Signed electronically by [B-NAME]Dr. Helen Mirren[O] on [B-DATE]March 20, 2023[O] at 14:45 PM.

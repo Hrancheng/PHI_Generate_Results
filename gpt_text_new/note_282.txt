@@ -1,0 +1,63 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Emily T. Waters[O]
+
+**MRN:** [B-ID]398652875[O]
+
+**Age:** [B-AGE]58 years[O]
+
+**Admission Date:** [B-DATE]7/12/2023[O]
+
+**Discharge Date:** [B-DATE]7/20/2023[O]
+
+**Attending Physician:** Dr. [B-NAME]Michael R. Thompson[O]
+
+**Hospital Service:** General Medicine
+
+**Admission Diagnosis:**
+- Acute exacerbation of chronic heart failure 
+- Hypertensive urgency
+
+**Discharge Diagnosis:**
+- Chronic heart failure, stabilized 
+- Hypertension, controlled
+
+**Hospital Course:**
+[B-NAME]Emily[O] was admitted following an episode of severe shortness of breath and chest pain at home. On admission, her blood pressure was elevated, at 190/110 mmHg, and she was in moderate respiratory distress. She responded well to IV diuretics and antihypertensive management. Cardiology was consulted, and she underwent a coronary angiogram that showed no new significant blockages. Her medication regimen was adjusted, adding a new beta-blocker and optimizing her diuretic therapy. She participated in daily heart failure education classes and was able to ambulate around the ward with minimal assistance by the time of discharge. 
+
+**Treatment Team Contacts:**
+- Cardiology: SA1 FLOOR CALLS - PAGER [B-ID]15340[O]
+  
+**Discharge Medications:**
+- Furosemide 40 mg tablet: Take 1 tablet by mouth twice daily
+- Lisinopril 20 mg tablet: Take 1 tablet by mouth once daily
+- Metoprolol succinate 50 mg: Take 1 tablet by mouth twice daily
+
+**Activities:**
+Moderate activity as tolerated, avoid lifting weights over 10 pounds for the next 2 weeks.
+
+**Diet:**
+Low salt and fluid restricted to 1.5 liters per day.
+
+**Follow-Up Appointments:**
+- Dr. [B-NAME]Michael R. Thompson[O], cardiology follow-up on [B-DATE]8/1/2023[O] at [B-ADDRESS]450 Clinic Lane, Suite 230, Springfield[O]
+- Heart Failure Clinic on [B-DATE]8/5/2023[O] for education and management optimization.
+
+**Discharge Instructions:**
+The patient is advised to weigh herself daily and report a weight gain of more than 3 pounds in a day or 5 pounds in a week. She should continue to monitor her blood pressure and keep a log to be reviewed at her follow-up appointments. She is advised to call the cardiology team if she experiences increasing shortness of breath, chest pain, or any new symptoms.
+
+**Last Recorded Vital Signs:**
+- BP 132/80mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 per minute
+- Temperature: 98.6 F (Oral)
+
+**Condition at Discharge:**
+Stable for discharge to home. Will follow up as indicated, returns to ER if symptoms worsen or new symptoms appear.
+
+**Discharge By:**
+[B-NAME]Laura H. Gibson, M.D[O] [B-DATE]7/20/2023[O], Supervising Discharge Physician
+[B-ORGANIZATION]Springfield Medical Center[O] 
+
+**Clinical Note:**
+The patient and family expressed understanding of the discharge plan and verbalized being comfortable with returning home. She is equipped with the necessary resources and emergency contact numbers. A follow-up phone call is scheduled for [B-DATE]7/22/2023[O] to reassess her condition.

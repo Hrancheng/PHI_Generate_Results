@@ -1,0 +1,57 @@
+Inpatient Discharge Summary
+-----------------------------
+[B-NAME]Ellen Maree Johnson[O], MRN# [B-ID]45890234[O], is a [B-AGE]78-year-old[O] female, admitted to the cardiology service for management of acute coronary syndrome and congestive heart failure. 
+
+Admission Date: [B-DATE]07/21/2023[O] 
+Discharge Date: [B-DATE]07/30/2023[O] 
+
+Attending Provider: Dr. [B-NAME]Amit Patel[O]
+Treatment Team: Cardiology Team A
+
+Hospital Problems Noted - Resolved: 
+- Acute Coronary Syndrome ([B-DATE]07/21/2023[O] - [B-DATE]07/23/2023[O], Resolved)
+- Congestive Heart Failure, Acute on Chronic ([B-DATE]07/21/2023[O] - Present)
+
+Patient’s Stay Overview:
+[B-NAME]Ellen[O] was brought to the hospital following a witnessed syncope at home. Upon arrival via EMS, she was experiencing shortness of breath and acute chest pain. Initial EKG revealed new T-wave inversions in the anterior leads and troponin levels were elevated. Admitted to cardiology for further management and monitoring. 
+
+Significant interventions included coronary angiography which identified significant three-vessel coronary artery disease. She underwent successful triple coronary artery bypass surgery on [B-DATE]07/24/2023[O]. Her post-operative course was complicated by low output syndrome, requiring inotropic support which was successfully tapered as her condition stabilized.
+
+Discharge Medications:
+- Aspirin 81 mg, daily
+- Lisinopril 10 mg, daily
+- Atorvastatin 40 mg, nightly
+- Furosemide 40 mg, twice daily
+- Spironolactone 25 mg, daily
+
+Follow-up Appointments:
+- Cardiology follow-up with Dr. [B-NAME]Amit Patel[O] on [B-DATE]08/10/2023[O] at [B-ORGANIZATION]City Hospital Cardiology Clinic[O].
+- Primary care follow-up within two weeks post-discharge to be scheduled by patient with [B-NAME]Dr. Susan Lee[O].
+
+Discharge Instructions:
+- Maintain a low salt diet.
+- Continue physical therapy exercises as prescribed.
+- Monitor weight daily; report any increases of more than 3 pounds in a day to the healthcare provider.
+- Adhere to the prescribed medication regimen without alteration unless consulted by a healthcare provider.
+
+Discharge Condition: Stable, with improved cardiac function and controlled symptoms.
+
+Last Recorded Vital Signs:
+- Blood Pressure: 130/85
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Respiration Rate: 16 per minute
+- Oxygen saturation: 95% on room air
+
+Counseling and Health Education:
+Patient and family educated on the importance of medication adherence, lifestyle modifications including diet and smoking cessation. Information on recognizing symptoms of heart failure exacerbation provided.
+
+Noticeable during the stay:
+- [B-NAME]Ellen[O] expressed her gratitude towards the attending staff for their care and support.
+
+Signed: [B-NAME]Amit Patel, MD[O], [B-DATE]07/30/2023[O], 11:00 AM
+Supervising Physician: [B-NAME]Laura Thompson, MD[O] 
+
+ Coordinator for Follow-up Care: [B-NAME]Jenny McCarthy[O], RN
+
+Please note: If there is any deterioration in condition, the patient or caregivers are advised to seek immediate medical attention or contact the cardiology clinic directly at [B-PHONE]555-123-4567[O].

@@ -1,0 +1,102 @@
+**Mount Sinai Hospital Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Ella Thompson[O], MRN# [B-ID]657849302[O], is a [B-AGE]58 y.o.[O] female, admitted to the Cardiology service for severe chest pain and suspected myocardial infarction.
+
+**Admission Date:** [B-DATE]March 2, 2023[O]
+
+**Discharge Date:** [B-DATE]March 12, 2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Ian Clarkson[O]
+
+**Treatment Team:** !! FIRST CONTACT !!: Cardiology Unit - PAGER [B-ID]145678[O]
+
+**Hospital Problems Noted:**
+
+- Severe chest pain [B-DATE]March 2, 2023[O] - Present Yes
+- Myocardial Infarction [B-DATE]March 3, 2023[O] - Present Yes
+
+**Resolved Problems:**
+
+RESOLVED: Hypertension [B-DATE]March 2, 2023[O] - [B-DATE]March 12, 2023[O] Yes
+
+**Recommendations for Follow Up:**
+
+Attention to Primary Care Attending: (diagnostic studies and exam findings)
+
+General follow up. To Do's for Referring / Subspecialty Provider(s):
+
+Cardiology: Follow-up appointment on [B-DATE]March 25, 2023[O].
+
+Endocrinology: Follow up scheduled for [B-DATE]April 5, 2023[O].
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+
+Contact information for follow-up Physician, Self-Refer Or No PCP/Referring
+
+Next Steps: Follow up [B-ORGANIZATION]Evergreen Health Solutions[O] [B-PHONE]264-555-9012[O]
+
+Next Steps: Follow up Instructions: [B-NAME]James Peterson[O] will communicate additional dietary guidelines to your email.
+
+[B-NAME]Sandra Lee[O], MD
+
+**Significant Test or Procedure Results:**
+
+Coronary Angiography Result Date: [B-DATE]March 3, 2023[O]
+
+PROCEDURE: Coronary angiography 
+CLINICAL INDICATION: Acute myocardial infarction with severe chest pain
+COMPARISON: None
+IMPRESSION: Critical stenosis in the proximal left anterior descending artery.
+**Recommendation**: Immediate percutaneous coronary intervention (PCI) recommended.
+
+**Discharged Medications:**
+
+Start taking as prescribed:
+- Aspirin 81 mg tablet Refills: 0
+  81 mg, Oral, ONCE DAILY
+- Atorvastatin 20 mg tablet Refills: 0
+  20 mg, Oral, ONCE DAILY
+- Metoprolol 50 mg tablet Refills: 1
+  50 mg, Oral, TWICE DAILY
+
+**Concussion Management Plan (if applicable): N/A**
+
+**LACE - Readmission Risk Score:** Total Score 12 (Last filed: [B-DATE]March 13, 2023[O] 1000)
+
+11 Length of Stay
+1 Acute Admission
+0 Charleson Comorbidity Score
+0 ED Visits in last 6 months
+
+LACE is a risk assessment tool to prospectively identify patients at risk for unplanned readmission or death within 30 days of discharge. Variables contributing to the score are Length of stay, Acuity of admission (emergent vs. non-emergent), Comorbidities, and the number of Emergency department visits in the last 6 months.
+
+LACE Score Risk Level Readmission Rate - 30 Day Mortality Rate - 30 Day
+10-12 High 14.7% 2.5%
+
+**Pertinent Discharge Physical Exam Findings:**
+
+General appearance: alert, appears stated age and cooperative
+Head: Normocephalic, atraumatic
+Heart: Regular rate and rhythm, no murmurs
+Lungs: Clear to auscultation bilaterally
+Abdomen: Soft, nontender, nondistended
+Extremities: No edema
+
+Scheduled Appointments:
+
+Future Appointments
+Date Time Provider Department Center
+[B-DATE]March 25, 2023[O] 10:00 AM [B-NAME]Clarkson, Ian[O], MD Cardiology Mount Sinai
+[B-DATE]April 5, 2023[O] 9:30 AM [B-NAME]Harold Fields[O], MD Endocrinology Mount Sinai
+
+Discharge Instructions: Contact information for emergency or questions, diet and activity limitations, signs and symptoms to monitor. Patient was advised to avoid stressful activities and heavy lifting. Patient understands when to seek urgent medical attention.
+
+**Educational Materials Provided:**
+Understanding Your Heart Medications
+Diet and Lifestyle Changes for Heart Health
+
+Signed: [B-NAME]Sandra Lee[O], MD, [B-DATE]March 12, 2023[O], 3:30 PM
+
+**Contact Information:**
+Cardiology Follow-Up: [B-ORGANIZATION]Evergreen Health Solutions[O], [B-PHONE]264-555-9012[O]
+Thank you for letting Mount Sinai Hospital care for you. Please follow the discharge instructions and take your medications as prescribed. If you have any issues, do not hesitate to contact us or your primary care provider.

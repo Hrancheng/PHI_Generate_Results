@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Elizabeth Turner[O], MRN#[B-ID]987654321[O], is a [B-AGE]65 y.o.[O] female admitted to the General Medicine service due to exacerbation of heart failure and poorly controlled type 2 diabetes. 
+
+**Admission Date:** [B-DATE]9/15/2023[O]  
+**Discharge Date:** [B-DATE]9/23/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Jason Corbin[O]  
+**Treatment Team:** Cardiology, Endocrinology  
+
+**Hospital Problems Noted - Resolved**  
+**Active Problems:**  
+- Heart failure [B-DATE]9/16/2023[O] - Present  
+- Type 2 diabetes [B-DATE]9/16/2023[O] - Present  
+- Hypertension [B-DATE]9/16/2023[O] - Present  
+
+Health Problems Addressed and Improved:  
+- Optimization of heart failure medications  
+- Adjustment in diabetic treatment regimen  
+- Blood pressure control achieved
+
+**Brief Hospital Course:**  
+Mrs. [B-NAME]Turner[O] presented with dyspnea and fatigue, consistent with her history of congestive heart failure exacerbated by inadequate glycemic control. On admission, her BNP was elevated, and echocardiography showed decreased ejection fraction. Her blood glucose levels were erratic, with readings ranging from 200-350 mg/dL. Treatment included IV diuretics, insulin therapy adjustments, and heart failure education. Her condition stabilized with these interventions, and she was transitioned to oral diuretics and a tailored insulin regimen. 
+
+**Discharge Medications:**  
+- Lasix 40mg daily  
+- Metformin 1000mg twice a day  
+- Insulin Glargine 40 units at bedtime  
+- Lisinopril 20mg daily
+
+**Outpatient Follow-Up:**  
+She is to follow up with her primary care provider, Dr. [B-NAME]Sara Jennings[O], [B-ORGANIZATION]Community Health Clinic[O] and her Cardiologist, Dr. [B-NAME]Michael Lin[O] at [B-ORGANIZATION]City Hospital Cardiology Clinic[O] on [B-DATE]10/01/2023[O]. 
+
+Diabetes management will continue with Endocrinology at [B-ORGANIZATION]Health Spectrum Diabetes Center[O]. Annual eye exams scheduled with [B-ORGANIZATION]Vision Health Services[O].
+
+[B-ADDRESS]123 Main St, Unit 4, Pleasantville, NJ 08232[O]  
+[B-PHONE]555-987-6543[O]  
+
+**Discharge Instructions:**  
+Mrs. [B-NAME]Turner[O] is advised to monitor her weight daily, adhere strictly to the fluid restriction of 1.5 liters per day, and follow a low-sodium diet. She should check her blood sugar levels 4 times a day and adjust her insulin as previously educated. Signs of heart failure exacerbation or hypoglycemia should prompt an immediate call to her healthcare provider or a visit to the nearest emergency department.
+
+**Latest Vital Signs:**  
+BP 122/80 | Pulse 72 | Temp 98.6 °F | Resp 16 | Ht 5' 5" | Wt 160 lb
+
+**Discharge Conditions:**  
+Mrs. [B-NAME]Turner[O] is stable with improved clinical signs related to her admission conditions. She and her daughter, [B-NAME]Emily Jackson[O], have been educated on her medications, follow-up, and when to seek immediate care. They expressed understanding and received all necessary prescriptions and appointments.
+
+**Discharge Status:** Home with family support. Mrs. [B-NAME]Turner[O] is discharged in stable condition, with home healthcare arranged to aid in her transition.
+
+---
+
+This discharge summary contains de-identified information following HIPAA guidelines and in compliance with the hospital's patient confidentiality protocols. Any concerns or discrepancies with this summary should be directed to the patient's primary care provider.
+

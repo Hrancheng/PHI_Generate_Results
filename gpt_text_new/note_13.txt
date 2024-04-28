@@ -1,0 +1,58 @@
+Discharge Summary for [B-NAME]Michael Thomas[O], MRN# [B-ID]987654320[O]
+
+Patient Details:
+- [B-NAME]Michael Thomas[O]
+- MRN#: [B-ID]987654320[O]
+- [B-AGE]45-year-old[O] male
+
+Admission Date: [B-DATE]February 16, 2023[O]
+Discharge Date: [B-DATE]March 1, 2023[O]
+Attending Physician: Dr. [B-NAME]Sarah Connors[O]
+
+Allergies:
+- Penicillin
+
+Chief Complaint:
+Severe abdominal pain and vomiting.
+
+History of Present Illness:
+[B-NAME]Michael Thomas[O] presented to the emergency department on [B-DATE]February 16, 2023[O] with complaints of sharp, persistent abdominal pain and vomiting. He was evaluated and subsequently admitted for further management and investigation.
+
+Hospital Course:
+Upon admission, imaging studies including CT abdomen and pelvis were ordered and revealed a mid-sized obstructing ureteral stone. The patient underwent successful ureteroscopic stone removal on [B-DATE]February 18, 2023[O]. Post-operative recovery was uneventful, and pain was managed effectively with IV analgesics.
+
+Significant Findings:
+- CT Abdomen: Mid-sized obstructing left ureteral stone.
+- Successful ureteroscopic stone removal.
+
+Discharge Medications:
+- Tamsulosin 0.4 mg, once daily for 30 days.
+- Acetaminophen 500 mg, every 6 hours as needed for pain.
+
+Follow-up:
+Follow-up appointment scheduled with [B-NAME]Dr. Emily Stone[O], Urology, on [B-DATE]March 10, 2023[O] at [B-ORGANIZATION]City Hospital Outpatient Clinic[O].
+
+Instructions at Discharge:
+- Increase fluid intake to 2-3 liters/day to prevent new stone formation.
+- Follow the prescribed medication regimen.
+- Report immediately to ER if experiencing fever, uncontrollable pain, or symptoms indicating infection.
+
+Outpatient Providers:
+- [B-NAME]Dr. Emily Stone[O], Urologist
+
+Social Work Consult:
+Social work involvement was not necessary.
+
+Discharge Condition:
+The patient is stable and has recovered well from the procedure. He is being discharged in good condition.
+
+Follow-up Instructions:
+- [B-PHONE]Contact[O] [B-ORGANIZATION]City Hospital Outpatient Clinic[O] at [B-PHONE](555) 123-4567[O] for any concerns before the scheduled appointment.
+- Maintain sufficient hydration and follow diet adjustments as advised during the hospital stay.
+
+Signature:
+[B-NAME]Dr. Sarah Connors[O]
+Date: [B-DATE]March 1, 2023[O]
+Time: 10:00 AM
+
+This sample discharge summary incorporates various PHI categories as demonstrated, ensuring proper de-identification and confidentiality in line with HIPAA regulations.

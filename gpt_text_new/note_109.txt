@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+
+Patient: [B-NAME]Michael Thompson[O], MRN#[B-ID]987654321[O], is a [B-AGE]45-year-old[O] male, who was admitted to the trauma service following a bicycle vs. vehicle accident.
+
+**Admission Date:** [B-DATE]September 15, 2023[O]  
+**Discharge Date:** [B-DATE]September 23, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Sarah Johnson[O]  
+**Consulting Team:** Trauma, Orthopedics, Physical Therapy
+
+**Hospital Course and Treatment:**  
+Mr. [B-NAME]Thompson[O] presented with multiple traumatic injuries including a left femoral fracture and a moderate concussion. Initial management included stabilization in the ER, followed by surgical repair of the femur on [B-DATE]September 16, 2023[O] by Dr. [B-NAME]Helen Zhou[O]. Post-operative recovery was complicated by mild pneumonia, which was treated with antibiotics. Physical therapy started on post-op day 2 and progressed well.
+
+### Medications at Discharge:
+1. **Acetaminophen 650 mg** - Take 1 tablet by mouth every 6 hours as needed for pain.  
+2. **Amoxicillin 500 mg** - Take 1 capsule by mouth three times daily for 5 days.  
+
+**Allergies:** No known drug allergies.
+
+### Follow-up Appointments:
+- **Orthopedics:** Follow-up with Dr. [B-NAME]Emily White[O] on [B-DATE]September 30, 2023[O] at the Orthopedic Clinic at [B-ORGANIZATION]City Hospital Orthopedics[O].
+- **Physical Therapy:** Continue outpatient physical therapy sessions twice a week at [B-ORGANIZATION]Metro Physical Therapy Center[O], [B-ADDRESS]123 Main St, YourTown, YourState[O], starting [B-DATE]September 25, 2023[O].
+- **Primary Care Provider:** Schedule a visit with [B-NAME]Dr. Aaron Little[O] in two weeks for general health check and concussion follow-up at [B-ADDRESS]789 Health Blvd, YourTown, YourState[O].
+
+### LACE Score for Readmission Risk:
+Scoring factors included a 8-day hospital stay with one acute admission.  
+**Total Score: 10**  
+
+### Condition at Discharge:
+The patient is stable, pain is well-managed, and he is ambulating with assistance. Wounds are healing as expected.
+
+**Discharge Instructions:**
+- Keep the surgical site clean and dry.
+- Continue prescribed medications as detailed.
+- Attend all scheduled follow-up appointments.
+- Watch for signs of infection or increased pain at the injury site.
+- Contact [B-PHONE]555-123-4567[O] if any urgent issues arise.
+
+### Discharge Signature:
+Signed by: [B-NAME]Dr. Sarah Johnson[O], [B-DATE]September 23, 2023[O] at 14:00 PM.
+
+**EHR Documentation by:**
+[B-NAME]Lisa Ray[O], RN.

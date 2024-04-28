@@ -1,0 +1,59 @@
+Inpatient Discharge Summary
+
+[B-NAME]Michael Thompson[O], MRN# [B-ID]353211290[O], is a [B-AGE]41-year-old[O] male admitted to the General Medicine service for evaluation and management of a suspected peptic ulcer. 
+
+Admission Date: [B-DATE]12/01/2022[O] 
+Discharge Date: [B-DATE]12/05/2022[O] 
+Attending Provider: Dr. [B-NAME]Sarah Mitchell[O]
+Treatment Team: Medical Resident: [B-NAME]John Carter[O], Nurse: [B-NAME]Emily Watson[O]
+
+Hospital Problems Noted - Resolved:
+- Peptic Ulcer Disease [B-DATE]12/01/2022[O] - [B-DATE]12/05/2022[O] Yes
+- Gastroesophageal Reflux Disease (GERD) [B-DATE]12/01/2022[O] - [B-DATE]12/05/2022[O] Yes
+
+Resolved Problems:
+- H. pylori infection [B-DATE]12/02/2022[O] - [B-DATE]12/05/2022[O] Yes
+- Epigastric pain [B-DATE]12/01/2022[O] - [B-DATE]12/05/2022[O] Yes
+
+Other Problems:
+- Hypertension [B-DATE]12/01/2022[O] - Present Yes
+
+Recommendations for Follow-Up:
+Attention to Primary Care Attending: [B-NAME]Laura Grey[O], MD at [B-ORGANIZATION]Riverside Medical Clinic[O]
+- Follow up appointment on [B-DATE]12/12/2022[O] for H. pylori eradication therapy assessment.
+- Upper endoscopy re-evaluation scheduled for [B-DATE]01/15/2023[O].
+
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:
+- H. pylori stool antigen test on [B-DATE]12/10/2022[O].
+
+Discharge Medication List:
+- Amoxicillin 500 mg, take one tablet by mouth twice daily for 14 days.
+- Clarithromycin 500 mg, take one tablet by mouth twice daily for 14 days.
+- Lansoprazole 30 mg, take one capsule by mouth daily for 30 days.
+- Metoprolol Tartrate 50 mg, take one tablet by mouth twice daily, continued.
+
+Medications at Discharge:
+- [B-NAME]Michael Thompson[O] is to continue with his blood pressure medications as prescribed before admission.
+
+Discharge Instructions:
+- Avoid NSAIDs and alcohol to prevent exacerbation of ulcer symptoms.
+- Follow a bland diet for the next month to aid in the healing of the peptic ulcer.
+
+Next Steps and Lifestyle Adjustments:
+- Scheduled follow-up calls on [B-DATE]12/07/2022[O] and [B-DATE]12/09/2022[O] by [B-ORGANIZATION]Riverside Medical Clinic[O] nursing staff to check on symptom progression and medication adherence.
+
+Pertinent Discharge Physical Exam Findings:
+General appearance: Stable and comfortable, in no acute distress.
+Abdomen: Soft, non-tender, non-distended, no palpable masses 
+
+Significant Test or Procedure Results:
+Upper Endoscopy ([B-DATE]12/04/2022[O]) - Revealed a small peptic ulcer in the antrum; biopsies taken, pending pathology results.
+
+Last Recorded Vital Signs:
+BP 130/85 mmHg, Pulse 78 bpm, Temp 98.6 °F, Weight 185 lb, SpO2 98% on room air.
+
+Discharge Condition:
+Stable for discharge, to follow up as per the plan with primary care and gastroenterology.
+Discharge Status: Cleared to return home under the care of his family member, [B-NAME]Samantha Thompson[O].
+
+All hospital care providers concur with the discharge plan, and there are no pending tests requiring inpatient stay. A copy of the full discharge instructions has been provided to the patient and his caregiver, alongside prescriptions for ongoing medications. A follow-up outpatient appointment has been scheduled accordingly.

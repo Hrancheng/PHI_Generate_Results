@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- Name: [B-NAME]Elizabeth Thompson[O]
+- Age: [B-AGE]58 years old[O]
+- Date of Admission: [B-DATE]September 5, 2023[O]
+- Date of Discharge: [B-DATE]September 20, 2023[O]
+- Hospital Service: General Internal Medicine
+- Attending Physician: Dr. [B-NAME]Helen Choi[O]
+- MRN: [B-ID]987654321[O]
+
+**Hospital Course:**
+[B-NAME]Elizabeth Thompson[O] was admitted with a diagnosis of community-acquired pneumonia complicated by mild acute renal failure. Upon admission on [B-DATE]September 5, 2023[O], she exhibited symptoms including fever, non-productive cough, and dyspnea.
+
+Over the course of hospitalization, [B-NAME]Elizabeth[O] responded well to IV antibiotics and supportive care. Her renal function normalized by [B-DATE]September 12, 2023[O], and her respiratory symptoms improved significantly. 
+
+She was stepped down from IV antibiotics to oral antibiotics on [B-DATE]September 15, 2023[O] and continued to show clinical improvement. Patient was clinically stable with normal vital signs for 48 hours prior to discharge.
+
+**Medications at Discharge:**
+- Azithromycin 500 mg: 1 tablet daily for 5 days.
+- Lisinopril 20 mg: 1 tablet daily.
+
+**Follow-Up:**
+- Primary Care Physician: Dr. [B-NAME]Susan Green[O], [B-ADDRESS]479 West Health St., Clinic C, Glendale, CA 91204[O]
+- Follow-up appointment: [B-DATE]September 28, 2023[O] at 10:00 AM 
+
+**Discharge Instructions:**
+- Continue medication as prescribed.
+- Maintain hydration and rest.
+- Seek medical attention if experiencing worsening symptoms such as shortness of breath, increasing cough, or fever.
+
+**Summary and Instructions for Outpatient Provider:**
+Continue monitoring of renal function and chest radiograph to ensure complete resolution of pneumonia. The patient has been counseled on completing her course of antibiotics and on the importance of follow-up appointments.
+
+**Prepared by:**
+- Dr. [B-NAME]Ryan Montgomery[O]
+- Date: [B-DATE]September 20, 2023[O]
+- Time: 16:45
+
+**Verified by:**
+Dr. [B-NAME]Helen Choi[O], Attending Physician 
+
+---
+
+**Note:**
+All Personal Health Information (PHI) such as specific dates, names, identifiers, addresses, and phone numbers are labeled following HIPAA guidelines for privacy.

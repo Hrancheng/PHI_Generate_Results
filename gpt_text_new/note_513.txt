@@ -1,0 +1,46 @@
+**Heart Failure Unit Discharge Summary**
+
+**Patient Name**: [B-NAME]Megan Clarke[O]  
+**Medical Record Number:** [B-ID]4589725[O]  
+**Age**: [B-AGE]54 years old[O]  
+**Admission Date**: [B-DATE]October 2, 2023[O]  
+**Discharge Date**: [B-DATE]October 16, 2023[O]   
+**Attending Provider**: Dr. [B-NAME]Harold Greene[O]  
+**Primary Care Physician**: Dr. [B-NAME]Samantha Irving[O]
+
+**Diagnosis at Admission**:  
+1. Decompensated heart failure  
+2. Type 2 diabetes mellitus  
+3. Hypertension  
+
+**Hospital Course**:  
+Ms. [B-NAME]Clarke[O] was admitted with symptoms of shortness of breath, orthopnea, and bilateral lower extremity edema. Initial labs showed elevated BNP and poor glycemic control. Her home medications were adjusted, and she was started on IV diuretics. Her response to treatment was favorable, with gradual reduction in edema and improvement in breathing. Cardiology and endocrinology consults suggested optimization of her heart failure and diabetic medications. Dietary and diabetes education was provided to improve her self-management skills.
+
+**Procedures Performed**: Echo-cardiogram on [B-DATE]October 5, 2023[O] showed an ejection fraction of 35%. A cardiac MRI on [B-DATE]October 7, 2023[O] confirmed no new ischemic changes.
+
+**Disposition at Discharge**: Stable, with instructions for outpatient follow-up.  
+**Discharge Medications**:
+- Carvedilol 25 mg twice daily
+- Furosemide 40 mg daily
+- Insulin glargine 20 units at bedtime
+- Metformin 500 mg twice daily
+
+**Scheduled Appointments**:  
+- Follow-up with Dr. [B-NAME]Samantha Irving[O] on [B-DATE]October 22, 2023[O] at [B-ADDRESS]215 Health St., Clinic Room 2, Newson, VA 23156[O]
+- Cardiology follow-up with Dr. [B-NAME]Harold Greene[O] on [B-DATE]October 29, 2023[O] at [B-ORGANIZATION]City Health Heart Center[O]
+
+**Diet**: Low sodium, diabetes-friendly diet recommended. Referred to nutrition counseling.
+
+**Activity**: Gradual increase in daily activity recommended. Referral to cardiac rehabilitation.
+
+**Patient Education**: Provided regarding medication adherence, signs of heart failure exacerbation, and diabetes management. 
+
+**Last Recorded Vital Signs**: BP 132/84 | HR 78 | Temp 98.6 °F | Resp 16 | O2 Sat 96% on room air
+
+**Discharge Instructions**:  
+Ms. [B-NAME]Clarke[O] is advised to weigh herself daily and report any weight gain of more than 3 lbs in a day or 5 lbs in a week. She should continue to monitor her blood glucose as directed and adjust insulin per sliding scale provided. Urged to avoid high potassium supplements given risk with spironolactone. Emergency department visit instructed if symptoms of chest pain, worsening edema, or uncontrolled blood sugar occur.
+
+**Discharge Coordinator**: [B-NAME]Emily Tran[O], RN
+
+**Summary**:  
+Patient was stabilized and managed appropriately for her heart failure and diabetes during her hospitalization. Discharge plans were set to ensure continuity of care and support her transition back to community living. Her understanding of discharge planning was affirmed, and all questions were answered prior to discharge.

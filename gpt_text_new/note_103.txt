@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- **Name:** [B-NAME]James Miller[O]
+- **Age:** [B-AGE]65 y.o.[O]
+- **Admission Date:** [B-DATE]9/15/2023[O]
+- **Discharge Date:** [B-DATE]9/25/2023[O]
+- **MRN:** [B-ID]789234578[O]
+
+**Attending Provider:**
+- **Doctor:** Dr. [B-NAME]Anna Thompson[O]
+
+**Hospital Service:** General Medicine/Surgery
+**Admission Diagnosis:** Acute cholecystitis 
+**Discharge Diagnosis:**
+- Primary: Acute cholecystitis [resolved]
+- Secondary: Hypertension
+
+**Hospital Course:**
+Mr. [B-NAME]James Miller[O] was admitted to the [B-ORGANIZATION]City General Hospital[O] on [B-DATE]9/15/2023[O] due to severe abdominal pain and diagnosis of acute cholecystitis. He underwent a laparoscopic cholecystectomy on [B-DATE]9/16/2023[O], which was uncomplicated. Post-operation, he was managed with IV antibiotics and pain control. His recovery was steady, with improvement in abdominal pain and appetite.
+
+**Medications at Discharge:**
+- Acetaminophen 500 mg Tablet: 1-2 tablets every 6 hours as needed for pain.
+- Lisinopril 20 mg daily for hypertension.
+
+**Follow-Up Appointments:**
+- [B-NAME]Dr. Henry Wilson[O], General Surgery: [B-DATE]10/03/2023[O] at [B-ORGANIZATION]City General Hospital Outpatient Clinic[O]
+- [B-NAME]Dr. Laura Green[O], Primary Care: [B-DATE]10/10/2023[O] for hypertension management and general follow-up.
+
+**Instructions for Patient:**
+- Engage in light walking, avoid heavy lifting for at least 4 weeks.
+- Introduce solid foods gradually, starting with low-fat options to assess tolerance.
+- Check blood pressure twice a week and record the readings to present at the next primary care appointment.
+
+**Discharge Condition:**
+- Stable to return home with prescriptions and outpatient follow-up noted.
+- Vital Signs at Discharge: BP 130/85, HR 78, Temp 98.6 °F, Resp 16.
+
+**Signed:**
+- [B-NAME]Dr. Anna Thompson[O], MD
+- Date: [B-DATE]9/25/2023[O]
+- Time: 11:00 AM
+
+This document and care summary has been discussed with the patient and his wife, [B-NAME]Mary Miller[O], who understands the discharge instructions and follow-up plan. They expressed their understanding and did not have further questions at this time. They were supplied with contact information for their healthcare providers and instructed to return to the ER if experiencing any concerning symptoms such as fever, severe abdominal pain, or unmanageable hypertension.
+
+**Pharmacy Information:**
+The prescriptions have been sent electronically to [B-ORGANIZATION]Towncrest Pharmacy[O]. Mr. Miller was advised to pick up his medications within 24 hours of discharge.
+
+**Social Work Consult:**
+A social work consult was completed during the hospital stay, and the patient was provided with resources for dietary management and physical rehabilitation services close to their residence at [B-ADDRESS]47 Oak Lane, Springfield[O].

@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- Patient Name: [B-NAME]Michael Thompson[O]
+- MRN: [B-ID]987654321[O]
+- Age: [B-AGE]58 years old[O]
+- Admission Date: [B-DATE]November 12, 2023[O]
+- Discharge Date: [B-DATE]December 3, 2023[O]
+- Attending Physician: Dr. [B-NAME]Helen Clarkson[O]
+
+**Hospital Course:**
+Mr. [B-NAME]Thompson[O] was admitted following a syncopal episode. Initial investigations including blood panels and imaging were conducted, revealing a diagnosis of atrial fibrillation. Treatment was initiated with anticoagulants and rate control medication. The patient responded well to the treatment without any recurrent episodes during the stay.
+
+**Medications at Discharge:**
+1. **Warfarin 5 mg oral tablet** - Once daily
+   - Prescribed Date: [B-DATE]December 3, 2023[O]
+2. **Metoprolol 50 mg oral tablet** - Twice daily
+   - Prescribed Date: [B-DATE]December 3, 2023[O]
+
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. [B-NAME]Sara Li[O], MD at [B-ORGANIZATION]Cardiac Health Specialists[O]. Scheduled for [B-DATE]December 10, 2023[O] at 10:00 AM.
+- Primary Care Provider (PCP) check-up with Dr. [B-NAME]John Carter[O], MD. Appointment on [B-DATE]December 15, 2023[O] at 2:00 PM.
+- Coumadin Clinic on [B-DATE]December 5, 2023[O] for INR check and warfarin dose adjustment.
+
+**Discharge Instructions:**
+Patient advised to monitor for signs of bleeding or bruising and report immediately to the hospital or his PCP. Maintain a consistent Vitamin K intake while on warfarin. Avoid activities that have a high risk of causing injury or bleeding. 
+
+**Home Medications to Continue:**
+- **Lisinopril 20 mg oral tablet** - Once daily for hypertension
+- **Simvastatin 40 mg oral tablet** - At bedtime for cholesterol management
+
+**Remarks:**
+Mr. [B-NAME]Thompson[O] is to continue rehabilitation for strength and mobility improvement at home. He has been prescribed compression stockings to help with circulation.
+
+**Discharge Condition:**
+Mr. [B-NAME]Thompson[O] was discharged in a stable condition with improvements noted in his cardiac rhythm and overall health. His discharge condition is expected to improve with adherence to medications and follow-up care.
+
+**Communication:**
+A discharge summary was sent to all relevant care providers, including Dr. [B-NAME]Sara Li[O] and Dr. [B-NAME]John Carter[O] via electronic health record system updates performed on [B-DATE]December 3, 2023[O].
+
+**Prepared by:**
+[B-NAME]Emily Tran[O], RN
+Date: [B-DATE]December 3, 2023[O]
+Time: 3:30 PM
+
+**Final Verification:**
+Reviewed and finalized by Dr. [B-NAME]Helen Clarkson[O]
+Date: [B-DATE]December 3, 2023[O]
+Time: 4:00 PM

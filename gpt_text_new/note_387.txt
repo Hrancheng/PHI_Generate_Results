@@ -1,0 +1,55 @@
+**[B-ORGANIZATION]Heartside Medical Center[O] Discharge Summary**
+
+Patient Name: [B-NAME]Elizabeth Grant[O], MRN: [B-ID]987654321[O]
+Age: [B-AGE]72-year-old[O]
+Sex: Female
+Admission Date: [B-DATE]March 12, 2023[O]
+Discharge Date: [B-DATE]March 20, 2023[O]
+Admitting Diagnosis: Acute Exacerbation of Chronic Heart Failure
+
+**Hospital Course:**
+[B-NAME]Elizabeth Grant[O] was admitted with shortness of breath and pedal edema. Initial evaluation showed elevated BNP and echocardiography confirmed reduced ejection fraction. She was managed with IV diuretics and after optimization, switched to oral furosemide. Her condition stabilized with improvement in dyspnea and edema over the course of her stay.
+
+**Medications at Discharge:** 
+- Furosemide 40 mg orally twice daily
+- Lisinopril 20 mg orally once daily
+- Metoprolol 50 mg orally twice daily
+- Aspirin 81 mg orally once daily
+
+**LACE - Readmission Risk Score:**
+Total Score: 8
+Length of Stay: 8 days
+Acute Admission: 3
+Comorbidities: 3
+ED visits in last 6 months: 2
+LACE Score Risk Level: Moderate (7.9% Readmission Rate, 0.7% 30 Day Mortality Rate)
+
+**Discharge Condition:**
+The patient is stable with significant improvements in heart failure symptoms. She is to follow a low-salt diet and maintain fluid restriction of 1.5 liters/day.
+
+**Discharge Instructions:**
+1. Continue medications as prescribed.
+2. Monitor weight daily.
+3. Schedule follow-up appointment with [B-NAME]Dr. Hannah Lee[O] at [B-ORGANIZATION]Heartside Medical Center[O] Cardiology Clinic on [B-DATE]March 27, 2023[O] at 10 AM.
+4. Return immediately if experiencing increased shortness of breath, chest pain, or weight gain more than 3 pounds in a day.
+
+**Follow-up care:**
+Return to [B-ORGANIZATION]Heartside Medical Center[O] Cardiology for ongoing management of heart failure. Refer to [B-ORGANIZATION]Heartside Dietetics[O] for dietary counseling.
+
+**Outpatient Services and Support:**
+Patient was referred to [B-ORGANIZATION]Heartside Home Health Services[O] for continued transition care. A home nurse will visit within 48 hours post-discharge to assess the living situation and compliance with the medical regimen.
+
+**Other Recommendations:**
+Ensure accessibility to emergency contacts and keep a list of medications accessible to home health aides. Emergency department visits and hospital readmissions should be recorded and communicated to the primary care provider and cardiologist.
+
+**Signed:**
+[B-NAME]Dr. Jonathan S. Abrams[O], MD, Discharge Physician 
+[B-NAME]Nurse Rebecca Milner[O], RN, Discharge Coordinator
+Date: [B-DATE]March 20, 2023[O]
+Time: 2:00 PM
+
+Contact Details for Follow-up:
+Phone: [B-PHONE]555-123-4567[O]
+Email: [B-CONTACT]patient.contact@heartside.org[O]
+
+This discharge summary is intended for the use by healthcare providers involved in [B-NAME]Elizabeth Grant[O]'s care. It contains confidential health information that should be handled according to appropriate privacy laws and hospital policies.

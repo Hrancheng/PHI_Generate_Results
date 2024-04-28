@@ -1,0 +1,45 @@
+**Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Michael Thompson[O], MRN#: [B-ID]987654321[O]
+
+**Age**: [B-AGE]45 years[O] old
+
+**Admission Date**: [B-DATE]August 21, 2023[O]  
+**Discharge Date**: [B-DATE]August 28, 2023[O]
+
+**Attending Physician**: Dr. [B-NAME]Sarah Collins[O]
+
+**Hospital Service**: General Internal Medicine
+
+**Admitting Diagnosis**: Acute cholecystitis
+
+**Discharge Diagnoses**:
+1. Acute cholecystitis
+2. Hypertension
+
+**Hospital Course**:
+Mr. [B-NAME]Michael Thompson[O] presented to the emergency department on [B-DATE]August 21, 2023[O] with right upper quadrant abdominal pain, fever, and vomiting. He was diagnosed with acute cholecystitis confirmed by ultrasound showing gallstones and gallbladder wall thickening. The patient was admitted under the care of Dr. [B-NAME]Sarah Collins[O] and started on IV antibiotics. Surgery consulted and performed a laparoscopic cholecystectomy on [B-DATE]August 22, 2023[O]. Post-operatively, the patient made an uneventful recovery. His hypertension was managed with oral medication adjustment. He responded well to treatment and was ready for discharge on [B-DATE]August 28, 2023[O].
+
+**Medications on Discharge**:
+1. Metoprolol 50 mg orally twice a day
+2. Amoxicillin 500 mg orally three times a day for 7 days
+3. Paracetamol 500 mg orally every 6 hours as needed for pain
+
+**Discharge Instructions**:
+Mr. [B-NAME]Thompson[O] is advised to follow up with his primary care physician, Dr. [B-NAME]Emily Grant[O], within one week post-discharge for blood pressure monitoring and wound check. He should complete his course of antibiotics and manage pain with paracetamol as prescribed. Mr. [B-NAME]Thompson[O] should seek immediate medical attention if he experiences increased pain, fever, or any signs of infection. 
+
+**Diet**: Regular diet as tolerated
+**Activity**: Light activity, no heavy lifting for two weeks
+
+**Next Steps**:
+Follow up appointment scheduled with:
+- [B-NAME]Dr. Emily Grant[O] on [B-DATE]September 5, 2023[O] at [B-ORGANIZATION]HealthPlus Family Clinic[O]
+
+**Phone**: [B-PHONE]555-123-4567[O]
+
+**Signed**:  
+Dr. [B-NAME]Sarah Collins[O]  
+[B-DATE]August 28, 2023[O], 2:00 PM
+
+**Summary**:
+This summary has been communicated to the patient and his wife, [B-NAME]Laura Thompson[O], who understand the discharge plan and have agreed to the follow-up as scheduled. They have been given emergency contact numbers and instructed on signs and symptoms that would warrant an earlier medical review.

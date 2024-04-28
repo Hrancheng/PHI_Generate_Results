@@ -1,0 +1,57 @@
+Inpatient Discharge Summary
+---
+[B-NAME]Emily Thompson[O], MRN# [B-ID]782994003[O], is a [B-AGE]68 y.o.[O] female, admitted to the Cardiology service for management of chronic heart failure. Admission Date: [B-DATE]11/12/2022[O] Discharge Date: [B-DATE]11/20/2022[O]
+
+Attending Provider: Dr. [B-NAME]Helen Sharpe[O]
+
+Treatment Team:
+- Cardiology Fellow: [B-NAME]Mark Warren[O], MD
+- Nurse Practitioner: [B-NAME]Samantha Doe[O], NP
+
+Hospital Problems Noted - Resolved 
+POA Active Problems
+- Chronic heart failure [B-DATE]2018[O] - Present Yes
+- Hypertension [B-DATE]2005[O] - Present Yes
+- Atrial fibrillation [B-DATE]2019[O] - Present Yes
+
+Discharge Medication List:
+- Furosemide 40 mg tablet: 1 tablet twice daily
+- Potassium Chloride 20 mEq tablet: 1 tablet daily
+- Metoprolol Tartrate 50 mg tablet: 1 tablet twice daily
+
+Hospital Course: Brief Overview:
+Mrs. [B-NAME]Emily Thompson[O] was admitted with exacerbation of chronic heart failure precipitated by non-compliance with her diuretic therapy. Initial assessment showed marked fluid overload and dyspnea at rest. Diuretic therapy was intensified, resulting in gradual symptomatic improvement. The cardiology team, led by Dr. [B-NAME]Helen Sharpe[O], optimized her heart failure regimen, and Mrs. [B-NAME]Thompson[O] showed good clinical response with stabilized fluid status and improved ejection fraction noted on follow-up echocardiography. Patient education was reinforced, focusing on medication compliance and daily weight monitoring.
+
+Home Care Plan:
+- Continue with prescribed medication regime.
+- Monitor daily weight; report gain of more than three pounds in a day to cardiologist.
+- Follow a low-salt diet as advised by the dietitian.
+- Scheduled for outpatient follow-up in the heart failure clinic on [B-DATE]11/28/2022[O].
+
+Pertinent Clinical Presentation on Admission/Reason for Hospitalization:
+[B-AGE]68-year-old[O] female presented with increased shortness of breath, ankle swelling, and weight gain over the past week. Known history of chronic heart failure, poorly adhering to prescribed diuretics. Echocardiogram on admission revealed a reduced ejection fraction of 35%.
+
+Significant Clinical Findings:
+- Echocardiogram (Admission): Reduced EF of 35%, moderate mitral regurgitation.
+- Echocardiogram (Pre-discharge): Improvement seen with EF of 40%.
+
+Future follow-up and tests:
+- Outpatient echocardiogram scheduled for [B-DATE]12/15/2022[O] for further assessment of EF and valve function.
+- Blood tests for renal function and electrolytes on [B-DATE]11/28/2022[O], during clinic visit.
+
+Instructions for Patient on Discharge:
+- Uptake medications strictly as prescribed without missing doses.
+- Limit fluid intake to 2 liters per day.
+- Engage in mild to moderate intensity exercise like walking, as tolerated.
+- Attend all scheduled follow-up appointments.
+
+Discharge Condition:
+- Mrs. [B-NAME]Emily Thompson[O] is discharged in a stable condition, understanding her medication schedule and lifestyle modifications.
+
+Discharge Instructions:
+- Follow up in the heart failure clinic [B-ORGANIZATION]Cardiac Wellness and Research Center[O] on [B-DATE]11/28/2022[O] at 10:00 AM.
+- Contact cardiology team or general practitioner if experiencing worsening symptoms such as increased shortness of breath, chest pain, or unexplained weight gain.
+
+Signed:
+Dr. [B-NAME]Helen Sharpe[O], MD
+Date: [B-DATE]11/20/2022[O], 4:30 PM

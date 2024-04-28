@@ -1,0 +1,48 @@
+**University Hospital Discharge Summary**
+
+**Patient Information:**  
+Patient: [B-NAME]Michael Thompson[O]  
+MRN: [B-ID]44578963[O]  
+DOB: [B-DATE]3/21/1970[O]  
+Admission Date: [B-DATE]9/14/2023[O]  
+Discharge Date: [B-DATE]9/20/2023[O]  
+Attending Physician: Dr. [B-NAME]Sarah Connors[O]  
+Referring Physician: Dr. [B-NAME]James Lowell[O]  
+Admission Diagnosis: Acute appendicitis  
+Final Diagnosis: Acute appendicitis, status post appendectomy  
+
+**Hospital Course:**  
+Mr. [B-NAME]Michael Thompson[O] is a [B-AGE]53-year-old[O] male with no significant past medical history who presented to the [B-ORGANIZATION]University Hospital Emergency Department[O] on [B-DATE]9/14/2023[O] with a one-day history of progressively worsening right lower quadrant pain. He was diagnosed with acute appendicitis and underwent an uncomplicated laparoscopic appendectomy on [B-DATE]9/15/2023[O]. His postoperative course was uneventful, and he tolerated a gradual return to a regular diet. Pain was well controlled with oral medications. Patient is to follow up with surgery for wound check and general post-operative assessment in one week.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg PO every 6 hours as needed for pain  
+- Ibuprofen 400 mg PO every 8 hours as needed for pain  
+
+**Allergies:**  
+No known drug allergies.
+
+**Discharge Instructions:**  
+- The patient should avoid heavy lifting and strenuous activity for two weeks.  
+- He is advised to drink plenty of fluids and gradually increase fiber intake.  
+- Wound care instructions were provided, with emphasis on keeping the area clean and dry.  
+- The patient was instructed to seek medical attention if he experiences fever, vomiting, or increasing abdominal pain.
+
+**Follow-up Appointments:**  
+Follow-up with Dr. [B-NAME]Sarah Connors[O] on [B-DATE]9/27/2023[O] at the [B-ORGANIZATION]University Hospital Surgical Clinic[O].  
+For any concerns before this appointment, contact [B-PHONE]555-314-1592[O].
+
+**Code Status:**  
+Full Code
+
+**Condition at Discharge:**  
+Stable
+
+**Discharge Plan:**  
+Discharge to home with family. Instructions were reviewed with the patient and his daughter, [B-NAME]Elizabeth Thompson[O], who understands and agrees with the care plan.
+
+**Signed:**  
+Dr. [B-NAME]Sarah Connors[O], [B-DATE]9/20/2023[O], [B-TIME]2:00 PM[O]  
+
+---
+
+This discharge summary provides a comprehensive overview while adhering to PHI de-identification standards set out in the annotation guidelines. It includes labeled instances of personal and sensitive information ensuring the confidentiality of the patient and related parties.

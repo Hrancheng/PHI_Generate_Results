@@ -1,0 +1,64 @@
+**Metro Health Medical Center**  
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Elizabeth Garcia[O]  
+MRN#: [B-ID]558432190[O]  
+Age: [B-AGE]34 years old[O]  
+Admission Date: [B-DATE]09/01/2023[O]  
+Discharge Date: [B-DATE]09/15/2023[O]  
+Attending Physician: Dr. [B-NAME]Helen Cho[O]  
+Discharge NP/PA: [B-NAME]David K. Lee[O], NP  
+
+**Service**: Cardiology  
+**PCP**: [B-NAME]Dr. Marianne Swift[O]
+
+---
+
+**Admission Diagnosis**:  
+Acute decompensated heart failure
+
+**Hospital Course:**  
+Ms. [B-NAME]Garcia[O] was admitted following a presentation at the ER with severe dyspnea and bilateral pedal edema. Upon admission, her echocardiogram showed an ejection fraction of 25%. Diuresis was initiated, and she responded well to IV furosemide. Throughout her stay, Ms. [B-NAME]Garcia[O] was monitored for renal function and electrolytes balance which remained within normal limits. Cardiology was consulted and optimized her heart failure management by introducing beta-blockers and adjusting her ACE inhibitors dosage.
+
+**Discharge Medications**:
+- Furosemide 40 mg tablet: 1 tablet to take twice daily
+- Lisinopril 20 mg tablet: 1 tablet daily
+- Metoprolol Tartrate 25 mg tablet: 1 tablet twice daily
+
+**Allergy**: No known drug allergies.
+
+**Social History**:
+Ms. [B-NAME]Garcia[O] lives with her spouse and two children at [B-ADDRESS]3478 North Pine Street, Springfield, IL[O]. She is a teacher at [B-ORGANIZATION]Springfield Community School[O]. Reports no alcohol use and quit smoking five years ago.
+
+**Follow-Up**:  
+Appointment scheduled with her primary care physician, [B-NAME]Dr. Marianne Swift[O], on [B-DATE]09/20/2023[O] at 10:30 AM. She also has a follow-up appointment in the heart failure clinic on [B-DATE]09/22/2023[O] at the [B-LOCATION]Cardiology Department, Room 204[O] of Metro Health Medical Center.
+
+**Instructions**:
+- Continue to weigh daily and record weights.
+- Restrict salt intake to less than 2000 mg per day.
+- Keep an activity diary and gradually increase activities as tolerated.
+- Take medications as prescribed without missing doses. If you experience dizziness or lightheadedness, sit or lie down immediately and call your doctor.
+
+**Condition at Discharge**:
+Ms. [B-NAME]Garcia[O] is stable for discharge. She and her husband have gone through the discharge education with our heart failure nursing team and verbalized understanding of all discharge instructions.
+
+**Vital Signs at Discharge**:  
+BP 125/85 mmHg | Pulse 78 bpm | Temp 98.6 °F | Respirations 16 per minute
+
+**Readmission Risk**:  
+LACE Score: 6 - Moderate risk for readmission. Close outpatient follow-up recommended to prevent potential complications.
+
+**Miscellaneous**:
+All imaging and lab data have been reviewed and are within expected limits post-intervention. The patient expressed gratitude for the care received and feels ready to manage her condition at home with the support of community services. 
+
+**Discharge Prepared By**:  
+[B-NAME]David K. Lee[O], NP
+
+**Date**: [B-DATE]09/15/2023[O]  
+**Time**: 02:45 PM
+
+---
+
+**Note**: Ms. [B-NAME]Garcia[O] has been briefed on signs and symptoms that should prompt an immediate return to the ER, including but not limited to, worsening chest pain, uncontrolled dyspnea, or fainting spells.
+
+[End of Discharge Summary]

@@ -1,0 +1,31 @@
+Inpatient Discharge Summary
+--------------------------------------
+[B-NAME]Elizabeth Thompson[O], MRN# [B-ID]987654321[O], is a [B-AGE]54-year-old[O] female, admitted to the Cardiology service for management of acute myocardial infarction (MI) and subsequent complications. Admission Date: [B-DATE]03/21/2023[O] Discharge Date: [B-DATE]04/01/2023[O] Attending Physician: Dr. [B-NAME]Robert Langdon[O]
+
+** Hospital Course: Brief Overview **
+[B-NAME]Elizabeth[O] presented to the emergency department at [B-ORGANIZATION]General Hospital[O] on [B-DATE]March 21, 2023[O], complaining of chest pain and shortness of breath. Upon arrival, she was noted to be hypotensive and tachycardic. An EKG confirmed ST-elevation MI, and she was urgently taken to the catheterization lab where a successful percutaneous coronary intervention (PCI) was performed on the right coronary artery. 
+
+Post-PCI, the patient was admitted to the ICU for hemodynamic monitoring and further evaluation. Her post-operative course was complicated by a transient ischemic attack (TIA) without residual deficits, managed with antiplatelets and statins. Holter monitoring was suggestive of paroxysmal atrial fibrillation, for which she was started on anticoagulation with apixaban.
+
+Her hospital stay was extended due to the management of complications and stabilization of her condition. She showed progressive improvement with medical management and was cleared by Cardiology and Neurology for discharge on [B-DATE]April 1, 2023[O].
+
+** Medications at Discharge: **
+1. Apixaban 5 mg twice daily
+2. Atorvastatin 40 mg at bedtime
+3. Metoprolol 50 mg twice daily
+4. Aspirin 81 mg daily
+
+** Follow-Up Instructions: **
+[B-NAME]Elizabeth[O] will follow up with her primary care physician, Dr. [B-NAME]Amelia Brown[O], and the Cardiology clinic at [B-ORGANIZATION]General Hospital[O] in two weeks. She has been instructed to monitor for signs of recurrent chest pain, excessive bleeding, or any symptoms of a stroke. A home health nurse from [B-ORGANIZATION]Community Health Services[O] will visit her to monitor her progress and help manage her medications.
+
+** Discharge Condition: **
+The patient is stable with plans to recover at home under the care of her daughter, [B-NAME]Sarah Thompson[O]. Instructions for gradual increase in activity levels and diet modifications for heart health have been provided.
+
+** Last Recorded Vital Signs: **
+BP 130/85 | Pulse 72 | Temp 98.6 °F | Resp 16 | SpO2 98%
+Weight: 160 lbs | Height: 5'6"
+
+Approved by:
+Dr. [B-NAME]Robert Langdon[O], [B-DATE]04/01/2023[O], 11:00 AM
+
+This document was prepared to ensure a smooth transition to home-based care and to assist in the ongoing management of [B-NAME]Elizabeth Thompson[O]'s cardiac health. We wish her a steady and uneventful recovery.

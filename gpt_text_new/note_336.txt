@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [B-NAME]Elizabeth Thompson[O]
+- **Age:** [B-AGE]62 years old[O]
+- **Sex:** Female
+
+**Hospital Information:**  
+- **Organization:** [B-ORGANIZATION]Midtown Medical Center[O]
+- **Admission Date:** [B-DATE]January 12, 2023[O]
+- **Discharge Date:** [B-DATE]January 22, 2023[O]  
+- **Attending Physician:** Dr. [B-NAME]Carlton Hayes[O]
+  
+**Reason for Hospitalization:**  
+Mrs. [B-NAME]Thompson[O] presented with complications due to advanced type 2 diabetes mellitus and subsequent renal impairment.
+
+**Hospital Course:**
+Upon admission, Mrs. [B-NAME]Thompson[O] exhibited signs of severe dehydration and poor glycemic control. Initial lab results indicated elevated blood glucose levels, decreased kidney function, and electrolyte imbalances. She was placed on an insulin infusion and received IV fluids to correct dehydration. Nutritional support was initiated early during the admission due to signs of malnutrition.
+
+Throughout her 10-day hospital stay, Mrs. [B-NAME]Thompson[O]'s condition stabilized significantly with the implementation of an adjusted medication regimen and continuous renal replacement therapy (CRRT) due to acute kidney injury. 
+
+**Procedures Performed:**  
+- Continuous Renal Replacement Therapy (CRRT)
+- Nutritional assessment and adjustment
+- Daily Blood Glucose Monitoring
+
+**Discharge Medications:**  
+- Insulin glargine 40 units subcutaneously at bedtime
+- Metformin 500 mg twice daily
+- Sevelamer carbonate 800 mg three times daily with meals to manage phosphorus levels
+
+**Follow-Up Care:**  
+Mrs. [B-NAME]Thompson[O] is scheduled to follow up with her primary care provider, Dr. [B-NAME]Henry Falk[O], on [B-DATE]February 1, 2023[O]. A referral to nephrology for ongoing kidney function assessment and a diabetes specialist nurse for education and management of new insulin therapy are also arranged.  
+- **Nephrology Follow-Up:** with Dr. [B-NAME]Rebecca Lin[O], MD, scheduled for [B-DATE]February 5, 2023[O] at [B-ORGANIZATION]Midtown Medical Center Nephrology Clinic[O].
+- **Diabetes Specialist Consultation:** [B-DATE]January 30, 2023[O]
+
+**Diet and Lifestyle Modifications:**  
+A renal diabetic diet is recommended. Mrs. [B-NAME]Thompson[O] is advised to limit sodium and phosphorus intake. Increased physical activity as tolerated has been advised to aid in blood glucose regulation and overall health improvement.
+
+**Additional Recommendations:**  
+- Regular monitoring of blood glucose levels, at least four times a day.
+- Regular blood tests to monitor kidney function and electrolyte levels.
+
+**Final Status at Discharge:**  
+Mrs. [B-NAME]Thompson[O] was discharged in stable condition with improved renal function and well-managed blood glucose levels. She understood her discharge instructions and expressed confidence in managing her conditions with the supported outpatient follow-up.
+
+**Discharge Coordinator:**  
+Signed by: [B-NAME]Nancy Black[O], Discharge Planning Nurse, on [B-DATE]January 22, 2023[O] at 2:45 PM.
+
+This completes Mrs. [B-NAME]Elizabeth Thompson[O]'s inpatient discharge summary from [B-ORGANIZATION]Midtown Medical Center[O].

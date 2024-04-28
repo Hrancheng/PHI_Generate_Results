@@ -1,0 +1,58 @@
+Inpatient Discharge Summary
+-----
+[B-NAME]Patricia Johnson[O], MRN# [B-ID]562312984[O], is a [B-AGE]67 y.o.[O] female, admitted to the Internal Medicine service for management of exacerbation of chronic heart failure.
+
+Admission Date: [B-DATE]09/01/2023[O]
+Discharge Date: [B-DATE]09/15/2023[O]
+Attending Provider: Dr. [B-NAME]Emily Stanton[O]
+Treatment Team: Dr. [B-NAME]Rachel Greene[O], Nurse [B-NAME]Susan Bello[O]
+
+Hospital Problems Noted:
+1. Chronic heart failure exacerbated (CHF [B-DATE]09/02/2023[O] - [B-DATE]09/14/2023[O]) - Managed with diuretic adjustment.
+2. Hypokalemia ([B-DATE]09/05/2023[O] - [B-DATE]09/08/2023[O]) - Corrected with oral supplements.
+3. Elevation of blood pressure ([B-DATE]09/06/2023[O]) - Treated with additional antihypertensive therapy.
+
+Other Problems: Type 2 diabetes mellitus, stable.
+Recommendations for Follow Up:
+Attention to Primary Care Physician, Dr. [B-NAME]Megan Li[O], [B-ADDRESS]4831 Main Street, Springfield, IL 67890[O] 
+
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:
+Follow-Up with [B-ORGANIZATION]Springfield Diabetic Care Center[O] [B-PHONE]555-987-6543[O].
+
+Procedure Completed During Stay:
+Echocardiogram ([B-DATE]09/04/2023[O]) - Showed reduced ejection fraction of 35%.
+Chest X-ray ([B-DATE]09/10/2023[O]) - No acute findings, stable cardiomegaly.
+
+Discharge Medication List:
+1. Furosemide 40 mg tablet twice daily.
+2. Potassium chloride 20 mEq once daily.
+3. Metformin 500 mg twice daily.
+
+Discharge Condition and Instructions:
+The patient’s condition is stable; continue current medication regimen. Monitor fluid intake and daily weights. Follow up with primary care physician within one week of discharge.
+
+Instructions:
+Drinking at least 8 glasses of water daily, avoiding high potassium foods, and checking blood sugar twice daily.
+Next Steps: Follow up with [B-NAME]Laura Kim[O], MD in [B-ORGANIZATION]Springfield General Hospital’s[O] Cardio Clinic [B-ADDRESS]550 E. Hospital Rd., Springfield, IL 67893[O].
+
+Important Numbers:
+- [B-NAME]Megan Li[O]'s office: [B-PHONE]555-123-4567[O]
+- [B-ORGANIZATION]Springfield Diabetic Care Center[O]: [B-PHONE]555-987-6543[O]
+
+Last Recorded Vital Signs:
+BP 132/80 | Pulse 78 | Temp 37.0 °C (98.6 °F) | Resp 20 | SpO2 94%
+
+Significant Findings and Events During Hospitalization:
+Patient responded well to the diuretic therapy with improved respiratory symptoms. Potassium levels normalized following supplementation. Blood pressure managed with medication adjustments.
+
+This discharge summary was reviewed and discussed with the patient and her son, [B-NAME]Timothy Johnson[O], on [B-DATE]09/15/2023[O]. 
+
+Signed, [B-NAME]Emily Stanton[O], MD
+Date: [B-DATE]09/15/2023[O], at 2:00 PM 
+
+Emergency Contact:
+[B-NAME]Timothy Johnson[O], son
+Phone: [B-PHONE]555-111-2222[O]
+Address: [B-ADDRESS]4900 Sheridan Rd, Springfield, IL 67891[O]
+
+This summary is intended to provide a comprehensive overview of [B-NAME]Patricia Johnson[O]'s hospital stay and outline her continuity of care needs following discharge. Please note, emergency contacts are provided for immediate concerns related to patient's care. For non-emergencies, please utilize the provided healthcare provider and clinic contacts. This document was prepared using HIPAA-compliant de-identification standards for patient privacy.

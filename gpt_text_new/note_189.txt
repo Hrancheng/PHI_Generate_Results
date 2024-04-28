@@ -1,0 +1,57 @@
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Margaret Cho[O]
+MRN#: [B-ID]458321006[O]
+Age: [B-AGE]62 y.o.[O]
+Sex: Female
+Admission Date: [B-DATE]03/12/2023[O]
+Discharge Date: [B-DATE]03/20/2023[O]
+
+**Attending Physician:**
+Dr. [B-NAME]Helen Carter[O]
+
+**Hospital Service:**
+General Medicine
+
+**Admission Diagnosis:**
+Acute exacerbation of chronic heart failure
+
+**Hospital Course:**
+[B-NAME]Margaret Cho[O] was admitted to the general medicine service with symptoms of worsening dyspnea, orthopnea, and bilateral lower extremity edema. Her past medical history includes hypertension, diabetes mellitus type 2, and chronic heart failure with reduced ejection fraction. On admission, her labs showed elevated NT-proBNP and mild renal dysfunction. Echocardiogram on admission showed reduced ejection fraction of 35%, consistent with her known history of heart failure. She was managed with IV diuretics which gradually improved her symptoms. Over the course of her stay, her diuretic regimen was adjusted, and she was closely monitored for renal function and electrolyte levels, which remained stable. Education was provided regarding fluid and salt intake and medication adherence.
+
+**Procedures Done:**
+1. IV diuretics administration
+2. Continuous EKG monitoring
+3. Daily Chest X-rays – findings consistent with congestive heart patterns, no acute disease.
+
+**Medications on Discharge:**
+1. Furosemide 40 mg tablet daily
+2. Metoprolol succinate 50 mg daily
+3. Lisinopril 20 mg daily
+4. Spironolactone 25 mg daily
+
+**Discharge Instructions:**
+[B-NAME]Margaret Cho[O] has been advised to monitor her weight daily and adhere to a low salt diet. She has been scheduled for a follow-up with her cardiologist, [B-NAME]Dr. Robert Langdon[O], in two weeks. She is to continue her medication as prescribed and monitor for signs of fluid overload or hypotension.
+
+**Follow-Up Appointments:**
+1. Cardiology follow-up in two weeks with [B-NAME]Dr. Robert Langdon[O] at [B-ORGANIZATION]City Medical Center[O].
+2. Primary Care follow-up with [B-NAME]Dr. Emily Stanton[O] in one month.
+
+**Condition at Discharge:**
+Stable with improved symptoms of heart failure.
+
+**Diet:**
+Low salt, fluid-restricted to 1.5 liters per day.
+
+**Activity:**
+Limited to light activities, avoid heavy lifting and strenuous activities.
+
+**Discharge Disposition:**
+Home with home health care services from [B-ORGANIZATION]Healing Hands Home Care[O]. 
+
+Contact Information:
+Primary Care Physician: [B-PHONE]555-123-4567[O]
+Cardiology Clinic: [B-PHONE]555-765-4321[O]
+
+-------
+This discharge summary has provided a comprehensive overview of [B-NAME]Margaret Cho[O]'s hospital course from admission through to her discharge plan with pertinent medical details and follow-up care, ensuring a holistic continuation of care in her home environment.

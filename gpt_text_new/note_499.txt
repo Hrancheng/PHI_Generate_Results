@@ -1,0 +1,66 @@
+**University Medical Center Discharge Summary**
+
+**Patient Information**  
+[B-NAME]Eleanor Brooks[O], MRN# [B-ID]435299882[O], is a [B-AGE]68 y.o.[O] female who was admitted to the Cardiology service at [B-ORGANIZATION]Sunset Ridge Health System[O] after experiencing a transient ischemic attack (TIA).
+
+**Admission Date:** [B-DATE]08/15/2023[O]  
+**Discharge Date:** [B-DATE]08/20/2023[O]  
+**Attending Physician:** Dr. [B-NAME]Henry Wallace[O]
+
+---
+
+**Medical History:**  
+Patient has a past history of hypertension, hyperlipidemia, and atrial fibrillation. She is regularly followed up in the cardiology clinic.  
+**Family History:** Positive for cardiovascular diseases.
+
+**Hospital Course:**  
+[B-NAME]Eleanor Brooks[O] was brought to the emergency department at [B-ORGANIZATION]Sunset Ridge Health System[O] experiencing left-sided weakness and speech difficulties. Initial CT imaging of the head did not show any acute hemorrhage. She was treated with IV tPA after a detailed risk assessment. Her symptoms resolved completely within seven hours of onset.
+
+**Procedures**:
+1. MRI Brain ([B-ID]MR20230816[O]) - Conducted on [B-DATE]08/16/2023[O]: Showed no evidence of acute infarction but mild chronic small vessel ischemic changes.
+2. Echocardiogram - Conducted on [B-DATE]08/17/2023[O]: Showed normal left ventricular function, no clots or vegetations.
+
+**Consultations:**  
+Neurology consult was requested and seen by Dr. [B-NAME]Amelia Richards[O]. Recommendations included considering adjusting anticoagulation therapy.
+
+**Medications at Discharge:**  
+1. Apixaban 5 mg, twice a day.
+2. Atorvastatin 40 mg, once daily at bedtime.
+3. Lisinopril 10 mg, once daily.
+
+**Allergies:**  
+No known drug allergies.
+
+**Follow-Up Plans:**  
+Patient is advised to follow up with her cardiologist, Dr. [B-NAME]Henry Wallace[O], in one week. Appointment scheduled for [B-DATE]08/27/2023[O] at [B-ADDRESS]450 S. Cedar Avenue, Office 320, Sunset Ridge, WA[O].  
+She should also continue her annual neurology reviews; the next review is due in [B-DATE]December 2023[O].
+
+**Instructions for Patient:**  
+1. Monitor blood pressure and report any readings higher than 160/100.
+2. Follow a low-sodium, heart-healthy diet.
+3. Maintain physical activity as advised.
+4. Watch for any signs of bleeding due to new anticoagulant therapy.
+
+**Discharge Condition:**  
+The patient is to be discharged in a stable condition with resolved symptoms. She is to manage at home with family support.
+
+---
+
+**Diagnostics Performed and Their Dates:**  
+- Routine blood tests on [B-DATE]08/16/2023[O].
+- Follow-up MRI on [B-DATE]08/21/2023[O], if symptoms recur.
+
+**Rehabilitation Services:**  
+Outpatient physical therapy and speech therapy services have been coordinated due to the initial presentation and need for cautious observation, scheduled to start on [B-DATE]08/23/2023[O].
+
+**Strengths and Limitations at Discharge:**  
+Patient retains full mobility and has demonstrated good understanding of her condition and discharge instructions.
+
+**Discharge Process:**  
+The patient was educated about her signs and symptoms and when to seek immediate health care. Discharge medications were reviewed with the patient and her daughter, [B-NAME]Rachel Brooks[O], who will be assisting her at home.
+
+**Final Coordination:**  
+All discharge summaries and follow-up care were coordinated with [B-ORGANIZATION]Sunset Ridge Health System's Outpatient Department[O]. Discharge prescriptions were sent electronically to [B-ORGANIZATION]Ridge Pharmacy[O] and will be ready for pickup this afternoon.
+
+**Signed:**  
+[B-NAME]Henry Wallace[O], MD, [B-DATE]08/20/2023[O], at 11:00 AM.

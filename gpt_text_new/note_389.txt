@@ -1,0 +1,65 @@
+**[B-ORGANIZATION]Green Tree Medical Center[O] Inpatient Discharge Summary**
+
+**[B-NAME]Emily Thompson[O]**, MRN# [B-ID]987654321[O], is a [B-AGE]54[O] y.o. female, admitted to the Cardiology service for management of acute myocardial infarction. 
+
+**Admission Date: [B-DATE]8/12/2023[O]**
+**Discharge Date: [B-DATE]8/26/2023[O]**
+
+**Attending Provider: Dr. [B-NAME]Anna Kendrick[O]**
+
+**Treatment Team:**
+- Cardiology: Dr. [B-NAME]Michael Smith[O]
+- Nursing: [B-NAME]Sara Loo[O], RN
+- Case Management: [B-NAME]James Rodriguez[O], LCSW
+
+**Hospital Problems Noted - Resolved**
+
+**POA Active Problems**
+- Acute myocardial infarction (AMI) [B-DATE]8/12/2023[O]- Present
+- Hypertension [B-DATE]2009[O] - Present
+
+**Resolved Problems:**
+- Congestive heart failure [B-DATE]8/15/2023[O] - 8/20/2023[O]
+- Pulmonary edema [B-DATE]8/12/2023[O] - 8/18/2023[O]
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] was admitted following sudden onset of chest pain at her home [B-ADDRESS]16 Rosewood Lane, Springfield, Illinois[O]. Post admission, she developed congestive heart failure and pulmonary edema which were managed effectively with IV diuretics and vasodilators. Coronary angiography performed on [B-DATE]8/14/2023[O] revealed severe triple vessel disease. She underwent coronary artery bypass graft (CABG) surgery on [B-DATE]8/16/2023[O], which was successful. Post-operative recovery was smooth with mild transient renal impairment that resolved before discharge.
+
+**Recommendations for Follow-Up:**
+General follow-up and cardiac rehabilitation are recommended. [B-NAME]Emily Thompson[O] should avoid strenuous activity until her follow-up appointment. 
+
+**Follow-Up Appointments:**
+- [B-DATE]9/1/2023[O] at 10:00 AM with Dr. [B-NAME]Anna Kendrick[O], Cardiology, at [B-ORGANIZATION]Green Tree Medical Center[O].
+- [B-DATE]9/3/2023[O] at 11:30 AM, Cardiac Rehab at [B-ORGANIZATION]Green Tree Rehabilitation Clinic[O].
+
+**Medications Prescribed at Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice a day
+- Follow up with medications as prescribed and monitor blood pressure and symptoms of angina.
+
+**PLL (Patient Location at Discharge):** 
+Home with home health care services arranged through [B-ORGANIZATION]Heart Health Home Care[O].
+
+**Last Recorded Vital Signs:**
+- BP: 130/85
+- Pulse: 72
+- Temp: 98.6 °F
+- Resp: 16
+
+**Total Score LACE - Readmission Risk Score: (does not apply to Pediatric, OB, PM&R, or Psychiatry Patients)** 12
+- **Total Score:** 12 Length of Stay: 14, Acute Admission: 3, Charleson Comorbidity Score: 5, Previous ED Visits: 0
+
+**LACE Score Risk Level:**
+- **Readmission Rate - 30 Day Mortality Rate:** 13-19 Highest 20.8% 5.8%
+
+**Discharge Instructions:**
+- Continue all current medications
+- Monitor signs of infection or complications
+- Restrict sodium intake and maintain a balanced diet
+- Scheduled follow-up appointments as outlined
+- Call Cardiology team if experiencing increased chest pain, breathlessness, or any new symptoms
+
+Signed:
+[B-NAME]Anna Kendrick[O], MD
+[B-DATE]8/26/2023[O], 4:30 PM

@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Eleanor Thomas[O], MRN#: [B-ID]347218965[O]
+
+**Age:** [B-AGE]68 years old[O]
+
+**Admission Date:** [B-DATE]09/14/2023[O]
+
+**Discharge Date:** [B-DATE]09/20/2023[O]
+
+**Attending Physician:** Dr. [B-NAME]Martin Reynolds[O]
+
+**Admission Diagnosis:** Decompensated heart failure, type 2 diabetes mellitus.
+
+**Discharge Diagnosis:**
+1. Decompensated heart failure
+2. Type 2 diabetes mellitus
+3. Hypertensive heart disease
+
+**Hospital Course:**
+
+Ms. [B-NAME]Eleanor Thomas[O] was admitted to [B-ORGANIZATION]Central City General Hospital[O] on [B-DATE]09/14/2023[O] with shortness of breath and pedal edema. Echocardiography showed reduced ejection fraction of 35%. She was managed with IV diuretics and adjustment of her oral diabetic medications due to elevated fasting blood sugars. Her heart failure symptoms gradually improved with medical management. Throughout her stay, blood pressure and blood sugar levels were closely monitored and maintained within target range.
+
+**Procedures Performed:**
+- Echocardiogram: [B-DATE]09/15/2023[O]
+- Daily blood glucose monitoring
+
+**Medications at Discharge:**
+- Furosemide 40 mg orally daily
+- Metformin 500 mg orally twice daily
+- Lisinopril 20 mg orally daily
+
+**Follow-up Care:**
+Ms. [B-NAME]Thomas[O] is advised to follow up with her primary care physician, Dr. [B-NAME]James Lee[O], within one week post-discharge for ongoing management of her cardiac and diabetic conditions. A referral to the [B-ORGANIZATION]Downtown Cardiology Clinic[O] for a follow-up echocardiogram in three months has been scheduled.
+
+**Discharge Instructions:**
+1. Continue with prescribed medication regimen.
+2. Monitor daily weight and record blood pressure and blood glucose levels.
+3. Restrict fluid intake to less than 2 liters per day.
+4. Follow a low-salt, diabetic-friendly diet.
+5. Report any symptoms of worsening heart failure such as increasing shortness of breath, new onset chest pain, or increasing leg swelling.
+
+**Outpatient Lab Tests:**
+- HbA1c and lipid profile on [B-DATE]10/05/2023[O]
+- Renal function test on [B-DATE]10/05/2023[O]
+
+**Discharge Condition:**
+The patient's condition at discharge was stable. She was able to perform activities of daily living with minimal dyspnea on exertion. Advised to avoid heavy lifting and strenuous activity until follow-up.
+
+**Signed:** Dr. [B-NAME]Martin Reynolds[O], [B-DATE]09/20/2023[O], [B-ADDRESS]555 Main St, Central City, CA 90210[O]
+
+**Contact Information for further questions:** [B-PHONE]555-333-7890[O] (Office of Dr. [B-NAME]James Lee[O])
+
+This summary serves to provide an overview of Ms. [B-NAME]Thomas[O]'s recent hospitalization and includes necessary instructions to ensure continuous care following her discharge. Please adhere to the outlined follow-up appointments and medication instructions.

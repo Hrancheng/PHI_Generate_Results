@@ -1,0 +1,69 @@
+**Metro General Hospital**
+**Inpatient Discharge Summary**
+
+**Patient Details:**
+Name: [B-NAME]Gregory Chapman[O]
+MRN#: [B-ID]XM19973258[O]
+Age: [B-AGE]68 years old[O]
+Date of Birth: [B-DATE]November 12, 1954[O]
+
+**Admission Date:** [B-DATE]September 18, 2023[O]
+**Discharge Date:** [B-DATE]September 28, 2023[O]
+
+**Attending Physician:**
+Dr. [B-NAME]Amanda Keller[O]
+
+**Hospital Service:**
+Cardiology
+
+**Primary Diagnosis:**
+Acute Myocardial Infarction
+
+**History of Present Illness:**
+Mr. [B-NAME]Chapman[O] presented to the Emergency Department on [B-DATE]September 18, 2023[O] complaining of chest pain starting early that morning. The pain was described as severe, substernal, and radiating to his left arm.
+
+**Hospital Course:**
+Mr. [B-NAME]Chapman[O]’s hospital stay included stabilization in the Emergency Room, followed by cardiac catheterization which revealed two blocked coronary arteries. He underwent successful angioplasty and stent placement. Post-procedure, his course was uncomplicated, and he participated in daily cardiology rounds and cardiac rehabilitation sessions. 
+
+**Medication on Discharge:**
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg at bedtime
+3. Metoprolol 50 mg twice daily
+4. Clopidogrel 75 mg daily
+
+**Allergies:**
+No known drug allergies.
+
+**Follow-Up Care:**
+Mr. [B-NAME]Chapman[O] is scheduled for a follow-up appointment with Dr. [B-NAME]Linda Greer[O] at the [B-ORGANIZATION]Metro General Cardiac Clinic[O] on [B-DATE]October 5, 2023[O]. 
+
+**Diet:**
+A heart-healthy diet was recommended, focusing on low salt, low fat, and rich in whole grains, fruits, and vegetables.
+
+**Activity:**
+Gradual increase in activity as tolerated. Cardiac rehabilitation phase II to continue upon discharge.
+
+**Discharge Instructions:**
+Mr. [B-NAME]Chapman[O] has been advised to monitor his chest pain, take medications as prescribed, and call 911 if he experiences symptoms of chest pain, breathlessness, or fainting.
+
+**Discharge Disposition:**
+Mr. [B-NAME]Chapman[O] will be returning to his home. He lives at [B-ADDRESS]124 Woodbine Rd, Springfield, IL 62704[O].
+
+**Copies Sent to:**
+[1] Dr. [B-NAME]Linda Greer[O], Cardiology
+[2] [B-ORGANIZATION]Metro General Cardiac Clinic[O]
+
+**Discharge Condition:**
+Mr. [B-NAME]Chapman[O] appeared stable with significant improvement post-operatively. He was alert, oriented, and his pain was controlled.
+
+**Signed:**
+Dr. [B-NAME]Karen Bohr[O]
+[B-DATE]September 28, 2023[O] at 16:00 hrs
+
+**Summary Completed by:**
+[NAME]Kayla Thompson[O], Medical Secretary
+
+**Note:** Please ensure to keep your follow-up appointments, and continue with the medications as prescribed. Contact your doctor if there is any decline in your health status.
+
+---
+This synthetic discharge summary includes annotated PHI as per the annotation guidelines and mimics the comprehensive style of the provided examples.

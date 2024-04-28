@@ -1,0 +1,61 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [B-NAME]Emily Sanchez[O]  
+- **Medical Record Number:** [B-ID]987654321[O]  
+- **Age:** [B-AGE]54 years old[O]  
+- **Admission Date:** [B-DATE]October 13, 2023[O]  
+- **Discharge Date:** [B-DATE]October 20, 2023[O]  
+
+**Attending Physician:** Dr. [B-NAME]Michael Thompson[O]  
+- **Hospital:** [B-ORGANIZATION]General Hospital Downtown[O]
+
+**Admission Diagnosis:** 
+- Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+
+**Hospital Course:**
+Ms. [B-NAME]Sanchez[O] was admitted to the [B-ORGANIZATION]General Hospital Downtown[O] following a presenting complaint of increased shortness of breath and a productive cough. She was managed in the respiratory care unit. Treatment included corticosteroids, bronchodilators, and supplemental oxygen therapy. Her hospital course was uncomplicated, with progressive improvement in respiratory function observed.
+
+**Procedures Performed:**  
+- Spirometry confirmed the diagnosis of severe COPD exacerbation.  
+- Chest X-ray indicated no signs of pneumonia or other acute conditions.
+
+**Condition at Discharge:**
+Patient's respiratory status has stabilized, allowing for management in a home setting. She will continue on home oxygen therapy and outpatient pulmonary rehabilitation.
+
+**Discharge Medications:**  
+- Albuterol inhaler, use as needed for wheezing  
+- Prednisone 40 mg daily for 5 days then taper over the following week
+
+**Follow-up Appointments:**
+- Outpatient follow-up with her primary care provider, Dr. [B-NAME]Laura Beth Johnson[O], scheduled for [B-DATE]October 27, 2023[O].  
+- Pulmonary rehabilitation program at [B-ORGANIZATION]Respiratory Wellness Center[O], initial session on [B-DATE]October 24, 2023[O].
+
+**Home Care Instructions:**  
+- Continue using oxygen concentrator at 2 L/min via nasal cannula.  
+- Avoid exposure to cold air and pollutants.  
+- Practice controlled coughing techniques as demonstrated during hospitalization.
+
+**Diet:**  
+- No specific restrictions. Encouraged to maintain a balanced diet rich in fruits and vegetables for general health.
+
+**Activity:**  
+- Limited activity recommended for one week. Gradual increase as tolerated.
+
+**Pending Lab and Test Results:**  
+- None pending at the time of discharge.
+
+**Discharge Planning:**  
+Ms. [B-NAME]Sanchez[O] has been referred to [B-ORGANIZATION]Home Health Services[O] for initial setup and management of home oxygen therapy. A home visit by respiratory therapy is scheduled for [B-DATE]October 21, 2023[O].
+
+**Contact Information:**
+- Follow-up concerns can be directed to Dr. [B-NAME]Laura Beth Johnson[O] at [B-PHONE]555-234-5678[O]
+
+**Signature:**  
+Signed: Dr. [B-NAME]Michael Thompson[O]  
+Date: [B-DATE]October 20, 2023[O], 4:45 PM
+
+The discharge plan and all medical instructions have been explained to Ms. [B-NAME]Sanchez[O] and her daughter, [B-NAME]Sarah Sanchez[O]. They expressed understanding of all elements and affirmed their capacity to manage care at home.
+
+*Note: All times and treatments are documented in the patient's electronic health record under ID [B-ID]987654321[O]. Discharge summary was dictated but not read by Dr. [B-NAME]Thompson[O].*
+

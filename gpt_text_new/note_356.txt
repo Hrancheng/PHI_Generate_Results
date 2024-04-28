@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Thomas Jefferson[O]
+
+**MRN:** [B-ID]784512345[O]
+
+**Age:** [B-AGE]68 years[O]
+
+**Admission Date:** [B-DATE]March 1, 2023[O]
+
+**Discharge Date:** [B-DATE]March 14, 2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Emily Stanton[O]
+
+**Hospital Service:** General Internal Medicine
+
+**Admission Diagnosis:**
+- Acute Decompensated Heart Failure
+- Type 2 Diabetes Mellitus
+
+**History of Present Illness:**
+[B-NAME]Thomas Jefferson[O], a [B-AGE]68-year-old[O] male with a known history of heart failure and diabetes, was admitted to [B-ORGANIZATION]City Hospital[O] on [B-DATE]March 1, 2023[O] following an increase in shortness of breath and lower extremity edema. Symptoms were exacerbated by a recent non-compliance with medications.
+
+**Hospital Course:**
+Upon admission, the patient was started on IV diuretics which improved his symptoms significantly. The cardiology team optimized his heart failure regimen. His blood glucose levels were managed with an insulin sliding scale and metformin was replaced by a DPP-4 inhibitor. The patient attended a diabetes education session and expressed understanding of the importance of medication compliance.
+
+**Procedures Performed:**
+- Echocardiogram on [B-DATE]March 3, 2023[O]: Revealed an ejection fraction of 35%, consistent with the previous measurement.
+- Chest X-Ray on [B-DATE]March 4, 2023[O]: Showed no acute disease.
+
+**Consultations:**
+- Cardiology
+- Endocrinology
+- Dietary
+
+**Discharge Medications:**
+- Carvedilol 12.5 mg twice daily
+- Furosemide 40 mg daily
+- Linagliptin 5 mg daily
+
+**Follow-up:**
+- Outpatient follow-up with [B-NAME]Dr. Sarah Lin[O], Cardiologist at [B-ORGANIZATION]City Cardiology Associates[O], scheduled for [B-DATE]March 28, 2023[O].
+- Diabetes management with [B-NAME]Dr. John Malik[O], Endocrinologist, on [B-DATE]March 30, 2023[O].
+
+**Instructions:**
+Patient advised to monitor weight daily and keep a log of blood glucose readings. He is encouraged to limit fluid intake to less than 2 liters per day and follow a low-sodium diet. Urged to adhere to prescribed medication schedule without lapses.
+
+**Code Status:** Full Code
+
+**Condition at Discharge:** Stable
+
+**Signed:** [B-NAME]Emily Stanton[O], MD, [B-DATE]March 14, 2023[O] at [B-LOCATION]City Hospital, Room 408[O]

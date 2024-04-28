@@ -1,0 +1,58 @@
+**Inpatient Discharge Summary**
+
+**ID:** [B-ID]4532781X[O]
+
+**Patient Name:** [B-NAME]Michael Thompson[O]
+
+**Date of Birth:** [B-DATE]05/15/1976[O]
+
+**Age:** [B-AGE]47[O]
+
+**Admission Date:** [B-DATE]03/21/2023[O]
+
+**Discharge Date:** [B-DATE]03/30/2023[O]
+
+**Hospital Service:** General Surgery
+
+**Primary Diagnosis:** Cholecystitis
+
+**Admitting Physician:** Dr. [B-NAME]Emily White[O]
+
+**Attending Physician:** Dr. [B-NAME]Emily White[O]
+
+**Consulting Physician:** Dr. [B-NAME]Johnathan Black[O]
+
+**Hospital Site:** [B-ORGANIZATION]Downtown Health Clinic[O]
+
+**Admission Information:**
+Mr. [B-NAME]Michael Thompson[O] was admitted to our hospital on [B-DATE]03/21/2023[O] with severe abdominal pain, diagnosed as acute cholecystitis. Physical examination upon admission showed positive Murphy's sign. An ultrasound confirmed the presence of gallstones and inflammation of the gallbladder.
+
+**Hospital Course:**
+Mr. [B-NAME]Thompson[O] initially received intravenous hydration and antibiotics. Due to persistent symptoms, a decision for surgical intervention was taken. On [B-DATE]03/23/2023[O], Mr. [B-NAME]Thompson[O] underwent laparoscopic cholecystectomy. The procedure, led by Dr. [B-NAME]Johnathan Black[O], was successful without any complications.
+
+Post-operatively, his recovery was monitored closely in the ward. His pain was managed with IV Acetaminophen and oral Ibuprofen, transitioning to oral pain medication as his condition improved. Diet was gradually advanced from liquids to solids as tolerated without any issues. He was encouraged to ambulate with assistance the day following the surgery.
+
+**Discharge Plan:**
+Mr. [B-NAME]Thompson[O] was discharged on [B-DATE]03/30/2023[O] in stable condition. He was advised to avoid heavy lifting and strenuous activity for four weeks. He is to follow up with Dr. [B-NAME]Emily White[O] in two weeks for a post-operative check-up, or earlier if any complications such as fever, worsening pain, or signs of infection occur. 
+
+Patient Education was carried out regarding wound care and signs of infection, and he verbalized understanding. Prescribed medications upon discharge include oral Acetaminophen 500 mg every 6 hours as needed for pain and Capsule Amoxicillin 500 mg every 8 hours for seven days.
+
+**Medications at Discharge:**
+- Acetaminophen 500mg, Take 1 tablet every 6 hours as needed for pain 
+- Amoxicillin 500mg, Take 1 capsule every 8 hours for 7 days
+
+**Follow-Up Appointments:**
+- [B-DATE]04/13/2023[O] at [B-ORGANIZATION]Downtown Health Clinic[O]
+
+**Contact Information For Follow-Up:**
+- [B-PHONE]315-555-0198[O]
+- [B-ADDRESS]Downtown Health Clinic, 100 Main Street, Springfield, IL[O]
+
+**Condition at Discharge:**
+Patient's condition is stable, and he has been educated on potential complications and when to seek immediate medical attention. Education also included proper medication usage, dietary restrictions, and activity levels.
+
+**Discharge Instructions:**
+Patient should maintain a low-fat diet for the next month and gradually increase physical activities as tolerated. He should avoid use of any non-prescribed medications or supplements without consulting a healthcare provider.
+
+**Signature:**
+Dr. [B-NAME]Emily White[O]

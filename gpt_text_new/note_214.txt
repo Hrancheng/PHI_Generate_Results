@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+
+**[B-ORGANIZATION]City General Hospital[O]**  
+**Patient Information:**  
+**Name:** [B-NAME]Martha Bennet[O]  
+**MRN#:** [B-ID]56739024[O]  
+**Age:** [B-AGE]72 y.o.[O]  
+**Admission Date:** [B-DATE]09/15/2023[O]  
+**Discharge Date:** [B-DATE]09/19/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Harold Greene[O]  
+
+**Reason for Hospitalization:**
+Patient was admitted with symptoms of acute chest pain and shortness of breath. History of hypertension and previous myocardial infarction.
+
+**Hospital Course:**
+Upon admission, [B-NAME]Martha Bennet[O] was found to have elevated cardiac enzymes and underwent urgent coronary angiography, which showed significant stenosis in the left anterior descending artery. A stent was successfully placed during the procedure. Post-procedure, the patient remained hemodynamically stable and pain-free. She was initiated on dual antiplatelet therapy and her lipid-lowering medication was adjusted.
+
+**Discharge Medications:**
+- Aspirin 81 mg, Oral, once daily  
+- Clopidogrel 75 mg, Oral, once daily  
+- Atorvastatin 40 mg, Oral, once daily  
+
+**Discharge Instructions:**  
+Patient to follow a heart-healthy diet, maintain a regular exercise routine, and avoid smoking. [B-NAME]Martha Bennet[O] is scheduled to attend cardiac rehabilitation starting [B-DATE]09/26/2023[O]. She has been educated on the importance of medication compliance and recognizing symptoms of cardiac distress.
+
+**Follow-Up Appointments:**  
+Appointment with [B-NAME]Dr. Harold Greene[O] on [B-DATE]10/03/2023[O] at [B-ORGANIZATION]City General Hospital Cardiology Clinic[O].  
+Additional follow-up in the heart failure clinic to monitor response to new medication regimen.
+
+**Signed:** Dr. [B-NAME]Harold Greene[O], MD  
+**Date:** [B-DATE]09/19/2023[O], 2:45 PM  
+
+**[B-ORGANIZATION]City General Hospital[O]**  
+**Case Summary Comments:**  
+Patient's acute coronary event was managed promptly with interventional radiology resulting in excellent symptom relief. Patient and family are aware of follow-up care and emergency procedures. Her discharge was coordinated with a visiting nurse service to ensure compliance with the new heart failure regimen.
+
+**Next Steps:**  
+Review lipid panel in follow-up appointment and consider an echocardiogram in 3 months to evaluate cardiac function post-intervention.
+
+**For any questions or concerns prior to follow-up appointment, patient can contact:**  
+**Phone:** [B-PHONE]555-233-1122[O]  
+**Email:** cardiosupport@[B-CONTACT]citygeneral.com[O]  
+
+**Copy of this discharge summary was sent to:**
+- Primary Care Physician, Dr. [B-NAME]Lisa Monroe[O] via fax [B-PHONE]555-233-1133[O] and secure email: drmonroe@[B-CONTACT]pcpdocs.com[O]  
+- Cardiac Rehabilitation Center, email: rehab@[B-CONTACT]cityheartsupport.com[O]
+
+**Discharge Condition:** Patient is stable and reports feeling much improved. She is aware of signs that should prompt immediate medical consultation and is optimistic about her recovery plan.
+
+This synthetic patient scenario has been generated for simulation purposes only. All personal identifiers are hypothetical and for illustrative use in training scenarios.

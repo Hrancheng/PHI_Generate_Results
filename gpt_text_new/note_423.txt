@@ -1,0 +1,63 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Emily Thompson[O], MRN# [B-ID]XK23847[O]  
+**Age:** [B-AGE]52 y.o.[O]   
+**Admission Date:** [B-DATE]10/21/2023[O]    
+**Discharge Date:** [B-DATE]10/31/2023[O]    
+**Attending Provider:** Dr. [B-NAME]Michael Reed[O]  
+**Treatment Team:** Surgical Team A
+
+---
+
+**Hospital Course:**  
+
+Mrs. [B-NAME]Thompson[O] was admitted to the [B-ORGANIZATION]Central City Health Clinic[O] following a fall at her home in [B-ADDRESS]Aspen Hill, Maryland[O]. Initial assessments showed a fractured left wrist and minor contusions. Orthopedic surgery was consulted and an open reduction internal fixation (ORIF) of the left wrist was performed on [B-DATE]10/22/2023[O]. The procedure was successful and post-operative recovery was uneventful. The patient reported minimal pain which was managed with acetaminophen.  
+ 
+Physical Therapy started on [B-DATE]10/23/2023[O] and continued daily, focusing on gentle mobilization and strength training. Mrs. [B-NAME]Thompson[O] showed good progress and was able to perform light activities with some assistance by [B-DATE]10/28/2023[O]. Her cardiovascular status was monitored and remained stable throughout her stay.  
+
+Psychological Services were also involved due to the patient expressing feelings of anxiety and fear of falling again. Counseling sessions were held and coping strategies were reviewed.  
+
+The patient was advised to follow up with her primary care physician, Dr. [B-NAME]Susan O'Neil[O], and her orthopedic surgeon within one week of discharge for wound check and functionality assessment of her wrist.
+
+---
+
+**Consultations:**
+1. Orthopedic Surgeon: Dr. [B-NAME]Johnathan Larsson[O], reviewed the case on [B-DATE]10/22/2023[O]
+2. Psychologist: Dr. [B-NAME]Angela Bright[O], consulted on [B-DATE]10/24/2023[O] for anxiety management 
+
+---
+
+**Imaging:**
+- X-ray left wrist: Showed displaced fracture on [B-DATE]10/21/2023[O]
+- Follow-up X-ray: Confirmed good alignment post-surgery on [B-DATE]10/25/2023[O]
+
+---
+
+**Medications Prescribed at Discharge:**
+1. Acetaminophen 500 mg tablet: Take 1 tablet every 6 hours as needed for pain.
+2. Calcium + Vitamin D: Continue with current regimen
+
+---
+
+**Follow-Up Appointments:**  
+**Orthopedics:** [B-DATE]11/7/2023[O] at 10:15 AM with Dr. [B-NAME]Johnathan Larsson[O], [B-ORGANIZATION]Orthopedic Associates of Central City[O]  
+**Primary Care:** [B-DATE]11/7/2023[O] at 2:00 PM with Dr. [B-NAME]Susan O'Neil[O], [B-ORGANIZATION]Central City Clinic[O]  
+
+---
+
+**Discharge Instructions:**
+- Continue to use the wrist brace as advised.
+- Avoid heavy lifting and strenuous activities with the left hand.
+- Report any signs of infection, increased pain, or numbness to your physician immediately.
+
+---
+
+**Future Care Plan:**
+Mrs. [B-NAME]Thompson[O] has been referred to outpatient physical therapy for continued rehabilitation of her wrist. She has also been registered for a fall prevention workshop starting [B-DATE]11/15/2023[O].
+
+---
+
+**Signed:** [B-NAME]Michael Reed[O], MD  
+**Date:** [B-DATE]10/31/2023[O], 4:50 PM
+
+**Telephone for follow-up queries:** [B-PHONE]301-555-0198[O]

@@ -1,0 +1,61 @@
+**[B-ORGANIZATION]General Hospital[O] Inpatient Discharge Summary**
+
+**Patient: [B-NAME]Johnathan M. Hargrove[O]**
+**MRN#: [B-ID]987654321[O]**
+**Age: [B-AGE]54 years old[O]**
+
+**Admission Date: [B-DATE]September 10, 2023[O]**
+**Discharge Date: [B-DATE]September 14, 2023[O]**
+**Discharge Physician: [B-NAME]Dr. Lisa Franklin[O]**
+
+## Hospital Course:
+Mr. [B-NAME]Johnathan M. Hargrove[O] was admitted due to a severe exacerbation of Chronic Obstructive Pulmonary Disease (COPD). He presented with increasing shortness of breath, wheezing, and a productive cough. The patient was initially given high-flow oxygen therapy and was started on I.V. corticosteroids as well as bronchodilators.
+
+During the stay, [B-NAME]Johnathan M. Hargrove[O] underwent a series of diagnostics including chest X-rays and a CT scan, which showed no signs of pneumothorax but confirmed the presence of emphysematous changes. Arterial blood gas analyses performed on [B-DATE]September 11, 2023[O], showed improved CO2 retention from admission.
+
+Over the course of his hospital stay, the patient's condition stabilized sufficiently to transition him to oral medications and standard oxygen therapy via nasal cannula. The patient participated in respiratory therapy sessions and showed gradual improvement.
+
+## Discharge Medications:
+1. Albuterol Inhaler – Use 2 puffs every 4-6 hours as needed for wheezing.
+2. Prednisone 40 mg orally daily for 5 days, then taper.
+3. Tiotropium – One inhalation daily.
+
+## Follow-Up:
+- Primary Care Physician: [B-NAME]Dr. Harold Greene[O], follow up within one week post-discharge.
+- Pulmonologist: [B-NAME]Dr. Anita Desai[O], appointment scheduled for [B-DATE]September 21, 2023[O] at [B-ADDRESS]555 Pulmonary Road, Clinic Room 204[O].
+
+## Discharge Instructions:
+- Continue to avoid smoking and other respiratory irritants.
+- Monitor for signs of respiratory distress, increased sputum production, or changes in sputum color - seek immediate care if any of these are observed.
+- Maintain regular use of prescribed inhalers and medications as directed.
+
+## Education Provided:
+The patient received education regarding COPD management, correct use of inhalers, importance of medication adherence, and breathing exercises to help manage symptoms.
+
+## Discharge Status:
+Stable for discharge. The patient is to continue medication as prescribed, follow up with specialists, and pursue outpatient rehabilitation to improve pulmonary function.
+
+## Coding Information:
+ICD-10 Codes:
+- J44.9 Chronic obstructive pulmonary disease, unspecified
+- E66.01 Morbid (severe) obesity due to excess calories
+
+**Discharge Coordinator:[B-NAME] Nancy Sims[O], RN**
+
+**[B-ORGANIZATION]General Hospital Discharge Team[O]**
+**Date: [B-DATE]September 14, 2023[O]**
+**Time: 2:00 PM**
+
+**Signed: [B-NAME]Dr. Lisa Franklin[O]**
+**Date: [B-DATE]September 14, 2023[O]**
+**Time: 2:15 PM**
+
+*Notes: Patient expressed understanding of discharge instructions and verbalized confidence in managing his condition at home with the support of family and outpatient services. Patient’s son, [B-NAME]Michael Hargrove[O], will be assisting with home care.* 
+
+**Contact Information:**  
+Phone: [B-PHONE]555-987-6543[O]  
+Email: [B-CONTACT]jhargrove_med@healthmail.com[O]  
+
+**Discharge Summary Prepared by:**  
+[B-NAME]Cynthia Knox[O], Medical Scribe
+

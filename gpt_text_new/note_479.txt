@@ -1,0 +1,68 @@
+**Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Elizabeth Taylor[O]
+
+**MRN#**: [B-ID]546372008[O]
+
+**Age**: [B-AGE]68 y.o.[O]
+
+**Admission Date**: [B-DATE]9/15/2023[O]
+
+**Discharge Date**: [B-DATE]9/25/2023[O]
+
+**Attending Provider**: Dr. [B-NAME]Jonathan Hale[O]
+
+**Primary Care Provider**: [B-NAME]Samantha Carter[O], MD
+
+**Admission Diagnosis**:
+- Transient Ischemic Attack
+- Hypertension
+
+**Discharge Diagnosis**:
+- Resolved Transient Ischemic Attack
+- Stable Hypertension
+
+**Hospital Course**:
+Ms. [B-NAME]Taylor[O] was admitted following a brief episode of right-sided weakness and speech difficulty which resolved spontaneously within an hour. On admission, her blood pressure was elevated at 180/95 mmHg. MRI brain ruled out any acute infarcts, confirming a Transient Ischemic Attack. Her hospital stay involved optimization of antihypertensive therapy, patient education, and ensuring secondary stroke prevention. Neurology and cardiology teams were consulted; adjustments in her medication were made with good tolerance. Her blood pressure at discharge stabilized around 135/85 mmHg. Speech and physical therapy evaluations showed no residual deficits. She participated actively in her recovery plan discussions.
+
+**Medications at Discharge**:
+1. Aspirin 81 mg daily
+2. Lisinopril 20 mg daily
+3. Atorvastatin 40 mg nightly
+4. Amlodipine 10 mg daily
+
+**Discharge Instructions**:
+Ms. [B-NAME]Taylor[O] is advised to continue her medications as prescribed without interruptions. She should monitor her blood pressure twice a day and maintain a low-salt diet. Follow-up appointments are scheduled with her primary care provider, [B-NAME]Samantha Carter[O], MD, and the stroke clinic. She should seek immediate medical attention if she experiences symptoms of a stroke or significant changes in her blood pressure.
+
+**Scheduled Follow-up Appointments**:
+- [B-DATE]10/02/2023[O], 10 AM with [B-NAME]Samantha Carter[O], MD at [B-ORGANIZATION]Central City General Hospital[O]
+- Stroke clinic on [B-DATE]10/10/2023[O], 9 AM
+
+**Discharge Condition**: Stable
+
+**Activity Level**: As tolerated
+
+**Diet**: Low sodium, heart-healthy diet
+
+**Special Instructions**:
+Continue physical activity as tolerated, focusing on gentle exercises like walking. Keep a daily log of blood pressure readings and bring it to follow-up appointments. Avoid smoking and limit alcohol consumption.
+
+**Code Status at Discharge**: Full code
+
+**Legal Status at Discharge**: Competent
+
+**LACE - Readmission Risk Score**
+- Total Score: 7
+- Length of Stay: 10 days
+- Acute Admission: Yes
+- Comorbidities: Hypertension
+- ED Visits in last 6 months: 0
+LACE Score Risk Level: Moderate
+- Readmission Rate - 30 Day: 7.9%
+- Mortality Rate - 30 Day: 0.7%
+
+For any questions or urgent issues, please contact [B-ORGANIZATION]Central City General Hospital[O] at [B-PHONE]555-932-4780[O].
+
+**Signed**: Dr. [B-NAME]Jonathan Hale[O]
+**Date**: [B-DATE]9/25/2023[O]
+**Time**: 3:30 PM

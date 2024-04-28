@@ -1,0 +1,57 @@
+INPATIENT DISCHARGE SUMMARY
+
+[B-NAME]Michael Thompson[O], MRN# [B-ID]458299875[O], is a [B-AGE]68-year-old[O] male, admitted to the General Medicine service following a fall at home resulting in a hip fracture. 
+
+Admission Date: [B-DATE]8/15/2022[O] 
+Discharge Date: [B-DATE]8/25/2022[O] 
+Admitting Provider: Dr. [B-NAME]Anna Zheng[O] 
+Attending Provider on Discharge: Dr. [B-NAME]Christopher Bale[O] 
+Hospital Problems Addressed: 
+1. Postoperative complications due to hip surgery: Resolved.
+2. Hypertension: Stable.
+3. Type II Diabetes Mellitus: Managed with insulin during hospital stay.
+
+Hospital Course: 
+Mr. [B-NAME]Thompson[O] initially presented to the Emergency Department after experiencing a fall while walking his dog at [B-ADDRESS]Pleasant Park Rd, Denver, CO[O]. He reported severe pain in his left hip and was unable to ambulate. Initial x-rays confirmed a fractured left hip. The patient was admitted to the orthopedic service and underwent successful hip replacement surgery on [B-DATE]8/16/2022[O]. His postoperative recovery was complicated by mild pneumonia, which responded well to antibiotics. Blood glucose levels were closely monitored and controlled with an insulin regimen due to his pre-existing diabetes.
+
+Discharge Medications: 
+1. Aspirin 81 mg daily.
+2. Metformin 500 mg twice daily.
+3. Insulin Glargine 40 units at bedtime.
+4. Cefuroxime 250 mg twice daily for 5 days (continue for pneumonia).
+
+Disposition: 
+Mr. [B-NAME]Thompson[O] was discharged to [B-ORGANIZATION]Greenwood Rehabilitation Center[O], where he will undergo physical therapy to regain mobility and strength in his left hip. Projected rehabilitation duration is 4 to 6 weeks.
+
+Follow-Up: 
+1. Orthopedics: follow-up appointment on [B-DATE]9/5/2022[O] with Dr. [B-NAME]Laura Gibson[O] at [B-ORGANIZATION]Denver Orthopedic Clinic[O].
+2. General Medicine: follow-up on [B-DATE]9/12/2022[O] with Dr. [B-NAME]Christopher Bale[O] for post-hospitalization management of chronic conditions.
+
+Recommendations for Post Discharge Care: 
+- Continue weight-bearing as tolerated with the assistance.
+- Regular blood sugar monitoring to adjust insulin dosage as needed.
+- Continue low salt, diabetic-friendly diet.
+
+Discharge Instructions:
+- Mr. [B-NAME]Thompson[O] is advised not to drive until after his follow-up appointment with orthopedics.
+- Signs of infection, severe pain, or any new symptoms should prompt an immediate visit to the ER or a call to his primary care provider.
+
+Other Pertinent Information:
+- Mr. [B-NAME]Thompson[O] lives alone, has home health services arranged for his return home from rehab.
+- No known drug allergies.
+- Last recorded vitals: BP 132/86, HR 78, Temp 98.6°F, Resp 16, SpO2 97%.
+
+Discharge Summary dictated by: Dr. [B-NAME]Anna Zheng[O]
+Date: [B-DATE]8/25/2022[O]
+Time: 3:30 PM
+
+_____________________
+Summary Reviewed and Confirmed by Dr. [B-NAME]Christopher Bale[O]
+Date: [B-DATE]8/25/2022[O]
+Time: 4:00 PM 
+
+[B-ORGANIZATION]City Hospital[O]
+[B-ADDRESS]123 Health Blvd, Denver, CO 80230[O]
+[B-PHONE]303-555-9876[O]
+[NEXT STEPS]Safe recovery and effective rehabilitation[O]
+[NEXT STEPS]Monitor signs of infection or complications[O]

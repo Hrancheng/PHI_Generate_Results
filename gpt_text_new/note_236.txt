@@ -1,0 +1,76 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Emily Thomas[O]
+
+**MRN:** [B-ID]785492762[O]
+
+**Age:** [B-AGE]54 y.o.[O]
+
+**Admission Date:** [B-DATE]September 15, 2023[O]
+
+**Discharge Date:** [B-DATE]September 25, 2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Alan Grant[O]
+
+**Discharge Diagnosis:** Chronic obstructive pulmonary disease (COPD) exacerbation.
+
+**Hospital Problems Noted - Resolved:**
+POA Active Problems: 
+- COPD [B-DATE]Ongoing since 2010[O] - Present Yes
+- Hypertension [B-DATE]Diagnosed in 2005[O] - Present Yes
+
+**Resolved Problems:**
+- Acute respiratory failure [B-DATE]September 16, 2023[O] - [B-DATE]September 20, 2023[O]
+- Pneumonia [B-DATE]September 16, 2023[O] - [B-DATE]September 24, 2023[O]
+
+**Brief Hospital Course:**
+[B-NAME]Emily Thomas[O] was admitted with an exacerbation of her COPD tangled with a new onset of pneumonia. Her management required intravenous antibiotics and steroids, aggressive nebulization, and supplementary oxygen via nasal cannula. Over the course of her stay, [B-NAME]Emily[O]'s respiratory status stabilized enough to transition to oral medication, and her oxygen saturation maintained above 92% on room air.
+
+**Discharge Medication:**
+- Albuterol inhaler as needed
+- Tiotropium 18 mcg daily
+- Prednisone taper starting from 40 mg
+
+**Plan for Follow-up:**
+- Follow-up with [B-NAME]Dr. Helen Pierce[O] of [B-ORGANIZATION]Crossroads Respiratory Clinic[O] on [B-DATE]October 3, 2023[O]
+- Pulmonary rehabilitation twice a week at [B-ORGANIZATION]City Health Physio[O]
+
+**Next Steps:**
+Further evaluation in the outpatient setting, continue smoking cessation advice, regular spirometry, and yearly influenza vaccination.
+
+**LACE - Readmission Risk Score:**
+Total Score 10 (Last filed: [B-DATE]September 26, 2023[O] 10:30 AM)
+- Length of Stay: 10 days
+- Acute Admission: Yes
+- Charleson Comorbidity Score: 2
+- ED Visits in the last 6 months: 1
+
+**LACE Score Risk Level:**
+- 10-12: High
+  - Readmission Rate - 30 Day: 14.7%
+  - Mortality Rate - 30 Day: 2.5%
+
+**Communication with Primary Care Provider:**
+Informed [B-NAME]Dr. Jonathan Harris[O] of [B-ORGANIZATION]Main Street Medical Clinic[O] on [B-DATE]September 25, 2023[O] via InBasket message.
+
+**Signed:**
+[B-NAME]Alice Johnson[O], RN, [B-DATE]September 25, 2023[O], 11:00 AM
+
+**Supervising Physician:**
+I agree with the discharge plan reviewed and provided my consultation as required.
+Dr. [B-NAME]Martin Cree[O], MD, [B-ORGANIZATION]General Hospital[O]
+
+**Significant Test or Procedure Results:**
+Chest X-Ray [B-DATE]September 23, 2023[O]: Shows resolution of infiltrates in the lower lobes.
+Pulmonary Function Tests [B-DATE]September 22, 2023[O]: Showed moderate obstructive pattern without significant reversibility post-bronchodilator.
+
+**Discharge Instructions:**
+Monitor symptoms of breathlessness. Use rescue inhaler as needed and report any deterioration in symptoms immediately to the healthcare provider. Maintain a smoke-free environment and follow a healthy diet to support immune function.
+
+**Discharge Condition:**
+Stable for discharge. Advised on the importance of adherence to medications and upcoming follow-up appointments.
+
+**Outstanding Medical Issues:**
+None noted at the time of discharge. Patient demonstrated understanding of her medications and follow-up appointments.
+
+This summary is intended for continuing care and provides a comprehensive overview of [B-NAME]Emily Thomas[O]'s hospitalization and her prescribed medical and follow-up care plan.

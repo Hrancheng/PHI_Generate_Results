@@ -1,0 +1,74 @@
+**[B-ORGANIZATION]Cobblestone Medical Center[O] Inpatient Discharge Summary**
+
+**Patient Information:**
+- Name: [B-NAME]Mary L. Hathaway[O]
+- MRN#: [B-ID]589672310[O]
+- [B-AGE]72-year-old[O] female
+- Admission Date: [B-DATE]02/12/2023[O]
+- Discharge Date: [B-DATE]02/28/2023[O]
+- Attending Provider: Dr. [B-NAME]Helen Mirren[O]
+- Treatment Team: SA2 FLOOR CALLS - PAGER [B-ID]21524[O]
+
+**Hospital Encounters Noted:**
+- Anemia due to chronic blood loss [B-DATE]02/15/2023[O] - Present Yes
+- Hip fracture due to fall at home! CMS/HCC [B-DATE]02/12/2023[O] - Present Yes
+
+**Resolved Problems:**
+- RESOLVED: Hypotension [B-DATE]02/14/2023[O] - [B-DATE]02/20/2023[O] Yes
+- RESOLVED: Urinary tract infection (CMS/HCC) [B-DATE]02/17/2023[O] - [B-DATE]02/24/2023[O] Yes
+
+**Other Problems:**
+- None indicated.
+
+**Discharge Condition:**
+- Disposition: Fair
+- Home or Self Care
+
+**LACE - Readmission Risk Score:**
+- Total Score 15
+  - Length of Stay: 16 days
+  - Acute Admission: 3
+  - Charleson Comorbidity Score: 6
+- LACE Score Risk Level: Highest
+  - Readmission Rate - 30 Day: 20.8%
+  - Mortality Rate - 30 Day: 5.8%
+- A communication regarding this hospital stay was sent to Primary Care Provider, Dr. [B-NAME]George R. Plotkin[O] today [B-DATE]02/28/2023[O] via InBasket message.
+
+**Instructions for Follow Up:**
+- Follow up Appointment: 
+   - [B-DATE]03/15/2023[O] with Dr. [B-NAME]Julian Castle[O], orthopedic specialist at [B-ORGANIZATION]Cobblestone Orthopedics[O].
+   - [B-DATE]03/20/2023[O] with Cardiology at [B-ORGANIZATION]Heart Health Specialists[O].
+- Medications at discharge:
+  - Aspirin 81 mg daily
+  - Calcium supplement 600 mg twice daily
+  - Vitamin D3 1000 IU daily
+
+**Procedures During Stay:**
+- Hip Replacement Surgery on [B-DATE]02/16/2023[O], performed by Dr. [B-NAME]Gregory Temple[O].
+- Blood Transfusion on [B-DATE]02/18/2023[O] due to anemia.
+
+**Notes:**
+- Patient experienced a controlled post-operative course with adequate pain control and progressive mobilization.
+- Post-operative x-rays showed good placement of hip prosthesis.
+- Patient provided with physical therapy referral and walker at discharge.
+
+**Recommendations:**
+- Weight bearing as tolerated.
+- Continue physical therapy.
+- Monitor for signs of infection or increased pain at the surgical site.
+- Regular follow-up with primary care provider and specialists as scheduled.
+
+**Discharge Medications:**
+- Acetaminophen 650 mg every 4 hours as needed for pain.
+- Omeprazole 20 mg daily for gastroprotection.
+- Cefalexin 500 mg every 8 hours for one week post-discharge to prevent infection.
+
+**Discharge Planning:**
+- Patient educated on signs of infection and when to seek immediate care.
+- [B-ORGANIZATION]Cobblestone Home Health[O] will follow up within 24 hours post-discharge.
+- [B-PHONE]582-555-0192[O].
+
+**Signed:**
+- [B-NAME]Helen Mirren[O], MD
+- Date: [B-DATE]02/28/2023[O]
+- Time: 4:15 PM

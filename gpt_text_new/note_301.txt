@@ -1,0 +1,63 @@
+**Metropolitan General Hospital Discharge Summary**
+
+**[B-NAME]Emily Thompson[O], MRN# [B-ID]567894321[O],** is a [B-AGE]68 y.o.[O] female, admitted to the Geriatrics service for management of chronic heart failure and diabetes complications. 
+
+**Admission Date:** [B-DATE]10/14/2023[O]  
+**Discharge Date:** [B-DATE]10/28/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Alan Rickman[O]  
+**Treatment Team:** Nurse Practitioner [B-NAME]Sara Kimberley[O], RN  
+**PCP:** [B-NAME]Dr. John Parker[O], MD, [B-ADDRESS]234 Elm St., Greenfield, IN 47382[O]  
+
+**Hospital Problems Noted - Resolved:**
+POA Active Problems  
+- Chronic Heart Failure [B-DATE]10/15/2023[O] - Present Yes  
+- Diabetes Mellitus Type 2 [B-DATE]10/16/2023[O] - Present Yes  
+- Chronic Kidney Disease Stage 3 [B-DATE]10/14/2023[O] - Present Yes  
+
+**Resolved Problems:**
+RESOLVED: Urinary tract infection [B-DATE]10/16/2023[O] - [B-DATE]10/20/2023[O] Yes  
+RESOLVED: Delirium due to metabolic encephalopathy [B-DATE]10/18/2023[O] - [B-DATE]10/22/2023[O] Yes  
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Mrs. [B-NAME]Emily Thompson[O] was managed for exacerbation of chronic heart failure with intravenous diuretics with improvement in her symptoms and decrease in peripheral edema. Her diabetes mellitus was managed with an insulin regimen tailored during her hospital stay due to fluctuating blood glucose levels. She experienced a transient episode of delirium, likely metabolic in nature, which resolved with the correction of her electrolyte imbalances. 
+
+**Recommendations for Follow Up:**  
+Attention to Primary Care Attending: Mrs. [B-NAME]Thompson[O] will require close monitoring of her heart failure and diabetes. Adjustments to her medications should be considered based on her response and lab results.  
+To Do's for Referring / Subspecialty Provider(s):  
+Endocrinology: Follow up appointment on [B-DATE]11/12/2023[O].  
+Cardiology: Follow-up echocardiogram scheduled for [B-DATE]11/15/2023[O].  
+Nephrology: Continue monitoring kidney function every 3 months.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**  
+Follow-up with [B-ORGANIZATION]Greenfield Medical Associates[O] at [B-PHONE]317-555-0248[O] .  
+Next Steps: Follow up Instructions: Keep a daily log of weight and fluid intake. Monitor blood glucose levels at home four times a day and adjust insulin as previously instructed.
+
+**Last Recorded Vital Signs:**  
+BP 130/80 (BP Location: Right arm, BP: Patient position: Sitting) | Pulse 88 | Temp 37.0 °C (98.6 °F) | Resp 18 | Ht 1.60 m (5' 3") | Wt 68 kg (150 lb) | SpO2 94% | BMI 26.6 kg/m²
+
+**Pertinent Discharge Physical Exam Findings:**  
+General appearance: Comfortably sitting in bed, alert, and oriented x4.  
+Lungs: Clear to auscultation bilaterally.  
+Heart: Regular rhythm, no murmurs.  
+Extremities: No cyanosis or edema.  
+Neurologic: Alert and oriented, normal speech, no focal deficits.
+
+**Discharge Medication List:**  
+- Furosemide 40 mg tablet: Take 1 tablet by mouth daily.  
+- Metformin 500 mg tablet: Take 1 tablet by mouth twice daily.  
+- Insulin Glargine: 20 units subcutaneously at bedtime.  
+- Insulin Lispro: Titrate according to blood glucose levels.
+
+**Operations/Major Procedures:**  
+None during this hospital stay.
+
+**Significant Test or Procedure Results:**  
+Echocardiogram [B-DATE]10/23/2023[O]: Showed improved left ventricular ejection fraction of 45% (previously 35%).  
+Renal function tests [B-DATE]10/25/2023[O]: Stable with creatinine of 1.6 mg/dL, previous 1.5 mg/dL.
+
+**Appointment Details:**
+Future Appointments Date Time Provider Department Center  
+[B-DATE]11/12/2023[O] 9:00 AM [B-NAME]Dr. Irene Walsh[O], Endocrinology  
+[B-DATE]11/15/2023[O] 10:30 AM [B-NAME]Dr. Susan O'Malley[O], Cardiology  
+
+This thorough summary aims to provide a smooth transition from hospital to home care with all necessary instructions and appointments scheduled to ensure continuous care and monitoring of Mrs. Emily Thompson's health conditions.

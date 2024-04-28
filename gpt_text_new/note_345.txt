@@ -1,0 +1,56 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+
+- **Name:** [B-NAME]Emily Townsend[O]
+- **MRN#:** [B-ID]987654321[O]
+- **[B-AGE]72-year-old[O]** female
+- **Discharge Date:** [B-DATE]March 25, 2023[O]
+- **Admission Date:** [B-DATE]March 10, 2023[O]
+- **Attending Physician:** Dr. [B-NAME]Helen Murphy[O]
+- **Admitting Diagnosis:** Acute cholecystitis
+- **Discharge Diagnosis:**
+  - Acute cholecystitis, resolved
+  - Hypertension
+
+**Hospital Course:**
+[B-NAME]Emily Townsend[O] was admitted with severe right upper quadrant pain and was diagnosed with acute cholecystitis. Her inflammatory markers were elevated, and an ultrasound confirmed gallstones with gallbladder wall thickening. The patient responded well to IV antibiotics and was scheduled for a cholecystectomy on [B-DATE]March 15, 2023[O]. The surgery was uncomplicated, and her post-operative recovery was smooth, with resolution of symptoms. Her hypertension was managed with adjustment to her existing medication regimen.
+
+**Medications on Discharge:**
+- Losartan 50 mg daily
+- Acetaminophen 650 mg every 6 hours as needed for pain
+- Omeprazole 20 mg daily
+
+**Allergies:**
+- No known drug allergies
+
+**Follow-up Appointments:**
+- General Surgery follow-up on [B-DATE]April 2, 2023[O] at [B-ORGANIZATION]City Hospital General Surgery Clinic[O]
+- Cardiology outpatient follow-up on [B-DATE]April 10, 2023[O] at [B-ORGANIZATION]City Hospital Cardiology Unit[O]
+
+**Discharge Instructions:**
+Patient advised to avoid heavy lifting and fatty meals. She should monitor for signs of infection or any complications post-surgery. If blood pressure readings consistently exceed 140/90 mmHg, she should contact her primary care provider.
+
+**Diet:** Low fat, high fiber
+
+**Activity:** Light activity such as walking is encouraged; avoid strenuous activity until follow-up appointment.
+
+**Instructions for Pain Management:**
+Take acetaminophen as prescribed. Seek medical attention if pain persists or worsens.
+
+**Summary Written By:**
+Dr. [B-NAME]Helen Murphy[O], attending physician, signed on [B-DATE]March 25, 2023[O], at 16:00.
+
+**Additional Information:**
+Patient's last recorded vitals: BP 132/86, Pulse 78, Temp 98.6°F, Resp 16.
+Discharge condition: Stable
+Patient understands her discharge instructions and has the support at home.
+
+__________
+
+**Discharge Summary Comments:**
+Thank you to the nursing staff and surgical team for their diligent care of [B-NAME]Emily Townsend[O]. Special thanks to Dr. [B-NAME]John Baker[O], the consulting anesthesiologist, for his expert management during the patient's surgery.
+
+**For any queries or clarifications regarding this discharge summary, please contact:** 
+[B-PHONE]555-123-4567[O] - General Surgery Department
+[B-PHONE]555-987-6543[O] - Cardiology Department

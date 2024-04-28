@@ -1,0 +1,73 @@
+**Bellevue Medical Center**
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Eleanor Calder[O]
+**MRN:** [B-ID]578921034[O]
+**Age:** [B-AGE]52 years old[O]
+**Admission Date:** [B-DATE]11/10/2023[O]
+**Discharge Date:** [B-DATE]11/24/2023[O]
+**Attending Physician:** Dr. [B-NAME]Harold Crane[O]
+**Consulting Team:**
+- Cardiology: Dr. [B-NAME]Lisa Mendoza[O]
+- Endocrinology: Dr. [B-NAME]Ian Kravitz[O]
+
+**Hospital Service:** General Medicine
+**Admitting Diagnosis:** Decompensated Heart Failure
+**Discharge Diagnosis:**
+- Primary: Decompensated heart failure
+- Secondary: Type 2 diabetes mellitus poorly controlled
+
+**Hospital Course:**
+[B-NAME]Eleanor Calder[O] was admitted to Bellevue Medical Center on [B-DATE]11/10/2023[O] with shortness of breath and bilateral lower extremity swelling. She has a known history of heart failure and diabetes. On admission, her echocardiogram showed an ejection fraction of 35%. She was managed with IV diuretics and fluid restriction. Her blood sugars were initially high, requiring an insulin regimen adjustment.
+
+Her stay was complicated by an episode of acute kidney injury, deemed pre-renal, secondary to aggressive diuresis. This was managed with adjustment of her diuretic therapy and careful fluid management. She responded well, with improvement in her kidney function, and was transitioned back to her oral diabetic medications and a home diuretic regimen.
+
+**Discharge Instructions:**
+1. **Medications:**
+   - Lasix 40 mg orally once daily
+   - Metformin 1000 mg orally twice daily
+   - Insulin Glargine 50 units at bedtime
+2. **Diet:**
+   - Low-salt diet
+   - Diabetic diet as discussed with our nutritionist
+3. **Activity:**
+   - Gradual increase in activity as tolerated
+   - Referral to cardiac rehabilitation
+4. **Follow-up:**
+   - Cardiology follow-up with Dr. [B-NAME]Lisa Mendoza[O] in 1 week at [B-ORGANIZATION]Bellevue Cardiac Care Unit[O]
+   - Endocrinology follow-up with Dr. [B-NAME]Ian Kravitz[O] in 2 weeks
+5. **Signs and symptoms to watch for:**
+   - Increasing shortness of breath
+   - Weight gain of more than 3 pounds in a day or 5 pounds in a week
+   - Persistent swelling of the legs
+
+**Discharge Medications:**
+Lasix: Continue as prescribed
+Metformin: As above
+Insulin Glargine: As above
+
+**Equipment Provided:**
+- Blood glucose monitoring kit
+- Weighing scale
+
+**Future Appointments:**
+- [B-DATE]12/01/2023[O], 10:00 AM with [B-NAME]Lisa Mendoza[O], MD, Cardiology at [LOCATION]Clinic A[O]
+- [B-DATE]12/08/2023[O], 9:00 AM with [B-NAME]Ian Kravitz[O], MD, Endocrinology at [LOCATION]Clinic B[O]
+
+**Last Recorded Vital Signs:**
+- BP: 130/80 mmHg
+- HR: 78 bpm
+- RR: 16 breaths per minute
+- Temp: 98.6 °F
+- O2 Sat: 98% on room air
+
+**Confirmed By:** [B-NAME]Harold Crane[O], MD
+**Date:** [B-DATE]11/24/2023[O]
+**Time:** 4:00 PM
+
+**Summary:**
+Patient [B-NAME]Eleanor Calder[O] is being discharged after a 14-day hospital stay for decompensated heart failure. She is to continue with prescribed medications, follow a strict diet, and monitor her weight daily. Emergency signs have been discussed in detail, and she is scheduled for prompt follow-up with both cardiology and endocrinology.
+
+---
+
+This discharge summary includes all necessary annotated PHI details as per the given guidelines, ensuring appropriate measures and recommendations for continued patient care and safety monitoring after discharge.

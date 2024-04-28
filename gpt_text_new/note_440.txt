@@ -1,0 +1,57 @@
+**[B-ORGANIZATION]Mercy General Hospital[O] Inpatient Discharge Summary**
+
+**Patient Information**:
+- [B-NAME]Eleanor M. Thompson[O]
+- MRN: [B-ID]899-555-1234[O]
+- [B-AGE]72 years old[O]
+- Admission Date: [B-DATE]08/15/2023[O]
+- Discharge Date: [B-DATE]08/22/2023[O]
+- Attending Physician: Dr. [B-NAME]Harold Freeman[O]
+- Admission Diagnosis: Congestive Heart Failure, Acute Exacerbation
+- Discharge Diagnosis: Congestive Heart Failure, Stabilized
+
+**Hospital Course**:
+Mrs. [B-NAME]Thompson[O] was admitted to [B-ORGANIZATION]Mercy General Hospital[O] following a presentation at the ER with acute shortness of breath and lower extremity edema. Initial examination revealed rales over both lung bases and a slight jugular venous distention. Echocardiogram showed a decreased ejection fraction of 30%. She received IV diuretics and her condition improved substantially within the next 48 hours. She was stable throughout her stay with no complications.
+
+**Medications on Discharge**:
+- Furosemide 40mg daily
+- Lisinopril 20mg daily
+- Carvedilol 12.5mg twice daily
+- Aspirin 81mg daily
+
+**Follow-up and Instructions**:
+Mrs. [B-NAME]Thompson[O] is to follow up with her primary care physician, Dr. [B-NAME]Linda O'Hara[O], in one week and return to the heart failure clinic in [B-ORGANIZATION]Mercy General Hospital[O] in two weeks. She is to monitor her weight daily and report any weight gain of over 3 pounds in a day to her healthcare provider immediately. Mrs. [B-NAME]Thompson[O] has been counseled on a low-salt diet and fluid restriction to 1.5 liters per day.
+
+**Instructions for Emergency Situations**:
+Should she experience worsening symptoms such as profound shortness of breath, chest pain, or fainting, she is advised to return to the ER of [B-ORGANIZATION]Mercy General Hospital[O] immediately or call [B-PHONE]911[O].
+
+**Discharge Condition**:
+Patient's condition at the time of discharge is stable. She understands her discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to the hospital.
+
+**[B-DATE]08/22/2023[O], 12:00 PM**
+
+Signed,
+[B-NAME]Dr. Harold Freeman[O], MD
+
+**Summary Prepared By**:
+[B-NAME]Jennifer Clarke[O], RN
+Patient Care Coordinator
+
+**Specimen Collected During Stay**:
+- Blood Samples for Complete Blood Count and Electrolytes
+- Urine Samples to assess renal function
+
+**Diagnostics**:
+- Echocardiogram on [B-DATE]08/16/2023[O]: Shows reduced ejection fraction and moderate mitral regurgitation.
+- Chest X-Ray on admission: Shows pulmonary congestion.
+
+**Discharge Planning**:
+Coordinated with [B-ORGANIZATION]Mercy Home Health Services[O] for the continuation of care at home. A home health nurse will visit twice a week for the first two weeks to monitor weight, blood pressure, and adherence to medication.
+
+**Emergency Contact**:
+Next of Kin: [B-NAME]Thomas Thompson[O] - Husband
+Address: [B-ADDRESS]254 Rosemary Lane, Springfield, IL 62712[O]
+
+**Do not hesitate to contact us at [B-PHONE]555-987-6543[O] for any clarification or further instructions.**
+
+![B-ORGANIZATION]Mercy General Hospital[O] - Always Caring, Always Here.

@@ -1,0 +1,53 @@
+**[B-ORGANIZATION]Sunnyvale Medical Center[O] Inpatient Discharge Summary**
+
+**Patient Information:**
+- **Patient:** [B-NAME]Michael Thompson[O], MRN: [B-ID]987654321[O]
+- **Age:** [B-AGE]68 years old[O]
+- **Admission Date:** [B-DATE]September 12, 2023[O]
+- **Discharge Date:** [B-DATE]September 17, 2023[O]
+
+**Admitting Physician:**
+- Dr. [B-NAME]Sarah L. Connors[O]
+
+**Hospital Service:**
+- General Internal Medicine
+
+**History of Present Illness:**
+Mr. [B-NAME]Thompson[O] was admitted with severe abdominal pain and diagnosed with acute cholecystitis. He had a laparoscopic cholecystectomy successfully performed on [B-DATE]September 13, 2023[O].
+
+**Hospital Course:**
+Patient responded well to surgery, with significant pain relief. Post-operative imaging on [B-DATE]September 15, 2023[O], confirmed no complications. His recovery was unremarkable, and he progressively advanced his diet from liquids to solids without issues.
+
+**Medications at Discharge:**
+- Acetaminophen 650 mg: Take one tablet by mouth every 6 hours as needed for pain.
+- Apixaban 5 mg: Take one tablet by mouth twice daily for venous thromboembolism prophylaxis.
+
+**Follow-up Instructions:**
+- Primary Care Provider: Contact Dr. [B-NAME]Emily Rogers[O] at [B-PHONE]555-123-4567[O].
+- Post-op visit with the surgical team scheduled for [B-DATE]October 2, 2023[O], at [B-ORGANIZATION]Sunnyvale Surgical Associates[O].
+
+**Discharge Condition:**
+Mr. [B-NAME]Thompson[O] is discharged to home in stable condition. He was advised to avoid lifting weights over 10 pounds and refrain from driving for one week.
+
+**LACE - Readmission Risk Score:**
+- **Total Score:** 5
+- **Scores**: Length of Stay: 4, Acute Admission: 1, Comorbidities: 0, ED Visits in last 6 months: 0
+
+**LACE Score Risk Level:**
+- **Readmission Rate - 30 Day Mortality Rate:** Moderate 7.9%, 0.7%
+
+**Allergies:**
+- No known drug allergies
+
+**Discharge Instructions:**
+- Continue wound care as instructed. 
+- Monitor for signs of infection or undue pain.
+- Maintain hydration and adhere to the prescribed diet plan.
+
+**For any questions or concerns, please call:**
+- [B-PHONE]555-789-0123[O] (Sunnyvale Surgical Associates)
+
+**Attention to Primary Care:** Review post-operative course and adjust medications as necessary.
+
+**Signature:**
+- Dr. [B-NAME]Sarah L. Connors[O], MD, General Surgery, [B-DATE]September 17, 2023[O]

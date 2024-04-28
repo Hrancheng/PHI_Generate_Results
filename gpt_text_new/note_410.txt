@@ -1,0 +1,49 @@
+Inpatient Discharge Summary
+Patient: [B-NAME]Emma Thompson[O]
+MRN: [B-ID]45879632[O]
+Age: [B-AGE]68 years old[O]
+Admission Date: [B-DATE]September 15, 2023[O]
+Discharge Date: [B-DATE]September 30, 2023[O]
+Attending Physician: Dr. [B-NAME]Harold Greene[O]
+Admitting Diagnosis: Acute exacerbation of chronic heart failure.
+
+Hospital Course:
+[B-NAME]Emma Thompson[O] was admitted with symptoms of worsening dyspnea, orthopnea, and lower extremity swelling. Initial labs showed elevated BNP and a chest x-ray confirmed pulmonary edema. Echocardiography indicated reduced ejection fraction.
+
+Management included IV diuretics and optimization of heart failure medications. The patient's response was favorable, with symptomatic improvement and stable kidney function throughout the stay. Education on fluid and salt restriction was provided by the heart failure team.
+
+Medications on Discharge:
+- Furosemide 40 mg daily
+- Metoprolol succinate 25 mg daily
+- Lisinopril 10 mg daily
+
+Discharge Instructions:
+Patient is advised to follow up with their primary care provider Dr. [B-NAME]Michelle Ransom[O] within one week. They should monitor their weight daily and resume heart failure outpatient rehabilitation. They should restrict fluid intake to less than two liters per day and maintain a low-salt diet.
+
+Follow-up Appointments:
+- Heart Failure Clinic appointment on [B-DATE]October 7, 2023[O], with Dr. [B-NAME]Sarah Lin[O], NP
+- Primary care follow-up on [B-DATE]October 5, 2023[O] with Dr. [B-NAME]Michelle Ransom[O]
+
+Significant Test Results:
+- Echocardiogram on [B-DATE]September 17, 2023[O]: Ejection fraction 35%
+- Chest X-Ray on [B-DATE]September 16, 2023[O]: Improved pulmonary edema 
+
+Discharge Condition:
+The patient is stabilized and shows improved clinical signs related to heart failure. They will benefit from ongoing outpatient management and close monitoring.
+
+Signed: Dr. [B-NAME]Harold Greene[O], [B-DATE]September 30, 2023[O], 2 PM
+
+Instructions for Future Care:
+Continue medication as prescribed, adhere to dietary recommendations, and engage in mild physical activity as tolerated. Contact healthcare provider if experiencing increased shortness of breath, weight gain of more than 3 pounds in a day or 5 pounds in a week, chest pain, or any new or worsening symptoms.
+
+Discharge LACE Index Score:
+Total Score: 10 (indicating high risk of readmission)
+Components: Length of Stay: 15 days, Acuity of admission: high, Comorbidity score: moderate.
+
+Readmission Risk Level: High - Further interventions in place include more frequent follow-up in the outpatient setting and home health care services for daily monitoring.
+
+#### Contact Information:
+- [B-PHONE]555-623-7832[O] for Dr. [B-NAME]Michelle Ransom[O]'s office.
+- [B-PHONE]555-421-9953[O] for Heart Failure Clinic.
+
+This summary and its guidelines are structured to aid all healthcare providers involved in the patient's ongoing care to have a clear understanding of the management steps taken during hospitalization and expectations for outpatient care. Compliance with discharge instructions is crucial to manage the patient's condition effectively and prevent possible readmission.

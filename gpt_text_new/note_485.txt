@@ -1,0 +1,57 @@
+Title: Inpatient Discharge Summary
+
+Hospital: [B-ORGANIZATION]Central City Medical Center[O]
+
+Patient Name: [B-NAME]Edward Thompson[O]
+MRN: [B-ID]987654321[O]
+Age: [B-AGE]68 y.o.[O]
+Gender: Male
+
+**Admission Date:** [B-DATE]August 15, 2023[O]
+**Discharge Date:** [B-DATE]August 25, 2023[O]
+**Admitting Physician:** Dr. [B-NAME]Anna Lee[O]
+**Primary Care Physician:** Dr. [B-NAME]Robert Kent[O]
+**Consultants:** Cardiology, Nephrology
+**Responsible Service:** Internal Medicine
+
+**Reason for Hospitalization:**
+Patient was admitted following a syncopal episode with preliminary diagnosis of acute kidney injury and arrhythmia.
+
+**Hospital Course:**
+Mr. [B-NAME]Thompson[O] was evaluated and managed for episodes of syncope and acute kidney injury. Cardiology assessment indicated transient arrhythmic events, warranting further observation and adjustment of cardiac medication. IV fluids and electrolyte management were implemented for kidney support. His response to treatment was monitored with daily labs and ECG tests. Kidney function gradually improved, and syncopal episodes resolved with medication adjustments.
+
+**Procedures Performed:**
+1. Echocardiogram on [B-DATE]August 17, 2023[O] - indicated left ventricular hypertrophy with preserved ejection fraction.
+2. Continuous cardiac monitoring throughout the stay - confirmed episodes of transient atrial fibrillation.
+
+**Medications at Discharge:**
+- Metoprolol Tartrate, 50 mg twice daily
+- Lisinopril 20 mg once daily
+- Apixaban 5 mg twice daily, started on [B-DATE]August 18, 2023[O]
+- Prescribed renal supportive care supplements including calcium and magnesium.
+
+**Condition at Discharge:**
+The patient’s condition has stabilized sufficiently to warrant discharge. He is to continue on his adjusted medication regimen, with close outpatient follow-up.
+
+**Discharge Instructions:**
+- Follow up with primary care physician, Dr. [B-NAME]Robert Kent[O], within seven days of discharge.
+- Cardiology follow-up within one month.
+- Continue monitoring blood pressure and heart rate daily.
+- Drink plenty of fluids and maintain a low-salt diet.
+
+**Pending Lab Results:**
+- Serum Creatinine and Electrolytes to be reviewed by [B-ORGANIZATION]Central City Lab[O] on [B-DATE]August 27, 2023[O].
+
+**Follow-up Appointments:**
+1. [B-DATE]August 30, 2023[O] at 10:30 AM with Dr. [B-NAME]Helen Price[O], cardiologist.
+2. [B-DATE]September 2, 2023[O] at 2:00 PM with Dr. [B-NAME]Robert Kent[O], primary care physician.
+
+**Counseling and Health Education:**
+Patient and family were educated about the importance of medication adherence, signs and symptoms of dehydration, and when to seek immediate care.
+
+**Copy of Discharge Summary Sent to:**
+Primary care provider, Dr. [B-NAME]Robert Kent[O]
+
+Signed: Dr. [B-NAME]Anna Lee[O], [B-DATE]August 25, 2023[O], 3:45 PM
+
+[End of Discharge Summary]

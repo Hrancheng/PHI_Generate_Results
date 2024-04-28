@@ -1,0 +1,53 @@
+Inpatient Discharge Summary
+
+[B-NAME]Eleanor Thomas[O], MRN# [B-ID]489760123[O], is a [B-AGE]68 y.o.[O] female, admitted to the [B-ORGANIZATION]City General Hospital[O] under the care of Dr. [B-NAME]Alexander Freeman[O] for the management of acute exacerbation of chronic obstructive pulmonary disease (COPD). 
+
+**Admission Date**: [B-DATE]10/21/2023[O]  
+**Discharge Date**: [B-DATE]10/30/2023[O]  
+**Attending Provider**: Dr. [B-NAME]Alexander Freeman[O]
+
+### Hospital Problems Noted - Resolved
+1. COPD (CMS/HCC) [B-DATE]10/21/2023[O] - [B-DATE]10/30/2023[O] Yes  
+2. Pneumonia [B-DATE]10/23/2023[O] - [B-DATE]10/30/2023[O] Yes  
+
+### RESOLVED:  
+- COPD exacerbation  
+- Community-acquired pneumonia  
+
+### Hospital Course:  
+Ms. [B-NAME]Eleanor Thomas[O] was admitted with symptoms of increased shortness of breath, wheezing, and productive cough. Initial labs showed elevated white cell count and chest x-ray confirmed the presence of pneumonia. She was started on IV antibiotics and corticosteroids. Her symptoms gradually improved with treatment, and she was transitioned to oral medications.  
+
+Physical therapy was consulted and provided bedside pulmonary rehabilitation. Ms. [B-NAME]Thomas[O] showed marked improvement in her breathing and was able to participate in light activities by the time of discharge.
+
+### Recommendations for Follow-Up:
+1. Pulmonary outpatient clinic visit on [B-DATE]11/05/2023[O].
+2. Primary Care Physician follow-up within one week post-discharge.
+3. Continue with oral antibiotics and corticosteroids for a full 7-day course ending on [B-DATE]11/06/2023[O].
+4. Home oxygen to be used as per the previous setting, 2 liters via nasal cannula as needed.
+
+### Medications at Discharge:
+- Prednisone 40mg daily for 5 days
+- Amoxicillin 500mg three times daily for 7 days
+- Albuterol inhaler, 2 puffs every 4 hours as needed for wheezing
+
+### Discharge Instructions:
+Ms. [B-NAME]Thomas[O] is advised to avoid any known allergens and environmental irritants. She should continue with smoking cessation and adhere to her medication schedule. Any increase in shortness of breath, change in sputum color, or fever should prompt an immediate visit to her healthcare provider or the emergency department.
+
+### Follow-Up Appointments:
+- [B-DATE]11/05/2023[O], 10:30 AM with Dr. [B-NAME]Laura Beck[O], Pulmonologist at [B-ORGANIZATION]City Pulmonary Clinic[O].
+- [B-DATE]11/07/2023[O], 9:00 AM with Dr. [B-NAME]Samantha Rowe[O] at [B-ORGANIZATION]City General Primary Care[O].
+
+### Last Recorded Vital Signs:
+- BP: 132/82 mmHg
+- Pulse: 88
+- Temp: 98.6 °F (37 °C)
+- Resp: 18
+- SpO2: 94% on room air
+
+The plan outlined above was reviewed and agreed upon by the patient and her daughter, [B-NAME]Melissa Thomas[O], who will assist in her post-discharge care. The patient expressed understanding and agreement with the discharge plan and was provided with a written copy of the instructions.
+
+**Signed**: [B-NAME]Alexander Freeman[O], MD, [B-DATE]10/30/2023[O], 2:00 PM  
+**Medical Record Documentation Completed By**: [B-NAME]Nancy Oliver[O], RN  
+**Date/Time**: [B-DATE]10/30/2023[O], 2:15 PM  
+
+This summary has been shared with the patient and her caregiver via a secure patient portal accessed through their registered email, [B-CONTACT]thomas.family@securemail.com[O].

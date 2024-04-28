@@ -1,0 +1,47 @@
+**Inpatient Discharge Summary**
+
+Patient: [B-NAME]Harold Freeman[O], MRN: [B-ID]984375645[O]
+
+Admission Date: [B-DATE]08/02/2023[O]
+Discharge Date: [B-DATE]08/12/2023[O]
+
+**Admitting Diagnosis:**
+Primarily admitted for heart failure exacerbation.
+
+**Hospital Course:**
+[B-NAME]Harold Freeman[O] was admitted to [B-ORGANIZATION]Memorial Health Center[O] on [B-DATE]August 2, 2023[O], following increasing episodes of shortness of breath and ankle swelling. Initial examination revealed decreased breath sounds, elevated jugular venous distension, and a chest X-ray showing pulmonary edema. He was started on IV diuretics with a good response and transitioned to oral medication.
+
+During his stay, [B-NAME]Harold[O] also exhibited signs of hypertension which was managed with an adjustment to his existing antihypertensive therapy. Cardiology was consulted and after conducting an echocardiogram, it was confirmed that his left ventricular ejection fraction had decreased since his last check-up a year ago. 
+
+Renal function was closely monitored, showing initial deterioration likely related to the diuresis, but this stabilized with conservative management. A dietary consult was also done due to the patient's reported weight gain attributed to excessive sodium intake. 
+
+**Discharge Medications:**
+1. Furosemide 40 mg daily.
+2. Lisinopril 20 mg daily.
+3. Carvedilol 12.5 mg twice a day.
+
+**Follow-Up Care:**
+[B-NAME]Harold Freeman[O] is to follow up with his primary care provider, Dr. [B-NAME]Emily Tran[O], in one week. He has a scheduled appointment with [B-ORGANIZATION]Community Cardiology Associates[O] on [B-DATE]August 19, 2023[O].
+
+**Labs/Diagnostic Studies to be Followed:**
+1. Complete blood count and renal panel on [B-DATE]August 18, 2023[O].
+2. Repeat chest X-ray in one month.
+
+**Special Instructions:**
+Patient has been educated about restricting dietary salt intake and adhering to the fluid restriction of 1.5 liters per day. He has been advised on the need to monitor his weight daily and to report any weight gain of more than 2 kg in a day to his healthcare provider.
+
+**Discharge Condition:**
+Stable for discharge. [B-NAME]Harold[O] has shown improvement in symptoms and understanding of his management plan.
+
+**Discharge by:**
+Dr. [B-NAME]Laura Benson[O], Attending Physician
+Nurse: [B-NAME]Sara Kline[O]
+
+**Summary Prepared By:**
+[B-NAME]Tina Robbins[O], Medical Resident
+
+**Contact Information post-discharge:**
+If patient experiences increased shortness of breath or chest pain, he is advised to contact [B-PHONE]555-122-3344[O] immediately or go to the nearest emergency room.
+
+Final Notes:
+This discharge plan has been reviewed with the patient and his designated caregiver, his daughter [B-NAME]Susan Freeman[O]. Both verbalized understanding of all discharge instructions. Copies of the discharge summary have been sent to all involved parties, and the patient has been given a printed copy for his records.

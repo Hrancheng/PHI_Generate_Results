@@ -1,0 +1,68 @@
+**Hospital Name: [B-ORGANIZATION]General Health Hospital[O]**
+**Location: [B-ADDRESS]1234 Health Way, Medical City, TX 78910[O]**
+
+**Inpatient Discharge Summary**
+
+**Patient Name: [B-NAME]Michael Thompson[O]**
+**Patient ID: [B-ID]987654321[O]**
+**Admission Date: [B-DATE]October 10th[O]-2022**
+**Discharge Date: [B-DATE]October 15th[O]-2022**
+**Attending Physician: Dr. [B-NAME]Emily Watson[O]**
+**Age: [B-AGE]54 years[O]**
+**SEX: Male**
+
+---
+
+**Chief Complaint**
+Patient presented to the emergency department on [B-DATE]October 10th[O]-2022, with complaints of severe chest pain and shortness of breath.
+
+---
+
+**History of Present Illness**
+[B-NAME]Michael Thompson[O] was admitted following a presentation of acute chest pain radiating to his left arm, sweating and nausea. ECG on admission revealed signs of an acute myocardial infarction. Immediate intervention included administration of aspirin, nitroglycerin, and a referral to the Cardiology service for further evaluation.
+
+**Past Medical History**
+- Hypertension
+- Hyperlipidemia
+
+---
+
+**Hospital Course**
+[B-NAME]Michael Thompson's[O] admission was characterized by a coronary angiogram performed on [B-DATE]October 11th[O]-2022, which identified triple vessel disease. He underwent successful coronary artery bypass graft surgery (CABG) on [B-DATE]October 12th[O]-2022. Post-operatively, the patient showed good recovery, with pain well controlled and improving mobility. He participated with physical therapy and showed adequate progress towards independent ambulation.
+
+**Medications on Discharge**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice a day
+- Lisinopril 10 mg daily
+
+**Allergies**
+No known drug allergies (NKDA)
+
+**Follow-up**
+[B-NAME]Michael Thompson[O] is scheduled for a follow-up appointment in the [B-ORGANIZATION]General Health Cardiac Clinic[O] on [B-DATE]October 22nd[O]-2022 at [B-ADDRESS]1234 Health Way, Medical City, TX 78910[O]. 
+
+**Instructions**
+Continue with prescribed medications. Attend Cardiac Rehabilitation twice a week. Monitor blood pressure and report to the doctor if systolic is consistently above 160 mmHg or below 90 mmHg.
+
+**Discharge Condition**
+Patient is stable for discharge to home with family. Diet as tolerated. Activity as tolerated, gradually increasing daily activity.
+
+**Discharge Preparations**
+Discharge medications have been reviewed with the patient and written information provided. Follow-up appointments have been scheduled, and outpatient cardiac rehabilitation has been arranged.
+
+**Discharge By**
+[B-NAME]Emily Watson, MD[O] (Cardiologist)
+[B-DATE]October 15th[O]-2022 at 11:00 AM
+
+---
+
+**Signature**
+[B-NAME]E. Watson[O], MD
+[B-DATE]October 15th[O]-2022
+
+**Contact Number**: [B-PHONE]555-0219[O]
+
+---
+
+This discharge summary serves as a comprehensive record of [B-NAME]Michael Thompson's[O] hospital stay, treatment, and follow-up plan for continuity of care.

@@ -1,0 +1,47 @@
+**Metropolitan General Hospital Discharge Summary**
+
+**Patient Information**:
+- Patient Name: [B-NAME]Mary Thompson[O]
+- MRN: [B-ID]473829017[O]
+- Age: [B-AGE]68 years old[O]
+- Admission Date: [B-DATE]January 12, 2023[O]
+- Discharge Date: [B-DATE]January 25, 2023[O]
+- Attending Physician: Dr. [B-NAME]James Gunn[O]
+
+**Hospital Course and Treatment Summary**:
+[B-NAME]Mary Thompson[O] was admitted to the cardiology unit with a diagnosis of acute myocardial infarction confirmed by elevated troponin and EKG changes noted on [B-DATE]January 12, 2023[O]. Patient underwent successful percutaneous coronary intervention (PCI) to the right coronary artery. She was started on dual antiplatelet therapy post-procedure. The patient tolerated the procedure well and showed gradual improvement in her cardiac function.
+
+During her stay, [B-NAME]Mary Thompson[O] also received management for Type 2 Diabetes and hypertension which were well controlled with medication adjustments. 
+
+**Medications at Discharge**:
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Metformin 1000 mg twice daily
+- Lisinopril 20 mg daily
+- Atorvastatin 40 mg nightly
+
+**Recommendations for Follow-Up**:
+- Follow-up cardiology appointment scheduled for [B-DATE]February 10, 2023[O] at [B-ORGANIZATION]Metropolitan Heart Clinic[O].
+- Diabetes management follow-up with Dr. [B-NAME]Susan Lee[O] on [B-DATE]February 15, 2023[O].
+
+**Educational Information Provided**:
+Patient educated on symptoms of chest pain, importance of medication adherence, and lifestyle modifications including diet and exercise.
+
+**Discharge Condition**:
+[B-NAME]Mary Thompson[O] is discharged in stable condition with improved cardiac output. She understands her discharge instructions and verbalizes understanding of her follow-up appointments.
+
+**Diagnostic Studies Summary**:
+- Echocardiogram showed improved left ventricular ejection fraction to 55%.
+- Chest x-ray confirmed no acute disease.
+- Lab results at discharge showed a normalization in troponin levels.
+
+**Physicians Involved**:
+- Dr. [B-NAME]James Gunn[O], Cardiologist
+- Dr. [B-NAME]Susan Lee[O], Endocrinologist
+
+**Contact Information**:
+- [B-PHONE]555-934-8274[O] (Cardiology Clinic)
+- [B-PHONE]555-234-8267[O] (Diabetes Care Clinic)
+
+**Signature**:
+Signed by: Dr. [B-NAME]James Gunn[O], MD, [B-DATE]January 25, 2023[O], 16:00 PM

@@ -1,0 +1,58 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Elizabeth Thomas[O], MRN# [B-ID]6554783[O],** is a [B-AGE]68 y.o.[O] female, admitted to the Cardiac Care Unit service for management of non-ST elevation myocardial infarction (NSTEMI). 
+
+**Admission Date:** [B-DATE]11/05/2023[O]  
+**Discharge Date:** [B-DATE]11/18/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Michael Harold[O]  
+**Treatment Team:**   
+- Cardiology  
+- Nutrition  
+- Physical Therapy  
+
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- NSTEMI [B-DATE]11/05/2023[O] - Present Yes  
+- Hypertension [B-DATE]11/05/2023[O] - Present Yes  
+- Type 2 Diabetes [B-DATE]11/05/2023[O] - Present Yes  
+
+**Resolved Problems**  
+RESOLVED: Atrial fibrillation [B-DATE]11/10/2023[O] - [B-DATE]11/14/2023[O] Yes  
+RESOLVED: Elevated cholesterol [B-DATE]11/05/2023[O] - [B-DATE]11/18/2023[O] Yes  
+
+**Hospital Course: Brief Overview**  
+Mrs. [B-NAME]Thomas[O] presented to the emergency department with chest pain and shortness of breath on [B-DATE]11/05/2023[O]. Her electrocardiogram (EKG) indicated NSTEMI. Initial troponin levels were elevated. She was started on aspirin, statins, and beta-blockers. Cardiology was consulted, and coronary angiography was performed, revealing 70% occlusion in the left anterior descending artery. A drug-eluting stent was successfully placed.
+
+During her hospital stay, Mrs. [B-NAME]Thomas[O] received dietary consultation for diabetic meal planning and was enrolled in a brief cardiac rehabilitation program where she demonstrated mild endurance improvements. The atrial fibrillation self-resolved with rate control management. 
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Simvastatin 40 mg at bedtime  
+- Metoprolol 50 mg twice a day  
+- Metformin 500 mg twice a day  
+
+**Follow-Up Appointments:**  
+- Cardiology follow-up on [B-DATE]11/25/2023[O] with Dr. [B-NAME]Harold[O]  
+- Diabetes management on [B-DATE]11/30/2023[O] at [B-ORGANIZATION]General Health Clinic[O]  
+- Nutrition follow-up via telehealth on [B-DATE]12/05/2023[O]  
+
+**Discharge Instructions:**  
+Mrs. [B-NAME]Thomas[O] is to continue with the prescribed medications without alteration unless directed by a healthcare professional. She should monitor her blood glucose levels at home twice daily and report any readings consistently above 180 mg/dL. She should seek immediate medical attention if she experiences chest pain, increased shortness of breath, or signs of a stroke.
+
+**Contact at Discharge:**  
+[B-ORGANIZATION]Cardiac Care Unit[O], [B-PHONE]555-123-4567[O] during office hours. After hours, contact the on-call cardiologist via the hospital switchboard.
+
+**Diet:**
+Diabetic and low-cholesterol diet as per dietary consultation.
+
+**Activity:**  
+Gradual increase in activities as tolerated. No heavy lifting or strenuous exercise for 4 weeks.
+
+**Signed:**  
+Dr. [B-NAME]Michael Harold[O], MD  
+Date: [B-DATE]11/18/2023[O], Time: 16:00 PM
+
+**Hospital:**
+[B-ORGANIZATION]City General Hospital[O] 
+
+This discharge summary serves to provide a comprehensive overview of Mrs. [B-NAME]Elizabeth Thomas[O]'s hospital stay from [B-DATE]11/05/2023[O] to [B-DATE]11/18/2023[O], ensuring continuity of care with her outpatient providers and facilitating her transition back into the community.

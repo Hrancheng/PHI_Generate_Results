@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+**Patient Information**  
+Patient Name: [B-NAME]Jackson William[O]  
+Age: [B-AGE]72 years old[O]  
+Sex: Male  
+MRN#: [B-ID]384720394[O]  
+Admission Date: [B-DATE]June 21, 2021[O]  
+Discharge Date: [B-DATE]June 29, 2021[O]  
+Attending Physician: Dr. [B-NAME]Megan Harold[O]  
+
+**Hospital Course**  
+[B-NAME]Mr. William[O] was admitted to the [B-ORGANIZATION]Memorial Regional Hospital[O] with complaints of shortness of breath and chest pain. The most important findings during his stay included obstructive coronary artery disease and severe hypertensive episodes. His medical management included optimizing his anti-hypertensive medications and performing a coronary artery bypass surgery on [B-DATE]June 23, 2021[O]. The procedure was successful, and his post-operative recovery was uneventful.  
+
+**Medications on Discharge**  
+- Aspirin 81 mg daily  
+- Lisinopril 20 mg daily  
+- Metoprolol 50 mg twice a day  
+- Atorvastatin 40 mg nightly  
+
+**Follow-Up Instructions**  
+[B-NAME]Mr. William[O] is to follow up with his primary care physician, Dr. [B-NAME]Sara Elton[O], MD, located at [B-ADDRESS]325 Northwood Dr., Clearwater, FL 33765[O]. He has an appointment scheduled for [B-DATE]July 10, 2021[O], at 10 AM. Additionally, he should have a follow-up with his cardiologist, Dr. [B-NAME]Philip Chang[O], MD, next month on [B-DATE]July 20, 2021[O].  
+
+**Clinical Instructions**  
+He should continue with light daily activities and progressively increase as tolerated. The patient is advised against lifting any objects heavier than 10 pounds for the next three weeks. He is also advised to avoid driving until cleared in the upcoming follow-up appointment. Nutritionally, [B-NAME]Mr. William[O] should adhere to a low-sodium and low-cholesterol diet as per his dietitian's suggestions discussed prior to discharge.  
+
+**Warning Signs & Symptoms to Watch For**
+- Any signs of infections such as redness, swelling, or discharge at the surgery site
+- Chest pain similar to what he experienced before his surgery
+- Difficulty breathing or unexplained coughing
+- Any signs of a stroke, including sudden numbness, confusion, trouble speaking, or seeing
+
+Should any of these signs or symptoms arise, the patient or his care contacts should immediately contact Dr. [B-NAME]Elton[O] or head to the nearest emergency room, if after hours.
+
+**Authorized Signature**  
+[B-NAME]Dr. Megan Harold[O], MD  
+[B-DATE]June 29, 2021[O], at 2:45 PM 
+
+**Hospital Administration Information**  
+[B-ORGANIZATION]Memorial Regional Hospital[O]  
+Telephone: [B-PHONE](727) 555-1234[O]  
+Address: [B-ADDRESS]1500 Medical Park Blvd, Hollywood, FL 33021[O]  
+Website: [B-CONTACT]www.memorialregional.com[O]  
+
+**Discharge Diagnosis**  
+1. Coronary artery disease  
+2. Hypertension
+
+**Discharge Condition**  
+Stable with improvements seen post coronary bypass. The patient is aware of signs of complications and knows when to seek immediate help.
+
+**Note:** All advice and instructions in this summary are given per hospital protocols and best medical practices available at the time of Mr. Jackson William's treatment completion.

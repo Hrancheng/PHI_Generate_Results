@@ -1,0 +1,50 @@
+Inpatient Discharge Summary
+-----------------------------------------------------
+**Patient Information**:
+- **[B-NAME]Rebecca Thomson[O]:** [B-AGE]65-year-old[O] female
+- **MRN:** [B-ID]457896321[O]
+- **Admission Date:** [B-DATE]09/15/2023[O]
+- **Discharge Date:** [B-DATE]09/22/2023[O]
+- **Attending Physician:** Dr. [B-NAME]Emily Stanton[O]
+
+**Hospital Course**:
+Patient [B-NAME]Rebecca Thomson[O] was admitted following a syncopal episode at home. Initial evaluation in the emergency department suggested dehydration and possible cardiac etiology. Cardiology was consulted, and they performed a diagnostic evaluation including an echocardiogram which showed no significant structural abnormalities. The patient was managed with IV fluids and observation. Over her hospital stay, she remained stable with no further episodes of syncope. All initial labs and imaging studies returned within normal limits. Patient education was provided regarding adequate hydration and the importance of regular follow-up in the outpatient setting. 
+
+**Diagnostic Data**:
+- **EKG:** Normal sinus rhythm with no acute changes.
+- **Echo:** Normal left ventricular function, no valvular abnormalities noted.
+- **Chest X-ray:** Clear lungs and normal cardiac silhouette.
+- **Labs:** Complete blood count and comprehensive metabolic panel within normal ranges throughout her stay.
+
+**Medications at Discharge**:
+1. **Metoprolol 50 mg Tablet:** 1 tablet orally twice a day
+2. **Aspirin 81 mg Tablet:** 1 tablet orally once daily for cardiovascular protection
+
+**Discharge Instructions**:
+[B-NAME]Rebecca Thomson[O] is to follow up with her primary care physician, Dr. [B-NAME]Helen Gregory[O], within one week of discharge. It is advised that [B-ORGANIZATION]Eastwood Clinic[O] revisits syncope protocols and adjusts fluid intake as needed based on daily activities and temperature. 
+
+Patient instructed to monitor for any new or worsening symptoms including dizziness, chest pain, or further episodes of syncope and to return to the hospital if these occur. 
+
+**Follow-Up Appointments**:
+1. [B-DATE]09/29/2023[O], 10:00 AM with Dr. [B-NAME]Helen Gregory[O] at [B-ORGANIZATION]Eastwood Clinic[O].
+
+**Condition at Discharge**:
+The patient is stable for discharge. Vital signs are stable, and the patient is asymptomatic from a cardiovascular perspective. [B-NAME]Rebecca Thomson[O] understands her discharge instructions and has the ability to contact her outpatient provider should issues arise.
+
+**Discharge By**: Dr. [B-NAME]Emily Stanton[O], [B-DATE]09/22/2023[O] at 2:00 PM
+
+**Last Recorded Vitals**:
+- Blood Pressure: 130/82 mmHg
+- Pulse: 68 bpm
+- Respirations: 16 per minute
+- Temperature: 98.6 F (oral)
+- Oxygen Saturation: 98% on room air
+
+**Signature**:
+Dr. [B-NAME]Emily Stanton[O]
+[B-DATE]09/22/2023[O], 2:30 PM
+
+**Contact Information for Follow-Up**:
+[B-ORGANIZATION]Eastwood Clinic[O], Phone: [B-PHONE]555-894-3102[O]
+
+This discharge summary serves as a detailed overview of [B-NAME]Rebecca Thomson[O]'s recent hospitalization and outlines clear follow-up instructions for continuity of care.

@@ -1,0 +1,51 @@
+**Hospital Name: Pacific Northwest Regional Hospital**
+
+**Discharge Summary**
+
+**Patient:** [B-NAME]Michael Thompson[O]  
+**MRN#:** [B-ID]987654321[O]  
+**Age:** [B-AGE]68 y.o.[O]  
+**Admission Date:** [B-DATE]9/15/2023[O]  
+**Discharge Date:** [B-DATE]9/28/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Samantha Lee[O]  
+
+**Problems Addressed During Stay:**  
+1. Myocardial Infarction managed and stabilized.  
+2. Controlled hypertension and subsequent medication adjustments.  
+3. Management of type 2 diabetes with adjustment of insulin therapy.
+
+**Hospital Course:**  
+[B-NAME]Michael Thompson[O] was admitted to [B-ORGANIZATION]Pacific Northwest Regional Hospital[O] on [B-DATE]9/15/2023[O] following a myocardial infarction. During his hospital stay, he underwent angioplasty with stent placement. His post-procedural course was uncomplicated and monitored for stable cardiac function. The patient's hypertension was controlled with Leasartan 50 mg daily, and his diabetes management was optimized. The patient participated in early mobilization and diet modification with the assistance of cardiology, endocrinology, and dietetics teams.
+
+**Medications at Discharge:**  
+1. Aspirin 81 mg daily  
+2. Metformin 1000 mg twice a day  
+3. Leasartan 50 mg daily  
+4. New: Atorvastatin 20 mg nightly  
+
+**Follow-up Appointments:**  
+1. Cardiology follow-up on [B-DATE]10/5/2023[O] with Dr. [B-NAME]Irene Welson[O]  
+2. Diabetes management review on [B-DATE]10/12/2023[O] at [B-ORGANIZATION]Pacific Northwest Diabetes Care[O]  
+3. Primary Care Physician visit on [B-DATE]10/18/2023[O] with Dr. [B-NAME]Richard Kim[O]  
+
+**Special Instructions:**  
+The patient is advised to gradually increase physical activity, participate in a cardiac rehabilitation program, and adhere strictly to the prescribed medication regime. Dietary recommendations include a low-sodium, low-fat diet optimized for diabetic health. [B-NAME]Michael[O] is also instructed to monitor his blood pressure twice daily and record his blood sugar levels before meals.
+
+**Discharge Vitals:**  
+Blood Pressure: 132/84 mmHg  
+Heart Rate: 76 bpm  
+Temperature: 98.6 °F  
+O2 Saturation: 98% on room air
+
+**Summary Impressions:**  
+The patient's condition has significantly improved with the resolution of acute issues and stabilization of chronic conditions. He understands his discharge instructions and has the necessary support at home. He is to return to the ER or contact his healthcare provider if he experiences chest pain, difficulty breathing, or any other concerning symptoms.
+
+**Signed:** Dr. [B-NAME]Samantha Lee[O], MD  
+**Date:** [B-DATE]9/28/2023[O], 3:00 PM
+
+**Contact Information:**  
+Cardiology Clinic: [B-PHONE]555-123-4567[O]  
+Diabetes Clinic: [B-PHONE]555-234-5678[O]  
+Primary Care: [B-PHONE]555-345-6789[O]
+
+**Remarks:** The patient was grateful for the care received and was optimistic about his recovery and management plan. He was discharged in good condition with all safety measures addressed appropriately.

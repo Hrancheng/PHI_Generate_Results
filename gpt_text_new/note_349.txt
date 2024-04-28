@@ -1,0 +1,70 @@
+Inpatient Discharge Summary
+-----------------------------------
+[B-NAME]Emily Thompson[O], MRN# [B-ID]489302175[O], is a [B-AGE]68-year-old[O] female, admitted to the Cardiology service due to chest pain and diagnosed with a Non-ST-Elevation Myocardial Infarction (NSTEMI). 
+
+Admission Date: [B-DATE]3/15/2023[O]
+Discharge Date: [B-DATE]3/20/2023[O]
+
+Attending Provider: Dr. [B-NAME]Richard Banner[O]
+Treatment Team:
+1. Cardiology - Dr. [B-NAME]Anna Lee[O]
+2. Nursing - [B-NAME]Sarah Connors[O], RN
+
+Hospital Problems Noted - Resolved
+POA Active Problems:
+- NSTEMI [B-DATE]3/15/2023[O] - Present Yes
+- Hypertension [B-DATE]3/15/2023[O] - Present Yes
+- Type 2 Diabetes Mellitus [B-DATE]3/15/2023[O] - Present Yes
+
+Resolved Problems:
+- Chest pain [B-DATE]3/15/2023[O] - [B-DATE]3/18/2023[O] Yes
+
+Discharge Medications:
+- Aspirin 81 mg, oral, once daily
+- Metoprolol 50 mg, oral, twice daily
+- Atorvastatin 40 mg, oral, once daily
+
+Follow Up:
+1. Cardiology follow up in [B-DATE]2 weeks[O] with Dr. [B-NAME]Anna Lee[O] at [B-ORGANIZATION]Downtown Health Clinic[O].
+2. Primary Care Physician, Dr. [B-NAME]John H. Watson[O], for diabetes management update on [B-DATE]4/5/2023[O].
+
+Diet:
+- Low sodium, heart-healthy diet advised. 
+
+Activities:
+- Gradual return to physical activities recommended.
+- Cardiac rehabilitation program referral given.
+
+Discharge Condition:
+- Stable, with recommendations to monitor blood pressure and blood sugar levels at home.
+
+Instructions Given to Patient:
+- Education regarding medication adherence provided.
+- Signs of heart attack and when to seek emergency care explained.
+- Importance of lifestyle modifications emphasized including smoking cessation and weight management.
+
+Discharge Coordination:
+- Discharge paperwork and prescriptions provided.
+- Instructions for wound care and follow-up appointments clarified.
+
+Next Steps:
+- [B-ORGANIZATION]HeartCare Services[O] [B-PHONE]204-555-0198[O] for cardiac rehabilitation enrollment.
+- Schedule blood work prior to next follow-up visit.
+ 
+Last Recorded Vital Signs:
+- BP 132/86 | Pulse 78 | Temp 36.5 °C | Resp 16 | BMI 29 kg/m² 
+
+Significant Labs:
+- Troponin peak at 0.55 ng/mL on [B-DATE]3/16/2023[O]
+- HbA1c 7.2% indicating stable glycemic control
+
+Discharge status:
+- Patient [B-NAME]Emily Thompson[O] is deemed medically stable for discharge. The risk of readmission is considered moderate, hence close follow-up ensured. Patient and family are comfortable with the discharge plan.
+
+Prepared by:
+Dr. [B-NAME]Melanie Griffith[O], MD, Cardiology Fellow
+Reviewed and signed by:
+Dr. [B-NAME]Richard Banner[O], MD, Attending Cardiologist
+Date: [B-DATE]3/20/2023[O] at 16:00 PM
+
+This synthetic inpatient discharge summary is intended to serve as an educational example. All patient details, events, and contact information are fabricated for the purpose of this exercise. No real patient data is used, and any resemblance to actual persons, living or dead, or actual events is purely coincidental.

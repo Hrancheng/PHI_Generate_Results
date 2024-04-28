@@ -1,0 +1,67 @@
+**HFT Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]James Thompson[O], MRN: [B-ID]419265003[O]
+
+**Age:** [B-AGE]68 y.o.[O]
+
+**Birthdate:** [B-DATE]04/23/1955[O]
+
+**Admission Date:** [B-DATE]11/02/2023[O]
+
+**Discharge Date:** [B-DATE]11/09/2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Susan O'Malley[O]
+
+**Treatment Team:**
+
+- Attending Cardiologist: Dr. [B-NAME]Brian Foster[O]
+ 
+- Consulting Nephrologist: Dr. [B-NAME]Karen Wallace[O]
+
+**Hospital Problems Noted - Resolved**
+
+**1.** Chronic Heart Failure (CHF) [B-DATE]10/30/2023[O] - Present
+
+**2.** Acute Kidney Injury (AKI) [B-DATE]11/03/2023[O] - [B-DATE]11/08/2023[O]
+
+**Hospital Course Brief Overview:**
+
+Mr. [B-NAME]Thompson[O] was admitted to [B-ORGANIZATION]Greenwich Medical Center[O] following an episode of acute decompensated heart failure precipitated by pneumonia. During his stay, he also developed AKI due to the use of NSAIDs for chronic knee pain. His renal function improved with hydration and cessation of NSAIDs. He responded well to diuretics and his fluid overload was managed appropriately. Daytime oxygen supplementation via nasal canula was initiated due to persistent hypoxemia.
+
+**Discharge Medications:**
+
+- Furosemide 40 mg, Oral, Twice Daily – Continue as prescribed, manage fluid status
+- Carvedilol 12.5 mg, Oral, Twice Daily – For blood pressure and heart rate control
+- Potassium Chloride 10 mEq, Oral, Daily – To supplement for losses due to diuretic therapy
+
+**Instructions for Patient at Discharge:**
+
+The patient was informed about the importance of weight monitoring and restricting fluid intake to no more than 1.5 liters per day. He was also educated about the signs of worsening heart failure, including shortness of breath, rapid weight gain, and swelling of the legs.
+
+**Follow-up Appointments:**
+
+1. Cardiology follow-up with Dr. [B-NAME]Brian Foster[O] on [B-DATE]11/16/2023[O], at 10 AM at [B-ORGANIZATION]Greenwich Cardiology Associates[O].
+   
+2. Nephrology follow-up with Dr. [B-NAME]Karen Wallace[O] on [B-DATE]11/21/2023[O], at 2 PM at [B-ORGANIZATION]The Renal Clinic[O].
+
+**Discharge Summary Signed by:**
+
+Dr. [B-NAME]Susan O'Malley[O], [B-DATE]11/09/2023[O], at 3 PM
+
+**Notes:**
+
+The patient is discharged in stable condition, with adherence to low sodium diet strongly advised. Blood pressure and weight are to be monitored daily, and Mr. [B-NAME]Thompson[O] is to continue with outpatient rehabilitation to improve his physical strength and mobility. His vaccination status is up to date, having received this season's influenza vaccine during his hospital stay.
+
+**Discharge Condition:** Stable with planned outpatient follow-up and continued ambulatory care management.
+
+**Notifications:**
+
+Primary Care Physician, Dr. [B-NAME]Lisa Crane[O], notified on [B-DATE]11/09/2023[O] via fax regarding patient discharge summarization and upcoming management plans. 
+
+**Patient Education:**
+
+Emphasis placed on medication adherence and daily weight monitoring. Patient counseled on restricting fluid intake. Heart failure signs and symptoms thoroughly explained, with instructions to seek immediate care if symptoms worsen.
+
+**Other Instructions:**
+
+Patient to maintain low physical activity levels until first follow-up appointment, with a gradual increase as tolerated pending clinical evaluations. Close monitoring of renal function and electrolytes recommended initially to ensure stability post-discharge.

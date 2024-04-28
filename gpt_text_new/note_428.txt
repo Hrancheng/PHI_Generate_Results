@@ -1,0 +1,38 @@
+**Acute Care Hospital Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Michael Thompson[O]  
+MRN: [B-ID]987654321[O]  
+Age: [B-AGE]58 years old[O]  
+Admission Date: [B-DATE]September 5, 2023[O]  
+Discharge Date: [B-DATE]September 15, 2023[O]  
+Attending Physician: Dr. [B-NAME]Emily Stone[O]  
+Admitting Diagnosis: Acute cholecystitis  
+Discharge Diagnosis: Resolved acute cholecystitis, chronic hypertension
+
+Hospital Course:
+Mr. [B-NAME]Thompson[O] presented to the Emergency Department at [B-ORGANIZATION]City General Hospital[O] on [B-DATE]September 5, 2023[O] with severe right upper quadrant pain and vomiting. An ultrasound confirmed the presence of gallstones and a thickened gallbladder wall, consistent with acute cholecystitis. He was admitted under the care of Dr. [B-NAME]Emily Stone[O] and treated with IV antibiotics and fluids. A laparoscopic cholecystectomy was successfully performed on [B-DATE]September 8, 2023[O] by Dr. [B-NAME]Alan Rickman[O]. Mr. [B-NAME]Thompson[O] made a steady recovery post-operatively with resolution of symptoms. His chronic hypertension was managed with ongoing medication adjustments.
+
+Medications on Discharge:
+1. Lisinopril 40 mg once daily.
+2. Metoprolol 50 mg twice daily.
+3. Paracetamol 500 mg as needed for pain.
+
+Follow-up Appointments:
+1. Follow-up visit with Dr. [B-NAME]Emily Stone[O] on [B-DATE]September 25, 2023[O] at [B-ORGANIZATION]City General Hospital Outpatient Clinic[O].
+2. Hypertension follow-up with [B-NAME]Dr. Susan Harwood[O], Cardiology on [B-DATE]October 1, 2023[O] in the cardiology clinic.
+
+Instructions for Patient:
+- Resume normal activities gradually over the next two weeks.
+- Avoid heavy lifting and fatty foods for four weeks.
+- Check blood pressure twice a week and record readings for the upcoming visit with cardiology.
+
+Precautions:
+- Seek immediate medical attention if experiencing fever, jaundice, or severe abdominal pain.
+
+Discharge Condition:
+Mr. [B-NAME]Thompson[O]'s condition has improved considerably following his surgery, and he is being discharged in a stable condition.
+
+[B-NAME]Emily Stone[O], MD [B-DATE]September 15, 2023[O]  
+[B-ORGANIZATION]City General Hospital[O], Discharge Physician
+
+This discharge summary provides a comprehensive overview of Mr. [B-NAME]Thompson[O]'s hospital course, from admission through to his discharge procedures and follow-up care plan. His recovery milestones, follow-up care instructions, and precautions are clearly outlined to ensure continuity of care and to maximize his post-discharge recovery.

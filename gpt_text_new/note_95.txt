@@ -1,0 +1,69 @@
+**Inpatient Discharge Summary**
+
+Patient: [B-NAME]Eleanor Rigby[O]
+
+MRN#: [B-ID]568937452[O]
+
+DOB: [B-DATE]June 1, 1964[O]
+
+Age: [B-AGE]59[O] years old
+
+Admission Date: [B-DATE]October 21, 2023[O]
+
+Discharge Date: [B-DATE]October 27, 2023[O]
+
+Attending Provider: Dr. [B-NAME]Helen Cho[O]
+
+Diagnosis upon Admission: Acute cholecystitis
+
+**Hospital Course**:
+Ms. [B-NAME]Eleanor Rigby[O] was admitted with severe abdominal pain in the right upper quadrant and was diagnosed with acute cholecystitis. Her admission was marked by persistent pain and fever. An ultrasound confirmed gallstones and inflammation. She was managed with IV antibiotics and fluids.
+
+**Surgical Intervention**:
+Cholecystectomy performed on [B-DATE]October 23, 2023[O] by Dr. [B-NAME]Alan Grant[O]. The procedure was laparoscopic and completed without complications. Postoperative recovery was smooth, with improvement in pain and inflammatory markers.
+
+**Medications on Discharge**:
+1. Paracetamol 500 mg, Oral, Q6H PRN for pain
+2. Ibuprofen 400 mg, Oral, Q8H PRN for fever or discomfort
+
+**Allergies**:
+No known drug allergies (NKDA)
+
+**Instructions on Discharge**:
+- Diet: Advance as tolerated, initially light meals recommended
+- Activities: Avoid heavy lifting and strenuous activities for 2 weeks
+- Follow-up: Appointment with Dr. [B-NAME]Alan Grant[O] on [B-DATE]November 3, 2023[O] for postoperative evaluation
+- Wound care: Keep the surgical site clean and dry. Observe for signs of infection.
+
+**Particulars for Emergency**:
+If experience fever, worsening pain, or any signs of infection, please visit the nearest emergency room or call [B-PHONE]555-0198[O].
+
+**Other Instructions**:
+Drink plenty of fluids to stay hydrated and continue walking daily to aid recovery.
+
+**Discharge Status**:
+The patient is stable with significant improvement in symptoms. Wound healing is progressing well, and she is cleared to return home with the outlined precautions and follow-up appointments.
+
+**Discharge Medications**:
+1. Paracetamol 650 mg tablet, Q4-6H PRN pain: Refills: 0
+2. Ibuprofen 400 mg tablet, Q6-8H PRN swelling or discomfort: Refills: 2
+
+**Follow-Up Appointments**:
+1. Surgical follow-up with Dr. [B-NAME]Alan Grant[O], [B-ORGANIZATION]City General Hospital Surgical Associates[O], on [B-DATE]November 3, 2023[O] at 10 AM.
+
+**Discharge Prepared by**:
+[B-NAME]Mia Jackson[O], RN
+
+**Reviewed and Signed by**:
+Dr. [B-NAME]Helen Cho[O]
+[B-DATE]October 27, 2023[O], 4:30 PM
+
+**Hospital Facility**:
+[B-ORGANIZATION]City General Hospital[O], [B-ADDRESS]123 Wellness Drive, Springfield, IL, 62704[O]
+
+**Contact Information**:
+[B-PHONE]555-1234[O] for General Inquiries
+[B-PHONE]555-0198[O] for Emergency Contact
+
+**Notes**:
+Ms. [B-NAME]Rigby[O] has been briefed on her condition and the necessity to comply strictly with the discharge instructions. She expressed understanding of all directives and verbalized confidence in managing her care at home.

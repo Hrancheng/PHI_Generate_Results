@@ -1,0 +1,70 @@
+**Roosevelt Medical Center**
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Erica Miller[O]
+MRN#: [B-ID]45789302[O]
+Age: [B-AGE]54 y.o.[O]
+Sex: Female
+Admission Date: [B-DATE]03/10/2023[O]
+Discharge Date: [B-DATE]03/20/2023[O]
+Attending Physician: Dr. [B-NAME]Helen Choi[O]
+Admitting Diagnosis: Acute cholecystitis
+Discharge Diagnosis: Acute cholecystitis, resolved
+
+**Hospital Course:**
+[B-NAME]Erica Miller[O] was admitted with severe right upper quadrant pain and fever. Ultrasound confirmed acute cholecystitis. She was started on IV antibiotics and underwent laparoscopic cholecystectomy on [B-DATE]03/12/2023[O] without complications. Post-operatively, she initially experienced mild nausea which was managed with ondansetron. Her recovery was smooth, and she tolerated a regular diet by discharge day. Pain was controlled with acetaminophen. Her surgical site appears clean, dry, and intact with no signs of infection.
+
+**Medications at Discharge:**
+- Acetaminophen 500 mg Tablet: Take 1 tablet by mouth every 6 hours as needed for pain.
+- Ondansetron 4 mg Tablet: Take 1 tablet by mouth every 8 hours as needed for nausea.
+
+**Follow-Up Appointments:**
+[B-ORGANIZATION]Roosevelt Surgical Associates[O]
+Provider: Dr. [B-NAME]Helen Choi[O], MD
+Date/Time: [B-DATE]03/27/2023[O] at 10:30 AM.
+Purpose: Post-operative follow-up.
+
+**Wound Care:**
+Patient to keep the surgical site clean and dry. No soaking in water. Can shower and pat dry. Report any signs of infection such as redness, swelling, or discharge to the surgeon’s office.
+
+**Activity:**
+Gradual return to regular activities as tolerated. No heavy lifting or strenuous activity for 2 weeks.
+
+**Diet:**
+Resume regular diet as tolerated. Stay hydrated.
+
+**Discharge Condition:**
+Patient is stable and recovering well. She has been given detailed discharge instructions, understands her care plan and is agreeable with all follow-up care. She is discharged home in the care of her husband, [B-NAME]Michael Miller[O].
+
+**Miscellaneous:**
+The patient and her family were educated about the signs of infections, proper incision care, and the importance of follow-up appointments. She was provided with the contact number for the surgical team in case of any urgent concerns.
+
+**Last Recorded Vital Signs:**
+- BP: 120/80 mmHg
+- Pulse: 74 BPM
+- Temp: 36.8 °C (98.2 °F)
+- Resp: 16/min
+
+**Allergies:**
+No known drug allergies (NKDA).
+
+**Next of Kin:**
+Husband: [B-NAME]Michael Miller[O]
+
+Signed:
+Dr. [B-NAME]Helen Choi[O], MD,
+General Surgery,
+[B-DATE]03/20/2023[O], 2:00 PM
+
+**Contact Information:**
+Office Phone: [B-PHONE]453-555-0187[O]
+Surgical Team Pager: [B-PHONE]453-555-0198[O] for urgent concerns
+
+**Insurance Information:**
+[B-ORGANIZATION]HealthFirst Insurance[O]
+Policy Number: [B-ID]HF5599866[O] 
+
+**Review of Systems:**
+Systematically, all other systems were reviewed and were normal throughout the stay.
+
+The patient expressed understanding and satisfaction with the management and outcome. She is looking forward to a continued recovery at home and is aware of whom to contact should any issues arise.

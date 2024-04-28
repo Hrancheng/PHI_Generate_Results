@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+**[B-ORGANIZATION]Midtown Medical Center[O]**
+
+**Patient Information:**  
+- **[B-NAME]Elizabeth Connors[O]**  
+- MRN#: [B-ID]987654321[O]  
+- [B-AGE]72-year-old[O] female  
+- Admission Date: [B-DATE]June 15, 2023[O]  
+- Discharge Date: [B-DATE]June 20, 2023[O]  
+- Attending Provider: Dr. [B-NAME]Henry Wallace[O]  
+- PCP (Primary Care Provider): Dr. [B-NAME]Sarah Loomis[O]
+
+**Admission Diagnosis:**  
+- Acute exacerbation of chronic heart failure  
+- Atrial fibrillation  
+
+**Hospital Course:**  
+Miss [B-NAME]Connors[O] was admitted following a presentation at the emergency department with shortness of breath and palpitations. Initial EKG confirmed atrial fibrillation with a rapid rate, managed with intravenous diltiazem followed by oral rate control. ECHO showed preserved ejection fraction, consistent with previous exams. Her condition was stabilized using diuretics and adjustment of her heart failure medications. She underwent cardioversion on [B-DATE]June 17, 2023[O], resulting in return to normal sinus rhythm. Her stay was uncomplicated, with improvement in breathing and reduction in leg swelling.
+
+**Discharge Medications:**  
+1. Furosemide 40 mg tablet: 1 tablet to be taken orally once daily  
+2. Metoprolol succinate 25 mg extended-release tablet: Take 1 tablet orally once daily  
+3. Warfarin 5 mg tablet: Take as directed, INR monitoring by [B-ORGANIZATION]Midtown Medical Lab[O]  
+4. Digoxin 0.125 mg tablet: 1 tablet to be taken orally daily  
+
+**Important Labs:**  
+INR at discharge stable at 2.3. Continue warfarin with weekly INR checks initially.
+
+**Follow-up Appointment:**  
+1. [B-NAME]Henry Wallace, M.D.[O] – Heart Failure Clinic at [B-ORGANIZATION]Midtown Medical Center[O]. Appointment on [B-DATE]July 5, 2023[O] at 10:00 AM.  
+2. INR Clinic at [B-ORGANIZATION]Midtown Medical Lab[O], Weekly starting [B-DATE]June 27, 2023[O].
+
+**Discharge Instructions:**  
+Patient advised low-salt diet, continue weighing daily and report weight gain of more than 2 kg in 24 hours. Keep legs elevated when sitting to prevent swelling. Adhere strictly to the prescribed medication regimen especially warfarin due to her risk of stroke from atrial fibrillation.
+
+**Transportation:**  
+Patient was discharged in stable condition with her son, [B-NAME]Michael Connors[O]. Transport provided by [B-NAME]Michael[O] by private vehicle.
+
+**Summary of Stay:**  
+Patient responded well to treatments during hospital stay with significant clinical improvement. Discharged to home with outpatient follow-up arranged to ensure continuation of care.
+
+**Notifications:**  
+Communication regarding Miss [B-NAME]Elizabeth Connors[O]' hospital stay and care plan was shared with her PCP Dr. [B-NAME]Sarah Loomis[O] today, [B-DATE]June 20, 2023[O], via recorded discharge summary sent through secure email.
+
+**Signature:**  
+Dr. [B-NAME]Henry Wallace[O], MD  
+[B-DATE]June 20, 2023[O], 2:00 PM  
+
+---
+
+This discharge summary has been prepared following the standardized format used at [B-ORGANIZATION]Midtown Medical Center[O] designed to ensure accurate and efficient communication between hospital care teams and outpatient providers, thus optimizing ongoing patient management.

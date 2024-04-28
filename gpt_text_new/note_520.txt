@@ -1,0 +1,51 @@
+**University Medical Center Discharge Summary**
+
+**Patient Information:**
+- **Patient Name:** [B-NAME]Michael Thompson[O]
+- **MRN:** [B-ID]9876543210[O]
+- **Age:** [B-AGE]54 y.o.[O]
+- **Sex**: Male
+
+**Admission Date:** [B-DATE]September 5, 2023[O]
+**Discharge Date:** [B-DATE]September 20, 2023[O]
+**Attending Physician:** Dr. [B-NAME]Harold Greene[O]
+**Admitting Diagnosis:** Acute cholecystitis
+
+**Hospital Course:**
+Mr. [B-NAME]Thompson[O] was admitted with severe right upper quadrant pain radiating to his back, nausea, and vomiting. An ultrasound performed on [B-DATE]September 6, 2023[O] confirmed the presence of gallstones and a thickened gallbladder wall. The patient was started on IV antibiotics and fluids. He underwent a laparoscopic cholecystectomy on [B-DATE]September 8, 2023[O], which was uneventful. Post-operatively, his recovery was complicated by mild ileus, which resolved with conservative management. He remained stable, and his pain was well controlled throughout the hospital stay. 
+
+**Medications at Discharge:**
+- Acetaminophen 650 mg PO every 6 hours as needed for pain
+- Ibuprofen 400 mg PO every 8 hours as needed for pain
+
+**Allergies:** 
+- Penicillin: Rash
+
+**Follow-up Appointments:**
+1. [B-NAME]Harold Greene[O], MD, for post-op check-up on [B-DATE]October 1, 2023[O] at [B-ORGANIZATION]University Medical Center Surgical Clinic[O].
+
+2. General Practitioner for ongoing care - [B-NAME]Lisa Wang[O], MD on [B-DATE]October 15, 2023[O] at [B-ORGANIZATION]City Health Family Practice[O].
+
+**Discharge Condition:**
+The patient is stable and is discharged in good condition. He is advised to avoid heavy lifting and fatty food for the next four weeks. Signs of infection, unexpected pain, or any gastrointestinal symptoms should prompt an immediate visit to the emergency department.
+
+**Diet:**
+Normal diet as tolerated. Advised to gradually increase fiber intake.
+
+**Activity:**
+Light activities like walking are encouraged. No heavy lifting or strenuous activity until follow-up appointment.
+
+**Instructions:**
+The patient has been instructed on wound care and signs of infection. He understands the symptoms that would require immediate medical attention.
+
+**Disposition:**
+Discharged to home with home health care services arranged to assist with medication management and basic activities of daily living.
+
+**Signature:**
+[Electronic Physician Signature]
+[B-NAME]Harold Greene, M.D.[O]
+[Electronic Signature Date]: [B-DATE]September 20, 2023[O]
+**Time of Discharge:** 2:00 PM
+
+**Confidentiality Notice:**
+This document contains confidential health information protected by state and federal law. Unauthorized review, use, disclosure, or distribution is prohibited. If you have received this document in error, please contact the sender by phone.

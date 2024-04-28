@@ -1,0 +1,48 @@
+**[B-ORGANIZATION]St. Luke's Medical Center[O] Inpatient Discharge Summary**
+
+**Patient Information**:  
+- **Name:** [B-NAME]Elizabeth Thompson[O]   
+- **Medical Record Number:** [B-ID]548796321[O]  
+- **Age:** [B-AGE]67 years[O] old  
+- **Admission Date:** [B-DATE]09/11/2023[O]  
+- **Discharge Date:** [B-DATE]09/25/2023[O]  
+- **Attending Provider:** Dr. [B-NAME]Ivan Gregg[O]  
+
+**Hospital Service:** Cardiology  
+- Admitted through [B-ORGANIZATION]St. Luke's Emergency Department[O]
+
+**Reason for Hospitalization:**
+Mrs. [B-NAME]Elizabeth Thompson[O] presented to the emergency department with acute chest pain and was diagnosed with a myocardial infarction. Immediate coronary intervention was deemed necessary.
+
+**Hospital Course:**
+The patient underwent successful angioplasty with stent placement in the right coronary artery on [B-DATE]09/11/2023[O]. Post-procedure, she was monitored in the Cardiac Care Unit for complications and responded well to standard post-myocardial infarction medical therapy including beta-blockers, ACE inhibitors, and statins. Physical therapy was initiated early, and she showed satisfactory progress in mobility prior to discharge.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 25 mg twice daily
+- Lisinopril 10 mg daily
+
+**Follow-up Appointments:**
+- [B-ORGANIZATION]St. Luke’s Heart Clinic[O] follow-up with Dr. [B-NAME]Ivan Gregg[O] on [B-DATE]10/10/2023[O]
+- Cardiac Rehabilitation Assessment on [B-DATE]10/05/2023[O] 
+
+**Summary and Instructions:**
+Mrs. [B-NAME]Thompson[O] is to continue with cardiac rehabilitation at home and is advised to progressively increase her physical activity as tolerated. Diet should be low in sodium and saturated fats. She should monitor for symptoms of chest pain, shortness of breath, or excessive fatigue and report these to her healthcare provider immediately.
+
+**Last Recorded Vital Signs:**
+- BP: 130/85 mmHg
+- HR: 78 BPM
+- RR: 16 per minute
+- Temp: 98.6 °F
+
+**Discharge Condition:**
+Patient's condition at the time of discharge is stable with significant improvement noted during the hospital stay. She understands her discharge instructions and the importance of follow-up care.
+
+**[B-ADDRESS]Pending follow-up at 202 Oak Street, Cardiology Clinic, Room 310, River City, NY, 34522[O]**
+
+**[B-PHONE]Clinic Contact Number: 555-123-9876[O]**
+
+**Signed: Dr. [B-NAME]Ivan Gregg[O], [B-DATE]09/25/2023[O] at [B-TIME]2:00 PM[O]**
+
+Discharge was discussed and planned with the patient and her daughter, [B-NAME]Sarah Thompson[O]. Both verbalized understanding of the discharge plan and expressed their satisfaction with the care provided. They were provided with contact numbers in case of emergency or for any further clarification needed regarding the treatment plan.

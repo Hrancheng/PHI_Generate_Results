@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Evelyn Carter[O]**, MRN [B-ID]748596305[O], is a [B-AGE]62-year-old[O] female, admitted to the General Medicine service. 
+
+**Admission Date:** [B-DATE]March 10, 2023[O]  
+**Discharge Date:** [B-DATE]March 20, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Alice Murray[O]  
+**Treatment Team:** The multidisciplinary care team, led by [B-ORGANIZATION]Detroit Medical Center[O].  
+**Consultation:** Cardiology, Nephrology.
+
+**Hospital Problems Noted - Resolved**  
+- Hypertension [B-DATE]March 12, 2023[O] - ongoing management  
+- Chronic kidney disease stage 3 [B-DATE]March 13, 2023[O] - ongoing management  
+- Diabetes mellitus type 2 [B-DATE]March 14, 2023[O] - adjusted medication
+
+**Discharge Medications:**  
+- **Metformin 500 mg:** Take 1 tablet twice daily  
+- **Lisinopril 20 mg:** Take 1 tablet daily  
+- **Atorvastatin 10 mg:** Take 1 tablet daily at bedtime  
+
+**Allergies:** No known drug allergies.
+
+**Follow-up Appointments:**  
+- [B-NAME]Evelyn Carter[O] should follow up with her primary care physician, [B-NAME]Dr. Henry Ford[O], MD within one week post-discharge. 
+- Nephrology follow-up at [B-ORGANIZATION]Detroit Medical Center[O] on [B-DATE]April 5, 2023[O] at 10:00 AM.  
+- Diabetes management follow-up appointment scheduled on [B-DATE]April 10, 2023[O], with [B-NAME]Dr. John Wells[O], Endocrinologist.
+
+**LACE Score - Readmission Risk:**
+- Total Score: 8 - Moderate risk of readmission or death within 30 days of discharge.  
+- Length of Stay: 10 days  
+- Acute Admission: Yes  
+- Comorbidities: Hypertension, CKD 3, and DM2.  
+- Emergency department visits in the last six months: None
+
+**Diet and Activity Instructions:**  
+- Follow a low-sodium and diabetic-friendly diet as advised by the [B-ORGANIZATION]Detroit Medical Center[O] dietitian.  
+- Continue with mild to moderate exercise, such as walking for 30 minutes daily.  
+
+**Discharge Summary Finalized by:**  
+- Signed: Dr. [B-NAME]Alice Murray[O], MD on [B-DATE]March 20, 2023[O] at 2:00 PM  
+- Witnessed by Nurse [B-NAME]Samantha Lee[O], RN  
+
+**Disposition:** The patient is discharged to home with home health services coordinated by [B-ORGANIZATION]Heartbeat Home Health Care[O]. Nursing and physical therapy services will visit her home three times a week.
+
+**Additional Notes:**
+Patient's condition improved steadily during her hospital stay with the adjusted treatment plans. Blood pressures have been controlled under new medication adjustments. Diabetic management was addressed through initiation of new insulin therapy and dietary adjustments. Kidney functions have not deteriorated and will be monitored closely by her nephrologist.
+
+**[B-PHONE]Emergency Contact: 313-555-0198[O]**  
+**[B-ADDRESS]293 Harmony Dr., Detroit, MI 48202[O]**

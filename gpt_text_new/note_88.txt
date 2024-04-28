@@ -1,0 +1,80 @@
+**Heart Failure Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Rachel Thompson[O], MRN# [B-ID]987654321[O]
+
+**Age:** [B-AGE]68 y.o.[O]
+
+**Sex:** Female
+
+**Admission Date:** [B-DATE]9/15/2023[O]
+
+**Discharge Date:** [B-DATE]9/25/2023[O]
+
+**Admitting Physician:** Dr. [B-NAME]Harold Greene[O]
+
+**Primary Care Physician:** Dr. [B-NAME]Laura Bishop[O]
+
+**Consulting Team:**
+
+- Cardiology: Dr. [B-NAME]Jenny Kim[O]
+- Nephrology: Dr. [B-NAME]Aaron Miles[O]
+
+**Admission Diagnosis:** 
+
+- Decompensated heart failure
+- Chronic kidney disease stage 3
+
+**Hospital Course:**
+
+Mrs. [B-NAME]Thompson[O] was admitted with symptoms of worsening dyspnea and bilateral lower extremity swelling. Initial labs showed elevated BNP and creatinine levels indicating acute heart and renal failure. The patient was treated with intravenous diuretics with good response and had her home medications adjusted. 
+
+Intravenous therapy was transitioned to oral diuretics as her kidney function stabilized and symptoms improved. Throughout her hospital stay, Mrs. [B-NAME]Thompson[O] underwent daily weight and fluid balance monitoring.
+
+A follow-up echocardiogram showed stable left ventricular ejection fraction compared to prior studies. A cardiac catheterization was not performed given her stable coronary artery disease status documented in prior angiography from [B-DATE]2019[O].
+
+**Discharge Medications:**
+
+- Furosemide 40 mg twice daily
+- Potassium Chloride 20 mEq daily
+- Metoprolol Succinate 50 mg daily
+- Lisinopril 20 mg daily
+
+**Discharge Disposition:** Home
+
+**Follow-Up Appointments:**
+
+- Cardiology outpatient follow-up with Dr. [B-NAME]Jenny Kim[O] on [B-DATE]10/05/2023[O].
+- Nephrology follow-up with Dr. [B-NAME]Aaron Miles[O] on [B-DATE]10/10/2023[O].
+
+**Discharge Instructions:**
+
+Mrs. [B-NAME]Thompson[O] is advised to monitor daily weights and to adhere strictly to the fluid restriction of 1.5 liters per day. She is to resume low-salt diet and continue mobility to tolerance. Symptoms of worsening heart failure such as increasing shortness of breath, rapid weight gain (more than 2-3 lbs in a day), or increasing swelling in the legs should prompt an immediate call to her cardiologist or a visit to the nearest emergency department.
+
+**Hospital Services Used:** 
+
+- Echocardiography
+- Daily Laboratory Monitoring
+- Dietitian Consultation for Renal Diet Education
+
+**Rehabilitation Services:**
+
+Physical Therapy was consulted during the hospitalization to assist with mobilization and recommendations for safe exercises to continue at home.
+
+**Summary:**
+
+Mrs. [B-NAME]Thompson[O] responded well to the medical management of her heart and renal failure. She was stabilized adequately to be discharged home with close outpatient follow-up. She and her family understood the discharge plan and were comfortable with the follow-up arrangements.
+
+**Final Diagnosis:**
+
+- Chronic systolic heart failure
+- Chronic kidney disease Stage 3
+
+**Prepared by:**
+
+Dr. [B-NAME]Harold Greene[O], Attending Cardiologist
+
+**Date:** [B-DATE]9/25/2023[O]
+
+**Time:** 1600 hrs
+
+[END OF DISCHARGE SUMMARY]

@@ -1,0 +1,71 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Michael Thompson[O]
+
+**MRN:** [B-ID]458796235[O]
+
+**Age:** [B-AGE]67 y.o.[O]
+
+**Admission Date:** [B-DATE]8/12/2023[O]
+
+**Discharge Date:** [B-DATE]8/25/2023[O]
+
+**Admission Diagnosis:**
+- Main Diagnosis: Chronic Heart Failure 
+- Secondary Diagnosis: Acute Kidney Injury
+
+**Hospital Course:**
+[B-NAME]Michael Thompson[O] was admitted under the cardiology service with chief complaints of shortness of breath and bilateral leg swelling. Initial labs showed elevated BNP and creatinine, consistent with acute exacerbation of chronic heart failure and new onset acute kidney injury. Throughout his stay, he received intravenous diuretics which improved his symptoms. His renal functions trended towards his baseline. Cardiology adjusted his oral heart failure medications. Plans for outpatient echocardiogram and renal function follow-up were arranged.
+
+**Procedures Performed:**
+- Echocardiogram on [B-DATE]8/13/2023[O]: Confirmed reduced ejection fraction.
+- Right heart catheterization on [B-DATE]8/15/2023[O]: Showed elevated filling pressures.
+
+**Consultations:**
+- Nephrology for acute kidney injury
+- Dietitian for cardiac and renal diet education
+
+**Discharge Medications:**
+- Furosemide 40 mg daily
+- Carvedilol 25 mg twice daily
+- Lisinopril 10 mg daily
+- Potassium Chloride 20 mEq daily
+
+**Future Appointments:**
+- Cardiology follow-up with Dr. [B-NAME]Jonathan Lee[O] at [B-ORGANIZATION]Maple Grove Heart Institute[O] on [B-DATE]9/5/2023[O].
+- Nephrology follow-up with Dr. [B-NAME]Anna Richards[O] at [B-ORGANIZATION]Downtown Renal Clinic[O] on [B-DATE]9/10/2023[O].
+
+**Discharge Instructions:**
+Patient advised to monitor weight daily, adhere to a low-salt diet, and limit fluid intake to less than 2 liters per day. Urged to continue ambulation at least three times daily and monitor for signs of worsening heart failure.
+
+**Condition at Discharge:**
+Stable with significant improvement in breathing and edema. Kidney function close to baseline.
+
+**Discharge Disposition:**
+Home with home care services including twice-weekly nursing visits for medication management and physical assistance until the first follow-up appointment.
+
+**Last Recorded Vital Signs:**
+- BP: 130/85 mm Hg
+- HR: 78 bpm
+- RR: 16 per minute
+- Temp: 98.6 F (37 C)
+
+**Code Status at Discharge:**
+Full Code
+
+**Readmission Risk:**
+Moderate, based on LACE index: Total score 9.
+Variables contributing to the score:
+- Length of Stay: 13 days
+- Acuity of Admission: Non-emergent
+- Comorbidities: 4 (heart failure, renal impairment, hypertension, diabetes)
+- ED Visits in Last 6 Months: 0
+
+**Communication:**
+Discharge summary sent to [B-NAME]Jonathan Lee[O] via secure email. Nursing care coordination also informed of pending home care setup.
+
+**Signed:**
+[B-NAME]Emily Tran[O], MD, Cardiology 
+[B-DATE]8/25/2023[O], 2:00 PM
+
+By electronically signing this document, I confirm that I have discussed the discharge plan with the patient and/or their family and have answered all their questions. The patient agrees with the discharge plan.

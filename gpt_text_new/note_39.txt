@@ -1,0 +1,57 @@
+Inpatient Discharge Summary
+_________________________
+**PATIENT INFORMATION**
+Patient: [B-NAME]Emily Thompson[O]
+MRN: [B-ID]5821973[O]
+Age: [B-AGE]68 years old[O]
+Date of Admission: [B-DATE]August 12, 2023[O]
+Date of Discharge: [B-DATE]August 21, 2023[O]
+Admitting Diagnosis: Acute exacerbation of chronic heart failure
+Discharge Diagnosis: Chronic heart failure, stabilized
+
+**HOSPITAL COURSE**
+Ms. [B-NAME]Emily Thompson[O] was admitted with shortness of breath and pedal edema. She responded well to IV diuretics and adjustment of her heart failure medications. Her condition stabilized over the course of her stay. A follow-up echocardiogram showed an ejection fraction of 35%. She participated in heart failure education sessions and demonstrated proficiency in managing her condition.
+
+**MEDICATIONS AT DISCHARGE**
+- Furosemide 40 mg daily
+- Carvedilol 25 mg twice daily
+- Lisinopril 20 mg daily
+- Spironolactone 25 mg daily
+- Aspirin 81 mg daily 
+
+**FOLLOW-UP CARE**
+Primary Care Physician: [B-NAME]Dr. Sarah Bentley[O]
+Follow-up appointment: [B-DATE]August 28, 2023[O], at [B-ORGANIZATION]Downtown Clinic[O]
+Cardiology follow-up: [B-DATE]September 5, 2023[O], with [B-NAME]Dr. James Carlson[O] at [B-ORGANIZATION]City Hospital Cardiology Unit[O]
+
+**DISCHARGE INSTRUCTIONS**
+1. Continue medication as prescribed.
+2. Monitor weight daily; report gain of 3 pounds or more in a day.
+3. Limit fluid intake to 2 liters per day.
+4. Maintain a low-sodium diet.
+5. Engage in light exercise, such as walking, as tolerated.
+
+**SOCIAL WORK CONSULT**
+Evaluated and provided with resources for at-home support. Arranged for home health visits starting [B-DATE]August 23, 2023[O].
+
+**DIETARY CONSULT**
+Patient educated on a low-sodium diet. Written materials provided.
+
+**CODE STATUS**
+Full code
+
+**DISCHARGE CONDITION**
+The patient is being discharged in a stable condition with instructions to manage her chronic heart failure at home. All follow-up appointments have been scheduled, and transportation has been arranged by [B-ORGANIZATION]Community Transport Services[O].
+
+**DISCHARGE ARRANGEMENTS**
+Transportation home provided by [B-ORGANIZATION]Community Transport Services[O]. Arrival at home scheduled for approximately [B-DATE]1:00 PM on August 21, 2023[O].
+
+**DISCHARGING PHYSICIAN**
+[B-NAME]Dr. Sarah Bentley[O], Cardiologist
+
+**SIGNATURE**
+Signed: [B-NAME]Dr. Sarah Bentley[O]
+Date: [B-DATE]August 21, 2023[O]
+Time: 12:00 PM
+
+Note: The information provided in this medical document is purely fictional and generated for illustrative purposes of annotating personal health identifiers following specified guidelines.

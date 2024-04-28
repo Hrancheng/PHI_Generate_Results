@@ -1,0 +1,58 @@
+Inpatient Discharge Summary
+
+Patient Name: [B-NAME]Maurice Flint[O], MRN: [B-ID]56923589[O], is a [B-AGE]58 y.o.[O] male, admitted due to complications related to chronic obstructive pulmonary disease (COPD) and recent pneumonia exacerbation.
+
+Admission Date: [B-DATE]09/10/2023[O]
+Discharge Date: [B-DATE]09/25/2023[O]
+Attending Provider: Dr. [B-NAME]Elizabeth Moreno[O]
+Hospital Service: Respiratory Medicine
+
+Major Active Problems:
+1. COPD exacerbation [B-DATE]09/10/2023[O] - Present
+2. Community-acquired pneumonia [B-DATE]09/10/2023[O] - Present
+3. Hypoxemia [B-DATE]09/13/2023[O] - Present
+
+Hospital Course:
+[B-NAME]Maurice Flint[O] was admitted to [B-ORGANIZATION]General West Hospital[O] after presenting with increased shortness of breath and a productive cough at the ER. Chest X-ray confirmed pneumonia superimposed on his chronic COPD. Antibiotics were initiated along with steroids for COPD exacerbation. Over the course of hospitalization, patient's oxygen requirement decreased, and he started to show improvement on [B-DATE]09/18/2023[O]. Other interventions included physical therapy and respiratory treatments to improve lung functions. Repeated chest X-rays showed resolution of infiltrates.
+
+Discharge Condition: Stable. Patient showed significant clinical improvement with treatment. He is advised to continue with outpatient pulmonary rehabilitation.
+
+Medications at Discharge:
+1. Prednisone 40mg daily for 5 days then taper
+2. Azithromycin 250mg daily for 5 days (started on [B-DATE]09/10/2023[O])
+3. Tiotropium inhaler, 1 puff daily
+
+Allergies: No known drug allergies.
+
+Follow-up:
+Outpatient follow-up recommended with Dr. [B-NAME]Hannah Lee[O], Pulmonologist, at [B-ORGANIZATION]General West Respiratory Clinic[O].
+Next appointment: [B-DATE]10/03/2023[O] at 10:15 AM.
+
+Instructions:
+1. Continue using oxygen at home at 2 liters per minute as needed.
+2. Complete the course of antibiotics and steroids as prescribed.
+3. Avoid smoke and other respiratory irritants.
+4. Seek immediate medical help if symptoms of respiratory distress reappear.
+
+Diet/Activity:
+Regular diet as tolerated. Encouraged to increase activity gradually, as tolerated, and continue with home exercises.
+
+Discharge Planning:
+Patient and family educated about medication management, signs and symptoms of infection, and importance of follow-up appointments. Home oxygen therapy set up by [B-ORGANIZATION]Breathe Easy Supplies, Inc.[O].
+
+Physician Signature:
+[B-NAME]Elizabeth Moreno[O], [B-DATE]09/25/2023[O], [B-TIME]15:00[O]
+
+LACE Score Recap:
+Total Score: 10
+Risk Level: High
+Estimated Readmission Risk: 14.7%
+Discharge Readiness: Patient acknowledges understanding of discharge instructions and verbalizes readiness for discharge.
+
+Counseling:
+Smoking cessation and minimization of exposure to respiratory irritants discussed. Patient agreed to participate in the smoking cessation program offered by [B-ORGANIZATION]Healthy Lungs Initiative[O].
+
+Day of Discharge Vital Signs:
+BP 130/80 | Pulse 72 | Temp 36.8°C | Resp 18 | SpO2 93% on 2 liters of oxygen.
+
+This comprehensive discharge summary ensures continuity of care with detailed planning and clear guidelines for the patient to manage his condition post-hospitalization.

@@ -1,0 +1,71 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Timothy Green[O]  
+**MRN:** [B-ID]546378945[O]  
+**Date of Birth:** [B-DATE]07/14/1965[O]  
+**Age at Admission:** [B-AGE]57[O]  
+**Admission Date:** [B-DATE]09/10/2023[O]  
+**Discharge Date:** [B-DATE]09/15/2023[O]  
+**Admitting Physician:** Dr. [B-NAME]Susan O'Neill[O]  
+**Hospital Service:** General Medicine  
+**Admitted From:** [B-LOCATION]Emergency Department[O]  
+**Discharge Location:** [B-ADDRESS]1245 Maple Avenue, Apt. 501, Springfield, IL 62704[O]
+
+---
+
+**Hospital Course:**
+[B-NAME]Mr. Green[O] was admitted with worsening dyspnea and bilateral leg swelling. Initial labs showed elevated BNP and chest X-ray indicated acute exacerbation of heart failure. The patient was managed with IV diuretics resulting in gradual improvement in symptoms.
+
+**Diagnosis at Discharge:**
+1. Acute Congestive Heart Failure
+2. Hypertension
+3. Chronic Obstructive Pulmonary Disease (COPD)
+
+**Medications on Discharge:**
+- Furosemide 40 mg Tablet: 1 tab orally twice daily
+- Lisinopril 20 mg Tablet: 1 tab orally once daily
+- Salmeterol/Fluticasone Inhaler: 1 puff twice daily
+
+**Allergies:**
+No known drug allergies.
+
+---
+
+**Discharge Instructions:**
+[B-NAME]Mr. Green[O] is to maintain a low salt diet and continue with his prescribed medications without interruption. He is also advised to monitor his weight daily and report any weight gain of 3 pounds or more in a single day or 5 pounds in a week to his healthcare provider.
+
+**Follow-Up Appointments:**
+1. [B-ORGANIZATION]Springfield Cardiology Clinic[O] - [B-DATE]09/20/2023[O] at 10 AM with Dr. [B-NAME]Emily Tran[O].
+2. [B-ORGANIZATION]General Physicians Group[O] - [B-DATE]09/25/2023[O] at 2 PM for COPD management.
+
+---
+
+**Discharge Activity:**
+Light activity like walking is encouraged. No heavy lifting or strenuous activity until further evaluation during follow-up visits.
+
+**Diet:**
+Low-sodium diet advocated.
+
+**Vaccinations:**
+Influenza vaccine administered on [B-DATE]09/14/2023[O].
+
+**Discharge Condition:**
+Stable for discharge with follow-up as noted above. Patient understands discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to hospital or emergency care.
+
+**Discharge Medications Given:**
+Patient provided with a 14-day supply of all discharge medications with instructions on usage.
+
+**Discharge Signed By:**
+[B-NAME]Dr. Susan O'Neill[O]  
+Date: [B-DATE]09/15/2023[O]  
+Time: 11:45 AM
+
+---
+
+**Emergency Contacts:**
+- Wife: [B-NAME]Sarah Green[O]
+- Son: [B-NAME]Michael Green[O]
+
+---
+
+Should any complications arise, please contact [B-ORGANIZATION]Springfield General Hospital's[O] helpline at [B-PHONE]555-0198[O] or visit our emergency department.

@@ -1,0 +1,72 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Elena Toro[O], MRN# [B-ID]456372819[O], is a [B-AGE]54 y.o.[O] female, admitted to the Inpatient Cardiology Service for management of acute coronary syndrome. 
+
+**Admission Date:** [B-DATE]3/15/2023[O]  
+**Discharge Date:** [B-DATE]3/22/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Amit Patel[O]  
+**Treatment Team**:  
+!! FIRST CONTACT !!: Cardiology Team 3 - PAGER [B-ID]23750[O]
+
+**Hospital Problems Noted - Resolved POA Active Problems**
+- Chest pain [B-DATE]3/15/2023[O] - Present Yes 
+- Hypertension [B-DATE]3/15/2023[O] - Present Yes 
+- Dyslipidemia [B-DATE]3/16/2023[O] - Present Yes 
+
+**RESOLVED:**
+- Acute myocardial infarction [B-DATE]3/15/2023[O] - [B-DATE]3/21/2023[O] Yes
+- Pulmonary edema [B-DATE]3/17/2023[O] - [B-DATE]3/19/2023[O] Yes
+
+**Recommendations for Follow Up:**
+Attention to Primary Care: Registration for cardiac rehabilitation program advised.  
+To Do's for Referring / Subspecialty Provider(s): Cardiology follow-up appointment on [B-DATE]4/02/2023[O].  
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**  
+Follow up with [B-ORGANIZATION]Downtown Medical Center[O] at [B-PHONE]555-123-9876[O]  
+
+**Instructions:**  
+Ms. [B-NAME]Toro[O] will need to adhere to a low-sodium diet, engage in gradual physical activity, and monitor blood pressure twice daily.  
+
+**Other Instructions:** 
+Medication reconciliation conducted. Please ensure adherence to the prescribed medication schedule.
+
+**Scheduled Appointments:**  
+Future Appointments  
+Date: [B-DATE]04/02/2023[O]  
+Time: 10:00 AM  
+Provider: Dr. [B-NAME]Laura Newman[O], Cardiologist
+
+**Pertinent Clinical Presentation on Admission/ Reason for Hospitalization:**  
+[B-AGE]54-year-old[O] female presented with acute onset of chest pain radiating to her left arm, associated with nausea and diaphoresis. Past medical history significant for hypertension and hyperlipidemia. Electrocardiogram on admission demonstrated ST-segment elevations in the anterior leads.
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Ms. [B-NAME]Toro[O] was admitted to the cardiac care unit where she underwent percutaneous coronary intervention (PCI) to the left anterior descending artery. A drug-eluting stent was placed successfully. Post-procedure, her chest pain resolved and cardiac markers normalized. The patient was started on dual antiplatelet therapy and a statin. Echocardiogram showed preserved ejection fraction with no significant wall motion abnormalities. The patient participated in bedside physical therapy and was cleared by physical medicine.
+
+**Discharge Medication List**  
+New Medications: Start taking as prescribed  
+- Aspirin 81 mg tablet, Refills: 12, 1 tablet daily  
+- Atorvastatin 40 mg tablet, Refills: 12, 1 tablet at bedtime  
+- Metoprolol 50 mg tablet, Refills: 12, 1 tablet twice daily
+
+**Last Recorded Vital Signs:**  
+BP 128/82 | Pulse 72 | Temp 36.5 °C (97.7 °F) | Resp 18 | Ht 1.67 m (5' 6") | Wt 74 kg (163 lb) | SpO2 98% | BMI 26.55 kg/m²  
+
+**Pertinent Discharge Physical Exam Findings:**  
+**General appearance:** alert, appears stated age and in no acute distress  
+**Cardiovascular:** Regular rate and rhythm, no murmurs, capillary refill <2 seconds  
+**Respiratory:** Clear to auscultation bilaterally, no wheezes, crackles, or rhonchi  
+**Abdomen:** Soft, non-tender, non-distended  
+
+**Operations/Major Procedures:**  
+[B-ID]392013[O] [B-DATE]3/16/2023[O] PCI TO LAD  
+Surgeon: Dr. [B-NAME]David Lieu[O], MD  
+Location: Cath Lab  
+Status: Completed
+
+**Significant Test or Procedure Results:**  
+EKG: Normal sinus rhythm, no acute ischemic changes post-PCI  
+Chest X-ray: No evidence of acute cardiopulmonary process  
+**Day of Discharge Labs:**  
+- Troponin: Within normal limits.  
+- CBC, CMP within normal range.  
+
+By discharging Ms. [B-NAME]Toro[O], she agrees to follow up care as outlined and will keep appointments as scheduled, understanding her management plan for stable heart disease and the importance of lifestyle modifications alongside medication adherence. She was provided with contact numbers for cardiology, and internal medicine should issues arise post-discharge.

@@ -1,0 +1,53 @@
+**[B-ORGANIZATION]General Hospital[O] Inpatient Discharge Summary**
+
+Patient Information:
+- **[B-NAME]Thomas Anderson[O]**, MRN# **[B-ID]657839201[O]**, is a **[B-AGE]45-year-old[O]** male, admitted to the Cardiology service due to chest pain and shortness of breath.
+
+Admission Date: **[B-DATE]02/01/2023[O]**
+Discharge Date: **[B-DATE]02/15/2023[O]**
+Attending Provider: Dr. **[B-NAME]Emily Stanton[O]**
+
+**Hospital Problems Noted - Resolved:**
+POA Active Problems:
+- Myocardial Infarction **[B-DATE]02/01/2023[O]** - Present Yes
+- Hypertension **[B-DATE]Previously known[O]** - Present Yes
+
+Resolved Problems:
+- Acute Respiratory Distress **[B-DATE]02/01/2023[O]** - **[B-DATE]02/10/2023[O]** Yes
+- Anxiety due to stress of hospitalization **[B-DATE]02/05/2023[O]** - **[B-DATE]02/12/2023[O]** Yes
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+Mr. **[B-NAME]Thomas Anderson[O]** was admitted following an episode of severe chest pain at home. Initial EKG showed ST elevations in the anterior leads. He was urgently taken to the cath lab where a 90% blockage in the left anterior descending artery was successfully stented. Post-procedure, the patient was stable with significant pain relief and improvement in cardiac markers. He was started on a regimen of aspirin, a beta-blocker, a high-intensity statin, and ACE inhibitors. He participated in daily cardiac rehab and showed good tolerance to gradual increases in activity. Psychology consult was requested to address acute stress symptoms, and patient responded well to brief intervention and was scheduled for outpatient follow up.
+
+**Discharge Medications:**
+- Aspirin 81 mg, Oral, once daily
+- Atorvastatin 40 mg, Oral, once daily
+- Metoprolol tartrate 50 mg, Oral, twice daily
+- Lisinopril 10 mg, Oral, once daily
+
+**Follow-Up Care:**
+- Follow up with **[B-ORGANIZATION]General Hospital Cardiology Clinic[O]** on **[B-DATE]02/22/2023[O]** at 10:00 AM with Dr. **[B-NAME]Susan Q. Bletcher[O]**, MD
+- Scheduled outpatient cardiac rehabilitation begins **[B-DATE]02/20/2023[O]**
+- Psychology follow-up as scheduled in **[B-ORGANIZATION]General Health Behavioral Services[O]** on **[B-DATE]03/01/2023[O]**
+
+**Instructions at Discharge:**
+1. Avoid lifting weights greater than 10 pounds until **[B-DATE]02/29/2023[O]**.
+2. Gradually increase walking, aiming for 30 minutes a day.
+3. Continue low sodium diet as discussed with dietician.
+4. Schedule a follow-up appointment should symptoms recur: Chest pain, severe headache, dizziness, or breathlessness.
+
+**Discharge Condition:** Stable for discharge, patient understands all discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to ED.
+
+**Last Recorded Vital Signs:**
+- BP 122/78 | Pulse 64 | Temp 98.6 °F | Resp 14 | SpO2 98%
+
+Discharge Readiness:
+- Education complete: Yes
+- Follow-up appointments scheduled: Yes
+- Meds to Bedside: Yes
+
+**[B-NAME]Thomas Anderson[O]** was thankful for the care received and felt prepared to continue recovery at home.
+
+Signed: **[B-NAME]Emily Stanton[O]**, MD **[B-DATE]02/15/2023[O]**, 3:30 PM
+
+**[B-ORGANIZATION]General Hospital[O]**, Discharge Clerk: **[B-NAME]Julie Tam[O]**

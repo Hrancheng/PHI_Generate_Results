@@ -1,0 +1,55 @@
+**Regional Hospital Discharge Summary**
+
+**Patient Name**: [B-NAME]Elizabeth Walker[O], MRN# [B-ID]987654321[O]  
+**Age/Gender**: [B-AGE]72 y.o.[O] female  
+**Admission Date**: [B-DATE]10/22/2023[O]  
+**Discharge Date**: [B-DATE]11/01/2023[O]  
+**Primary Care Physician**: Dr. [B-NAME]Harry S. Trumen[O], MD  
+**Referring Physician/Cardiologist**: Dr. [B-NAME]Angela Brighton[O], MD  
+**Admission Diagnosis**: Worsening Congestive Heart Failure (CHF)  
+**Discharge Diagnosis**: CHF, stabilized   
+
+**Hospital Course**:  
+Ms. [B-NAME]Walker[O] was admitted with symptoms of shortness of breath, orthopnea, and ankle swelling. She was diagnosed with an acute exacerbation of heart failure. Initial treatment included intravenous diuretics and guideline-directed medical therapy for heart failure which included adjustments to her existing regimen.
+
+Her echocardiogram showed a left ventricular ejection fraction of 35%, consistent with her previous assessments. Her kidney function was monitored closely due to the aggressive diuresis, revealing stable renal function throughout her stay. Cardiology was involved in management adjustments and recommended continuation of beta-blockers and ACE inhibitors with close outpatient follow-up.
+
+Given her initial poor respiratory status, she needed bipap in the initial phase of management. She gradually improved with less respiratory distress over days and was transferred from the Intensive Care Unit to the general floor on [B-DATE]10/26/2023[O].
+
+**Medications at Discharge**:  
+- Furosemide 40mg tablet: 1 tablet to take twice daily  
+- Lisinopril 10mg tablet: 1 tablet daily  
+- Potassium Chloride 20 mEq: Take one tablet daily  
+- Metoprolol Tartrate 50 mg: 1 tablet twice daily
+
+**Discharge Instructions**:  
+Ms. [B-NAME]Walker[O] should monitor her weight daily and report any increase of more than 3 pounds in a day to [B-ORGANIZATION]Community Heart Care[O]. She should adhere strictly to her low-sodium diet and continue with the outpatient heart failure rehab as scheduled. A follow-up appointment is scheduled with [B-ORGANIZATION]Community Heart Care[O] on [B-DATE]11/08/2023[O] at 10:00 AM.
+
+**Follow-up Care**:  
+- [B-DATE]11/08/2023[O], 10:00 AM, Follow-up in Heart Failure Clinic with Dr. [B-NAME]Angela Brighton[O], [B-ORGANIZATION]Community Heart Care[O].  
+- Continue home health nursing visits for vital sign monitoring and medication compliance checks.
+
+**Labs**:  
+Sodium: 138 mEq/L; Potassium: 4.5 mEq/L; Creatinine: 1.2 mg/dL  
+
+**Preventive Care**:  
+Continue to avoid NSAIDs and maintain fluid restriction at 1500 mL/day.
+
+**Discharge Condition**:  
+At discharge, Ms. [B-NAME]Walker[O] was alert and oriented, ambulating with assistance, and her condition was stabilized.
+  
+**Discharge Follow-Up**:  
+- Cardiology follow-up as outpatient within one week  
+- Primary care follow-up within two weeks
+
+**Registered Nurse**: [B-NAME]Susan O'Hara[O], RN  
+**Attending Physician**: Dr. [B-NAME]Harry S. Trumen[O]  
+**Contact Information**: Cardiology Clinic: [B-PHONE]555-123-4567[O]
+
+**Signature**:  
+Dr. [B-NAME]Harry S. Trumen[O], MD, [B-DATE]11/01/2023[O], 4:00 PM
+
+---
+
+Ms. [B-NAME]Walker[O]'s discharge summary reflects her stabilized medical condition, and careful attention should be given to her outpatient follow-up to prevent another exacerbation of her congestive heart failure. 
+

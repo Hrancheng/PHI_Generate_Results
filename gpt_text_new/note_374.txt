@@ -1,0 +1,44 @@
+**University Health Network**
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Eleanor Rigby[O], MRN: [B-ID]ABC1234567[O]  
+**Age:** [B-AGE]65 years[O]  
+**Admission Date:** [B-DATE]September 12, 2023[O]  
+**Discharge Date:** [B-DATE]September 19, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Emily Stanton[O]  
+
+**Admission Diagnosis:**
+Chronic heart failure, Acute exacerbation of chronic obstructive pulmonary disease (COPD).
+
+**Hospital Course:**
+[B-NAME]Eleanor Rigby[O] presented to the Emergency Department (ED) at [B-ORGANIZATION]University Health Network[O] on [B-DATE]September 12, 2023[O], with increased shortness of breath and fatigue. She was found to have a COPD exacerbation and worsening of her heart failure symptoms.  
+Treatment included IV diuretics, supplemental oxygen, and a course of antibiotics for suspected bacterial superinfection. Her response to treatment was monitored through daily chest X-rays and ECGs, showing gradual improvement. A stress test conducted on [B-DATE]September 16, 2023[O] indicated no new ischemic changes.
+
+**Discharge Medications:**
+- Furosemide 40 mg, oral, twice daily
+- Carvedilol 25 mg, oral, twice daily
+- Tiotropium inhaler, one inhalation daily
+- Amoxicillin 500 mg, oral, three times daily for 5 days
+
+**Follow-Up Appointments:**
+- Cardiology follow-up with Dr. [B-NAME]Hannah Lee[O] on [B-DATE]October 3, 2023[O] at [B-ORGANIZATION]University Heart Clinic[O].
+- Pulmonology follow-up with Dr. [B-NAME]Aaron Smith[O] on [B-DATE]October 10, 2023[O] at [B-ORGANIZATION]Respiratory Health Services[O].
+
+**Instructions:**
+Patient to continue using oxygen at 2 liters per minute via nasal cannula. Monitor daily weights and report weight gain of more than 3 pounds in a 24-hour period. Continue smoking cessation. Perform daily breathing exercises as instructed by the respiratory therapist.
+
+**Discharge Condition:**
+The patient’s condition has stabilized, and she is being discharged to home under the care of her daughter, [B-NAME]Julia Dawson[O]. Home health services have been arranged to assist with medication management and physical therapy.
+
+**Relevant Numbers:**
+Emergency Contact: Daughter, [B-NAME]Julia Dawson[O] - [B-PHONE]555-123-4567[O]  
+Cardiology Office: [B-PHONE]555-987-6543[O]  
+Pulmonary Office: [B-PHONE]555-765-4321[O]  
+
+**Comments:**
+Patient and family educated about signs and symptoms of COPD and heart failure exacerbations and instructed to seek immediate medical attention if symptoms worsen.
+
+---
+**Signed: Dr. [B-NAME]Emily Stanton[O], [B-DATE]September 19, 2023[O], [B-LOCATION]8:30 AM[O]  
+**Discharge Nurse:** Nurse [B-NAME]Michael Rogers[O]  
+**Discharge Instructions Reviewed with:** [B-NAME]Julia Dawson[O] (Daughter)

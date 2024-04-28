@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+
+[B-ORGANIZATION]General Hospital[O]  
+[B-NAME]Michael Thompson[O], MRN# [B-ID]002569834[O], is a [B-AGE]54 y.o.[O] male, admitted to the Cardiology service for management of acute myocardial infarction and complicating congestive heart failure. Admission Date: [B-DATE]6/5/2023[O], Discharge Date: [B-DATE]6/18/2023[O].  
+
+Attending Provider: Dr. [B-NAME]Anna Patel[O]  
+Treatment Team: Dr. [B-NAME]Simon Lee[O], Cardiology Fellow
+
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+Myocardial Infarction [B-DATE]6/5/2023[O] - Yes  
+Congestive Heart Failure [B-DATE]6/5/2023[O] - Present Yes  
+Resolved Problems  
+RESOLVED: Hypertension [B-DATE]6/5/2023[O] - [B-DATE]6/18/2023[O] Yes  
+RESOLVED: Type 2 Diabetes Mellitus [B-DATE]6/5/2023[O] - [B-DATE]6/18/2023[O] Yes  
+
+**Recommendations for Follow-Up:**  
+Attention to Primary Care Attending: (Diagnostic studies and exam findings) General follow-up. To Do's for Referring / Subspecialty Provider(s): 
+
+Cardiology: Follow up appointment on [B-DATE]6/25/2023[O].  
+Endocrinology: Follow-up scheduled for [B-DATE]7/2/2023[O].  
+
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to the patient: Contact information for follow-up Phys, Self-Refer Or No Pcp/Referring Next Steps: Follow up with [B-ORGANIZATION]Cardiac Specialists Clinic[O] [B-PHONE]555-123-4567[O].
+
+**Hospital Course: Brief Overview**  
+Mr. [B-NAME]Michael Thompson[O], a [B-AGE]54-year-old[O] male with a past medical history significant for hypertension and type 2 diabetes, presented with chest pain and was diagnosed with an acute myocardial infarction. The patient underwent successful PCI to the right coronary artery. Post-procedure, his course was complicated by congestive heart failure, necessitating diuretic therapy and cardiac rehabilitation. He responded well to medical management with improvement in cardiac function.
+
+**Discharge Medications:**  
+New Medications: Start taking as prescribed  
+- Aspirin 81 mg tablet, Refills: 12.  
+- Lisinopril 10 mg tablet, Refills:12  
+- Atorvastatin 20 mg tablet, Refills: 12  
+- Metformin 500 mg tablet, Refills: 12  
+
+**Significant Test or Procedure Results:**  
+Echo [B-DATE]6/16/2023[O]: Showed improved ejection fraction of 45% (up from 30% at admission)  
+Chest X-Ray [B-DATE]6/15/2023[O]: No acute cardiopulmonary findings
+
+**Next Steps:**  
+- Patient instructed to participate in outpatient cardiac rehabilitation.  
+- Follow-up with primary care physician in 1 week.  
+- Cardiology follow-up in 2 weeks or immediately if symptoms recur.  
+
+**Discharge Condition:**  
+The patient is stable and discharged in good condition with outpatient follow-up arranged. He understands his discharge instructions and medications prescribed. His chest pain has resolved, and he has been educated on lifestyle modifications for cardiac health.
+
+Last Recorded Vital Signs:  
+BP 125/85, Pulse 72, Temp 98.6 °F, Resp 16, SpO2 98%  
+
+**Discharge Instructions:**  
+- Maintain a low salt, low-fat diet.  
+- Continue prescribed medications as instructed without interruption.  
+- Report immediately to ER if symptoms of chest pain, difficulty breathing, or fainting occur.  
+
+**Follow-Up Appointments Scheduled:**  
+- [B-DATE]6/25/2023[O] at 10:30 AM: [B-NAME]Dr. Anna Patel[O] at [B-ORGANIZATION]Cardiac Specialists Clinic[O].  
+- [B-DATE]7/2/2023[O] at 9:00 AM: Endocrinology at [B-ORGANIZATION]General Hospital Endocrine Department[O].  
+
+Signed:  
+Dr. [B-NAME]Simon Lee[O], [B-DATE]6/18/2023[O], 3:30 PM

@@ -1,0 +1,63 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- [B-NAME]Harold Lansing[O]
+- MRN: [B-ID]4356729[O]
+- [B-AGE]82 y.o.[O]
+- Admission Date: [B-DATE]April 12, 2023[O]
+- Discharge Date: [B-DATE]April 28, 2023[O]
+- Attending Provider: Dr. [B-NAME]Emily R. Stone[O]
+
+**Admission Diagnosis:**
+- Complicated UTI with sepsis
+
+**Hospital Course:**
+[B-NAME]Harold Lansing[O] was admitted to [B-ORGANIZATION]General Hospital[O] following a diagnosis of a complicated urinary tract infection that had progressed to sepsis. Immediate broad-spectrum antibiotics and supportive care were initiated. The patient responded well to treatment, with marked improvement in clinical symptoms and stabilization of vitals over the course of hospitalization.
+
+**Consultations:**
+- ID Specialist: Dr. [B-NAME]Jonathan Clarke[O]
+- Nephrology: Dr. [B-NAME]Sarah Tan[O]
+
+**Significant Events:**
+- [B-DATE]April 14, 2023[O]: Initiation of IV fluids and antibiotics
+- [B-DATE]April 20, 2023[O]: Transitioned to oral antibiotics
+- [B-DATE]April 22, 2023[O]: Developed mild renal impairment, managed conservatively
+
+**Discharge Medications:**
+- Ciprofloxacin 500 mg, oral, twice daily for 7 days
+- Paracetamol 650 mg, oral, as needed for fever or pain
+
+**Plan:**
+Discharged under the care of primary care physician, Dr. [B-NAME]Linda Moore[O], with instructions to follow up within one week for reassessment and potential adjustment of antibiotic therapy as per culture results. Encouraged to maintain hydration and monitor for signs of infection recurrence or worsening symptoms.
+
+**Follow-Up Appointments:**
+- [B-DATE]May 5, 2023[O] at 10:00 AM with Dr. [B-NAME]Linda Moore[O], [B-ORGANIZATION]Community Health Clinic[O]
+
+**Preventive Measures Advised:**
+- Adequate fluid intake
+- Regular urology check-ups
+
+**Condition at Discharge:**
+Patient is stable with improving signs of infection. Alert, ambulatory with assistance, and in no acute distress.
+
+**Discharge Instructions:**
+- Finish all prescribed antibiotics even if feeling better
+- Seek immediate medical attention if experiencing fever, chills, decreased urine output, or other new symptoms
+- Stay hydrated and maintain a balanced diet
+
+**Discharge Vitals:**
+- BP 130/80 mmHg
+- Temp 36.8°C
+- Pulse 68 BPM
+- Resp 14 per min
+
+**Contact Information for Follow-Up:**
+- Primary Care Phone: [B-PHONE]555-2368[O]
+
+**Final Impressions:**
+The patient's hospital course was complicated by mild renal impairment secondary to sepsis, which was managed with hydration and medication adjustments. No further complications anticipated if post-discharge instructions followed.
+
+**Documentation Completed By:**
+Dr. [B-NAME]Emily R. Stone[O], Attending Physician
+Date: [B-DATE]April 28, 2023[O]
+Phone: [B-PHONE]555-0102[O]

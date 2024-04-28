@@ -1,0 +1,81 @@
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Emily Thompson[O]  
+MRN#: [B-ID]987654321[O]  
+Age: [B-AGE]68-year-old[O]  
+Admission Date: [B-DATE]September 5th, 2023[O]  
+Discharge Date: [B-DATE]September 15th, 2023[O]  
+Attending Provider: Dr. [B-NAME]Harold Greene[O]  
+Treatment Team: SA3 ECHO TEAM - PAGER [B-ID]356789[O]
+
+**Hospital Problems Noted - Resolved**
+
+1. Pneumonia [B-DATE]September 5th, 2023[O] - Present Yes
+2. Hyponatremia [B-DATE]September 7th, 2023[O] - Present Yes
+
+**Resolved Problems**
+
+RESOLVED: Cardiac arrhythmia [B-DATE]September 5th, 2023[O] - [B-DATE]September 12th, 2023[O]  
+Yes  
+
+**Other Problems**  
+None  
+
+**Recommendations for Follow-Up:**  
+General follow-up for cardiology and pulmonary status. 
+Special attention to sodium levels and hydration status.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up**
+Orders given to patient:
+- Routine blood work to monitor electrolytes scheduled for [B-DATE]September 20th, 2023[O]
+- Follow-up echocardiogram scheduled for [B-DATE]October 1st, 2023[O]
+
+**Next Steps: Follow-up Instructions**
+[B-ORGANIZATION]Eastfield Medical Group[O]  
+[B-PHONE]555-123-4567[O]  
+Next Steps: Ensure continuation of sodium tablets and adherence to fluid restriction prescribed.
+
+**Discharge Medication List**  
+New Medications: Start taking as prescribed  
+* Hydrochlorothiazide 25 mg tablet
+  - Refills: 1  
+  - Commonly known as: MICROZIDE 25 mg, Oral, ONCE DAILY  
+
+**Pertinent Clinical Presentation on Admission**  
+[B-AGE]68 years old[O] female with a past medical history significant for hypertension and chronic heart failure presented with increased shortness of breath and a productive cough over past 3 days. Patient was dehydrated and had low sodium upon presentation.
+
+**Brief Hospital Course**  
+Mrs. [B-NAME]Thompson[O] was admitted under the care of the cardiology unit due to suspected heart failure exacerbation secondary to acute pneumonia. She responded well to diuretics and antibiotics. Her arrhythmic episodes were managed with medication adjustment. Extensive education provided on fluid and diet management for heart failure. Sodium levels normalized and patient stabilized.
+
+**Last Recorded Vital Signs**  
+BP 120/78 | Pulse 76 | Temp 37.1 °C | Resp 16 | O2 Sat 97% RA
+
+**Pertinent Discharge Physical Exam Findings**  
+General: Alert, in no acute distress  
+CV: RRR, no murmurs  
+Resp: Clear to auscultation bilaterally, no wheezes  
+Neuro: Alert and oriented x3  
+Ext: No edema  
+
+**Operations/Major Procedures**  
+None during this admission.
+
+**Significant Tests or Procedures Results**
+ECG [B-DATE]September 7th, 2023[O]: Showed atrial fibrillation with rapid ventricular response, now resolved.  
+Chest X-ray [B-DATE]September 5th, 2023[O]: Showed right lower lobe consolidation, treated as pneumonia.
+
+**Discharge Medications**
+1. Lisinopril 10 mg once daily  
+2. Carvedilol 12.5 mg twice daily  
+3. Furosemide 40 mg once daily  
+4. Sodium Chloride tabs 1 gm three times daily  
+
+**Patient Education**  
+Provided detailed counseling on medication adherence and the importance of fluid restriction to prevent exacerbations of heart failure. Discussed signs of worsening heart failure and when to seek emergency help.
+
+**Follow-Up Appointments**  
+Cardiology follow-up [B-DATE]October 5th, 2023[O], with Dr. [B-NAME]Susan O'Malley[O], at [B-ORGANIZATION]Heart Health Clinic[O]  
+Pulmonology follow-up [B-DATE]October 12th, 2023[O], with Dr. [B-NAME]John Carter[O], at [B-ORGANIZATION]Eastfield Respiratory Center[O]  
+
+---
+This summary outlines the patient's state at discharge and the necessary follow-up action plans. The document adheres to the PHI de-identification annotations, ensuring patient data privacy and confidentiality.

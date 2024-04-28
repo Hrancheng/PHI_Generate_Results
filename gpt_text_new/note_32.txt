@@ -1,0 +1,53 @@
+Inpatient Discharge Summary
+
+Patient Name: [B-NAME]Reginald Perrin[O], MRN# [B-ID]845-552-235[O], is a [B-AGE]68 y.o.[O] male admitted to the General Medicine service following an episode of acute pancreatitis.
+
+Admission Date: [B-DATE]1/15/2023[O],
+Discharge Date: [B-DATE]1/22/2023[O],
+Attending Physician: Dr. [B-NAME]Alice Harrington[O]
+
+Problems Addressed During Stay:
+- Acute pancreatitis - Resolved
+- Type 2 Diabetes Mellitus- Stable on current management
+- Hypertension - Well controlled on discharge
+
+Types of Support Provided:
+- IV hydration therapy,
+- Correction of electrolyte imbalances,
+- Pain management tailored specifically for pancreatitis,
+- Dietary consultation with a focus on pancreatitis-friendly nutrition.
+
+Medications at Discharge:
+**Metformin 500 mg**: Take one tablet twice daily.
+**Lisinopril 10 mg**: Take one tablet daily.
+**Acetaminophen 650 mg**: Take one tablet every 6 hours as needed for pain.
+
+Follow up:
+- Primary Care Appointment with Dr. [B-NAME]Megan Cho[O] on [B-DATE]1/29/2023[O] at [B-ORGANIZATION]City Health Clinic[O],
+- Gastroenterologist Consultation with Dr. [B-NAME]Ibrahim Al Fayed[O] on [B-DATE]2/5/2023[O] at [B-ORGANIZATION]Downtown Specialists Center[O]
+
+Dietary Recommendations:
+- Adhere to a low-fat diet to reduce stress on the pancreas,
+- Gradually reintroduce solid foods as tolerated,
+- Increase fluid intake.
+
+Home Care Instructions:
+- Monitor blood glucose levels four times a day,
+- Avoid alcohol completely to prevent reoccurrence of pancreatitis,
+- Report to the emergency department if experiencing severe abdominal pain, persistent vomiting, or fever.
+
+Discharge Condition: Stable, pain-free, and demonstrates an understanding of discharge instructions.
+
+Next Steps and Recommendations:
+- Patient and family educated about signs and symptoms of possible complications.
+- Confirmation of home support by [B-ORGANIZATION]Community Home Health Services[O], scheduled to begin on [B-DATE]1/24/2023[O].
+- Prescription refills coordinated with [B-ORGANIZATION]Main Street Pharmacy[O], call at [B-PHONE]555-312-4422[O] if issues arise.
+
+Sign Off:
+[B-NAME]Lucy Armstrong[O], MD (Attending Physician)
+Date Signed Off: [B-DATE]1/22/2023[O]
+Time: 4 PM
+
+Patient Address: [B-ADDRESS]234 Maple Ave, Belleville, NJ, 07109[O]
+
+This discharge summary is confidential and is intended for the use of the discharged patient and his healthcare providers only. Handle with necessary precautions related to personal and medical privacy regulations.

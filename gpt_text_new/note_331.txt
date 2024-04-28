@@ -1,0 +1,40 @@
+[B-ORGANIZATION]Central City General Hospital[O] Inpatient Discharge Summary
+
+[B-NAME]Michael Thompson[O], MRN# [B-ID]458732145[O], is a [B-AGE]68 y.o.[O] male, admitted under the care of the Cardiology service due to acute chest pain and suspected myocardial infarction. Admission Date: [B-DATE]01/12/2023[O] Discharge Date: [B-DATE]01/20/2023[O] Attending Provider: Dr. [B-NAME]Sara Kimberley[O]
+
+Hospital Problems Noted - Resolved 
+POA Active Problems:
+- Acute Myocardial Infarction [B-DATE]01/12/2023[O] - Present Yes
+- Hypertension [B-DATE]01/12/2023[O] - Present Yes
+Resolved Problems:
+- Acute kidney injury [B-DATE]01/14/2023[O] - [B-DATE]01/17/2023[O] Yes
+
+Brief Hospital Course (including treatment rendered and response to treatment):
+Mr. [B-NAME]Thompson[O] was admitted with chest pain radiating to his left arm. An immediate ECG showed ST-segment elevation. He was taken to the catheterization lab where a 90% blockage was identified in the left anterior descending artery. Percutaneous Coronary Intervention (PCI) was successfully performed. Post-procedure, his chest pain resolved, and cardiac enzymes trended down. He experienced a transient episode of acute kidney injury likely related to contrast used during the procedure but resolved with aggressive hydration. Mr. [B-NAME]Thompson[O] participated in the cardiac rehabilitation consultation and was very engaged in the discussion about lifestyle modifications.
+
+Medications at Discharge:
+- Aspirin 81 mg daily
+- Lipitor 80 mg nightly
+- Metoprolol 25 mg twice daily
+- Lisinopril 10 mg daily
+
+Follow-Up:
+Mr. [B-NAME]Thompson[O] should follow up with his primary care provider, Dr. [B-NAME]Emily Stanton[O], within one week post-discharge and with Cardiology in three weeks. He has been referred to [B-ORGANIZATION]Central City Cardiac Rehabilitation[O] and should start sessions next week.
+
+Diet:
+Low sodium, low fat diet recommended. Outpatient dietary counseling scheduled.
+
+Activity:
+Gradual increase in activity advised; avoid heavy lifting and strenuous activities for the next two weeks. Include daily walks increasing by five minutes per day.
+
+Discharge Condition:
+Stable; Mr. [B-NAME]Thompson[O] has shown good understanding of his discharge instructions. He is to monitor for signs of chest pain, shortness of breath, or swelling in the legs and contact healthcare provider immediately if symptoms reappear.
+
+Last Recorded Vital Signs:
+BP 130/85 | Pulse 72 | Temp 37.0 °C | Resp 16 | BMI 28 kg/m²
+
+[B-NAME]Sara Kimberley[O], MD, Cardiology
+[B-DATE]01/20/2023[O], 2:00 PM
+
+__________________________________________________________________________
+Upon discharge, Mr. [B-NAME]Thompson[O] expressed his gratitude towards the medical team and felt confident about managing his health moving forward. The patient was reminded again to strictly adhere to the medication regime and follow up schedules.

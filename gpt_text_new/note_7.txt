@@ -1,0 +1,73 @@
+**Patient Discharge Summary**
+
+**Patient Name**: [B-NAME]Jane Doe[O]  
+**MRN**: [B-ID]456123789[O]  
+**Admission Date**: [B-DATE]September 12, 2023[O]  
+**Discharge Date**: [B-DATE]September 19, 2023[O]   
+**DOB**: [B-DATE]May 16, 1975[O]   
+**Age**: [B-AGE]48[O]   
+**Admitting Physician**: Dr. [B-NAME]Linda Harris[O]  
+**Attending Physician at Discharge**: Dr. [B-NAME]Linda Harris[O]  
+**Consultants**: Dr. [B-NAME]Aaron Smith[O], Cardiology  
+**Hospital**: [B-ORGANIZATION]City General Hospital[O]  
+
+**Reason for Hospitalization**:  
+Mr. [B-NAME]Doe[O] was admitted with upper abdominal pain and was diagnosed with acute pancreatitis.
+
+**Hospital Course**:  
+[B-NAME]Jane Doe[O] presented to the emergency room with severe upper abdominal pain radiating to the back, nausea, and vomiting. Her labs on admission showed elevated amylase and lipase, confirming acute pancreatitis. She was managed with IV fluids, pain control, and NPO to rest the pancreas. She gradually resumed oral intake and was switched to a low-fat diet with improvement in symptoms.
+
+**Medications on Discharge**:  
+1. Pantoprazole 40 mg daily  
+2. Acetaminophen 650 mg every 6 hours as needed for pain  
+
+**Allergies**:  
+None
+
+**Discharge Instructions**:  
+[B-NAME]Jane Doe[O] is advised to follow a low-fat diet, avoid alcohol, and stop smoking. She should follow up with her primary care physician Dr. [B-NAME]Emily Watson[O] in one week, or sooner if symptoms recur. She should continue medication for acid reflux as prescribed and use over-the-counter pain medications as needed for pain.
+
+**Follow-up Appointments**:  
+1. Outpatient visit with Dr. [B-NAME]Emily Watson[O] scheduled for [B-DATE]September 26, 2023[O] at 10:00 AM at [B-ORGANIZATION]City Health Clinic[O].  
+2. Return to [B-ORGANIZATION]City General Hospital[O] Gastroenterology for a follow-up CT in six weeks.
+
+**Discharge Condition**:  
+Ms. [B-NAME]Doe[O] is stable with significant improvement in her symptoms. She understands her discharge instructions and the signs that would necessitate an earlier follow-up.
+
+**Address at Discharge**:  
+[B-ADDRESS]1234 Maple Avenue, Unit 5, Springfield, IL, 62704[O]  
+
+**Phone**: [B-PHONE]555-623-7890[O]  
+
+**Physical Examination at Discharge**:  
+General: Well-appearing, no acute distress  
+Vital Signs: BP 125/78, HR 72, Temp 98.6°F, RR 16  
+Abdomen: Soft, non-tender, normal bowel sounds  
+Extremities: No edema  
+Neurologic: Alert and oriented x4  
+
+**Discharge Diagnoses**:  
+1. Acute Pancreatitis  
+2. Hypertension, well-controlled
+
+**Condition at Discharge**:  
+Stable with instructions for outpatient follow-up.
+
+**Signature**:  
+Dr. [B-NAME]Linda Harris, MD [O]  
+[B-DATE]September 19, 2023[O]  
+
+**Copies to**:  
+Dr. [B-NAME]Emily Watson[O] (PCP)  
+Cardiology Department, [B-ORGANIZATION]City General Hospital[O]  
+Dept. of Gastroenterology, [B-ORGANIZATION]City General Hospital[O]  
+
+**Instructions for Further Care**:  
+Ms. [B-NAME]Doe[O] should maintain hydration, adhere strictly to the dietary recommendations, and slowly resume normal activities as tolerated. She should monitor her temperature and pain levels, and seek medical attention if she experiences increased abdominal pain, fever, jaundice, or any other concerning symptoms.
+
+**Emergency Contact**:  
+[B-NAME]John Doe[O] (Brother)  
+[B-PHONE]555-317-9876[O]  
+[B-ADDRESS]456 Oak Lane, Springfield, IL, 62707[O]  
+
+This discharge summary template categorizes all the necessary patient information while adhering to PHI de-identification standards.

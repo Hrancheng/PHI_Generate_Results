@@ -1,0 +1,86 @@
+**Northern Light Regional Health Center**
+
+**Inpatient Discharge Summary**
+
+---
+
+**[B-NAME]Ellen Grace Thompson[O], MRN# [B-ID]458936720[O], is a [B-AGE]54 y.o.[O] female**, admitted to the General Medicine service for the management of an acute myocardial infarction with complications.
+
+---
+
+**Admission Date: [B-DATE]1/5/2023[O]**
+
+**Discharge Date: [B-DATE]1/15/2023[O]**
+
+**Admitting Provider: Dr. [B-NAME]Jason Hart[O]**
+
+**Primary Nurse: [B-NAME]Jennifer Lee[O], RN**
+
+**Consulting Cardiologist: [B-NAME]Melissa Rayburn[O], MD**
+
+**Case Manager: [B-NAME]Sandra Milne[O], RN**
+
+**Pharmacy Contact: [B-PHONE]543-212-4576[O]**
+
+**Next Place of Care: [B-ORGANIZATION]Hometown Rehabilitation Services[O]**
+
+---
+
+### Hospital Problems Noted - Active Problems
+
+1. **Acute myocardial infarction** ([B-DATE]1/5/2023[O] - Present)
+2. **Type II Diabetes Mellitus** (Ongoing)
+3. **Hypertension** (Ongoing)
+4. **Kidney disease, Stage II** (Noted on [B-DATE]1/7/2023[O])
+
+### Brief Hospital Course
+
+**[B-NAME]Ellen Thompson[O]** was admitted following an episode of severe chest pain while at work as an [B-ORGANIZATION]accountant for Smithson and Associates[O]. On admission, her ECG was indicative of an acute myocardial infarction. Initial Troponins were elevated, and she was urgently taken to the cath lab where a [B-LOCATION]Left Anterior Descending (LAD) artery[O] stenting was successfully performed by Dr. [B-NAME]Rayburn[O]. Post-procedure recovery was complicated by a transient episode of acute kidney injury, which resolved with IV hydration and careful monitoring.
+
+---
+
+### Discharge Medications
+
+1. **Aspirin 81 mg**: daily
+2. **Lisinopril 20 mg**: daily
+3. **Metformin 500 mg**: twice daily
+4. **Rosuvastatin 10 mg**: nightly
+
+### Relevant Diagnostic Studies
+
+- **Echocardiogram on [B-DATE]1/10/2023[O]**: Reduced left ventricular ejection fraction to 40%, mild LVH.
+- **Repeat Troponins on [B-DATE]1/6/2023[O]**: Decreased from admission, peaking at 3.2 ng/mL.
+
+### Interventions
+
+- **Cardiac Rehabilitation**: Refer to [B-ORGANIZATION]Heart Strong Rehab[O] for structured outpatient cardiac rehab beginning [B-DATE]1/22/2023[O].
+- **Diabetes Education**: Arranged a follow-up with a diabetes education specialist at [B-ORGANIZATION]Health Harmony Clinic[O] on [B-DATE]1/20/2023[O].
+
+### Follow-Up Appointments
+
+1. **[B-NAME]Dr. Melissa Rayburn[O]** on [B-DATE]1/25/2023[O] for post-discharge cardiac assessment.
+2. **General Practitioner [B-NAME]Dr. Neil Garrison[O]** on [B-DATE]1/30/2023[O] for blood pressure and diabetes management review.
+
+### Discharge Instructions
+
+***[B-NAME]Mrs. Thompson[O]*** is to continue with low sodium, diabetes-appropriate diet, regular monitoring of blood pressure, and daily weight. She is instructed to seek immediate care should she experience symptoms of chest pain, breathlessness, or leg swelling.
+
+---
+
+**Discharge Diagnoses:**
+
+1. **Acute myocardial infarction, complicated by acute kidney injury (resolved)**
+2. **Type II Diabetes, poorly controlled**
+3. **Hypertension, ongoing management**, 
+
+**Reconciliation Performed by: [B-NAME]Pharmacist Anna Whitford[O], [B-DATE]1/15/2023[O]**
+
+**Discharge Summary Dictated by: [B-NAME]Dr. Jason Hart[O]**
+
+**Time: [B-DATE]11:30 AM, 1/15/2023[O]**
+
+**Location: [B-ORGANIZATION]Northern Light Regional Health Center[O] Discharge Office**
+
+---
+
+This document is confidential and intended for the use of the designated recipient(s). Unauthorized review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please contact the sender and destroy all copies of the original message.

@@ -1,0 +1,55 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Michael Thompson[O]  
+**MRN:** [B-ID]987654321[O]  
+**Age:** [B-AGE]45 y.o.[O]  
+**Admission Date:** [B-DATE]1/15/2023[O]  
+**Discharge Date:** [B-DATE]1/30/2023[O]  
+**Attending Physician:** Dr. [B-NAME]Sara Kendrick[O]  
+**Consulting Team:** Cardiology, Nephrology  
+**Hospital Service:** General Medicine  
+**Admission Diagnosis:** Decompensated congestive heart failure  
+
+**Hospital Course:**  
+Mr. [B-NAME]Thompson[O] was admitted with symptoms of shortness of breath, orthopnea, and bilateral lower extremity edema. On admission, labs showed an elevated BNP and an ejection fraction of 30% noted from an echocardiogram performed on [B-DATE]1/16/2023[O]. Diuresis with intravenous furosemide was initiated, leading to considerable improvement in his symptoms. Renal function remained stable throughout the hospital stay, as monitored by daily creatinine levels. Cardiology was consulted and recommended optimization of heart failure medications.
+
+**Interventions:**  
+1. Medication adjustments: Introduction of lisinopril and up-titration of beta-blockers.
+2. Daily weights and strict I&O monitoring.
+3. Education regarding low-salt diet and fluid restriction delivered by [B-ORGANIZATION]Heart Health Nursing Education Team[O].
+   
+**Condition at Discharge:**  
+Mr. [B-NAME]Thompson[O] is feeling much better with reduced edema and improved exercise tolerance. He is instructed to continue with a low-sodium diet and adhere to fluid restrictions. 
+
+**Medications at Discharge:**
+1. Furosemide 40 mg orally twice daily
+2. Lisinopril 10 mg orally once daily
+3. Carvedilol 12.5 mg orally twice daily
+
+**Follow-up:**
+1. Cardiology outpatient follow-up on [B-DATE]2/10/2023[O] with Dr. [B-NAME]Laura Shin[O], MD at [B-ORGANIZATION]Community Heart Clinic[O].
+2. Nephrology follow-up considering kidney function and diuretic use, appointment scheduled for [B-DATE]2/15/2023[O].
+3. General practitioner Dr. [B-NAME]Henry Wallace[O] on [B-DATE]2/20/2023[O] for medication review and ongoing management of CHF.
+
+**Discharge Instructions:**
+Mr. [B-NAME]Thompson[O] should monitor his weight daily and contact the heart failure team if he notices a weight increase of more than 3 pounds in a day. Continue to limit fluid intake to less than 2 liters per day. Adherence to medications is critical for the management of his heart failure.
+
+**Pending Labs and Studies:**
+1. BNP to be checked during follow-up visit with Cardiology.
+2. Renal function panel during next visit with Nephrology.
+
+**Contact:**  
+For any urgent issues, Mr. [B-NAME]Thompson[O] is instructed to contact the Heart Failure Nursing team at [B-PHONE]555-123-4567[O] or go to the nearest emergency department.
+
+**Acknowledgment:**  
+Discharge facilitated and instructions reviewed by the primary nurse [B-NAME]Emily Carter[O] and cosigned by Dr. [B-NAME]Sara Kendrick[O], attending physician.
+
+**Special Notes:**  
+The patient expressed understanding of all discharge instructions and verbalized his ability to manage at home effectively. He has the support of his wife, [B-NAME]Susan Thompson[O], who attended all education sessions and understands the care process.
+
+**Signature:**  
+[B-NAME]Sara Kendrick, MD[O]  
+Date: [B-DATE]1/30/2023[O]  
+Time: 4:00 PM
+
+This comprehensive summary highlights the care and follow-up required for Mr. [B-NAME]Thompson[O] with clear labels adhering to PHI de-identification guidelines.

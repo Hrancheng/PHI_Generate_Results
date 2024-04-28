@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary:**
+
+**Patient Information:**
+- **Name:** [B-NAME]Emily Johnson[O]
+- **MRN:** [B-ID]002154396[O]
+- **DOB:** [B-DATE]07/23/1957[O]
+- **Age:** [B-AGE]65[O]
+- **Admission Date:** [B-DATE]09/15/2023[O]
+- **Discharge Date:** [B-DATE]09/20/2023[O]
+- **Attending Physician:** Dr. [B-NAME]Lisa Harrows[O]
+
+**Hospital Course:**
+[B-NAME]Emily Johnson[O] was admitted to [B-ORGANIZATION]General Hospital[O] on [B-DATE]09/15/2023[O] with complaints of chest pain and shortness of breath. Initial evaluations suggested an acute myocardial infarction, for which she underwent a successful percutaneous coronary intervention to her left anterior descending artery. Post-procedure, [B-NAME]Emily[O]'s recovery was uncomplicated, with significant improvement in her cardiovascular symptoms. She was managed with dual antiplatelet therapy and statins during her stay. 
+
+**Discharge Medications:** 
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice daily
+
+**Follow-up Instructions:**
+[B-NAME]Emily[O] is to follow up with her cardiologist, Dr. [B-NAME]Aaron Mitchells[O], in one week on [B-DATE]09/27/2023[O] at [B-ORGANIZATION]Community Cardiology Associates[O]. She is also recommended to enroll in a cardiac rehabilitation program available through [B-ORGANIZATION]General Hospital Rehabilitation Services[O].
+
+**Labs at Discharge:**
+- Troponin I: Declined from 20 ng/mL on admission to 0.4 ng/mL
+- LDL Cholesterol: 102 mg/dL
+- HbA1c: 6.8%
+
+**Pending Studies:**
+A repeat echocardiogram is scheduled for [B-DATE]10/05/2023[O] to assess left ventricular function post-intervention.
+
+**Instructions:** 
+[B-NAME]Emily[O] should continue her low sodium diet, engage in light physical activity such as walking, and avoid lifting heavy objects. She should monitor for signs of chest pain, shortness of breath, or leg swelling and contact [B-ORGANIZATION]General Hospital[O]'s cardiology department or her primary care provider if symptoms recur.
+
+**ED Visits and Hospitalizations:**
+No recent ED visits or previous admissions for cardiac issues.
+
+**Social Work Consult:**
+Met with [B-NAME]Margaret Lee[O], LCSW, to discuss potential stressors and support systems. A follow-up phone call is scheduled for [B-DATE]09/22/2023[O].
+
+**Discharge Condition:**
+Stable, with improvements noted in cardiac symptoms. 
+
+**Signature:**
+[B-NAME]Lisa Harrows[O], MD
+Date: [B-DATE]09/20/2023[O]
+Time: 4:30 PM
+
+---
+
+At the bottom of the summary, there's a reminder note for [B-NAME]Emily Johnson[O] regarding her next steps following discharge, emphasizing the importance of adherence to medications and follow-up appointments for optimizing her recovery and health outcomes.

@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+**[B-NAME]John A. Doe[O]**  
+MRN: **[B-ID]987654321[O]**  
+DOB: **[B-DATE]01/12/1958[O]**  
+Admission Date: **[B-DATE]09/15/2023[O]**  
+Discharge Date: **[B-DATE]09/22/2023[O]**  
+Attending Physician: Dr. **[B-NAME]Jane Smith[O]**  
+**[B-ORGANIZATION]City General Hospital[O]**
+
+**Admission Diagnosis:**  
+Acute cholecystitis
+
+**Hospital Course:**  
+**[B-NAME]Mr. Doe[O]** was admitted with a seven-day history of right upper quadrant pain, fever, and nausea. An ultrasound confirmed the presence of gallstones and a thickened gallbladder wall. He was started on IV antibiotics and fluids and underwent laparoscopic cholecystectomy on **[B-DATE]09/17/2023[O]** without complications. Post-operatively, he received pain management and continued antibiotics. He tolerated a gradual return to a normal diet and his pain improved significantly. He participated in physical therapy to aid in recovery.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg PO Q4-6H PRN for pain  
+- Amoxicillin 500 mg PO TID for 7 days  
+
+**Discharge Instructions:**  
+**[B-NAME]Mr. Doe[O]** is to follow a low-fat diet and gradually increase activity. He should monitor for signs of infection or any worsening symptoms. A follow-up appointment is scheduled with Dr. **[B-NAME]Jane Smith[O]** at **[B-ORGANIZATION]City General Hospital Outpatient Clinic[O]** on **[B-DATE]10/01/2023[O]**.
+
+**Follow-Up Care:**  
+Appointment on **[B-DATE]10/01/2023[O]** at 10 AM with Dr. **[B-NAME]Jane Smith[O]**  
+**[B-ORGANIZATION]City General Hospital Outpatient Clinic[O]**  
+**[B-ADDRESS]123 Health Blvd, Metropolis, IL 62704[O]**
+
+**[B-PHONE]555-123-4567[O]**
+
+**Condition at Discharge:**  
+Stable, recovering well from surgery. 
+
+**Instructions for Patient:**  
+- Avoid heavy lifting and strenuous activity until follow-up appointment.  
+- Continue prescribed course of antibiotics.  
+- Contact hospital if experiencing fever, severe abdominal pain, or signs of infection.
+
+---
+
+**Prepared by:**  
+Dr. **[B-NAME]Jane Smith[O]**  
+**[B-DATE]09/22/2023[O]**  4:30 PM
+
+**Patient's Signature:**  
+**[B-NAME]John A. Doe[O]**  
+
+**Signed:**   
+**[B-DATE]09/22/2023[O]** 
+
+---
+
+This synthetic patient discharge summary contains fabricated details and annotations in accordance with PHI de-identification standards set forth in the example requirements. All personal, medical, and institutional identifiers are hypothetical.

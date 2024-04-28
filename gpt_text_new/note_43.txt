@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+**MRN**: [B-ID]A123456789[O]  
+**Name**: [B-NAME]John Doe[O]  
+**Age**: [B-AGE]58[O]  
+**Date of Birth**: [B-DATE]01/15/1965[O]  
+**Admission Date**: [B-DATE]10/21/2023[O]  
+**Discharge Date**: [B-DATE]10/28/2023[O]  
+**Primary Care Physician**: Dr. [B-NAME]Mary Watson[O]
+
+**Hospitalization Information:**
+**Admission Diagnosis**: Acute Myocardial Infarction  
+**Hospital Course**: The patient, Mr. [B-NAME]John Doe[O], a [B-AGE]58[O]-year-old male with a history of hypertension and diabetes was admitted to [B-ORGANIZATION]General Hospital[O] on [B-DATE]October 21, 2023[O] following complaints of chest pain. During admission, the patient underwent cardiac catheterization that revealed two partially occluded vessels. Coronary angioplasty and stenting were successfully performed. 
+
+**Treatment Team**:  
+Cardiology: Dr. [B-NAME]Linda Kim[O]  
+Nursing: [B-NAME]Susan Lee[O], RN  
+Case Manager: [B-NAME]Helen Greer[O], LCSW
+
+**Condition at Discharge**:  
+The patient exhibited good recovery without complications, demonstrating stable cardiac function, and controlled blood pressure and sugar levels.  
+Disposition: Fair
+
+**Follow-Up Care**:  
+The patient is advised to follow-up with his cardiologist, Dr. [B-NAME]Linda Kim[O], in two weeks, or sooner if he experiences any symptoms such as chest pain, shortness of breath, or extreme fatigue.
+
+**Medications on Discharge**:  
+1. Aspirin 81 mg daily  
+2. Atorvastatin 40 mg at bedtime  
+3. Metoprolol 25 mg twice daily  
+4. Lisinopril 10 mg once daily  
+
+**Instructions for Patient**:  
+- Avoid strenuous activity until the next follow-up appointment.  
+- Maintain a low sodium, low fat diet.  
+- Continue diabetes management under the care of endocrinologist Dr. [B-NAME]Aaron Smith[O].  
+
+**Scheduled Follow-Up Appointments**:  
+1. [B-DATE]November 10, 2023[O] at 10:00 AM with Dr. [B-NAME]Linda Kim[O], Cardiology, [B-ADDRESS]455 Health St, Mediville, MA 01234[O]  
+2. [B-DATE]November 15, 2023[O] at 09:00 AM with Dr. [B-NAME]Aaron Smith[O], Endocrinology, at the same address.
+
+**Lab Tests to be Conducted Before Next Visit**:  
+- CBC  
+- Lipid Profile  
+- HbA1c  
+
+**Discharge Contacts**:  
+- Cardiology Clinic: [B-PHONE]555-123-4567[O]  
+- Diabetes and Endocrinology: [B-PHONE]555-987-6543[O]
+
+**Notes**:  
+The patient was counseled extensively about the symptoms of potential complications and when to seek immediate care. Mr. [B-NAME]John Doe[O] expressed understanding of his management plan and was encouraged to adhere to his medication schedule strictly.
+
+**Signature**:  
+Dr. [B-NAME]Mary Watson[O]  
+Cardiology  
+Discharge Physician  
+[B-ORGANIZATION]General Hospital[O]  
+[B-DATE]10/28/2023[O]

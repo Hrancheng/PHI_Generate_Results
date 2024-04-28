@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Harold Greenfield[O]  
+**MRN#:** [B-ID]934562875[O]  
+**Age:** [B-AGE]68 years old[O]  
+**Admission Date:** [B-DATE]2/15/2023[O]  
+**Discharge Date:** [B-DATE]2/25/2023[O]  
+**Attending Physician:** Dr. [B-NAME]Anna Patel[O]  
+**Resident:** Dr. [B-NAME]Jackson Li[O]  
+**Consultants:** Dr. [B-NAME]Sara Zimmerman[O] (Endocrinology), Dr. [B-NAME]Henry Chu[O] (Cardiology)  
+**Hospital Service:** [B-ORGANIZATION]General Medicine[O]
+
+**Admission Diagnosis:**
+- [B-DATE]2/15/2023[O]: Decompensated heart failure
+- [B-DATE]2/16/2023[O]: Type 2 Diabetes Mellitus
+
+**Hospital Course:**
+Mr. [B-NAME]Greenfield[O] was admitted with shortness of breath and pedal edema. Initial labs showed elevated BNP and echocardiogram confirmed worsening ejection fraction. He was managed with IV diuretics and adjustment of his outpatient heart failure regimen. His diabetes was poorly controlled on admission, with initial glucose of 392 mg/dL. An insulin regimen was initiated and titrated to achieve better glycemic control. Cardiology and endocrinology were consulted. Mr. [B-NAME]Greenfield[O] responded well to the treatment with improvement in his symptoms and a decrease in blood glucose levels to a near-normal range.
+
+**Procedures Performed:**
+- Echocardiogram on [B-DATE]2/17/2023[O]: Showed reduction in ejection fraction to 35%.
+- Continuous glucose monitoring initiated on [B-DATE]2/18/2023[O].
+
+**Medications at Discharge:**
+- Furosemide 40 mg twice daily
+- Lisinopril 20 mg once daily
+- Metformin 1000 mg twice daily
+- Insulin Glargine 30 units at bedtime
+
+**Follow-up:**
+- Follow up with [B-NAME]Dr. Anna Patel[O] in 1 week at [B-ADDRESS]MediClinic, 123 Health St., Springfield, IL 62704[O].
+- Cardiology follow-up in 3 weeks with [B-NAME]Dr. Henry Chu[O] at the same location.
+- Diabetes management appointment scheduled with [B-NAME]Dr. Sara Zimmerman[O] on [B-DATE]3/1/2023[O].
+
+**Discharge Instructions:**
+The patient has been counseled on low salt diet and fluid restriction of 1.5 liters per day. He was instructed on the importance of monitoring his blood pressure and blood glucose at home. Signs of worsening heart failure and hypoglycemia were discussed, and he was advised when to seek immediate care.
+
+**Condition at Discharge:**
+Stable. The patient was ambulatory at time of discharge with improved symptoms. He understood his discharge instructions and verbalized understanding. His questions were answered.
+
+**[B-ORGANIZATION]Springfield General Hospital[O]**
+**[B-NAME]Harold Greenfield[O],** **[B-DATE]2/25/2023[O],** **2:00 PM**  
+**Signed,**  
+Dr. [B-NAME]Jackson Li[O], MD  
+[B-DATE]2/25/2023[O], 2:15 PM
+
+---
+
+*Please note that all personal health identifiers were changed or removed from the actual patient details to maintain confidentiality and privacy according to healthcare regulations.*  
+

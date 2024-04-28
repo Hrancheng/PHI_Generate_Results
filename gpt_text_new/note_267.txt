@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+Patient: [B-NAME]Elizabeth Turner[O], MRN#: [B-ID]482635908[O]
+Age: [B-AGE]68[O]
+Admission Date: [B-DATE]8/15/2023[O]
+Discharge Date: [B-DATE]8/22/2023[O]
+Admitting Provider: Dr. [B-NAME]Michael Gray[O]
+Discharge Provider: Dr. [B-NAME]Hannah Lee[O], MD
+[B-ORGANIZATION]City General Hospital[O]
+
+**Hospital Course:**
+[B-NAME]Elizabeth Turner[O] was admitted complaining of severe chest pain and shortness of breath. She has a history of coronary artery disease, hypertension, and type 2 diabetes. Initial laboratory tests showed elevated cardiac enzymes, and an ECG confirmed acute myocardial infarction. Immediate treatment included IV thrombolytics, aspirin, and beta-blockers.
+
+During her stay, she developed mild congestive heart failure, managed with diuretics and ACE inhibitors. Cardiology performed an angioplasty with stent placement in the left anterior descending artery, which was successful. 
+
+She remained stable throughout the remainder of her hospitalization, with improvements in cardiac function as noted by echocardiogram before discharge. Education was provided on medication adjustments, dietary changes, and the importance of cardiac rehabilitation.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice a day
+- Atorvastatin 40 mg at bedtime
+- Lisinopril 10 mg daily
+
+**Follow-Up Appointments:**
+- Cardiology follow-up on [B-DATE]8/29/2023[O] with Dr. [B-NAME]Sarah Gill[O] at [B-ORGANIZATION]City Heart Clinic[O].
+- Primary care follow-up on [B-DATE]9/5/2023[O] with Dr. [B-NAME]Robert Cho[O] at [B-ORGANIZATION]Community Medical Associates[O].
+
+**Instructions for Patient at Discharge:**
+- Continue medications as prescribed.
+- Monitor blood pressure and blood sugar at home.
+- Follow a low-sodium, low-fat diet as instructed by the dietician.
+- Participate in the cardiac rehabilitation program, starting [B-DATE]9/1/2023[O].
+- Avoid heavy lifting and strenuous activity until the next follow-up.
+
+**Discharge Status:**
+Patient is stable with improved cardiac function. She understands her discharge instructions and acknowledges the importance of follow-up appointments.
+
+**Signed:**
+[B-NAME]Hannah Lee[O], MD
+Date: [B-DATE]8/22/2023[O]
+Time: 2:00 PM
+
+This discharge summary effectively utilizes the PHI de-identification annotation guidelines to ensure the privacy and confidentiality of the patient's personal health information while providing a comprehensive overview of the hospital stay and follow-up care.

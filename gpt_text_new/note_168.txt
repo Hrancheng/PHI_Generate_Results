@@ -1,0 +1,64 @@
+**Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Nancy Miller[O]
+**MRN**: [B-ID]382947501[O]
+**Age**: [B-AGE]52 years old[O]
+**Admission Date**: [B-DATE]February 16, 2023[O]
+**Discharge Date**: [B-DATE]March 2, 2023[O]
+**Attending Physician**: Dr. [B-NAME]Harold Greene[O]
+**Treatment Team**: Team 7 Cardiovascular Services
+
+**Admission Diagnosis**:
+- Acute myocardial infarction
+- Type II diabetes mellitus
+
+**Hospital Course**:
+[B-NAME]Nancy Miller[O] was admitted to [B-ORGANIZATION]Memorial Hospital[O] following a myocardial infarction confirmed by elevated troponin levels and characteristic ECG changes. She was immediately treated with aspirin, beta-blockers, and a loading dose of atorvastatin upon arrival. Cardiac catheterization performed on [B-DATE]February 17, 2023[O] revealed two significant blockages, for which stenting was successfully performed.
+
+Her diabetes management was adjusted, with insulin therapy optimized to maintain blood sugar levels within target range. Nutritional consultation was provided, given her new diagnosis of diabetes, focusing on a heart-healthy diabetic diet. 
+
+**Complications**:
+There were no major complications. Mild hypokalemia was noted and corrected during the stay.
+
+**Procedures Performed**:
+- Cardiac Catheterization with stenting
+- Daily ECGs
+- Nutritional Therapy Session
+
+**Consultations**:
+- Endocrinology
+- Nutrition and Dietary
+
+**Disposition**:
+The patient is discharged in a stable condition. She is advised to follow up with her primary care physician, Dr. [B-NAME]Susan O'Reilly[O], within one week and return to the Cardiology clinic in one month. She is counseled on recognizing symptoms of chest pain, managing her diabetes, and the importance of adherence to medications.
+
+**Medications on Discharge**:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metformin 500 mg twice daily
+- Insulin Glargine 10 units at bedtime
+
+**Outpatient Follow-up**:
+- Primary care follow-up on: [B-DATE]March 9, 2023[O] with [B-NAME]Susan O'Reilly[O], MD
+- Cardiology clinic on: [B-DATE]April 2, 2023[O] with Dr. [B-NAME]Harold Greene[O]
+
+**Instructions**:
+Patient is counseled on lifestyle modifications including salt restriction, regular physical activity, and smoking cessation. She is provided with the contact number for the diabetic education team and encouraged to join a cardiac rehabilitation program.
+
+**Next Steps**:
+- Cardiac Rehabilitation Assessment: [B-DATE]March 15, 2023[O]
+- Enroll in [B-ORGANIZATION]Memorial Hospital Diabetes Management Program[O]
+
+**Diet**:
+Low sodium, diabetic-friendly diet, balanced with a variety of nutrients. Regular meals with controlled carbohydrate intake.
+
+**Activity**:
+Gradual return to activity advised. Avoid heavy lifting and strenuous activity until cardiac evaluation.
+
+**Signature**:
+Dr. [B-NAME]Harold Greene[O]
+[B-DATE]March 2, 2023[O], at 14:00 PM
+
+**Contact Information**:
+Cardiology Clinic: [B-PHONE]555-123-9876[O]
+Diabetes Management Program: [B-PHONE]555-987-6543[O]

@@ -1,0 +1,46 @@
+Inpatient Discharge Summary
+----------------------------------------
+**Hospital:** [B-ORGANIZATION]General Hospital[O]   
+**MRN:** [B-ID]000025481[O]  
+**Admission Date:** [B-DATE]01/03/2023[O]  
+**Discharge Date:** [B-DATE]01/18/2023[O]  
+**Discharge Physician:** [B-NAME]Elizabeth Green, MD[O]
+
+## Patient Information:
+- **Name**: [B-NAME]Robert Johnson[O]  
+- **Age**: [B-AGE]65 years old[O]  
+- **Address**: [B-ADDRESS]452 Winding Creek Road, Springfield, IL, 62704[O]  
+
+## Admission Diagnosis:
+- Chief Complaint: Shortness of breath and chest pain
+
+## Hospital Course:
+Mr. [B-NAME]Johnson[O] was admitted with a chief complaint of shortness of breath and chest pain which had been progressing over the past week. A series of tests including a chest X-ray, EKG, and blood work were conducted. The cardiologist, [B-NAME]Dr. Nancy Wallace[O], diagnosed him with a Non-ST Segment Elevation Myocardial Infarction (NSTEMI). He was taken to [B-LOCATION]Cath Lab[O] on [B-DATE]01/04/2023[O] for a coronary angiography which showed a 90% blockage in the proximal left anterior descending artery. A stent was successfully placed during the procedure.
+
+## Treatment:
+Mr. [B-NAME]Johnson[O] received medication therapy including aspirin, beta-blockers, and a statin. Over the remainder of his stay, his condition stabilized and he showed considerable signs of improvement. Cardiac rehabilitation was started during his hospitalization and was advised to continue post-discharge.
+
+## Discharge Medications:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Metoprolol 50 mg twice daily
+
+## Discharge Instructions:
+Mr. [B-NAME]Johnson[O] is to follow a low-sodium diet, continue with outpatient cardiac rehabilitation, and avoid strenuous activities for at least 4 weeks. He is scheduled for a follow-up appointment with his cardiologist, [B-NAME]Dr. Nancy Wallace[O], on [B-DATE]02/02/2023[O] at [B-ORGANIZATION]Springfield Cardiology Associates[O].
+
+## Follow-up:
+- **Date:** [B-DATE]02/02/2023[O]  
+- **Time:** 10:00 AM  
+- **Physician:** [B-NAME]Dr. Nancy Wallace[O]  
+- **Location:** [B-ORGANIZATION]Springfield Cardiology Associates[O], 760 Riverside Drive, Springfield, IL
+
+**Next Steps:**
+Mr. [B-NAME]Johnson[O] should monitor his chest pain, and if he experiences worsening symptoms, he should seek immediate medical attention or call [B-PHONE]911[O].
+
+## Last Recorded Vitals:
+- Blood Pressure: 130/85 mmHg  
+- Heart Rate: 72 BPM  
+- Temperature: 98.6°F  
+- Respirations: 16 per minute  
+
+The patient was discharged in stable condition with all medications reviewed and understood. Instructions for activity, diet, and follow-up were provided and understood. Discharge process overseen by [B-NAME]Dr. Elizabeth Green[O] at [B-DATE]01/18/2023[O], 15:00 PM.

@@ -1,0 +1,47 @@
+**Inpatient Discharge Summary**
+
+**Patient Information**:  
+- Name: [B-NAME]Michael Johnson[O]  
+- Age: [B-AGE]45 years old[O]  
+- MRN: [B-ID]000122356[O]  
+- Admission Date: [B-DATE]September 14, 2023[O]  
+- Discharge Date: [B-DATE]September 24, 2023[O]  
+- Attending Physician: Dr. [B-NAME]Amy Carter[O]
+
+**Hospital Course**:  
+Mr. [B-NAME]Johnson[O] was admitted with a diagnosis of acute cholecystitis. He underwent laparoscopic cholecystectomy on [B-DATE]September 15, 2023[O]. The post-operative period was complicated by mild transient hyperglycemia, which was managed with sliding scale insulin. He tolerated a regular diet and was progressively mobilized. His surgical wound was healing well, with no signs of infection or inflammation at the site.
+
+**Medications at Discharge**:  
+- Acetaminophen 500 mg Oral Tablet, 1 tab every 6 hours as needed for pain  
+- Metformin 500 mg Oral Tablet, 1 tab twice daily
+
+**Follow-up Appointments**:  
+1. Post-operative follow-up with Dr. [B-NAME]Amy Carter[O] on [B-DATE]October 5, 2023[O] at [B-ORGANIZATION]City General Hospital Surgery Clinic[O]  
+2. Diabetes management review with Dr. [B-NAME]Susan Lee[O] on [B-DATE]October 10, 2023[O] at [B-ORGANIZATION]City General Hospital Endocrinology Clinic[O]
+
+**Instructions**:  
+Mr. [B-NAME]Johnson[O] is advised to avoid lifting heavy objects for the next four weeks. He should monitor his surgical wound for any signs of redness, swelling, or discharge. He is to continue with his diabetic diet and monitor his blood sugar levels regularly, recording them for his follow-up appointment.
+
+**Dietary Instructions**:  
+Continue with a low-fat diet, rich in fruits, vegetables, and whole grains. Avoid fried foods and creamy sauces.
+
+**Activity**:  
+Gradual increase in walking is encouraged, with limitation on lifting more than 10 pounds for the next four weeks.
+
+**Condition at Discharge**:  
+Stable. Mr. [B-NAME]Johnson[O] understands his discharge instructions and verbalizes understanding of signs of infection and hyperglycemia that should prompt early medical consultation.
+
+**Discharge Disposition**:  
+Home, with family support available.
+
+**Home Services**:  
+Home nursing visits arranged to check wound and provide diabetic education on [B-DATE]September 28, 2023[O] by [B-ORGANIZATION]Metro Health Home Care Services[O].
+
+**Emergency Contacts**:  
+- Primary Care Provider: Dr. [B-NAME]Susan Lee[O], [B-PHONE]555-0198[O]  
+- Surgery Clinic: [B-PHONE]555-0456[O]  
+- Endocrinology Clinic: [B-PHONE]555-0234[O]
+
+The patient was discharged on [B-DATE]September 24, 2023[O] in a stable condition, with necessary instructions and follow-up care scheduled. His vital signs were within normal ranges, and his surgical incisions were healing properly. He has received a prescription for a pain reliever and instructions regarding potential post-operative complications to watch for. 
+
+Signed: Dr. [B-NAME]Amy Carter[O], MD, [B-DATE]September 24, 2023[O], 2:00 PM.

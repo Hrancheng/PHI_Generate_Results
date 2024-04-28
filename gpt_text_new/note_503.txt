@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+Date of Admission: [B-DATE]08/15/2023[O]  
+Date of Discharge: [B-DATE]08/22/2023[O]  
+
+**Patient Information:**  
+Name: [B-NAME]Margaret Thompson[O]  
+MRN: [B-ID]783452680[O]  
+Age: [B-AGE]68 y.o.[O]  
+Admission Diagnosis: Acute exacerbation of chronic obstructive pulmonary disease (COPD)  
+Discharge Diagnosis: COPD, pneumonia  
+
+**Hospital Course:**  
+Mrs. [B-NAME]Thompson[O] presented to the Emergency Department (ED) complaining of increased shortness of breath, wheezing, and a productive cough that had worsened over the past week. Upon admission, her oxygen saturation was 88% on room air, and she was started on 2 liters nasal cannula which was later increased to 4 liters due to persisting hypoxia. Chest X-rays indicated new infiltrates on the right lower lobe consistent with pneumonia. She was started on antibiotics and steroids, and her symptoms gradually improved with treatment. 
+
+The patient remained hemodynamically stable throughout her hospital stay. Spirometry indicated a decrease in lung function compared to previous results one year ago. Due to her repeated admissions for COPD exacerbations, a referral to a pulmonary specialist at [B-ORGANIZATION]Metropolitan Pulmonary Clinic[O] was made for further evaluation and management.
+
+**Discharge Medications:**  
+1. Azithromycin 500 mg, Oral, daily for 3 days  
+2. Prednisone 40 mg, Oral, daily, taper over 14 days  
+3. Albuterol Inhaler, 2 puffs every 4 hours as needed for wheezing
+
+**Follow-up Appointments:**  
+1. Pulmonary clinic appointment on [B-DATE]09/05/2023[O] at 10:00 AM with Dr. [B-NAME]Helen Garcia[O], MD, [B-ORGANIZATION]Metropolitan Pulmonary Clinic[O]  
+2. Primary care follow-up on [B-DATE]09/12/2023[O] with Dr. [B-NAME]Susan Lee[O], MD, at [B-ADDRESS]145 Spring Street, Office 204, Springfield, MA 01103[O]  
+
+**Discharge Instructions:**  
+- Continue using oxygen at 2 liters per nasal cannula as previously set up at home.  
+- Complete the course of prescribed antibiotics and steroids as directed.  
+- Avoid exposure to smoke, fumes, or other respiratory irritants.
+- Engage in light exercise, such as walking, to help improve lung function and overall stamina.  
+- Drink plenty of fluids to help keep airways clear of mucus.  
+
+**Condition at Discharge:**  
+The patient is stable for discharge to home with home health care services arranged to assist with medication management and physical therapy.
+
+**Precautions:**  
+Monitor for symptoms of COPD exacerbation, such as increasing shortness of breath, chest tightness, or changes in sputum. Seek immediate medical attention if symptoms worsen or if she experiences fever or chills.
+
+**Discharge Attending:**  
+Dr. [B-NAME]Edward Miller[O], MD
+
+**Signature:**  
+[B-NAME]Edward Miller[O], MD  
+[B-DATE]08/22/2023[O], 2:00 PM  
+
+**Institution:**  
+[B-ORGANIZATION]Springfield General Hospital[O]
+
+**Conclusion:**  
+Mrs. [B-NAME]Thompson[O] has responded well to treatment during her hospital stay. Continued outpatient follow-up will be crucial in managing her COPD and monitoring for potential complications. Please instruct the patient to adhere to her discharge plan and medications strictly, and to keep her scheduled outpatient appointments.

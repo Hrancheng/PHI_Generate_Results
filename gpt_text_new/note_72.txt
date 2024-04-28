@@ -1,0 +1,62 @@
+**Metropolitan Hospital Discharge Summary**
+
+Patient Name: [B-NAME]Eleanor Martinez[O]  
+MRN: [B-ID]892345670[O]  
+DOB: [B-DATE]February 9, 1964[O]  
+Age: [B-AGE]59 years[O]  
+Date of Admission: [B-DATE]March 15, 2023[O]  
+Date of Discharge: [B-DATE]March 22, 2023[O]  
+Admitting Physician: Dr. [B-NAME]Harold Greene[O]  
+Attending Physician: Dr. [B-NAME]Harold Greene[O]  
+Consultants: Dr. [B-NAME]Lisa Raymond[O]  
+Specialty: Cardiology  
+Diagnosis: Acute Myocardial Infarction, Hypertension
+
+**Hospital Course:**
+[B-NAME]Eleanor Martinez[O]'s admission was through the Emergency Department at [B-ORGANIZATION]Metropolitan Hospital[O] after she experienced severe chest pain at home. Initial EKG demonstrated ST elevation in the anterior leads consistent with an acute anterior wall myocardial infarction. She underwent emergent cardiac catheterization by Dr. [B-NAME]Lisa Raymond[O], revealing severe triple vessel disease, and was successfully stented with a drug-eluting stent in the LAD artery. Post procedure, her course was complicated by transient acute kidney injury which resolved with IV hydration. She responded well to the treatment and was stabilized under the care of the cardiology team.
+
+**Medications on Discharge:**
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Lisinopril 10 mg daily
+4. Metoprolol 50 mg twice daily
+5. Atorvastatin 40 mg at bedtime
+
+**Allergies:**
+Penicillin - Rash
+
+**Discharge Instructions:**
+[B-NAME]Eleanor Martinez[O] is to follow a low-sodium diet, participate in a cardiac rehabilitation program, and monitor her blood pressure regularly. She is instructed to avoid heavy lifting and strenuous activity for at least 4 weeks. She will follow up with Dr. [B-NAME]Lisa Raymond[O] in one week at [B-ORGANIZATION]Metropolitan Cardiology Clinic[O], and with her primary care physician Dr. [B-NAME]Harold Greene[O] in two weeks.
+
+**Follow-up Contact Information:**
+Cardiology Clinic: [B-PHONE]555-123-4567[O]
+Primary Care Physician: [B-PHONE]555-987-6543[O]
+
+**Discharge Condition:**
+Stable, to be managed on outpatient basis.
+
+**Physical Exam:**
+General: Stable, alert, and oriented x3
+CV: Regular rate and rhythm, no murmurs
+Resp: Clear to auscultation bilaterally
+Abd: Soft, non-tender
+Ext: No edema
+
+**Pertinent Labs at Discharge:**
+- Troponin T peaked at 2.34 ng/mL
+- Creatinine returned to baseline of 1.0 mg/dL
+- LDL cholesterol 98 mg/dL
+
+**Imaging:**
+Chest X-ray post-procedure shows no acute pathology.
+
+**Other Instructions:**
+Patient was advised of the signs and symptoms of myocardial infarction and heart failure and instructed to seek immediate medical help if symptoms reoccur.
+
+**Confirmed By:**
+Dr. [B-NAME]Harold Greene[O], MD
+
+**Date and Time Signed:**
+[B-DATE]March 22, 2023[O], [B-DATE]11:00 AM[O]
+
+Please note, each visit or follow up carries the risk of unforeseen complications potentially requiring urgent attention.

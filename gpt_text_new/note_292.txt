@@ -1,0 +1,63 @@
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Evelyn Carter[O]  
+MRN#: [B-ID]562314908[O]  
+[B-AGE]68 years old[O]  
+Admission Date: [B-DATE]3/15/2023[O]  
+Discharge Date: [B-DATE]3/22/2023[O]  
+Admitting Provider: Dr. [B-NAME]Harris Stone[O]  
+Discharge Provider: Dr. [B-NAME]Julia Mendez[O]  
+[B-ORGANIZATION]Central City Medical Center[O]  
+
+**Hospital Problems Noted - Resolved POA Active Problems**  
+1. Acute myocardial infarction ([B-DATE]3/15/2023[O] - Present)  
+2. Hypertension ([B-DATE]3/15/2023[O] - [B-DATE]3/22/2023[O])  
+
+**Hospital Course:**  
+Mrs. [B-NAME]Carter[O] was admitted following a sudden episode of chest pain while at home. On admission, her electrocardiogram showed ST-segment elevation in the anterior leads, confirmed as a myocardial infarction. Emergency angioplasty was performed, revealing a blockage in the left anterior descending artery, which was successfully stented. Post-procedure, she was started on dual antiplatelet therapy and monitored closely for complications. Her recovery was uneventful, and she participated actively in cardiac rehabilitation sessions. Blood pressure was managed with adjusted hypertensive medication achieving stable control.
+
+**Operations/Major Procedures:**  
+Procedure: Percutaneous Coronary Intervention  
+Surgeon: [B-NAME]Dr. Leonard Krish[O]  
+Date: [B-DATE]3/15/2023[O]  
+Location: Cardiac Cath Lab, [B-ORGANIZATION]Central City Medical Center[O]  
+Status: Completed
+
+**Lab Results at Discharge:**  
+- Troponin peak: 14 ng/mL ([B-DATE]3/15/2023[O])  
+- HS CRP: 2 mg/L ([B-DATE]3/22/2023[O])  
+- Lipid Profile: LDL 105 mg/dL, HDL 40 mg/dL ([B-DATE]3/18/2023[O])
+
+**Medications at Discharge:**  
+- Aspirin 81 mg daily  
+- Atorvastatin 80 mg nightly  
+- Metoprolol 25 mg twice daily  
+- Lisinopril 10 mg daily  
+
+**Follow-Up Care:**  
+1. Cardiology follow-up with Dr. [B-NAME]Julia Mendez[O] in one week ([B-DATE]3/29/2023[O]), [B-ORGANIZATION]Central City Heart Clinic[O].  
+2. Continue cardiac rehabilitation sessions twice a week at [B-LOCATION]Healthcare Rehabilitation Services Suite 200[O].  
+3. Check blood pressure daily; report readings higher than 140/90 mmHg to primary care provider or cardiologist.  
+4. Review medication adherence in follow-up visits.
+
+**Discharge Instructions:**  
+Mrs. [B-NAME]Carter[O] is advised to avoid heavy lifting and strenuous activity for the next 2 weeks. She should follow a heart-healthy diet, as discussed with the dietitian, and gradually increase daily activities as tolerated. It's imperative to adhere to the prescribed medication regimen and attend all scheduled follow-up appointments.
+
+**Next of Kin:**  
+Name: [B-NAME]Michael Carter[O] (husband)  
+Contact: In file  
+
+**Next Steps:**
+- If symptoms such as chest pain, breathlessness, or palpitations occur, seek immediate medical attention.
+- Follow up with primary care physician within one week post discharge for blood pressure management and medication review.
+
+**Discharge Condition:**  
+Stable  
+**Home or Self Care:**  
+Home with family support  
+
+*Document Prepared by:*  
+[B-NAME]Nancy Fields[O], RN  
+Date/Time: [B-DATE]3/22/2023[O], 4:00 PM  
+
+Additional notes for continuity of care and medication adjustments have been communicated electronically to [B-NAME]Dr. Julia Mendez[O] and [B-NAME]Michael Carter[O]. Secure discharge summary access has been provided.

@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Michael Thompson[O]  
+**Medical Record Number**: [B-ID]578349603[O]  
+**Age**: [B-AGE]54 years old[O]  
+**Admission Date**: [B-DATE]August 21, 2023[O]  
+**Discharge Date**: [B-DATE]September 14, 2023[O]  
+**Attending Physician**: Dr. [B-NAME]Elaine Richards[O]  
+**Hospital Service**: General Medicine/Cardiology   
+**Admission Diagnosis**: Acute Myocardial Infarction   
+**Discharge Diagnosis**:
+1. Acute Myocardial Infarction [B-DATE]8/21/2023[O]
+2. Hypertension
+
+**Hospital Course**:
+[B-NAME]Michael Thompson[O] was admitted following a myocardial infarction confirmed by elevated cardiac enzymes and characteristic ECG changes. Initial management included IV thrombolysis followed by angiography performed on [B-DATE]August 22, 2023[O], revealing two obstructed coronary arteries. Percutaneous coronary intervention (PCI) was successfully performed.
+
+During hospitalization, patient's blood pressure was elevated, necessitating optimization of antihypertensive therapy. He responded well to the adjusted regimen and reported a significant reduction in chest pain.
+
+Patient participated in early mobilization and dietary counseling aimed at reducing cardiovascular risks. A follow-up with cardiology has been scheduled to re-assess his condition and further calibrate his medications.
+
+**Medications on Discharge**:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg at bedtime
+3. Metoprolol 100 mg twice daily
+
+**Allergies**: No known drug allergies
+
+**Follow-Up Appointments**:
+1. Cardiology follow-up on [B-DATE]October 5, 2023[O] at [B-ORGANIZATION]City Hospital Cardiac Clinic[O]
+2. Primary care provider, [B-NAME]Dr. Susan Lee[O], appointment on [B-DATE]October 12, 2023[O] - it is essential that [B-NAME]Michael[O] maintains these appointments for comprehensive post-discharge care.
+
+**Diet/Nutritional Recommendations**:
+Heart-healthy diet recommended, including low cholesterol, low sodium, and rich in fruits and vegetables. Dietician consultation provided details.
+
+**Activity Recommendations**:
+Gradual increase in physical activity advised. Begin with short walks, gradually increasing the duration and intensity as tolerated.
+
+**Discharge Condition**:
+Stable, with understanding of medication regimen, follow-up appointments, and lifestyle modifications illustrated in educational sessions.
+
+**Signed**:
+[B-NAME]Dr. Elaine Richards[O], MD  
+[B-DATE]September 14, 2023[O], 11:00 AM  
+
+**Note**:
+Patient was educated about signs and symptoms of cardiac distress, and it has been emphasized that he should seek immediate care if symptoms reoccur. Education was provided on the necessity to adhere to a heart-healthy lifestyle, including smoking cessation and regular exercise.
+
+**Instructions for Care**:
+- Continue medication as prescribed without interruption
+- Attend all scheduled follow-up appointments
+- Monitor blood pressure and heart rate daily
+- Contact primary care provider if any new symptoms arise or existing symptoms worsen
+
+**Emergency Contact**:
+Name: [B-NAME]Laura Thompson[O] (Wife)
+Phone: [B-PHONE]555-783-9923[O]
+
+**Additional Notes**:
+Patient expressed his understanding of all discharge instructions and verbalized clarity regarding signs that would require immediate medical attention. Gave feedback about the positive care experience following established protocols and expressed gratitude to the medical and support staff.

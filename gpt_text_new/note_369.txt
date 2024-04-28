@@ -1,0 +1,75 @@
+**ABC University Hospital**
+
+**Discharge Summary**
+
+**Patient Name:** [B-NAME]Michael Thompson[O]
+
+**Medical Record Number:** [B-ID]987654321[O]
+
+**Admission Date:** [B-DATE]August 12, 2023[O]
+
+**Discharge Date:** [B-DATE]August 23, 2023[O]
+
+**Admitting Physician:** Dr. [B-NAME]Susan O'Malley[O]
+
+**Consulting Departments:** Cardiology, Nephrology 
+
+**Hospital Problems Noted - Resolved**
+
+Chronic Heart Failure - Aggravated ([B-DATE]August 13, 2023[O]) - Improved
+
+Acute Kidney Injury ([B-DATE]August 14, 2023[O]) - Resolved
+
+## Hospital Course:
+
+Mr. [B-NAME]Thompson[O], a [B-AGE]66-year-old[O] male with a history of chronic heart failure and type 2 diabetes mellitus, was admitted due to shortness of breath and elevated creatinine levels. On admission, his heart failure symptoms were aggravated, and he was found to have acute kidney injury. Treatment included IV diuretics for heart failure and fluid management tailored to improve his renal function. His condition stabilized over the course of his hospital stay, leading to an improvement in creatinine and reduction in dyspnea.
+
+## Procedures:
+
+1. Echocardiogram ([B-DATE]August 15, 2023[O]) - Showed reduced ejection fraction (35%).
+2. Renal Ultrasound ([B-DATE]August 16, 2023[O]) - Ruled out obstructions, confirmed bilateral renal reductions in size consistent with chronic changes.
+
+## Follow-Up Plans:
+
+1. Heart Failure Clinic, Outpatient follow-up with Dr. [B-NAME]Lisa Chang[O] on [B-DATE]September 3, 2023[O] at [B-ORGANIZATION]ABC University Heart Institute[O].
+2. Nephrology follow-up with Dr. [B-NAME]Johnathon Lee[O] in two weeks at the same facility.
+
+## Discharge Medications:
+
+1. Furosemide 40 mg orally twice daily.
+2. Metoprolol 25 mg orally twice daily.
+3. Lisinopril 20 mg orally once daily.
+4. Glipizide 10 mg orally each morning.
+
+## Diet and Lifestyle:
+
+Low-salt diet recommended, fluid restriction of 1.5 liters per day, and regular light exercise as tolerated.
+
+## LACE - Readmission Risk Score:
+
+Total Score: 10 (High)
+Contributing factors include the length of stay, high acuity of admission, and past medical history of comorbid conditions.
+
+## Important Contacts:
+
+Cardiology Clinic: [B-PHONE]555-123-4567[O]
+Nephrology Clinic: [B-PHONE]555-987-6543[O]
+
+## Summary:
+
+Mr. [B-NAME]Thompson[O] showed significant improvement in clinical status through targeted interventions for aggravation of heart failure and acute management of his kidney injury. Continued outpatient follow-up will be essential to monitor and adjust his therapy in a way that stabilizes his chronic conditions. Please call our clinics directly with any urgent concerns post-discharge.
+
+**Discharge Physician:** Dr. [B-NAME]Susan O'Malley[O], [B-DATE]August 23, 2023[O], 3:00 PM 
+
+**Last Recorded Vital Signs:**
+- BP: 132/86 mmHg
+- Pulse: 78 bpm
+- Temp: 98.6 °F
+- Resp: 16/min
+- SpO2: 96% on room air
+
+**[B-ORGANIZATION]ABC University Hospital[O]**
+
+---
+
+This synthetic discharge summary includes labeled annotations such as personal names, dates, medical record numbers (ID), and phone numbers, providing a template for privacy-compliant documentation in medical records.

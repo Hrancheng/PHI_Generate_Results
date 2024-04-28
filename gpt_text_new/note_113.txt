@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Emily Thompson[O]  
+MRN: [B-ID]558721242[O]  
+Age: [B-AGE]68 years old[O]  
+Admission Date: [B-DATE]September 10, 2023[O]  
+Discharge Date: [B-DATE]September 20, 2023[O]  
+Attending Physician: Dr. [B-NAME]Alan Rickman[O]  
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] was admitted with symptoms of chest pain and shortness of breath. Her medical history includes hypertension and chronic kidney disease. During her stay, she underwent a coronary angiography which revealed two blocked coronary arteries. A successful double bypass surgery was performed on [B-DATE]September 12, 2023[O]. Her postoperative period was complicated by a transient ischemic attack (TIA) for which she was treated and monitored intensively. She showed signs of improvement and stable vital signs across the subsequent days.
+
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Lisinopril 20 mg once daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice daily
+
+**Follow-up Appointments:**
+1. Cardiology follow-up with Dr. [B-NAME]Susan O'Malley[O] on [B-DATE]October 5, 2023[O] at [B-ORGANIZATION]City Hospital Heart Center[O].
+2. General Practitioner, Dr. [B-NAME]Robert Frost[O], on [B-DATE]October 15, 2023[O] for blood pressure and kidney function monitoring.
+
+**Instructions for Patient:**
+- Continue medications as prescribed.
+- Maintain a low-sodium, heart-healthy diet as discussed with the dietician.
+- Engage in light physical activity such as walking, gradually increase as tolerated.
+- Monitor blood pressure daily.
+- Contact healthcare provider if experiencing chest pain, breathing difficulties, or any new symptoms.
+
+**Discharge Diagnostics:**
+- Echocardiogram on [B-DATE]September 18, 2023[O] showed improved cardiac function with an ejection fraction of 45%.
+- Blood tests from [B-DATE]September 19, 2023[O] indicated stable renal function and satisfactory response to lipid-lowering therapy.
+
+**Social Work Consultation:**
+Discussed resources for home health aides and potential modifications for home cardiovascular rehabilitation support. Patient lives at [B-ADDRESS]486 West Elm Street, Springfield, IL[O]. Referred to local community support programs for patients recovering from heart surgery.
+
+**Code Status:**
+Full Code
+
+**Condition at Discharge:**
+Stable for discharge, alert and oriented x3, ambulatory with assistance.
+
+**Sign-off:**
+[B-NAME]Dr. Alan Rickman[O], MD  
+[B-DATE]September 20, 2023[O]  
+Time: 2:00 PM
+
+**Contacts for Concerns:**
+Main Line: [B-PHONE]555-123-9876[O]  
+Email for non-urgent inquiries: [B-CONTACT]info@cityhospital.org[O]
+
+---
+
+This synthetic discharge summary includes all necessary details and annotations as per the PHI de-identification annotation guidelines.

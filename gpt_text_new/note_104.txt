@@ -1,0 +1,49 @@
+**MetroHealth Hospital Discharge Summary**
+
+**Patient Name:** [B-NAME]Robert B. Willis[O]  
+**Medical Record Number:** [B-ID]568943201[O]  
+**Age:** [B-AGE]54 years old[O]  
+**Admission Date:** [B-DATE]October 13, 2023[O]  
+**Discharge Date:** [B-DATE]October 20, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Helen Grant[O]  
+**Admitting Diagnosis:** Acute Cholecystitis  
+**Discharge Diagnosis:** Acute Cholecystitis - Resolved  
+
+---
+
+### Hospital Course:
+
+Mr. [B-NAME]Willis[O] was admitted with severe right upper quadrant pain and fever. An ultrasound confirmed the presence of gallstones and signs of inflammation consistent with acute cholecystitis. He was started on IV antibiotics and fluids. His condition improved with medical management, and surgery was deemed unnecessary at this time. The patient tolerated the treatment well and symptoms resolved. 
+
+### Procedures:
+- Ultrasonography of the abdomen on [B-DATE]October 14, 2023[O]
+
+### Consultations:
+- General Surgery consult by Dr. [B-NAME]Amy Chen[O] on [B-DATE]October 15, 2023[O]
+- Gastroenterology consult by Dr. [B-NAME]Marcus Welby[O] on [B-DATE]October 16, 2023[O]
+
+### Lab/Diagnostic Work:
+- Complete blood count showing initial leukocytosis which normalized by day of discharge
+- Liver function tests were within normal limits
+
+### Medications at Discharge:
+- Amoxicillin 500 mg, taken orally three times a day for 7 days
+- Ibuprofen 400 mg, taken orally every 6 hours as needed for pain
+
+### Follow-Up:
+Follow-up with general surgery in 2 weeks to reassess the need for elective cholecystectomy.
+
+### Future Appointments:
+- [B-DATE]November 3, 2023[O] - Follow-up in general surgery clinic with Dr. [B-NAME]Amy Chen[O]
+- [B-DATE]November 10, 2023[O] - Follow-up in gastroenterology clinic with Dr. [B-NAME]Marcus Welby[O]
+
+### Discharge Instructions:
+Patient is advised to maintain a low-fat diet and monitor for recurrence of symptoms. Should fever, jaundice, or abdominal pain recur, he is to seek immediate medical attention or return to the emergency department. Continue to take all medications as prescribed.
+
+### Summary:
+Mr. [B-NAME]Willis[O] responded well to conservative management for his acute cholecystitis, and no surgical intervention was required at this time. He is stable for discharge with outpatient follow-up arranged. 
+
+**Prepared by:** [B-NAME]Melissa Carter[O], MD  
+**Date/Time:** [B-DATE]October 20, 2023[O], 4:00 PM
+
+[END OF DISCHARGE SUMMARY]

@@ -1,0 +1,62 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Emily Thompson[O]
+**MRN#:** [B-ID]558742312[O]
+**Age:** [B-AGE]68 y.o.[O]
+**Admission Date:** [B-DATE]09/15/2023[O]
+**Discharge Date:** [B-DATE]09/25/2023[O]
+**Admitting Physician:** Dr. [B-NAME]Alan Rickman[O]
+
+---
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] presented to the emergency department on [B-DATE]09/15/2023[O] with symptoms of acute chest pain and shortness of breath. She was admitted under the care of cardiology due to suspected myocardial infarction. Cardiac catheterization performed on [B-DATE]09/16/2023[O] revealed two blocked coronary arteries. Angioplasty and stenting were successfully performed.
+
+Post-procedure, [B-NAME]Emily[O] was managed for pain control and observed for any signs of reinfarction or complications. She responded well to the treatment with noted improvement in cardiac function. Her hospital stay was complicated by a transient ischemic attack on [B-DATE]09/20/2023[O], which resolved without residual deficits after the adjustment of her anticoagulation therapy.
+
+---
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Rosuvastatin 20 mg at night
+- Metoprolol 50 mg twice daily
+- Clopidogrel 75 mg daily for 3 months
+
+---
+
+**Follow-Up Appointments:**
+1. Cardiology follow-up with Dr. [B-NAME]Susan O’Neill[O] at [B-ORGANIZATION]Heart Health Specialists[O] on [B-DATE]10/05/2023[O].
+2. Primary care appointment with Dr. [B-NAME]Gregory House[O] on [B-DATE]10/10/2023[O].
+
+---
+
+**Instructions:**
+- Continue medications as prescribed.
+- Monitor blood pressure and heart rate twice daily.
+- Report any symptoms of chest pain, shortness of breath, or dizziness immediately.
+- Maintain a low-sodium diet and engage in light exercise such as walking.
+
+---
+
+**Labs to be Drawn:**
+Next blood work including CBC, lipid profile, and liver function tests scheduled for [B-DATE]10/04/2023[O] at [B-ORGANIZATION]Diagnostic Labs Inc.[O].
+
+---
+
+**Discharge Status:**
+[B-NAME]Emily Thompson[O] is being discharged to her home with home health services arranged to assist with medication management and physical therapy. She has shown good understanding of her discharge instructions and follow-up care. She is ambulatory and in stable condition.
+
+**Discharge Nurse:** [B-NAME]Nancy Drew[O], RN
+**Discharge Time:** [B-DATE]09/25/2023[O], 2:00 PM
+
+---
+
+This discharge summary documents the hospitalization from [B-DATE]09/15/2023[O] to [B-DATE]09/25/2023[O] for [B-NAME]Emily Thompson[O], and has been communicated to her primary care provider, Dr. [B-NAME]Gregory House[O]. The patient and her family expressed gratitude for the care provided and felt well-prepared for home care.
+
+Signed,
+Dr. [B-NAME]Alan Rickman[O]
+[B-DATE]09/25/2023[O], 3:00 PM
+
+---
+
+**Please Note:** For any emergency concerns post-discharge, the patient is advised to contact [B-ORGANIZATION]Heart Health Emergency Services[O] or dial 911. For non-urgent questions, the patient may reach the nursing station at [B-PHONE]555-123-4567[O].

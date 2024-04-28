@@ -1,0 +1,52 @@
+**[B-ORGANIZATION]Greenwich Hospital[O] Inpatient Discharge Summary**
+
+**Patient Information:**
+- **Name:** [B-NAME]Harold Trent[O]
+- **MRN:** [B-ID]987654321[O]
+- **Age:** [B-AGE]58 y.o.[O]
+- **Admission Date:** [B-DATE]3/15/2023[O]
+- **Discharge Date:** [B-DATE]3/25/2023[O]
+
+**Admitting Physician:** Dr. [B-NAME]Anna Lee[O]
+- **Attending Provider:** Dr. [B-NAME]Simon Gregory[O]
+- **Referring Physician:** Dr. [B-NAME]Evelyn Rhodes[O] from [B-ORGANIZATION]Westchester Medical Group[O]
+- **Primary Care Physician:** Dr. [B-NAME]Johnathon Meyers[O], [B-ADDRESS]1125 Lexington Ave, New York, NY 10075[O]
+
+**Hospital Problems Noted - Resolved and Active Problems:**
+- **Myocardial Infarction:** [B-DATE]3/16/2023[O] - Present
+- **Type II Diabetes Mellitus:** Controlled, Ongoing
+- **Hypertension:** Well-managed with medication adjustments during stay
+
+**Other Problems:**
+- Non-compliance with dietary restrictions noted initially but improved after dietary consultation.
+
+**Hospital Course: Brief Overview**
+Mr. [B-NAME]Harold Trent[O] was admitted following an episode of chest pain while at work. Upon initial evaluation, EKG and cardiac enzymes confirmed acute myocardial infarction. He underwent successful percutaneous coronary intervention (PCI) to the right coronary artery on [B-DATE]3/17/2023[O]. His hospital course was complicated by a transient episode of hypoglycemia likely secondary to his diabetes medications. Adjustments were made, and he remained stable throughout the remainder of his hospital stay. Cardiology and endocrinology were consulted and involved in his care. 
+
+**Diagnostic Studies During Stay:**
+- **Coronary Angiogram:** Revealed a 90% stenosis in the right coronary artery.
+- **Echocardiogram:** Showed preserved left ventricular ejection fraction with no significant valvular abnormalities.
+
+**Discharge Medications:**
+- **Aspirin 81 mg:** Daily
+- **Metoprolol 50 mg:** Twice daily
+- **Atorvastatin 40 mg:** Nightly
+- **Empagliflozin 10 mg:** Daily
+
+**Outpatient Follow-Up:**
+- **Cardiology:** Follow up with Dr. [B-NAME]Simon Gregory[O] at [B-ORGANIZATION]Greenwich Heart Clinic[O] on [B-DATE]4/1/2023[O]
+- **Diabetes management:** Appointment with Dr. [B-NAME]Evelyn Rhodes[O] on [B-DATE]4/8/2023[O]
+- **Primary Care:** Dr. [B-NAME]Johnathon Meyers[O] on [B-DATE]4/15/2023[O] for medication review and general health check-up
+
+**Discharge Instructions:**
+- **Activity:** Gradual increase in light walking, avoid heavy lifting for 4-6 weeks.
+- **Diet:** Follow diabetic diet, low in saturated fats and cholesterol, rich in fruits and vegetables.
+- **Symptoms to watch for:** Chest pain, shortness of breath, extreme fatigue, or hypoglycemic episodes.
+
+**Additional Notes:**
+Patient educated on signs of cardiac distress and hypoglycemia. Understood and verbalized understanding of discharge instructions. Patient is to continue smoking cessation and participate in a cardiac rehabilitation program recommended by the treating cardiologist.
+
+**Signed:**
+Dr. [B-NAME]Anna Lee[O], MD
+Date: [B-DATE]3/25/2023[O]
+Time: 2:00 PM

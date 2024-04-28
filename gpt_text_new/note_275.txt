@@ -1,0 +1,79 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Helen Cahill[O], MRN# [B-ID]712345678[O],** is a [B-AGE]68 y.o.[O] female, admitted to the General Medicine service for management of exacerbation of chronic obstructive pulmonary disease (COPD). 
+
+**Admission Date:** [B-DATE]2/15/2023[O]  
+**Discharge Date:** [B-DATE]2/25/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Mason Roberts[O]  
+**Treatment Team:** Nurse [B-NAME]Sarah Jennings[O], Respiratory Therapist [B-NAME]Kyle Bronson[O]  
+
+**Hospital Problems Noted - Resolved**
+
+- COPD exacerbation [B-DATE]2/15/2023[O] - Present Yes 
+- Hypertension [B-DATE]2/15/2023[O] - Present Yes 
+- Diabetes Type II [B-DATE]2/15/2023[O] - Present Yes 
+
+**Resolved Problems**
+
+RESOLVED: Lower respiratory infection [B-DATE]2/15/2023[O] - [B-DATE]2/25/2023[O] Yes  
+RESOLVED: Electrolyte imbalance [B-DATE]2/17/2023[O] - [B-DATE]2/19/2023[O] Yes  
+
+**Other Problems**
+
+None
+
+**Recommendations for Follow Up:**
+
+General follow up for COPD and routine diabetes management.  
+
+To Do's for Referring / Subspecialty Provider(s):
+
+Pulmonary: Follow up appointment on [B-DATE]3/5/2023[O].  
+Endocrinology: Follow up scheduled for [B-DATE]3/10/2023[O].  
+Cardiology: Check-up as needed, Echocardiogram scheduled for [B-DATE]3/15/2023[O].
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+
+Contact information for follow-up Phys, Self-Refer Or No Pcp/Referring: [B-ORGANIZATION]Community Health Clinic[O]  
+[B-PHONE]555-123-4567[O]  
+
+Next Steps:
+
+Follow up Instructions: Home oxygen therapy to be continued. Spirometer use coached and to be used thrice daily. Medication regimen adjusted and patient counseled on adherence.
+
+**Future Appointments:**
+
+[B-DATE]3/5/2023[O] 10:30 AM [B-NAME]Laura Gibson[O], NP PULM-TC LA PULM  
+[B-DATE]3/10/2023[O] 9:00 AM END DIAB TC DIAB-C END  
+[B-DATE]3/15/2023[O] 11:00 AM CARD SURG MA CARD-CO CARD
+
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**
+
+[B-AGE]68-year-old[O] female presented with an acute exacerbation of COPD on [B-DATE]2/15/2023[O] due to non-compliance with medication regimen. On arrival, severe dyspnea and use of accessory muscles noted. Saturations improved with bipap and nebulizations. 
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+
+Mrs. [B-NAME]Cahill[O] was admitted under the General Medicine service and transferred to the respiratory unit for close monitoring due to acute COPD exacerbation. Intravenous steroids and antibiotics were administered, with a favorable response observed, and transition to oral medications completed successfully by day 5. Diuresis was managed for minor pedal edema believed to be related to heart strain from chronic lung disease.
+
+Patient responded well to treatment with marked improvement in breath sounds and reduction in wheeze; however, moderate use of accessory muscles persisted, showing a need for ongoing outpatient pulmonary rehabilitation. 
+
+**Discharge Medication List:**
+
+New Medications:
+- Prednisone 20 mg tablet Refills: 0  
+- Azithromycin 250 mg tablet Refills: 0  
+- Albuterol Inhaler, 90 mcg per actuation, 1-2 puffs every 4 hours as needed  
+- Spiriva 18 mcg inhalation capsule, use one capsule inhaled daily  
+
+**Last Recorded Vital Signs:**
+
+BP 128/82 mmHg | Pulse 88 | Temp 37.0 °C (98.6 °F) | Resp 18 | SpO2 92% on 2 liters O2 via nasal cannula | BMI 32.1 kg/m²
+
+**Pertinent Discharge Physical Exam Findings:**
+
+General appearance: Improved respiratory effort, no apparent distress at rest  
+Lungs: Decreased wheezing, clear to auscultation post-treatment  
+Heart: Regular rate and rhythm, no murmurs  
+Abdomen: Soft, non-tender  
+Extremities: No edema noted
+

@@ -1,0 +1,47 @@
+Inpatient Discharge Summary
+
+**Patient Information:**
+- Name: [B-NAME]Emily Thompson[O] 
+- MRN#: [B-ID]987654321[O]
+- Age: [B-AGE]68 years old[O]
+- [B-DATE]Admission Date: 5/12/2023[O]
+- [B-DATE]Discharge Date: 5/28/2023[O]
+- Attending Physician: Dr. [B-NAME]David Clarkson[O]
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] was admitted to [B-ORGANIZATION]New City Medical Center[O] following a fall in her home located at [B-ADDRESS]123 Oak Street, Springfield, IL[O]. Initial assessment showed a fractured right hip. She underwent successful hip replacement surgery on [B-DATE]5/13/2023[O]. Post-operatively, the patient was managed for pain and started on physical therapy. She responded well to treatment without any significant complications.
+
+During her stay, [B-NAME]Emily[O] developed mild urinary tract infection, which was treated effectively with antibiotics. She continued to make significant progress in mobility and her pain was adequately managed with medication.
+
+**Medications at Discharge:**
+- Acetaminophen 650 mg every 6 hours as needed for pain.
+- Ciprofloxacin 250 mg twice daily for 7 days.
+
+**Follow-up:**
+- [B-NAME]Emily[O] is to follow up with her primary care physician, Dr. [B-NAME]Sarah Lee[O], within one week post-discharge.
+- A follow-up visit with the orthopedic team scheduled for [B-DATE]6/12/2023[O] at [B-ORGANIZATION]New City Orthopedics[O].
+
+**Instructions:**
+- Continue using walker or crutches as advised by physical therapy.
+- Monitor the surgical site for signs of infection or increased pain.
+- Ensure continuation of antibiotics until the course is completed.
+- Keep hydrated and maintain a balanced diet to support recovery.
+
+**Discharge Condition:**
+- [B-NAME]Emily Thompson[O] is discharged in stable condition with significant improvement in mobility. She is able to perform daily activities with minimal assistance and reported being pain-free at discharge.
+
+**Prepared by:**
+- Dr. [B-NAME]Aaron Goldman[O], MD
+- Date: [B-DATE]5/28/2023[O]
+- Time: 1400 hours
+
+**Instructions for any complications:**
+- Contact [B-ORGANIZATION]New City Medical Center[O] at [B-PHONE]555-123-4567[O] or return to the emergency department.
+
+**Signature:**
+[Digital Signature of Dr. [B-NAME]Aaron Goldman[O]]
+
+**Hospital Service Provider:**
+- [B-ORGANIZATION]New City Medical Center[O], [B-ADDRESS]456 Elm Road, Springfield, IL, 62704[O]
+
+This summary provides a detailed overview of [B-NAME]Emily Thompson's[O] hospital course, treatments received, current status at discharge, and plans for follow-up care, ensuring continuity of care post-discharge.

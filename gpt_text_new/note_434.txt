@@ -1,0 +1,46 @@
+**University Medical Center Hospital Discharge Summary**
+
+**Patient**: [B-NAME]Micheal B. Thompson[O]  
+**MRN**: [B-ID]458962310[O]  
+**Age**: [B-AGE]54 y.o.[O]  
+**Admission Date**: [B-DATE]2/15/2023[O]  
+**Discharge Date**: [B-DATE]2/25/2023[O]  
+**Admitting Physician**: Dr. [B-NAME]Helen Fisher[O]  
+**Primary Care Physician**: Dr. [B-NAME]Richard Kimble[O]  
+**Referring Physician**: Dr. [B-NAME]John Carter[O]  
+
+**Hospital Problems Noted - Resolved POA Active Problems**  
+1. Acute myocardial infarction (AMI) [B-DATE]2/15/2023[O] - Present Yes  
+2. Type II Diabetes Mellitus [B-DATE]2/16/2023[O] - Present Yes  
+
+**Hospital Course**:  
+Mr. [B-NAME]Thompson[O] was admitted following a severe chest pain episode while at work at [B-ORGANIZATION]Thompson & Sons Construction[O]. Upon presentation, ECG confirmed ST-elevation myocardial infarction (STEMI). Immediate cardiac catheterization was performed, and angioplasty plus stenting of the right coronary artery was successfully achieved without complications. The patient was then started on dual antiplatelet therapy and statins. Blood glucose levels were elevated upon admission, and an endocrinology consult recommended initiating insulin therapy.
+
+**Discharge Medications**:  
+1. Aspirin 81 mg daily  
+2. Metoprolol 50 mg twice daily  
+3. Atorvastatin 40 mg at bedtime  
+4. Insulin Glargine 40 units at bedtime  
+5. Insulin Lispro sliding scale before meals
+
+**Follow-Up Appointments**:  
+1. Cardiology follow-up with Dr. [B-NAME]Richard Kimble[O] on [B-DATE]3/1/2023[O] at [B-ORGANIZATION]Heart Care Associates Clinic[O]  
+2. Diabetes management with Dr. [B-NAME]Susan Que[O], Endocrinologist, on [B-DATE]3/5/2023[O] at [B-ORGANIZATION]University Medical Center Diabetes Clinic[O]  
+
+**Instructions**:  
+Patient is instructed to monitor his blood sugar levels four times a day using the glucometer provided. He is to adjust his insulin lispro according to the sliding scale provided. Mr. [B-NAME]Thompson[O] is also advised to follow a heart-healthy diet, engage in moderate-intensity exercise like walking for at least 30 minutes a day, and attend a cardiac rehabilitation program.
+
+**Discharge Condition**:  
+Mr. [B-NAME]Thompson[O] is stable with improved chest pain and controlled blood glucose levels. He understands his discharge instructions and has the necessary prescriptions and follow-up appointments scheduled. He has been advised to seek immediate medical attention if he experiences chest pain, excessive shortness of breath, or hypoglycemia.
+
+**LACE Score**:  
+Total Score 9: Length of Stay 3, Acute Admission 3, Comorbidity Score 2, ED Visits in the last 6 months 1.  
+Risk Level: Moderate 
+
+**Readmission Risk**:
+- 30-Day Readmission Rate: 7.9%
+- 30-Day Mortality Rate: 0.7%
+
+**Signed**: Dr. [B-NAME]Helen Fisher[O], [B-DATE]2/25/2023[O], 11:00 AM  
+**Contact Information for Queries**: [B-PHONE]555-312-4567[O]
+

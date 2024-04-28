@@ -1,0 +1,50 @@
+**Heart Failure and Transplant Service Inpatient Discharge Summary**
+
+**Personal Information:**  
+Patient: [B-NAME]Harold Finley[O]  
+MRN: [B-ID]987654321[O]  
+Age: [B-AGE]63 y.o.[O]  
+Admission Date: [B-DATE]9/15/2023[O]  
+Discharge Date: [B-DATE]9/22/2023[O]  
+Attending Provider: Dr. [B-NAME]Rebecca Morales[O]  
+
+**Admission Diagnosis:**  
+Acute decompensated heart failure, due to ischemic cardiomyopathy.
+
+**Hospital Course:**  
+Mr. [B-NAME]Harold Finley[O] was admitted with signs of acute heart failure exacerbation, characterized by dyspnea and bilateral pedal edema. Initial labs showed elevated BNP and compromised renal function. The patient was managed with IV diuretics and vasodilators, showing gradual improvement in symptoms and stabilization of kidney function. Cardiology was consulted and recommended optimization of heart failure medications.
+
+**Procedures Performed:**  
+- Echocardiogram [B-DATE]9/16/2023[O]: Showed reduced ejection fraction of 25%, severe LVH.
+- Cardiac Catheterization [B-DATE]9/18/2023[O]: Confirmed non-obstructive coronary arteries.
+
+**Discharge Medications:**  
+- Furosemide 40 mg twice daily  
+- Lisinopril 20 mg once daily  
+- Metoprolol tartrate 50 mg twice daily  
+- Spironolactone 25 mg once daily
+
+**Follow-Up Appointments:**  
+Cardiology clinic on [B-DATE]10/03/2023[O] with Dr. [B-NAME]Samantha Yee[O], [B-ORGANIZATION]Queens Heart Institute[O].  
+Primary care physician on [B-DATE]10/10/2023[O], [B-NAME]Dr. Leo Markham[O].
+
+**Last Recorded Vital Signs:**  
+- BP: 132/82  
+- HR: 78  
+- Temp: 98.6°F  
+- RR: 16  
+- SpO2: 94% on room air
+
+**Discharge Instructions:**
+Patient educated on low salt diet and fluid restriction of 1.5 liters per day. He is advised to weigh himself daily and report a weight gain of more than 3 pounds in a day or 5 pounds in a week. Patient is to continue outpatient cardiac rehabilitation.
+
+**Condition at Discharge:**
+Stable with improved heart failure symptoms. Patient and family verbalized understanding of discharge instructions and follow-up plan.
+
+**Discharge Summary Prepared By:**  
+[B-NAME]Nancy Gilmore[O], RN  
+
+**Approved By:**  
+Dr. [B-NAME]Rebecca Morales[O], [B-DATE]9/22/2023[O], [B-ORGANIZATION]Queens Heart Institute[O]  
+
+This summary has been read back to the patient and confirmed for accuracy. All questions were addressed, and the patient was discharged in a stable condition, capable of self-care with family support at home.

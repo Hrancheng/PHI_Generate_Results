@@ -1,0 +1,54 @@
+**Pulmonary Associates Medical Center**
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Elizabeth Thompson[O]
+
+**MRN:** [B-ID]678943210[O]
+
+**Age:** [B-AGE]54 years old[O]
+
+**Admission Date:** [B-DATE]08/13/2023[O]
+
+**Discharge Date:** [B-DATE]08/25/2023[O]
+
+**Discharge Diagnosis:**
+- Chronic Obstructive Pulmonary Disease (COPD) Exacerbation
+- Hypertension (HTN) [B-DATE]08/14/2023[O] - Present Yes
+- Type II Diabetes Mellitus (DM II) [B-DATE]08/14/2023[O] - Present Yes
+
+**Attending Physician:** Dr. [B-NAME]Helen Mirren[O]
+
+**Consultants:**
+- Endocrinology
+- Cardiology
+
+**Hospital Course:**
+Ms. [B-NAME]Thompson[O]'s admission followed an acute exacerbation of her COPD, characterized by elevated shortness of breath and wheezing. Initial management included administration of IV corticosteroids and nebulized bronchodilators, alongside supplemental oxygen therapy. Her respiratory status improved over the initial 48 hours.
+
+Cardiology was consulted due to patient's history of HTN and elevated BP readings upon admission. Adjustments were made to her antihypertensive medication regimen, which included [B-ORGANIZATION]Lisinopril[O] and [B-ORGANIZATION]Amlodipine[O]. Tighter glycemic control was achieved through modification of her insulin regimen by endocrinology, reflecting her concurrent DM II management.
+
+**Procedures Performed:**
+- Chest X-ray [B-DATE]08/14/2023[O]
+- Electrocardiogram (ECG) [B-DATE]08/15/2023[O]
+
+**Discharge Medications:**
+- COPD Maintenance: Salmeterol/Fluticasone inhaled twice daily
+- Hypertension: [B-ORGANIZATION]Lisinopril[O] 10 mg daily / [B-ORGANIZATION]Amlodipine[O] 5 mg daily
+- Diabetes: Insulin Aspart sliding scale
+
+**Disposition:** Home
+The patient was deemed stable for discharge with a markedly improved respiratory function and stable blood pressure and blood glucose levels. She will continue to use supplemental oxygen at home at 2 liters per minute as needed.
+
+**Follow-up Appointments:**
+- Pulmonary follow-up with Dr. [B-NAME]Michael O'Hara[O] on [B-DATE]08/30/2023[O] 
+- Endocrinologist Dr. [B-NAME]Laura Kim[O] on [B-DATE]09/05/2023[O]
+
+**Discharge Instructions:**
+Ms. [B-NAME]Thompson[O] is advised to avoid exposure to known irritants and to continue with a smoking cessation program. She should monitor her blood pressure and blood sugar levels daily. She is instructed to manage her insulin as discussed and to avoid skipping medications.
+
+**Future Considerations:**
+Continued monitoring of COPD and adherence to prescribed therapies will be essential to avoid hospital readmission. Patient has been provided with a peak flow meter to monitor her respiratory status effectively at home. Education reinforced on recognizing signs of COPD exacerbation.
+
+**Signed:** Dr. [B-NAME]Helen Mirren[O]
+**Date:** [B-DATE]08/25/2023[O]
+**Time:** 16:00 PM

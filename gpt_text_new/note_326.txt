@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Elizabeth Thompson[O], MRN# [B-ID]458996321[O], is a [B-AGE]68 y.o.[O] female, admitted to the Geriatric Medicine service following a fall at home. Admission Date: [B-DATE]1/14/2023[O] Discharge Date: [B-DATE]1/28/2023[O] Attending Provider: Dr. [B-NAME]Harry Freeman[O]
+
+**Hospital Problems Noted - Resolved**
+POA Active Problems:
+- Hip fracture (left) [B-DATE]1/14/2023[O] - Present Yes Resolved
+- Hypertension [B-DATE]1/14/2023[O] - Present Yes
+- Mild cognitive impairment [B-DATE]1/14/2023[O] - Present Yes
+
+**Hospital Course: Brief Overview**
+Ms. [B-NAME]Elizabeth Thompson[O] presented to the [B-ORGANIZATION]General Hospital[O] ED on [B-DATE]1/14/2023[O] after falling in her kitchen. She was diagnosed with a nondisplaced fracture of the left hip. The patient underwent surgical repair on [B-DATE]1/15/2023[O], which was successful without complications. Post-operatively, she participated actively in physical therapy and showed marked improvement in mobility. Her hypertension was managed with adjusted medication regimens, while her cognitive impairment was monitored closely, showing stable mild symptoms without further decline.
+
+**Discharge Medication List:**
+- Acetaminophen 500 mg tablet Refills: 0 [B-AGE]4 times daily[O]
+- Losartan 50 mg tablet Refills: 1 [B-AGE]once daily[O]
+- Donepezil 10 mg tablet Refills: 1 [B-AGE]once daily at bedtime[O]
+
+[B-ADDRESS]7842 Westwood Drive, Elmwood Park, IL 60707[O]
+Phone: [B-PHONE]312-555-0198[O]
+Next Steps: Follow up Instructions:
+- Follow-up appointment in [B-ORGANIZATION]Elmwood Senior Health Clinic[O] on [B-DATE]2/5/2023[O] at 11:00 AM with Dr. [B-NAME]Susan Choi[O], geriatrics.
+- Continue physical therapy at home to enhance mobility and prevent complications.
+- Return to the ED if experiencing increased pain, fever, or signs of infection at the surgery site.
+
+**Last Recorded Vital Signs:**
+BP 130/85 (BP Location: Right arm, BP: Patient position: Sitting, BP Cuff Information: Adult Large 33-43 cm) | Pulse 68 | Temp 37.1 °C (98.8 °F) | Resp 16 | Ht 1.62 m (5' 4") | Wt 72 kg (158 lb 7 oz) | SpO2 98% 
+
+**Pertinent Discharge Physical Exam Findings:**
+General Appearance: alert, appears stated age, no distress noted
+Head: Normocephalic, atraumatic
+Eyes: PERRLA
+Ears, Nose, Throat: No lesions, airways clear
+Neck: Supple, no cervical lymphadenopathy
+Chest/Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+Heart: Regular rate and rhythm, no murmurs
+Abdomen: Soft, non-tender; bowel sounds present in all quadrants; no organomegaly
+Extremities: Left hip with surgical dressing intact, mild ecchymosis around the site, no erythema or discharge; good range of motion on the right
+Neurologic: Alert and fully oriented to person, place, time, and situation
+Skin: Warm, dry, intact, no rashes
+
+**Discharge Instructions:**
+- Keep the surgical area clean and dry.
+- Manage pain using prescribed medications and notify your physician if pain escalates.
+- Monitor for any signs of infection including redness, discharge, or fevers.
+- Engage actively with home health aides and physical therapy to regain function.
+- A wearable alert device has been provided for immediate assistance in case of another fall.
+- Scheduled for outpatient follow-up in the next [B-DATE]two weeks[O].
+- If you have questions about your care, call [B-PHONE]312-555-0198[O].
+
+**Signed**, Dr. [B-NAME]Harry Freeman[O], MD, [B-DATE]1/28/2023[O], 4:30 PM.

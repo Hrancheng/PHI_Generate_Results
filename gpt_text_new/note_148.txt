@@ -1,0 +1,56 @@
+**Pulmonary Medicine Inpatient Discharge Summary**
+**[B-ORGANIZATION]General Hospital of Havenbrook[O]**
+
+**Patient Name:** [B-NAME]Erica Mullins[O]  
+**Medical Record Number:** [B-ID]958794578[O]  
+**Age:** [B-AGE]42 years[O]  
+**Admission Date:** [B-DATE]09/12/2023[O]  
+**Discharge Date:** [B-DATE]09/20/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Heather Stone[O]  
+**Treatment Team:** First Contact: RR34 Floor Calls - Pager [B-ID]178433[O]  
+**Hospital Problems Noted - Resolved:**
+POA Active Problems:  
+- Chronic obstructive pulmonary disease (COPD) exacerbation [B-DATE]09/12/2023[O] - Present Yes  
+- Pneumonia [B-DATE]09/14/2023[O] - Present Yes  
+**Resolved Problems:**  
+Status post bilateral lung transplant [B-DATE]09/15/2023[O] - [B-DATE]09/18/2023[O]  
+
+**Hospital Course:**
+Ms. [B-NAME]Erica Mullins[O] was admitted with a severe COPD exacerbation complicated by community-acquired pneumonia. She had a previous history of end-stage COPD and was listed for lung transplantation. During her hospital stay, a compatible donor was identified, and Ms. [B-NAME]Mullins[O] underwent successful bilateral lung transplantation on [B-DATE]09/15/2023[O]. Post-operative course was complicated by mild rejection on [B-DATE]09/17/2023[O], which was managed with increased immunosuppression. She responded well, with improvement in her pulmonary function tests by [B-DATE]09/19/2023[O].
+
+**Discharge Condition:** Stable  
+**Disposition:** Home  
+**LACE - Readmission Risk Score:** Total Score 10  
+Variables contributing to the score: Length of Stay 7, Acute Admission 3  
+**LACE Score Risk Level:** High  
+**Readmission Rate - 30 Day:** 14.7%  
+**Mortality Rate - 30 Day:** 2.5%  
+
+**Follow-Up Recommendations:**
+**Attention to Primary Care Provider:**  
+Monitor lung function, immunosuppression levels, and signs of infection.  
+**Appointments To Be Scheduled:**  
+- Pulmonology follow-up on [B-DATE]09/27/2023[O].  
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders:**  
+Complete blood count, immunosuppressive drug levels  
+**Instructions Given to Patient:**  
+Ms. [B-NAME]Mullins[O] is to manage pain using Acetaminophen as needed and instructed to monitor her temperature and report any signs of fever, unusual breathlessness, or pain around the surgical site.
+
+**Contact Information for Follow-Up:**  
+Phys, Self-Refer, or No PCP/Referring:  
+Next Steps: Follow up:  
+**[B-ORGANIZATION]Havenbrook Clinic[O]**  
+**[B-PHONE]552-998-6321[O]**  
+
+**Discharge Medications:**  
+- Tacrolimus 1 mg twice daily, no refills  
+- Prednisone 20 mg once daily, tapering dose, 30 tablet, 1 refill  
+- Mycophenolate mofetil 500 mg twice daily, no refills  
+- Acetaminophen 650 mg, Oral, EVERY 6 HOURS as needed for pain, 20 tablets  
+
+**Documentation:**  
+Signed: Dr. [B-NAME]Heather Stone[O], MD, [B-DATE]09/20/2023[O], 11:30 AM  
+**[B-ORGANIZATION]General Hospital of Havenbrook[O]**  
+
+This discharge summary has been communicated to the patient's designated caregiver and a copy has been sent to the patient's primary care provider, Dr. [B-NAME]Susan Malkovich[O]. All discharge instructions and necessary prescriptions have been provided to Ms. [B-NAME]Mullins[O]. All medications should be taken as directed. Ms. [B-NAME]Mullins[O] has demonstrated an understanding of all discharge instructions.

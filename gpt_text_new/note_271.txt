@@ -1,0 +1,66 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Maria Thomsen[O], MRN#: [B-ID]579348204[O]
+
+---
+
+**Admission Details:**
+- **Admission Date:** [B-DATE]July 14, 2023[O]
+- **Discharge Date:** [B-DATE]July 28, 2023[O]
+- **Attending Physician:** Dr. [B-NAME]Eliot Mercer[O]
+- **Admission Diagnosis:**
+   - COPD exacerbation
+   - Acute bronchitis
+
+**Hospital Course and Treatment:**
+[B-NAME]Maria Thomsen[O] was presented to [B-ORGANIZATION]Baxter Regional Medical Center[O] with complaints of increased shortness of breath and worsening cough. Initially managed in the ER with nebulized bronchodilators and subsequently admitted for further treatment and observation. During the stay, she received course of antibiotics IV Ceftriaxone, continued use of bronchodilators, and administered corticosteroids to manage inflammation. Her condition showed gradual improvement, and she was stepped down from IV to oral medications.
+
+PT was involved for respiratory therapy and ambulatory exercises. Her condition improved with the treatment, and she maintained stable oxygen saturation on room air at discharge.
+
+---
+
+**Discharge Medication:**
+1. Albuterol Inhaler — 2 puffs every 4 hours as needed
+2. Prednisone — 20 mg orally daily for the next 5 days
+3. Amoxicillin — 500 mg orally every 8 hours for 7 days
+
+**Allergies:**
+Penicillin - Rash
+
+**Discharge Instructions:**
+[B-NAME]Maria[O] is advised to avoid pollutants or activities that could aggravate her respiratory condition. She is scheduled for a follow-up appointment with her pulmonologist, Dr. [B-NAME]Emily Stanton[O], at [B-ORGANIZATION]Baxter Pulmonary Associates[O] on [B-DATE]August 5, 2023[O]. She has been advised to continue medications as prescribed and report to ER if she experiences worsening symptoms like increased shortness of breath or inability to perform daily activities.
+
+**Labs and Diagnostics:**
+1. Spirometry confirmed reduced FEV1, which improved from initial values after treatment.
+2. Chest X-ray on admission showed hyperinflated lungs with no acute findings.
+3. Blood gases showed mild hypoxemia, which normalized by discharge.
+
+**Consultations:**
+Nutrition and Respiratory Therapy.
+
+**Instructions for Continued Care:**
+[B-NAME]Maria[O] is advised to continue with outpatient pulmonary rehabilitation and follow her prescribed medication regime. She should monitor her peak flow and seek medical attention if her readings drop below the threshold indicated by her pulmonary specialist.
+
+**Follow-Up Appointments:**
+1. Pulmonary clinic at [B-ORGANIZATION]Baxter Pulmonary Associates[O] on [B-DATE]August 5, 2023[O] at [B-LOCATION]10:00 AM[O].
+2. General Practitioner, Dr. [B-NAME]Lana Rhodes[O], for a follow-up on general health status on [B-DATE]August 12, 2023[O].
+
+---
+
+**Discharge Status:**
+Patient discharged in stable condition with instructions to gradually resume normal activities as tolerated. Her understanding of discharge plan confirmed and verbalized understanding of medications and follow-up care.
+
+**Reported by:**
+Dr. [B-NAME]Eliot Mercer[O], MD
+[B-DATE]July 28, 2023[O], [B-DATE]3:00 PM[O]
+
+**Contact Information for Follow-ups:**
+- [B-ORGANIZATION]Baxter Pulmonary Associates[O] Phone: [B-PHONE]555-123-4567[O]
+- [B-ORGANIZATION]General Practice of [B-NAME]Lana Rhodes[O] Phone: [B-PHONE]555-987-6543[O]
+
+---
+
+**Final Review and Signature:**
+___
+Dr. [B-NAME]Eliot Mercer[O], MD
+July 28, 2023

@@ -1,0 +1,42 @@
+Inpatient Discharge Summary
+
+[B-NAME]Emily Thompson[O], MRN# [B-ID]359874123[O], is a [B-AGE]54-year-old[O] female, admitted to the Internal Medicine service for management of community-acquired pneumonia complicated by dehydration. Admission Date: [B-DATE]9/15/2023[O] Discharge Date: [B-DATE]9/22/2023[O] Attending Provider: Dr. [B-NAME]Jonathan Lockhart[O]
+
+Treatment Team: 
+- [B-NAME]Sarah Clarke[O], RN
+- [B-NAME]Oliver Bradshaw[O], MD
+
+Hospital Problems Noted - Resolved 
+- Community-acquired pneumonia [B-DATE]9/15/2023[O] - Present: Yes
+- Dehydration [B-DATE]9/16/2023[O] - [B-DATE]9/18/2023[O]: Yes, resolved
+
+Brief Hospital Course:
+[B-NAME]Emily Thompson[O] presented to the Emergency Department on [B-DATE]9/15/2023[O] with a two-day history of cough and high fever. She was found to have a right lower lobe pneumonia on chest X-ray and was admitted for intravenous antibiotics and fluids. Her initial oxygen saturation was 89% on room air, which improved to 97% with supplemental oxygen. She was stepped down to oral antibiotics on [B-DATE]9/18/2023[O] once her fever resolved and she was able to maintain oxygen saturation above 95% on room air. Hydration status improved with IV fluids, and she was transitioned to oral intake on [B-DATE]9/19/2023[O]. She tolerated a general diet well for the remainder of her stay, with no nausea or vomiting.
+
+Medications at discharge:
+- Azithromycin 500 mg, Oral, Once daily for 5 days
+- Paracetamol 650 mg, Oral, Every 6 hours as needed for fever or pain
+
+Discharge Condition: Stable. Patient is advised to complete her course of antibiotics, maintain adequate hydration, and follow up with her primary care provider, [B-NAME]Dr. Laura Kim[O], within one week post-discharge or sooner if symptoms recur or worsen.
+
+Instructions also include:
+- Seek immediate medical attention if experiencing difficulty breathing, persistent fever, or if unable to keep fluids down.
+
+Discharge Follow-Up:
+- Follow up appointment with [B-NAME]Dr. Laura Kim[O] scheduled for [B-DATE]9/29/2023[O] at [B-PHONE]555-987-4563[O]
+- Patient provided with written instructions regarding medication management and signs/symptoms necessitating urgent care.
+
+Follow-up Tests:
+- Repeat chest X-ray on [B-DATE]10/6/2023[O] to confirm resolution of pneumonia.
+
+Next Steps:
+- Patient to rest at home, gradually resume activities as tolerated, and increase fluid intake.
+- Scheduled for a follow-up phone call on [B-DATE]9/24/2023[O] by nurse [B-NAME]Emma Sutton[O] to assess recovery progress and address any immediate concerns.
+
+Unsigned:
+- By: [B-NAME]Jonathan Lockhart[O], MD, [B-DATE]9/22/2023[O], 4:30 PM
+
+Last Recorded Vital Signs:
+- BP: 130/80 mmHg | Pulse: 72 | Temp: 36.8 °C | Resp: 16 | SpO2: 97%
+
+Upon discharge, [B-NAME]Emily Thompson[O] expressed understanding of her treatment plan and follow-up appointments, verbalizing no further questions at this time. She was provided with discharge paperwork and prescriptions. Patient left the hospital in the care of her daughter [B-NAME]Megan Thompson[O].

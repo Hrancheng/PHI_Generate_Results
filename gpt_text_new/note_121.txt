@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+**[B-ORGANIZATION]New Hope Medical Center[O]**
+**Patient:** [B-NAME]Robert Thompson[O], MRN# [B-ID]987654321[O], is a [B-AGE]65 y.o.[O] male, admitted to the Cardiology service due to a myocardial infarction.
+
+**Admission Date:** [B-DATE]February 15, 2023[O]
+**Discharge Date:** [B-DATE]February 25, 2023[O]
+**Attending Provider:** Dr. [B-NAME]Samantha Lee[O]
+**Resident:** Dr. [B-NAME]Jonathan Price[O]
+
+**Consultations:**
+- Cardiology: Assess and manage MI
+- Nutrition: Consult for dietary management for cardiovascular health
+
+**Hospital Course:**
+Mr. [B-NAME]Thompson[O] was admitted following chest pain and confirmed myocardial infarction. Patient underwent cardiac catheterization showing triple vessel disease. He was managed with medical therapy, including dual antiplatelet therapy and high-intensity statin. 
+
+**Procedures:**
+- [B-DATE]February 16, 2023[O]: Coronary angioplasty with drug-eluting stent placement to the LAD artery by Dr. [B-NAME]Emily Watson[O].
+
+**Conditions at Discharge:**
+Patient's condition at discharge was stable with significant improvement in chest pain. He is advised to adhere to a low sodium, low fat diet, participate in a cardiac rehabilitation program, and follow closely with outpatient cardiology.
+
+**Medications at Discharge:**
+1. Aspirin 81 mg once daily indefinitely
+2. Atorvastatin 80 mg at bedtime
+3. Metoprolol 50 mg twice per day
+4. Lisinopril 10 mg once daily
+
+**Allergies:**
+Penicillin - Rash
+
+**LACE Score:** 7
+- Length of Stay: 10 days
+- Acuity of Admission: Non-emergent scheduled admission as confirmed ischemic conditions
+- Comorbidity Score: 2 (coronary artery disease, type II diabetes)
+- ED Visits: None in the last 6 months
+
+**Future Appointments:**
+- [B-DATE]March 1, 2023[O] at 10:00 AM - Follow-up with [B-NAME]Dr. Samantha Lee[O], Cardiology at [B-ORGANIZATION]New Hope Cardiac Clinic[O].
+  
+**Discharge Planning:**
+Patient educated on signs and symptoms of heart attack, when to seek immediate care, medication adherence, and lifestyle modifications. Discharge medications have been reconciled and a follow-up with primary care, and cardiology has been scheduled.
+
+**[B-NAME]Samantha Lee[O], M.D.**
+**Discharge Date:** [B-DATE]February 25, 2023[O]
+**Time:** 2:00 PM
+
+---
+
+In this discharge summary, all personally identifiable information (PII) has been labeled according to the provided annotation guidelines, ensuring compliance with privacy standards. This detailed summary provides a comprehensive report while prioritizing patient security and confidentiality.

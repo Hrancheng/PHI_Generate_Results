@@ -1,0 +1,54 @@
+**University Hospital Discharge Summary**
+
+**Patient:** [B-NAME]Emily Thompson[O], MRN# [B-ID]856342179[O], is a [B-AGE]58 y.o.[O] female.
+
+**Admission Date:** [B-DATE]January 12, 2023[O]  
+**Discharge Date:** [B-DATE]January 19, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Helen Zhao[O]  
+**Treatment Team Contact:** SA3 FLOOR CALLS - PAGER [B-ID]25748[O]
+
+**Hospital Problems Noted - Resolved**  
+- Anemia due to chronic blood loss [B-DATE]1/12/2023[O] - Present Yes  
+- Hypertension [B-DATE]1/12/2023[O] - Present Yes  
+- Resolved Issues:  
+  - UTI [B-DATE]1/12/2023[O] - [B-DATE]1/15/2023[O] Yes
+
+**Brief Hospital Course:**
+Ms. [B-NAME]Emily Thompson[O] was admitted following complaints of severe fatigue and intermittent headaches. Upon evaluation, hemoglobin levels were found to be low, indicative of anemia secondary to chronic blood loss, possibly gastrointestinal in nature. A gastroscopy confirmed the presence of multiple benign gastric ulcers. Patient was managed with IV iron supplementation and a PPI, and responded well to the treatment. Blood pressure was elevated upon admission and controlled through IV antihypertensives. UTI noted upon admission; treated with IV antibiotics and resolved.
+
+**Recommendations for Follow Up:**
+Attention to Primary Care Physician:
+- Continue iron supplements and PPI as prescribed.
+- Blood pressure monitoring and continuation of antihypertensive medication.
+- Re-evaluation of hemoglobin and iron levels in [B-DATE]two weeks[O].
+
+**Referrals:**
+- Gastroenterology for follow-up on gastric ulcers.
+- Cardiology for hypertension management.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+Contact information for follow-up,
+- Phys, Self-Refer Or No PCP/Referring 
+- Next Steps: Follow up with [B-ORGANIZATION]Community Clinics Inc.[O] [B-PHONE]555-798-4321[O]
+
+**Discharge Medications:**
+- Ferrous sulfate 325 mg tablet, Oral, THREE TIMES DAILY
+- Omeprazole 20 mg capsule, Oral, ONCE DAILY
+- Lisinopril 10 mg tablet, Oral, ONCE DAILY 
+
+**Home or Self Care:** 
+Patient discharged to home under the care of her daughter, [B-NAME]Sarah Thompson[O]. Written and verbal instructions provided regarding medication adherence, signs of worsening condition, and follow-up appointments.
+
+**Last Filed:** [B-DATE]January 20, 2023[O] at 0800 hrs
+
+**Discharge Condition:** Stable  
+**Disposition:** Home  
+**Code Status at Discharge:** Full Code
+
+**Next Steps:**
+- Follow up appointment with Primary Care within [B-DATE]5 days[O] 
+- Gastroenterology follow-up within [B-DATE]2 weeks[O]  
+- Cardiology review within [B-DATE]1 month[O]  
+
+**Signed:** Dr. [B-NAME]Helen Zhao[O], MD, [B-DATE]January 19, 2023[O], 5:00 PM
+

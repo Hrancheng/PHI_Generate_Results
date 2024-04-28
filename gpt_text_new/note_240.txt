@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Elizabeth Thompson[O], MRN# [B-ID]894756209[O], is a [B-AGE]68-year-old[O] female admitted for management of congestive heart failure.
+
+**Admission Date:** [B-DATE]6/18/2022[O]  
+**Discharge Date:** [B-DATE]6/24/2022[O]  
+**Attending Provider:** Dr. [B-NAME]Harold Jensen[O]  
+**Treatment Team:** Dr. [B-NAME]Alice Monroe[O], PA: [B-NAME]Samuel Harris[O]
+
+---
+
+### Hospital Problems Noted - Resolved
+**Hypertension [B-DATE]6/18/2022[O] - Present** Yes  
+**Congestive Heart Failure [B-DATE]6/18/2022[O] - Present** Yes  
+**Atrial Fibrillation [B-DATE]6/19/2022[O] - Present** Yes  
+**Diabetes Type 2 [B-DATE]6/19/2022[O] - Present** Yes  
+
+### Supervising Physician Comments:
+I have reviewed and concur with the details as described above. Signed by Dr. [B-NAME]Simon Forsyth[O] on [B-DATE]6/24/2022[O], at 4:00 PM. [B-ORGANIZATION]Community Regional Hospital[O]
+
+### Brief Hospital Course:
+Ms. [B-NAME]Thompson[O] presented to the hospital with symptoms of shortness of breath and fatigue. Initial assessment revealed an exacerbation of congestive heart failure, compounded by uncontrolled type 2 diabetes and atrial fibrillation. The patient was managed with IV diuretics, adjustment of her diabetes medication, and anticoagulation therapy. Throughout her stay, she showed gradual improvement in cardiac function and stabilization of blood sugar levels. The patient's condition improved with intervention, and she was cleared for discharge with outpatient follow-up.
+
+### Discharge Medication:
+- Furosemide 40 mg tablet, as directed, Take 1 tablet by oral route twice per day  
+- Metformin 1000 mg tablet, as directed, Take 1 tablet by oral route twice per day  
+- Warfarin 5 mg tablet, Refills: 3, INR monitoring per coumadin clinic  
+
+### Follow-Up Instructions:
+Ms. [B-NAME]Thompson[O] is to follow-up with her primary care physician, Dr. [B-NAME]Liam Neeson[O], next week on [B-DATE]7/1/2022[O] at [B-ORGANIZATION]Sunrise Medical Clinic[O]. Telephone: [B-PHONE]543-201-5768[O]. She should continue monitoring her blood pressure and blood sugar as discussed. 
+
+### Recommendations for Community Care:
+It is recommended that Ms. [B-NAME]Thompson[O] engages with a dietitian to aid in the management of her congestive heart failure and diabetes through dietary modifications. Dr. [B-NAME]Emily Stark, RD[O], will reach out to schedule an appointment within two weeks of discharge.
+
+### Other Reminders:
+- Continue daily weight monitoring  
+- Observe for signs of fluid overload or hypoglycemia  
+- Maintain scheduled doses of medications without skip
+
+### Discharge Vitals:
+BP 130/85 mmHg | Pulse 78 | SpO2 92% on room air
+
+---
+
+**[B-ORGANIZATION]Community Regional Hospital[O]**  
+**Discharge Coordinator:** [B-NAME]Sandra Littlefield[O], RN  
+**Date Prepared:** [B-DATE]6/24/2022[O]  
+**Time:** 5:15 PM
+
+This discharge summary provides a comprehensive overview of Ms. [B-NAME]Elizabeth Thompson's[O] hospital stay, with focus on interventions performed, progress noted, and plans for follow-up care necessary to support her transition back to community living.

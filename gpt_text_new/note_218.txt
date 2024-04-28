@@ -1,0 +1,63 @@
+Inpatient Discharge Summary
+-----------------------------
+[B-NAME]Robert Thompson[O], MRN# [B-ID]456879123[O], is a [B-AGE]58 y.o.[O] male, admitted to the Cardiology service for management of acute myocardial infarction and subsequent complications. 
+
+Admission Date: [B-DATE]8/12/2023[O]
+Discharge Date: [B-DATE]8/25/2023[O]
+
+Attending Provider: Dr. [B-NAME]Emily Stanton[O]
+
+Discharge Condition:
+The patient's condition has stabilized sufficiently to warrant discharge with follow-up in the cardiology clinic. All vital signs are within normal limits, and the patient is ambulatory and able to perform self-care tasks without significant distress.
+
+Hospital Course:
+Mr. [B-NAME]Thompson[O] presented with chest pain consistent with an acute myocardial infarction. Initial EKG confirmed ST-elevation MI. Emergency catheterization was performed, revealing two significant blockages in the left coronary artery. Stent placement was successful, and patient was started on dual antiplatelet therapy. Post-procedure, his recovery was complicated by a transient ischemic attack (TIA) with no residual deficits, managed with adjustment of his anticoagulant regime. Throughout his hospital stay, he also received cardiac rehabilitation therapy and education regarding lifestyle adjustments post-discharge. 
+
+Medications at Discharge:
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice daily
+
+Discharge Instructions:
+Patient is advised to avoid vigorous exercise and heavy lifting for at least one month. He should attend cardiac rehabilitation sessions thrice weekly and follow a heart-healthy diet strictly. Regular follow-ups in the cardiology clinic are scheduled, with the first appointment on [B-DATE]9/2/2023[O] at [B-ORGANIZATION]Mercy General Hospital's[O] Cardiology Department.
+
+It is emphasized that the patient must promptly report any symptoms of chest pain, shortness of breath, or excessive fatigue. Mr. [B-NAME]Thompson[O] is also advised to continue smoking cessation efforts and maintain a low-sodium, low-fat diet to manage his risk factors.
+
+Future Appointments:
+Date: [B-DATE]9/2/2023[O], Time: 10:00 AM, Provider: [B-NAME]Dr. Emily Stanton[O], Department: Cardiology, Center: [B-ORGANIZATION]Mercy General Hospital[O]
+
+Emergency Contact:
+Daughter: [B-NAME]Susan Thompson[O]
+Phone: [B-PHONE]555-987-6543[O]
+
+Next Steps:
+Follow up with primary care provider Dr. [B-NAME]Laura Beck[O] for blood pressure management and diabetes monitoring.
+
+Special Instructions:
+Patient is provided with a blood pressure cuff and instructed on daily monitoring. Results are to be recorded and brought to follow-up appointments.
+
+Discharge Medications:
+1. Lisinopril 20 mg daily
+2. Metformin 1000 mg twice daily
+3. Insulin Glargine 40 units at bedtime
+
+LACE - Readmission Risk Score: 12
+Total Score: 12
+Length of Stay: 13
+Acute Admission: 3
+Charleson Comorbidity Score: 4
+Criteria that do not apply: ED Visits in last 6 months
+
+LACE is a risk assessment tool to prospectively identify patients at risk for unplanned Readmission or Death within 30 days of discharge. Variables contributing to the score are Length of stay, Acuity of admission (emergent vs. non-emergent), Comorbidities (type & number of coexisting medical conditions), and number of Emergency department visits in the last 6 months.
+
+LACE Score Risk Level:
+Readmission Rate - 30 Day Mortality Rate - 30 Day
+1-4 Low 3.3% 0.1%
+5-9 Moderate 7.9% 0.7%
+10-12 High 14.7% 2.5%
+13-19 Highest 20.8% 5.8%
+
+Click here for more information.
+
+Signed: [B-NAME]Dr. Emily Stanton[O], [B-DATE]8/25/2023[O], 3:00 PM

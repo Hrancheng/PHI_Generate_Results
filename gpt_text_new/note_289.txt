@@ -1,0 +1,66 @@
+**Metropolitan Medical Center Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Elizabeth Mae Thompson[O]  
+**MRN**: [B-ID]874328943[O]  
+**Age**: [B-AGE]58 y.o.[O]  
+**Date of Admission**: [B-DATE]09/21/2023[O]  
+**Date of Discharge**: [B-DATE]09/29/2023[O]  
+**Attending Provider**: Dr. [B-NAME]Nathan O'Conner[O]  
+**Consulting Team**: Cardiology, Nephrology  
+**Hospital Service**: General Medicine  
+
+**DISCHARGE DIAGNOSES**  
+1. Acute decompensated heart failure  
+2. Worsening chronic kidney disease  
+3. Hypertension  
+4. Type 2 diabetes mellitus  
+
+**HOSPITAL COURSE**  
+Ms. [B-NAME]Thompson[O] was admitted with shortness of breath and pedal edema. Initial echocardiogram showed reduced ejection fraction (30%) suggesting systolic dysfunction. She was started on IV diuretics with good response. Her renal function initially worsened with creatinine peaking at 2.1 mg/dL but improved with optimized fluid management. Cardiology adjusted her heart failure regimen, adding spironolactone due to the presence of resistant hypertension and chronic hypokalemia.
+
+**PROCEDURES**  
+1. Echocardiogram on [B-DATE]09/22/2023[O]  
+2. Ultrasound-guided paracentesis on [B-DATE]09/25/2023[O]  
+
+**CONDITION AT DISCHARGE**  
+Ms. [B-NAME]Thompson[O] is stable with improved dyspnea. She understands her discharge instructions and the importance of fluid restriction and medication adherence.
+
+**MEDICATIONS AT DISCHARGE**  
+1. Spironolactone 25 mg daily  
+2. Furosemide 40 mg twice a day  
+3. Metoprolol 50 mg twice a day  
+4. Linagliptin 5 mg daily  
+5. Aspirin 81 mg daily  
+
+**FOLLOW-UP**  
+Follow-up appointment with [B-NAME]Dr. Sarah Lin[O] at [B-ORGANIZATION]Metropolitan Heart Clinic[O] on [B-DATE]10/05/2023[O].  
+Follow-up labs for renal function and electrolytes with [B-ORGANIZATION]City Labs[O] on [B-DATE]10/04/2023[O].  
+
+**ADDITIONAL INSTRUCTIONS**  
+1. Maintain a fluid restriction of 1500 mL/day.  
+2. Weigh yourself daily and record weights for your upcoming doctor’s visit.  
+3. Contact the clinic if experiencing worsening swelling, dyspnea, or weight gain of more than 2 lbs overnight.
+
+**DISCHARGE CONDITION**  
+Stable for discharge with outpatient follow-up. Instructed to return to the emergency department for symptoms of worsening heart failure or renal failure.
+
+**PRIMARY CARE PROVIDER**  
+[B-NAME]Dr. Gregory Yen[O] - [B-ORGANIZATION]Metropolitan Medical Associates[O]  
+
+**Discharge Time**: [B-DATE]09/29/2023, 11:00 AM[O]  
+**Discharge Signed by**: [B-NAME]Nathan O'Conner[O], MD, [B-DATE]09/29/2023[O], 11:15 AM
+
+**NURSES NOTES**  
+Patient educated by heart failure nurse specialist on diet and signs of fluid overload. Patient verbalized understanding and received written materials.  
+
+**COPY TO**:  
+1. [B-NAME]Dr. Sarah Lin[O]  
+2. [B-NAME]Dr. Gregory Yen[O]  
+3. [B-ORGANIZATION]Metropolitan Heart Clinic[O]
+
+**TELEPHONE CONTACT**:  
+Patient's home phone: [B-PHONE]303-555-7890[O]  
+Clinic phone: [B-PHONE]303-555-1234[O]
+
+______
+This synthetic medical discharge summary illustrates the structured and detailed way patient information and medical history are managed upon the conclusion of a hospital stay, utilizing PHI labels for sensitive information.

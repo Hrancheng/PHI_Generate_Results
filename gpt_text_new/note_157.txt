@@ -1,0 +1,58 @@
+**Inpatient Discharge Summary**
+
+Patient Information:  
+[B-NAME]Eleanor Rigby[O], MRN# [B-ID]824907253[O], [B-AGE]68-year-old[O] female, was admitted to the Cardiology service for management of worsening congestive heart failure. 
+
+Admission Date: [B-DATE]9/14/2023[O]  
+Discharge Date: [B-DATE]9/22/2023[O]  
+Attending Provider: Dr. [B-NAME]Alan Cooper[O]  
+Treatment Team: Cardiology  
+First Contact: Cardiology Team - Pager [B-ID]40235[O]  
+
+Hospital Problems Noted - Resolved or Active Problems:
+1. Congestive heart failure - [B-DATE]9/14/2023[O] - Present Yes
+2. Atrial fibrillation - [B-DATE]9/16/2023[O] - Present Yes
+
+Discharge Physician: Dr. [B-NAME]Julia Morris[O]  
+PCP: Dr. [B-NAME]Jeffrey Tennant[O], MD  
+
+Hospital Course: Brief Overview  
+[B-NAME]Eleanor Rigby[O] was admitted with shortness of breath and leg swelling. An echocardiogram revealed decreased ejection fraction, and she was found to be in atrial fibrillation with rapid ventricular response. Treatment was initiated with IV diuretics and rate control, which significantly improved her symptoms. Cardioversion was considered but deferred due to the patient’s spontaneous conversion to sinus rhythm by [B-DATE]9/18/2023[O].
+
+Discharge Medications:  
+**Lasix: 40 mg, Oral, TWICE DAILY**  
+**Metoprolol: 50 mg, Oral, TWICE DAILY**  
+
+Instructions at Discharge:  
+The patient was counseled to monitor her weight daily and restrict fluid and salt intake. She was prescribed a wearable cardioverter defibrillator until a follow-up with her cardiologist. Instructions were given to manage potential episodes of shortness of breath, and signs of fluid overload.
+
+Follow-Up Appointments:  
+1. [B-NAME]Dr. Jeffrey Tennant[O] on [B-DATE]10/1/2023[O] - Cardiology Clinic  
+2. Echocardiogram on [B-DATE]10/1/2023[O]  
+3. Heart Failure Nursing Clinic on [B-DATE]10/3/2023[O]  
+
+Special Instructions:  
+The patient should avoid any heavy lifting and take short walks 3 times a day to enhance her cardiovascular strength. She is to immediately report any symptoms of chest pain, worsening breathlessness, or excessive weight gain (more than 3 kg in 3 days).
+
+Vital Signs at Discharge:  
+BP 132/85 mmHg | Pulse 72 BPM | Temp 98.6 ˚F | SpO2 94% on room air  
+[B-ORGANIZATION]Crestwood Medical Center[O] has completed the discharge planning and follow-up telehealth links were provided to the patient to ensure continuous monitoring.
+
+Discharge Condition: Stable, with ongoing outpatient support planned. Patient and family (daughters [B-NAME]Marianne[O] and [B-NAME]Louise[O]) expressed understanding of the discharge plan and verbalized comprehension of medication side effects and whom to call in case of emergencies. 
+
+LACE - Readmission Risk Score (applies mainly to Cardiology patients)  
+**Total Score: 9 (Moderate risk of readmission)**  
+**Length of Stay: 8 days**  
+**Comorbidities: Multiple - accounted for in scoring**  
+**ED Visits in last 6 months: 1**  
+
+Readmission Risk Level: Moderate  
+Readmission Rate - 30 Day: 7.9%  
+Mortality Rate - 30 Day: 0.7% 
+
+For more information or changes in condition, patient or family should contact [B-ORGANIZATION]Crestwood Medical Center’s Cardiology Service[O] directly or through the secure patient portal. All patient education materials and discharge instructions provided and discussed in multiple languages. Patient departed with all necessary medications and equipment. 
+
+Discharge signed by:  
+[B-NAME]Julia Morris[O], MD, [B-DATE]9/22/2023[O], 2:30 PM
+
+[End of Discharge Summary]

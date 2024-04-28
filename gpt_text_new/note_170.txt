@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- Patient's Name: [B-NAME]Michael Thompson[O]
+- [B-AGE]42-year-old[O] [B-DATE]Male[O]
+- MRN: [B-ID]987654321[O]
+- Dates of Admission/Discharge: Admitted on [B-DATE]January 15, 2023[O], Discharged on [B-DATE]January 22, 2023[O]
+- Attending Physician: Dr. [B-NAME]Susan O'Malley[O]
+
+**Hospital Course:**
+[B-NAME]Michael[O] was admitted following complaints of severe abdominal pain and vomiting. He was diagnosed with acute pancreatitis. His hospital course was complicated by a transient hypotensive episode, which responded well to fluid resuscitation. Endoscopic retrograde cholangiopancreatography (ERCP) was performed by Dr. [B-NAME]Hannah Lee[O], which showed and addressed a bile duct obstruction. He remained afebrile throughout his stay with stable hemodynamics post-initial episode.
+
+**Procedures:**
+- ERCP with bile duct stone extraction on [B-DATE]January 17, 2023[O].
+- CT Abdomen and Pelvis performed on [B-DATE]January 16, 2023[O]: confirmed pancreatitis, no signs of malignancy or chronic changes.
+
+**Labs:**
+Notable labs included a peak lipase of 2500 U/L and normalized liver enzymes post-procedure.
+
+**Consults:**
+Gastroenterology: Dr. [B-NAME]Aaron Schmidt[O]
+Nutrition: Met with [B-NAME]Diane Rutherford[O], RD, to discuss low-fat diet post-discharge.
+
+**Medications on Discharge:**
+- Pancrelipase 40,000 units with meals
+- Paracetamol 500 mg every 6 hours as needed for pain
+- Omeprazole 20 mg daily
+
+**Follow-Up:**
+[B-NAME]Michael[O] is to follow-up with gastroenterologist, Dr. [B-NAME]Aaron Schmidt[O], on [B-DATE]February 5, 2023[O]. He has been instructed to call the office at [B-PHONE]555-1234-5680[O] if symptoms recur or worsen.
+
+**Final Diagnosis:**
+Acute pancreatitis likely secondary to bile duct stones - resolved.
+
+**Discharge Condition:**
+Stable, tolerating a regular diet, pain controlled on oral medications.
+
+**Instructions for Patient:**
+Advised to avoid alcohol and fatty meals. Encouraged to drink plenty of fluids and slowly advance diet as tolerated. Pain management guidelines provided. Signs of complications such as jaundice, worsening pain or vomiting were discussed, and [B-NAME]Michael[O] was advised to seek immediate medical attention if these occur.
+
+**Discharge Coordinator:**
+Contact [B-NAME]Jane Foster, RN[O] at [B-CONTACT]jfoster@hospital.org[O] for any questions regarding care plan, or to change follow-up appointments.
+
+**Signature:**
+Dr. [B-NAME]Susan O'Malley[O]
+Date: [B-DATE]January 22, 2023[O]
+Time: 14:40 PM
+
+This summary ensures all patient-identifying information is labeled according to the PHI de-identification guidelines and provides a clear overview of the patient's hospital stay and post-discharge plan.

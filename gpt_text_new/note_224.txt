@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+---
+**Patient Information:**
+- Patient: [B-NAME]Elizabeth Thompson[O]
+- MRN: [B-ID]37645-72839[O]
+- Age: [B-AGE]67 years[O] old
+- Admission Date: [B-DATE]November 15, 2023[O]
+- Discharge Date: [B-DATE]November 25, 2023[O]
+- Discharging Physician: Dr. [B-NAME]Harry Kim[O]
+
+**Hospital Course:**
+- [B-NAME]Elizabeth[O] was admitted to [B-ORGANIZATION]General Hospital[O] under General Medicine due to acute exacerbation of chronic heart failure and type II diabetes management. Her presenting symptoms included shortness of breath and elevated blood glucose levels.
+- During the stay, patient underwent diuresis and her heart failure symptoms improved significantly. Blood glucose levels were stabilized through insulin adjustments. She tolerated the medications without any significant adverse effects.
+- On [B-DATE]November 18, 2023[O], she underwent an echocardiogram which showed preserved ejection fraction and no new cardiac issues. 
+- By [B-DATE]November 24, 2023[O], her condition stabilized, and she was declared fit for discharge.
+
+**Medications at Discharge:**
+1. Furosemide 40 mg tablet - Take one tablet by mouth twice daily.
+2. Metformin 500 mg tablet - Take one tablet by mouth twice daily.
+3. Insulin Glargine 100 units/mL - Inject 20 units subcutaneously at bedtime.
+
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. [B-NAME]Susan Chang[O] on [B-DATE]December 5, 2023[O] at [B-ORGANIZATION]Heart Health Clinic[O].
+- Diabetes management follow-up with Dr. [B-NAME]Rajiv Patel[O] on [B-DATE]December 12, 2023[O] at [B-ORGANIZATION]Endocrine Associates[O].
+   
+**Discharge Instructions:**
+- Continue to monitor blood pressure and blood glucose levels at home.
+- Maintain a low salt diet and continue diabetes diet as instructed during hospital stay.
+- Contact healthcare provider if experiencing increased shortness of breath, chest pain, or if blood glucose levels are consistently above 180 mg/dL.
+
+**Summary:**
+- Overall, [B-NAME]Elizabeth[O] has shown improvement in heart function and diabetes management during her hospital stay. She will continue treatment and monitoring in an outpatient setting with her specialists. It is crucial for the patient to adhere to the treatment plan and follow up with her healthcare providers as scheduled.
+
+**Physician's Signature:**
+Dr. [B-NAME]Harry Kim[O], MD
+Date: [B-DATE]November 25, 2023[O] 4:00 PM
+  
+**Contact Information:**
+- For any urgent concerns, please contact [B-PHONE]555-123-9876[O].
+
+**Discharge Condition:**
+- Stable with instructions to observe symptoms closely and follow scheduled outpatient follow-ups.

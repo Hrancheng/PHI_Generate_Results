@@ -1,0 +1,57 @@
+**Inpatient Discharge Summary**  
+**Patient**: [B-NAME]Elena Rodriguez[O]  
+**Medical Record Number**: [B-ID]578903245[O]  
+**Age**: [B-AGE]68 years old[O]  
+**Admission Date**: [B-DATE]September 14, 2023[O]  
+**Discharge Date**: [B-DATE]September 28, 2023[O]  
+**Attending Physician**: Dr. [B-NAME]Harold Greene[O]  
+**Hospital Service**: Cardiology  
+**Discharge Diagnosis**:  
+1. Acute Myocardial Infarction (AMI) [B-DATE]September 14, 2023[O]  
+2. Hypertension  
+3. Hyperlipidemia  
+
+**Hospital Course**:  
+Mrs. [B-NAME]Rodriguez[O] was admitted after experiencing symptoms consistent with an acute myocardial infarction. Upon arrival, ECG abnormalities and elevated cardiac markers confirmed the diagnosis. She underwent emergent percutaneous coronary intervention (PCI) to her left anterior descending artery, which was successfully treated with a stent placement. Her recovery was stable, and she participated in daily cardiac rehabilitation sessions. She was managed for hypertension and hyperlipidemia with appropriate medical adjustments. There were no complications during her stay, and she progressively regained strength.
+
+**Medications at Discharge**:
+1. Aspirin 81 mg daily  
+2. Lipitor 40 mg nightly  
+3. Metoprolol 50 mg twice a day  
+4. Lisinopril 20 mg once a day  
+
+**Disposition**: Home  
+**Condition at Discharge**: Stable  
+**Instructions**: Patient is to continue with cardiac rehabilitation outpatient. She is advised to maintain a low-sodium, low-cholesterol diet, and continue medications as prescribed. She should monitor her blood pressure and weight daily, and report any symptoms of chest pain, difficulty breathing, or excessive fatigue to her healthcare provider immediately.
+
+**Follow-Up**:  
+1. Follow up appointment with her cardiologist, Dr. [B-NAME]Felicia Chang[O], on [B-DATE]October 5, 2023[O].  
+2. Repeat lipid panel due in [B-DATE]3 months[O].  
+3. Follow up with primary care physician, Dr. [B-NAME]Michael Anderson[O], in [B-DATE]2 weeks[O] to reassess blood pressure medications.
+
+**Pertinent Test Results**:
+- ECG on admission showed ST-segment elevation in the anterior leads.
+- Coronary angiography confirmed a 90% blockage in the left anterior descending artery, which was stented.
+- Post-procedural ECGs showed resolution of ST-segment elevations.
+
+**Readmission Risk**: Low - Patient is stable with good support at home, and clear follow-up instructions have been arranged.
+
+**Signed**:  
+Dr. [B-NAME]Harold Greene[O], [B-DATE]September 28, 2023[O], [B-ORGANIZATION]City General Hospital[O]
+
+[Phone: [B-PHONE]555-123-4567[O]]  
+
+**Facility**: [B-ORGANIZATION]City General Hospital[O], [B-ADDRESS]123 Health Ave, Springfield, ST 98765[O]  
+**Last recorded vital signs**:
+- Blood pressure: 132/82 mmHg
+- Pulse: 78 bpm
+- Temperature: 98.6 °F
+- Respiratory rate: 16 rpm
+
+**Lab results at discharge**:
+- Complete Blood Count: Within normal limits
+- Electrolytes: Within normal limits
+- Cardiac Enzymes: Returned to baseline
+- Lipid Profile: LDL 154 mg/dL (High), on treatment
+
+**End of Summary**

@@ -1,0 +1,64 @@
+**Highgate Regional Hospital Inpatient Discharge Summary**
+
+**Patient Information:**
+- Name: [B-NAME]Arthur Simmons[O]
+- MRN#: [B-ID]57298245[O]
+- [B-AGE]72 y.o.[O] [B-DATE]male[O], admitted to the Cardiology service for management of acute decompensated heart failure.
+- Admission Date: [B-DATE]February 5, 2023[O]
+- Discharge Date: [B-DATE]February 25, 2023[O]
+- Senior Attending Provider: Dr. [B-NAME]Helen Mirren[O]
+- Managing Provider at Discharge: Dr. [B-NAME]Jonas Whitaker[O]
+
+**Hospital Course:**
+**[B-NAME]Arthur Simmons[O]** was admitted following a period of increasing shortness of breath and decreased exercise tolerance. Initial evaluation showed elevated B-type natriuretic peptide levels and echocardiography confirmed exacerbation of previously diagnosed congestive heart failure. His hospital stay included titration of heart failure medication, diuresis, and monitoring for renal function. Adjustment was made to his chronic heart failure regimen including increasing the dose of his current ACE inhibitor and initiation of a beta-blocker.
+
+**Medically Significant Events:**
+- [B-DATE]February 7, 2023[O]: Echocardiogram shows reduced ejection fraction of 35%.
+- [B-DATE]February 9, 2023[O]: Developed transient acute kidney injury likely secondary to aggressive diuresis; managed with IV hydration and adjustment of medications.
+
+**Discharge Medications:**
+- Lisinopril 20 mg daily
+- Carvedilol 12.5 mg twice daily
+- Furosemide 40 mg daily
+- Potassium Chloride 20 mEq daily
+
+**Follow-Up Care:**
+- Outpatient follow-up with [B-NAME]Dr. Adam Sandler[O], MD, cardiology in two weeks at [B-ORGANIZATION]Highgate Regional Cardiology Clinic[O].
+- Outpatient lab work to monitor kidney function and electrolytes in one week. Lab order provided to patient, please report to [B-LOCATION]Highgate Hospital Laboratory[O] on [B-DATE]March 3, 2023[O].
+
+**Diet and Activity Instructions:**
+- General heart-healthy diet, restrict fluid to 1.5 liters per day.
+- Gradual increase in activity advised, tailored walking program to start, as tolerated, no more than 15 minutes twice daily.
+
+**Additional Instructions:**
+- Monitor weight daily. Report weight gain of 3 lbs or more in a single day to the cardiology team.
+- Adhere to low salt diet as discussed with hospital nutritionist.
+- [B-PHONE]Emergency contact: 555-0198[O] (Highgate Regional Hospital Cardiology Department)
+
+**Sign-off:**
+- Dr. [B-NAME]Helen Mirren[O], MD
+- Date Signed: [B-DATE]February 25, 2023[O], 8:00 AM
+
+I agree with the above note and plan which I have reviewed and edited where appropriate. All discharge information was discussed with the patient who verbalized understanding. Discharge instructions, warning signs, and follow-up were explained, and all questions were addressed.
+
+**Discharge Status:**
+- Condition at Discharge: Stable
+- Disposition: Discharged to home
+- Transportation: By family car
+- Companion: Spouse, [B-NAME]Marilyn Simmons[O]
+
+**Last Recorded Vital Signs:**
+- BP 128/82 | Pulse 78 | Temp 36.8 °C | RR 16 | O2 sat 95% on room air
+
+**Discharge Diagnostics:**
+- Discharge EKG: Normalsinus rhythm, no acute changes.
+- Final Labs: [B-DATE]February 24, 2023[O]: K+ 4.0, Na+ 137, Creatinine 1.2 mg/dL
+
+**Completeness of the Discharge Summary:**
+- All relevant medical information has been included. All discharge medicines have been reconciled with inpatient medications, and appropriate changes are noted and justified in the patient record.
+
+**Specialist Note:**
+- Discharge planning included coordination with [B-ORGANIZATION]Highgate Community Nursing[O] for at-home support and possible reevaluation of home care needs within two weeks.
+
+**Patient Instructions:**
+- Document provided detailing medication schedule, dietary recommendations, and activity level adjustments. Written acknowledgment received from patient and caregiver confirming understanding of all disbursement information and post-discharge instructions.

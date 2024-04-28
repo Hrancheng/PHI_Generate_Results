@@ -1,0 +1,47 @@
+**EAST GENERAL HOSPITAL**
+Discharge Summary
+
+**Patient Information:**
+- Name: [B-NAME]Michael Thompson[O]
+- MRN: [B-ID]987654321[O]
+- Age: [B-AGE]54 years[O]
+- Date of Admission: [B-DATE]September 20, 2023[O]
+- Date of Discharge: [B-DATE]October 5, 2023[O]
+- Attending Physician: Dr. [B-NAME]Samantha Lee[O]
+- Treatment Team: Surgical Team A
+
+**Hospital Course:**
+[B-NAME]Michael Thompson[O] was admitted on [B-DATE]September 20, 2023[O] after presenting with symptoms of severe abdominal pain and vomiting. An immediate CT scan revealed a ruptured appendix. He was taken to the [B-LOCATION]Operating Room 3[O] where Dr. [B-NAME]Samantha Lee[O] performed an emergency appendectomy. The patient's post-operative course was uneventful with satisfactory healing of the surgical site.
+
+Throughout his hospital stay, [B-NAME]Michael[O] received IV antibiotics to prevent infection and pain management to ensure comfort. His recovery was monitored closely by the surgical team and nursing staff on the [B-LOCATION]5th Floor, surgical ward[O].
+
+**Discharge Medications:**
+1. Amoxicillin 500 mg Oral, three times daily for 7 days.
+2. Paracetamol 500 mg Oral, every 6 hours as needed for pain.
+
+**Follow-up and Instructions:**
+[B-NAME]Michael[O] should follow up with his primary care physician, Dr. [B-NAME]Linda Carter[O], or visit the [B-ORGANIZATION]East General Surgical Outpatient Clinic[O] for wound check and removal of sutures on [B-DATE]October 12, 2023[O]. He is advised to watch for signs of infection at the wound site, including increased redness, swelling, or discharge. He should also avoid heavy lifting and strenuous activity for 6 weeks post-surgery.
+
+**Discharge Instructions:**
+- Keep the surgical site clean and dry.
+- Resume a normal diet as tolerated.
+- Stay hydrated by drinking at least 8 glasses of water a day.
+- Call your doctor if you experience fever, excessive abdominal pain, or vomiting.
+
+**Summary and Plan:**
+The patient has made a full recovery from his appendectomy and is being discharged in stable condition. He understands his discharge instructions and has scheduled his follow-up appointment. We have also coordinated a home health nurse visit through [B-ORGANIZATION]Community Care Nurses[O] to assist with his initial post-operative care at home.
+
+**Prepared by:**
+Dr. [B-NAME]Samantha Lee[O], MD, General Surgery
+Date: [B-DATE]October 5, 2023[O], Time: 2:00 PM
+
+**Signed:**
+Dr. [B-NAME]Samantha Lee[O], MD
+[B-ORGANIZATION]East General Hospital[O]
+Department of Surgery
+
+**Acknowledged by:**
+[B-NAME]Michael Thompson[O]
+Patient Signature
+
+This discharge summary is confidential and contains information protected under health privacy laws. Please handle it accordingly.

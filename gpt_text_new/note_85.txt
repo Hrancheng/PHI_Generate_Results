@@ -1,0 +1,63 @@
+Inpatient Discharge Summary
+-------------------------------------
+
+**Patient Information:**
+- [B-NAME]Emily Harris[O], MRN# [B-ID]879563024[O], is a [B-AGE]68 y.o.[O] female, admitted due to symptoms of chest pain and shortness of breath. 
+- Admission Date: [B-DATE]1/3/2023[O]
+- Discharge Date: [B-DATE]1/15/2023[O]
+- Attending Provider: Dr. [B-NAME]Michael Thompson[O]
+  
+**Admission Diagnosis:** Acute myocardial infarction, congestive heart failure  
+**Discharge Physician:** [B-NAME]Michael Thompson[O], MD  
+**PCP:** Dr. [B-NAME]Sarah Linn[O]
+
+**Hospital Problems:**
+- Resolved: Acute myocardial infarction [B-DATE]1/3/2023[O] - [B-DATE]1/8/2023[O]
+- Active: Congestive heart failure [B-DATE]1/3/2023[O] - Present
+
+**Hospital Course - Brief Overview:**
+Ms. [B-NAME]Emily Harris[O] was admitted with chest pain and severe shortness of breath. Upon arrival, serial troponins were elevated, and emergent coronary angiography indicated significant stenosis, leading to stent placement in the left anterior descending artery. Post-procedure, her heart function improved, but she required management for ensuing congestive heart failure. Treatment included IV diuretics and initiation of beta-blocker therapy.
+
+Ms. Harris responded well with an improvement in her ejection fraction noted from initial echocardiography comparison, stable without recurrence of chest pain. Physical therapy and dietetic consultation were part of the care to address her heart failure management and general strength conditioning. 
+
+**Procedural Interventions:**
+- Coronary Angiography with Stent Placement: [B-DATE]1/4/2023[O]
+  
+**Supervision and Consultation:**
+Daily rounds were conducted by Cardiology with collaborative input from the Heart Failure team. Final review and discharge planning were approved by [B-NAME]Michael Thompson[O], MD.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Lisinopril 10 mg daily
+- Carvedilol 6.25 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Furosemide 40 mg daily
+
+**Follow-Up Appointments:**
+1. Cardiology clinic on [B-DATE]1/22/2023[O] with Dr. [B-NAME]Michael Thompson[O].
+2. Heart Failure Team on [B-DATE]1/30/2023[O] to evaluate therapy effectiveness and physical status.
+
+**Instructions at Discharge:**
+The patient was advised on low salt diet, weight monitoring, and the importance of fluid restriction to 1.5 liters/day. She was educated on the signs of worsening heart failure and instructed to contact the Heart Failure team or visit the ER if symptoms such as increased shortness of breath, chest pain, or sudden weight gain occur.
+
+**Last recorded Vital Signs:**
+- BP 132/86 mmHg
+- Heart Rate 78 bpm
+- Respiration Rate 16 per minute
+- Temperature: 36.8°C
+
+Ms. [B-NAME]Emily Harris[O] was discharged in stable condition, ambulating independently with resolved chest pain and improved respiratory status. She was comfortable with the discharge plan and demonstrated the ability to manage her medications appropriately.
+
+-------------------------------------
+**Healthcare Professions Involved:**
+- Attending Cardiologist: [B-NAME]Michael Thompson[O], MD
+- Primary Care Physician: Dr. [B-NAME]Sarah Linn[O]
+- Heart Failure Nurse Coordinator: [B-NAME]Julie Patterson[O], RN
+- Physical Therapist: [B-NAME]Lisa Wright[O], PT
+
+**Healthcare Facility:**
+Discharged from [B-ORGANIZATION]General Hospital Heart Center[O]
+
+**Next Steps:**
+Patients condition will be carefully monitored through scheduled follow-up appointments, and adjustments to her heart failure management plan will be made based on her ongoing response to treatment.
+

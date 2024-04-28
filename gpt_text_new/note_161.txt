@@ -1,0 +1,67 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Margaret Atwood[O]**, MRN# [B-ID]837205934[O], is a [B-AGE]68-year-old[O] female, admitted to the Surgical Unit for management of a right hip fracture. Admission Date: [B-DATE]2/10/2022[O] Discharge Date: [B-DATE]2/24/2022[O] 
+
+**Attending Provider:** Dr. [B-NAME]Henry Wallace[O]  
+**Treatment Team:** Surgical Unit Staff  
+**Primary Care Provider:** Dr. [B-NAME]Rebecca Moore[O]
+
+**Hospital Problems Noted - Resolved**  
+POA Active Problems:  
+- Right hip fracture [B-DATE]2/10/2022[O] – Present Yes  
+- Hypertension [B-DATE]2/12/2022[O] – Present Yes  
+
+**Resolved Problems:**  
+RESOLVED: Post-operative pain [B-DATE]2/10/2022[O] - [B-DATE]2/15/2022[O] Yes  
+
+**Other Problems:** None  
+
+**Recommendations for Follow Up:**   
+**Attention to Primary Care Attending:** Review surgical site, monitor blood pressure.  
+**To Do's for Referring / Subspecialty Provider(s):**  
+Orthopedics: Follow up appointment on [B-DATE]3/3/2022[O].  
+Pain Management: Continue prescribed medications, monitor for side effects.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**   
+**Contact information for follow-up:**   
+Phys, Self-Refer Or No PCP/Referring Next Steps: Follow up [B-ORGANIZATION]MediCare Clinic[O] [B-PHONE]555-762-9923[O]  
+Next Steps: Follow up Instructions:  
+[B-NAME]Margaret[O] will be delivered to your home by [B-ORGANIZATION]Community Health Services[O] before discharge. 
+
+**[B-NAME]James Cooper, Stephanie Wright[O], MD**  
+Lymph Nodes: No enlarged thoracic lymph nodes.  
+**Impressions:**  
+1. Successful surgical intervention for right hip fracture.  
+2. Controlled hypertension with medication adjustments.  
+
+**[B-ORGANIZATION]City General Hospital[O] Discharge Medication List**  
+New Medications: Start taking as prescribed  
+- Ibuprofen 400 mg tablet Refills: 1  
+Commonly known as: MOTRIN 400 mg, Oral, EVERY 6 HOURS as needed for pain.  
+- Acetaminophen 500 mg tablet Refills: 1  
+Commonly known as: TYLENOL 500 mg, Oral, EVERY 4 HOURS as required for fever or pain.
+
+**Future Scheduled Appointments:**  
+Date Time Provider Department Center  
+[B-DATE]3/1/2022[O] 10:00 AM [B-NAME]Lisa Monroe[O], PT ORTHO-TC U TC  
+[B-DATE]3/3/2022[O] 09:30 AM [B-NAME]Henry Wallace[O], MD SURG UNIT CITY GEN 
+
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**  
+[B-AGE]68-year-old[O] female presented to the Emergency Department following a slip and fall at home resulting in a right hip fracture. On examination at [B-ORGANIZATION]City General Hospital[O], confirmed via X-Ray and admitted for surgical repair. 
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Mrs. [B-NAME]Atwood[O] underwent a right hip replacement procedure on [B-DATE]2/12/2022[O] which was successful. Post-operatively, she received IV antibiotics and pain management that facilitated early mobilization. Physical therapy started on [B-DATE]2/15/2022[O] and progressed well. Blood pressure was initially high due to post-operative pain but controlled with medication adjustments.
+
+**Last Recorded Vital Signs:**  
+BP 122/78 | Pulse 72 | Temp 36.8 °C | Resp 16 | Ht 1.62 m | Wt 70 kg | SpO2 98%  
+
+**Pertinent Discharge Physical Exam Findings:**  
+General: alert, appears comfortable in bed  
+Head: Normocephalic, atraumatic  
+Chest: Clear to auscultation bilaterally  
+Heart: Rhythm regular, no murmurs  
+Abdomen: Soft, non-tender  
+Extremities: Right lower limb with surgical dressing, no signs of infection, good capillary refill  
+Neuro: Alert and oriented, moving all extremities.  
+
+**Discharge Condition:** Stable to return home with support services in place. Patient understands follow-up instructions and when to seek immediate care.

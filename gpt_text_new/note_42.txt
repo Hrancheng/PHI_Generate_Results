@@ -1,0 +1,44 @@
+Inpatient Discharge Summary
+---
+[B-NAME]Michael Thompson[O], MRN# [B-ID]456783920[O], is a [B-AGE]54-year-old[O] male admitted to the cardiology service following an episode of chest pain. 
+
+**Admission Date**: [B-DATE]3/15/2023[O]  
+**Discharge Date**: [B-DATE]3/20/2023[O]  
+**Discharge Diagnosis**:
+1. Acute myocardial infarction
+2. Coronary artery disease
+
+**Hospital Course**:  
+Mr. [B-NAME]Thompson[O] presented to the ER with chest pain on [B-DATE]3/15/2023[O]. The pain was substernal, radiated to his left arm, and was accompanied by nausea. He was initially managed with aspirin and nitroglycerine upon arrival. Cardiac catheterization performed on [B-DATE]3/16/2023[O] revealed two blocked coronary arteries requiring angioplasty with stent placement. The patient showed good clinical improvement post-procedure and was started on a statin, beta-blocker, and ACE inhibitor. Education regarding lifestyle modification and cardiac rehabilitation was provided.
+
+**Medications at Discharge**:  
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg at bedtime
+3. Metoprolol 50 mg twice a day
+4. Lisinopril 10 mg every morning
+
+**Follow-up Instructions**:  
+Follow up with [B-NAME]Dr. John Bradley[O], Cardiologist, at [B-ORGANIZATION]City Hospital Outpatient Clinic[O] on [B-DATE]3/27/2023[O] at 10:00 AM. Also scheduled for cardiac rehabilitation at [B-ORGANIZATION]City Hospital Wellness Center[O] starting [B-DATE]4/1/2023[O].
+
+**Discharge Instructions**:  
+Patient counseled about the importance of medication adherence, symptoms of angina, when to seek urgent care, and modifications in diet and exercise. He was also advised to avoid heavy lifting and strenuous activity until after follow-up with cardiology. He agreed to abstain from smoking and will seek support through a smoking cessation program at [B-ORGANIZATION]Community Health Services[O].
+
+**Diet**: Heart-healthy diet  
+**Activity**: Limited to light tasks; no heavy lifting greater than 10 lbs  
+**Follow-up Needs**: Primary care follow-up for blood pressure and cholesterol management, continued cardiac rehab assessment  
+**Transportation and Equipment**: Patient will be transported home by [B-NAME]Susan Thompson[O], his wife. Prescriptions for a walker and bedside commode given due to mild balance issues since his hospitalization.
+
+**Other Pertinent Information**:  
+- Discharge Vitals: BP 130/85, HR 72, regular  
+- He lives at [B-ADDRESS]123 Elm Street, Springfield, IL[O]  
+- Allergies: None  
+- Contact: [B-PHONE]555-123-4567[O]  
+
+**Clinical Staff**:  
+Discharge approved by [B-NAME]Dr. Sarah Connors[O], Attending Cardiologist  
+Nursing contact: [B-NAME]Nurse James Lee[O], [B-PHONE]555-987-6543[O] for any immediate post-discharge questions.
+
+Signed:  
+[B-NAME]Sarah Connors[O], M.D.  
+Date: [B-DATE]3/20/2023[O]  
+Time: 2:00 PM

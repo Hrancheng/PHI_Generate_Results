@@ -1,0 +1,67 @@
+**Johns Hopkins Hospital Inpatient Discharge Summary**
+
+**[B-NAME]Elizabeth Miller[O], MRN# [B-ID]A37986543[O],** is a [B-AGE]68-year-old[O] female admitted to the Cardiology service with a primary complaint of chest pain and suspected myocardial infarction. 
+
+**Admission Date:** [B-DATE]Nov. 15, 2023[O]   
+**Discharge Date:** [B-DATE]Nov. 20, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Aaron Gregory[O]  
+
+Treatment Team:  
+**!! FIRST CONTACT !!:** Cardiology Unit - PAGER [B-ID]3405[O]  
+Hospital Problems Noted - Resolved   
+**POA Active Problems**   
+Acute Myocardial Infarction [B-DATE]Nov. 16, 2023[O] - Present   
+Hypertension [B-DATE]Nov. 15, 2023[O] - Present  
+**Resolved Problems**  
+RESOLVED: Acute distress due to chest pain [B-DATE]Nov. 15, 2023[O] - [B-DATE]Nov. 16, 2023[O]   
+
+**Recommendations for Follow-Up:**  
+Attention to Primary Care Attending: Continue cardiac medications as prescribed.  
+To Do's for Referring / Subspecialty Provider(s):  
+Cardiology: Follow-up appointment on [B-DATE]Dec. 1, 2023[O].  
+Endocrinology: Manage diabetes mellitus, outpatient appointment scheduled for [B-DATE]Dec. 5, 2023[O].
+
+**Lab, Diagnostic Testing, and Referral Follow-Up**   
+Orders given to patient:   
+Contact information for follow-up  
+Phys, Self-Refer Or No PCP/Referring    
+**Next Steps:** Follow up  
+[B-ORGANIZATION]Johns Hopkins Cardiac Clinic[O]   
+[B-PHONE]443-997-1552[O]   
+Next Steps: Follow-up Instructions:  
+[B-NAME]Mark Simmons[O] will oversee cardiac rehabilitation sessions starting [B-DATE]Nov. 30, 2023[O].
+
+**Brief Hospital Course:**  
+Mrs. [B-NAME]Miller[O] was admitted to the cardiology ward following an episode of severe chest pain while at home. An EKG confirmed acute myocardial infarction and immediate angioplasty was performed, showing significant improvement post-procedure. Her hospital stay involved strict monitoring and stabilization, managing her known diabetes and hypertension. Cardiology and Endocrinology were consulted to optimize her treatment during her stay.
+
+**Discharge Medications:**  
+Metoprolol 50 mg, twice daily  
+Aspirin 81 mg, once daily  
+Atorvastatin 40 mg, at bedtime  
+Insulin regimen adjusted as per endocrinology guidance 
+
+**Discharge Instructions:**  
+The patient is advised to avoid strenuous activity and follow a heart-healthy diet. Regular follow-up in the cardiac clinic is essential to monitor her progress. Participation in a cardiac rehabilitation program is strongly recommended to aid recovery.
+
+**Last Recorded Vital Signs:**  
+BP 130/80 | Pulse 72 | Temp 98.6 °F | Resp 16  
+**Weight on Discharge:** 160 lbs  
+**Pertinent Discharge Physical Exam Findings:**  
+General appearance: well-appearing, in no acute distress  
+Cardiovascular: Regular rate and rhythm, no murmurs  
+Respiratory: Clear to auscultation bilaterally  
+**Pulses:** 2+ pedal and radial bilaterally 
+
+**Significant Test or Procedure Results:**  
+Echocardiogram [B-DATE]Nov. 17, 2023[O]:  Ejection fraction estimated at 45%, mildly reduced  
+Angiogram [B-DATE]Nov. 16, 2023[O]: Showed 70% blockage in the left anterior descending artery, successfully stented
+
+**Operations/Major Procedures:**   
+**Case IDs**  
+[B-ID]4872011[O] [B-DATE]Nov. 16, 2023[O]: Emergent Coronary Angioplasty [B-NAME]Dr. Aaron Gregory[O], CVC OR  
+
+**Scheduled Appointments:**  
+Future Appointments Date Time Provider Department Center   
+[B-DATE]Nov. 30, 2023[O] 2:00 PM [B-NAME]Cardiac Rehab[O], Nurse Specialist CARD-REHAB Johns Hopkins  
+
+This discharge summary is intended to provide a comprehensive overview of Mrs. [B-NAME]Miller[O]'s hospital course, including her diagnosis, treatment rendered, and instructions for follow-up care. Maintaining strict adherence to her prescribed medications and follow-up regimen is crucial for her continued recovery and prevention of future cardiac events.

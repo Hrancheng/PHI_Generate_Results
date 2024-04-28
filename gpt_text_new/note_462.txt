@@ -1,0 +1,48 @@
+**[B-ORGANIZATION]General City Hospital[O] Discharge Summary**
+
+**Patient Name:** [B-NAME]Michael Thompson[O]    
+**MRN:** [B-ID]987654321[O]  
+**Date of Birth:** [B-DATE]03/15/1980[O]  
+**Age:** [B-AGE]43[O]  
+**Admission Date:** [B-DATE]10/05/2023[O]  
+**Discharge Date:** [B-DATE]10/15/2023[O]  
+**Attending Physician:** Dr. [B-NAME]Elizabeth Gordon[O]  
+**Consulting Team:** Cardiology, Nephrology  
+**Insurance Provider:** [B-ORGANIZATION]State HealthCare Plus[O]  
+
+---
+
+**Chief Complaint:**  
+Chest pain and elevated blood pressure
+
+**Hospital Course:**  
+Mr. [B-NAME]Thompson[O] was admitted on [B-DATE]10/05/2023[O] following an episode of severe chest pain and a recorded blood pressure of 190/100 mmHg at the local clinic. An initial ECG suggested left ventricular hypertrophy but was otherwise normal. Cardiology was consulted, and a cardiac catheterization was recommended and performed on [B-DATE]10/07/2023[O], revealing 70% stenosis in the left anterior descending artery. A drug-eluting stent was placed successfully.  
+His hospital stay was complicated by a transient ischemic attack (TIA) on [B-DATE]10/10/2023[O], which resolved with no residual deficits. Neurology was consulted and recommended antiplatelet therapy. Blood pressure was managed with IV medication and transitioned to oral before discharge.  
+Nephrology also evaluated Mr. [B-NAME]Thompson[O] due to acute kidney injury likely due to contrast but has shown improvement with IV fluids.
+
+**Discharge Medications:**
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Lisinopril 20 mg daily
+4. Metoprolol 50 mg twice daily
+
+**Follow-Up:**
+Appointment with Dr. [B-NAME]Henry Chase[O] at [B-ORGANIZATION]General City Cardiology Clinic[O] on [B-DATE]10/22/2023[O] at 10:00 AM.  
+Appointment with Nephrology on [B-DATE]10/25/2023[O] to re-evaluate kidney function.
+
+**Instructions:**
+Mr. [B-NAME]Thompson[O] is advised to monitor his blood pressure twice daily and keep a log. He is to avoid any heavy lifting and reduce sodium intake. Participation in a cardiac rehab program is recommended starting next week.
+
+**Condition at Discharge:**
+Stable, with controlled blood pressure and pain. Advised to watch for signs of chest pain, shortness of breath, or weakness and to seek immediate care if symptoms develop.
+
+**Discharge By:** Dr. [B-NAME]Elizabeth Gordon[O], MD  
+**Date:** [B-DATE]10/15/2023[O]  
+**Time:** 2:00 PM
+
+**Contact Number:** [B-PHONE]555-123-9876[O] (Hospital main line)
+
+---
+
+**Remarks:**
+Patient and family education completed regarding signs of cardiac distress, medication adherence, and follow-up appointments. Patient verbalized understanding of discharge instructions and demonstrated correct technique in measuring blood pressure. All discharge summaries and patient instructions were reviewed and understood by the patient.

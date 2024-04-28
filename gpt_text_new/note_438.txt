@@ -1,0 +1,51 @@
+**[B-ORGANIZATION]General Hospital[O]** Inpatient Discharge Summary 
+
+**Patient Information:**
+- **Name:** [B-NAME]Emily Thompson[O]
+- **Medical Record Number:** [B-ID]6578493021[O]
+- **Age:** [B-AGE]54 years old[O]
+- **Admission Date:** [B-DATE]September 14th, 2023[O]
+- **Discharge Date:** [B-DATE]September 22nd, 2023[O]
+
+**Admitting Physician:** Dr. [B-NAME]Harold Greene[O]
+**Attending Physician:** Dr. [B-NAME]Harold Greene[O]
+**Consultants:** Cardiology, Nephrology
+**Primary Care Physician:** Dr. [B-NAME]Susan O'Malley[O]
+**Insurance Information:** Policy Number [B-ID]GH876540[O]
+
+**Hospital Course:**
+[B-NAME]Ms. Emily Thompson[O] was admitted to **[B-ORGANIZATION]General Hospital[O]** on [B-DATE]September 14th, 2023[O] following a diagnosis of acute decompensated heart failure. Her condition was stabilized through IV diuretics and vasodilators. Cardiac function was monitored closely, and improvement was noted within a few days. She underwent an echocardiogram which showed improved ejection fraction and reduced ventricular dilation compared to prior admissions.
+
+Her kidney functions were closely monitored due to past history of chronic kidney disease, and she received nephrology consultations. Adjustments to her medication were made to accommodate her renal function.
+
+Throughout her hospital stay, [B-NAME]Ms. Thompson[O] was compliant with all treatments and showed a positive attitude towards her health recovery. Discharge planning began early, involving both the patient and her daughter, [B-NAME]Anna Thompson[O], for a smooth transition to home care.
+
+**Discharge Medications:**
+1. Lisinopril 20 mg tablet: Take one tablet by mouth once a day.
+2. Carvedilol 12.5 mg tablet: Take one tablet by mouth twice a day.
+3. Furosemide 40 mg tablet: Take one tablet by mouth once a day.
+4. Potassium Chloride 20 mEq: Take one tablet by mouth once a day.
+5. Apixaban 5 mg tablet: Take one tablet by mouth twice a day.
+
+**Follow-up Appointments:**
+- **[B-DATE]October 1st, 2023[O]**, 10:30 AM with Dr. [B-NAME]Susan O'Malley[O] at **[B-ORGANIZATION]City Medical Clinic[O]** for general check-up and medication review.
+- **Cardiology follow-up** on **[B-DATE]October 15th, 2023[O]**, 2:00 PM with Dr. [B-NAME]Joseph Lee[O] at **[B-ORGANIZATION]Heart Health Specialists[O]**.
+
+**Discharge Instructions:**
+- Weigh yourself daily in the morning. Report a weight gain of 3 pounds or more in a day to your physician.
+- Continue a low salt diet as directed.
+- Keep legs elevated when sitting to reduce swelling.
+- Monitor blood pressure and pulse at home.
+
+**Condition at Discharge:**
+The patient's condition at discharge is stable. Heart rate and blood pressure are within normal ranges, and symptoms of heart failure have improved significantly.
+
+**Discharge Disposition:** Home with support from [B-ORGANIZATION]Allied Home Health Care Services[O]
+**Transportation:** [B-NAME]Anna Thompson[O] will drive her home.
+**Home Medications Provided:** Yes, a 14-day supply has been provided. Further prescriptions can be filled at **[B-ORGANIZATION]City Pharmacy[O]**, phone number: **[B-PHONE]555-123-4567[O]**.
+
+**Signature:**
+Signed: Dr. [B-NAME]Harold Greene[O] [B-DATE]September 22nd, 2023[O], 11:00 AM
+
+**Instructions for Emergency:**
+In case of difficulty breathing, chest pain, or other severe symptoms, go immediately to **[B-ORGANIZATION]General Hospital Emergency Department[O]** or call 911.

@@ -1,0 +1,53 @@
+Inpatient Discharge Summary
+[B-NAME]Margaret Cho[O], MRN# [B-ID]957462835[O], is a [B-AGE]68 y.o.[O] female, admitted to the Cardiology service for management of acute myocardial infarction and arrhythmia. 
+
+Admission Date: [B-DATE]09/12/2023[O] 
+Discharge Date: [B-DATE]09/20/2023[O]
+
+Attending Provider: Dr. [B-NAME]Henry Walsh[O]
+Treatment Team: Cardiology Unit 
+
+Hospital Problems Noted - Resolved / Ongoing:
+
+1. Acute Myocardial Infarction - [B-DATE]09/12/2023[O] - Resolved
+2. Atrial Fibrillation - [B-DATE]09/13/2023[O] - Ongoing
+
+Discharge Medications:
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Atorvastatin 20 mg at bedtime
+- Warfarin as per INR
+
+Follow-Up Appointments:
+- Cardiology Clinic with Dr. [B-NAME]Sarah Blake[O], MD on [B-DATE]09/30/2023[O]
+- INR Clinic on [B-DATE]09/25/2023[O] at [B-TIME]10:00 AM[O]
+
+Instructions:
+Patient advised to maintain a low-sodium diet, monitor blood pressure daily, and check INR levels as directed. Immediate contact with healthcare provider if experiencing symptoms such as chest pain, shortness of breath, or excessive bleeding.
+
+Education Provided:
+Discharge education included signs of potential heart complications, proper medication usage, and lifestyle modifications for cardiovascular health. 
+
+Ambulatory Status:
+Patient is ambulatory with assistance, showing good tolerance to mild exercise prescribed by physical therapy.
+
+Home Services:
+Arranged for home nursing visits for blood pressure and INR monitoring for one week post-discharge. 
+
+Discharge Condition:
+Stable with follow-up in place, patient and family verbalized understanding of discharge plan.
+
+Next Steps:
+Upon any complications, patient is advised to contact [B-ORGANIZATION]Cardiology Care Clinic[O] at [B-PHONE]555-734-9982[O] or visit nearest emergency room.
+
+Dietary Instructions:
+Continue with a heart-healthy diet, focusing on high-fiber foods, fruits, vegetables, and lean proteins. Avoidance of processed foods recommended.
+
+Rehabilitation Plan:
+Continue with outpatient cardiac rehabilitation twice a week for strengthening exercises and further education on heart health management.
+
+Precautions:
+Patient advised against lifting heavy objects or strenuous activity for at least one month to allow healing and prevention of strain on the heart.
+
+Signed:
+[B-NAME]Henry Walsh[O], MD, [B-DATE]09/20/2023[O], 3:45 PMorianCalendar

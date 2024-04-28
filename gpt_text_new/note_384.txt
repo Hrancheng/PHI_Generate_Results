@@ -1,0 +1,65 @@
+**Hypertension Management Inpatient Discharge Summary**
+
+**[B-NAME]Eleanor Rigby[O] , MRN# [B-ID]448596302[O],** is a [B-AGE]68 y.o.[O] female, admitted to the Cardiology service for management of exacerbated hypertension and secondary complications. Admission Date: [B-DATE]2/14/23[O] Discharge Date: [B-DATE]2/21/23[O]. Attending Provider: Dr. [B-NAME]Hans Zimmer[O].
+
+**Hospital Problems Noted - Resolved**
+POA Active Problems:
+1. Hypertension [B-DATE]2/14/23[O] - Present Yes
+2. Mild Congestive Heart Failure [B-DATE]2/14/23[O] - Present Yes
+
+**Discharge Condition:**
+Stable. Patient’s blood pressure was maintained around 135/85 mmHg during the last 3 days of admission with the help of adjusted medications.
+
+**Clinical Interventions:**
+1. Medication adjustments including the introduction of [B-NAME]Losartan 50 mg[O] once daily.
+2. Daily weight monitoring to assess fluid status due to heart failure.
+3. Lower limb edema managed with compression stockings and elevating the legs.
+
+**Discharge Medications:**
+1. [B-NAME]Losartan 50 mg[O] tablet, daily.
+2. [B-NAME]Furosemide 40 mg[O] tablet, daily in the morning.
+3. Potassium Chloride 20 mEq daily.
+
+**Hospital Course:**
+Mrs. [B-NAME]Rigby’s[O] admission due to a hypertensive crisis was successfully managed with IV medication initially. Transitioned to oral therapy after stabilization. Compliance with diet and medication discussed extensively. Heart failure symptoms managed with diuretics and salt restriction. Patient educated on signs of fluid overload and weight monitoring at home.
+
+**Next Steps & Follow Up:**
+1. Follow up with [B-ORGANIZATION]Community Cardiology Clinic[O] [B-PHONE]555-123-4567[O] in one week.
+2. Monthly blood work for the next three months to monitor kidney function and electrolytes.
+
+**Dietary Recommendations:**
+1. Low sodium diet, generally not exceeding 2 grams of sodium per day.
+2. Fluid restriction to 1.5 liters per day to manage heart failure symptoms.
+
+**Physical Activity:**
+Encouraged mild to moderate intensity walking for 30 minutes daily, as tolerated, to improve cardiovascular health and manage weight.
+
+**Social Work Consult:**
+Engaged to assess need for home health support given the patient's age and the need for assistance with medication adherence.
+
+**Discharge Instructions:**
+Patient instructed to monitor blood pressure twice daily. Report any systolic readings above 160 mmHg or below 100 mmHg. Continue adherence to fluid and dietary restrictions. Return to the emergency department if experiencing symptoms of chest pain, severe headache, or shortness of breath.
+
+**Labs at Discharge:**
+- CBC and CMP within normal limits except for elevated creatinine which will be monitored.
+- EKG showed normal sinus rhythm with occasional ectopics.
+
+**Last Recorded Vital Signs at Discharge:**
+- BP: 132/84 mmHg
+- Pulse: 78 bpm
+- Temp: 36.8°C (98.2°F)
+- Resp: 16/min
+- Oxygen Saturation: 97% on room air
+
+**Discharge Physical Exam:**
+- General: Awake, alert, and oriented. Ambulatory at baseline.
+- Cardiovascular: S1 and S2 noted, no murmurs, edema significantly reduced.
+- Respiratory: Clear to auscultation bilaterally.
+- Abdomen: Soft, non-tender.
+- Extremities: No cyanosis, clubbing, or edema present.
+
+The patient and family members (Mrs. [B-NAME]Daisy Johnson[O] and Mr. [B-NAME]Robert Rigby[O]) agreed with the discharge plan and understood all instructions as reiterated by [B-NAME]Nurse Helen Troy[O]. Discharge paperwork, including prescription scripts and follow-up appointment details, handed over.
+
+**Signed: Dr. [B-NAME]Hans Zimmer[O], MD**
+**Date: [B-DATE]2/21/23[O]**
+**Time: 11:00 AM**

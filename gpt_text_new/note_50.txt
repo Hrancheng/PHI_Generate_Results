@@ -1,0 +1,40 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- **Name:** [B-NAME]John Doe[O]
+- **Date of Birth:** [B-DATE]January 1, 1960[O]
+- **MRN#:** [B-ID]987654321[O]
+- **Age:** [B-AGE]63 years old[O]
+- **Admitting Physician:** Dr. [B-NAME]Alice Johnson[O]
+
+**Hospital Course:**
+[B-NAME]John Doe[O] was admitted to [B-ORGANIZATION]General Hospital[O] on [B-DATE]March 10, 2023[O] due to acute abdominal pain and diagnosed with appendicitis. His stay included an appendectomy performed on [B-DATE]March 11, 2023[O], which was carried out without any complications. Post-operation recovery was smooth, with pain management adequately controlled using IV acetaminophen and oral ibuprofen.
+
+**Discharge Instructions:**
+1. **Medications:**
+   - Ibuprofen 400 mg: Take one tablet every 8 hours as needed for pain.
+   - Acetaminophen 500 mg: Take one tablet every 6 hours as needed for pain.
+
+2. **Activity:**
+   - No lifting of objects heavier than 10 pounds for the first two weeks.
+   - Gradually increase walking, aiming for at least 30 minutes of light walking daily.
+
+3. **Wound Care:**
+   - Keep the incision area dry and clean.
+   - Inspect daily for signs of infection (redness, swelling, discharge).
+
+4. **Follow-up:**
+   - Follow up with Dr. [B-NAME]Alice Johnson[O] in two weeks on [B-DATE]March 25, 2023[O] at [B-ADDRESS]123 Wellness Street, Healthville, TX 76000[O].
+
+**Emergency Instructions:**
+Contact [B-PHONE]555-123-4567[O] or go to the nearest emergency room if experiencing severe pain, fever, or signs of infection.
+
+**Discharge Date:**
+- **Date:** [B-DATE]March 13, 2023[O]
+
+**Signed:**
+- Dr. [B-NAME]Alice Johnson[O], General Surgery
+- Date: [B-DATE]March 13, 2023[O], at 10:00 AM
+
+**Summary:**
+Patient [B-NAME]John Doe[O] presented initially on [B-DATE]March 10, 2023[O], with symptoms indicative of an acute appendicitis. He underwent successful appendectomy and is being discharged in stable condition with instructions to manage pain, monitor the surgical site, and restrict physical activity until the follow-up visit. Patient understands all discharge instructions and verbalizes understanding.

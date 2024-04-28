@@ -127,10 +127,10 @@ def process_files(input_dir_name, output_dir_name, output_html_dir_name, label_d
 
 # Main function
 def main():
-    input_dir_name = "gpt_text"  # gpt_text
-    output_dir_name = "text"  # text
-    output_html_dir_name = "text_html"  # text_html
-    label_dir_name = "anno"  # anno
+    input_dir_name = "gpt_text_new"  # gpt_text
+    output_dir_name = "text_new"  # text
+    output_html_dir_name = "text_html_new"  # text_html
+    label_dir_name = "anno_new"  # anno
 
     create_directories(output_dir_name, label_dir_name)
     process_files(input_dir_name, output_dir_name, output_html_dir_name, label_dir_name)

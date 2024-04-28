@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Thomas Griffin[O]
+**MRN#:** [B-ID]237594085[O]
+**Age:** [B-AGE]52 years old[O]
+**Admission Date:** [B-DATE]February 20, 2023[O]
+**Discharge Date:** [B-DATE]March 10, 2023[O]
+**Attending Physician:** Dr. [B-NAME]Emily Richmond[O]
+**Department:** Cardiology
+**Hospital:** [B-ORGANIZATION]Metropolitan Heart and Vascular Institute[O]
+
+**Reason for Hospitalization:**
+Mr. [B-NAME]Griffin[O] presented with symptoms of severe chest pain and was diagnosed with acute myocardial infarction. He was immediately admitted for management and further evaluation.
+
+**Hospital Course:**
+Upon admission, the patient underwent emergency coronary angiography that revealed triple vessel disease. Percutaneous coronary intervention (PCI) was successfully performed on [B-DATE]February 21, 2023[O]. Post-procedure, the patient was started on dual antiplatelet therapy and monitored in the cardiac ICU for complications. He was stabilized and transferred to the ward on [B-DATE]February 25, 2023[O]. His recovery was uneventful, and his pain was managed effectively with medications. Cardiac rehabilitation was initiated early during hospitalization and continued until discharge.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily.
+- Clopidogrel 75 mg daily for 12 months.
+- Atorvastatin 80 mg at bedtime.
+- Metoprolol 50 mg twice daily.
+- Ramipril 5 mg daily.
+- Furosemide 40 mg daily as needed for fluid retention.
+
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. [B-NAME]Sarah Lin[O], MD at [B-ORGANIZATION]Metropolitan Heart and Vascular Clinic[O] on [B-DATE]March 24, 2023[O].
+- Rehabilitation session scheduled on [B-DATE]March 15, 2023[O] at [B-LOCATION]HealthBridge Rehabilitation Center[O].
+
+**Instructions for Patient:**
+- Continue medications as prescribed without interruption.
+- Monitor blood pressure and heart rate twice daily.
+- Follow a low-salt, low-fat diet.
+- Gradually increase physical activities as advised by the rehabilitation team.
+- Avoid smoking and alcohol.
+- Report immediately to the hospital if experiencing chest pain, shortness of breath, or dizziness.
+
+**Discharge Condition:**
+The patient's condition has improved. He is stable and capable of self-care with adherence to prescribed therapy and follow-up recommendations.
+
+**Prepared by:**
+Dr. [B-NAME]Emily Richmond[O], MD
+Cardiology Department
+[B-ORGANIZATION]Metropolitan Heart and Vascular Institute[O]
+[B-DATE]March 10, 2023[O]
+
+**Contact Information for follow-up:**
+Phone: [B-PHONE]555-0198-3021[O]
+Email: followup@metheartvascular.org
+
+**Signature:**
+[B-NAME]Emily Richmond[O], MD

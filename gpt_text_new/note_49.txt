@@ -1,0 +1,53 @@
+**University Medical Center Discharge Summary**
+
+**Patient Information:**
+- Patient: [B-NAME]Robert Thompson[O]
+- MRN: [B-ID]987654321[O]
+- [B-AGE]62 years old[O]
+- Admission Date: [B-DATE]January 13, 2023[O]
+- Discharge Date: [B-DATE]January 20, 2023[O]
+- Attending Physician: [B-NAME]Dr. Emily Stuart[O]
+
+**Hospital Course:**
+[B-NAME]Mr. Thompson[O] was admitted with a diagnosis of acute cholecystitis. He underwent a laparoscopic cholecystectomy on [B-DATE]January 14, 2023[O] without complications. Post-operatively, he developed mild transient leukocytosis, which resolved with conservative management. His post-operative course was uneventful, and he progressed with diet as tolerated.
+
+**Medications on Discharge:**
+- Acetaminophen 500 mg every 6 hours as needed for pain
+- [B-DATE]Prescribed on January 20, 2023[O]
+
+**Follow-Up Appointments:**
+- [B-NAME]Dr. Emily Stuart[O], Surgery Clinic on [B-DATE]January 27, 2023[O] at [B-ORGANIZATION]University Medical Center Outpatient Department[O]
+- Primary Care Physician, [B-NAME]Dr. John Harvey[O], for routine follow-up on [B-DATE]February 10, 2023[O]
+
+**Instructions:**
+Patient should monitor for signs of infection at the incision site and is advised to gradually increase physical activity. He should avoid lifting heavy objects for at least four weeks.
+
+**Discharge Diagnostics:**
+- Ultrasound of the abdomen: No residual gallstones or bile duct abnormalities.
+- Complete blood count: Normal as of [B-DATE]January 19, 2023[O]
+
+**Patient Education:**
+Detailed explanation provided regarding signs of complications such as fever, severe abdominal pain, or jaundice. Patient understands symptoms that would necessitate a return to the hospital.
+
+**Next of Kin:**
+- Wife, [B-NAME]Susan Thompson[O]
+- [B-PHONE]555-123-4567[O]
+- [B-ADDRESS]123 Maple Street, Springfield, Illinois[O]
+
+**Home Care:**
+[B-ORGANIZATION]Community Health Associates[O] will provide a home health nurse to check on the patient's wound and general recovery twice a week starting [B-DATE]January 22, 2023[O].
+
+**Discharge Status:**
+Patient is stable and is discharged to home under the care of his wife [B-NAME]Susan Thompson[O] and home health services. He is to return to the clinic or contact his primary care provider or surgeon if any issues arise.
+
+**Discharge Physical Exam:**
+- General: Stable and ambulating independently.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation.
+- Abdomen: Soft, non-tender post-surgical site, normal bowel sounds.
+- Extremities: No edema.
+- Neurological: Alert and oriented, no focal deficits.
+
+**Signature:**
+[B-NAME]Dr. Emily Stuart[O], MD
+[B-DATE]January 20, 2023[O], [B-ORGANIZATION]University Medical Center[O]

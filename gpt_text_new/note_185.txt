@@ -1,0 +1,45 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Margaret Thompson[O], MRN# [B-ID]258741369[O], is a [B-AGE]65 y.o.[O] female, admitted to the Cardiology Intensive Care Unit for management of acute myocardial infarction and subsequent complications. 
+
+**Admission Date**: [B-DATE]10/15/2023[O]
+**Discharge Date**: [B-DATE]10/28/2023[O] 
+**Attending Provider**: Dr. [B-NAME]Stella Harmison[O]
+**Treatment Team**: Cardiology ICU Team
+
+**Hospital Problems**:
+- Acute myocardial infarction [B-DATE]10/15/2023[O] - Present Yes
+- Congestive heart failure [B-DATE]10/16/2023[O] - Present Yes
+- Atrial fibrillation [B-DATE]10/18/2023[O] - Present Yes
+- Pneumonia [B-DATE]10/20/2023[O] - Present Yes
+
+**Brief Hospital Course**:
+Mrs. [B-NAME]Thompson[O] was brought in by EMS after experiencing severe chest pain at home. Initial EKG confirmed ST-elevation MI; she was taken immediately for coronary angiography which showed a 90% blockage in the left anterior descending artery. A stent was successfully placed during the procedure. 
+
+During her ICU stay, she developed atrial fibrillation, which was managed with IV amiodarone until stabilization. She subsequently developed signs of congestive heart failure and pneumonia, treated with diuretics and broad-spectrum antibiotics. Over the course of the hospital stay, she gradually improved with the resolution of pneumonia and stabilization of heart function as evidenced by echocardiography before discharge.
+
+**Discharge Medications**:
+- Aspirin 81 mg tablet: once daily
+- Lisinopril 10 mg tablet: once daily
+- Atorvastatin 40 mg tablet: once daily
+- Furosemide 40 mg tablet: as directed
+- Amiodarone 200 mg tablet: as directed
+
+**Outpatient Follow-up**:
+Mrs. [B-NAME]Thompson[O] is discharged to home with cardiology follow-up. She is scheduled to attend a follow-up appointment with her cardiologist, [B-NAME]Amy Lee[O], on [B-DATE]11/02/2023[O]. 
+
+**Home Care Instructions**: 
+Mrs. [B-NAME]Thompson[O] is advised to monitor her weight daily, restrict fluid intake as advised by the cardiologist, and adhere to a low-salt diet. She should avoid heavy lifting and strenuous activities until her follow-up appointment. She should continue using her oxygen concentrator as needed at home.
+
+**Discharge Condition**: Stable, with instructions for medication adherence, symptom monitoring, and follow-up appointments.
+
+**Last Recorded Vital Signs**:
+BP 132/82 | Pulse 78 | Temp 36.8 °C | Resp 16 | SpO2 96%
+
+**Recommendations for Safety/Precautions at Home**:
+It’s important that Mrs. [B-NAME]Thompson[O] avoids NSAIDs and consults with her healthcare provider before taking any new medications, including over-the-counter products. She should seek immediate medical attention if she experiences symptoms like worsening chest pain, difficulty breathing, or fainting.
+
+**Other Discharge Notes**:
+Mrs. [B-NAME]Thompson[O] has been instructed on the use of a personal emergency response system, which she will wear at all times. The contact for emergency response is [B-PHONE]456-123-7890[O].
+
+Signed: Dr. [B-NAME]Stella Harmison[O], [B-DATE]10/28/2023[O] at 4:00 PM

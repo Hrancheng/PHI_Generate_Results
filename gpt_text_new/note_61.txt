@@ -1,0 +1,67 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Michael Thompson[O]
+
+**MRN:** [B-ID]00234-56789[O]
+
+**Age:** [B-AGE]44 years[O]
+
+**Admission Date:** [B-DATE]1/3/2023[O]
+
+**Discharge Date:** [B-DATE]1/14/2023[O]
+
+**Hospital Service:** General Medicine
+
+**Chief Complaint:** Acute abdominal pain
+
+**History of Present Illness:** [B-NAME]Michael[O] presented with sudden onset of severe lower abdominal pain starting [B-DATE]1/2/2023[O]. The pain was 7/10, non-radiating, and associated with nausea without vomiting.
+
+**Past Medical History:**
+- Hypertension
+- Type II Diabetes Mellitus
+
+**Medications on Admission:**
+- Lisinopril 10 mg daily
+- Metformin 500 mg twice daily
+
+**Allergies:**
+- Penicillin
+
+**Hospital Course:** [B-NAME]Michael[O] was managed with intravenous fluids and antibiotics. He underwent a diagnostic laparoscopy that showed appendicitis. An appendectomy was performed on [B-DATE]1/4/2023[O] without complications. Post-operative course was uneventful, and he responded well to the treatment.
+
+**Procedures:**
+- Appendectomy, [B-DATE]1/4/2023[O], performed by Dr. [B-NAME]Emily Clark[O]
+
+**Consults:**
+- Gastroenterology
+- Surgery
+
+**Condition at Discharge:** Stable
+
+**Discharge Medications:**
+- Paracetamol 650 mg as needed for pain
+- Continue with home medications
+
+**Follow-up Instructions:**
+- Follow-up with primary care physician, Dr. [B-NAME]Henry Little[O], in two weeks
+- Surgery follow-up in one week with Dr. [B-NAME]Emily Clark[O]
+- [B-ORGANIZATION]Community Clinic[O], [B-ADDRESS]123 Healing Way, Harmony, IL 62522[O]
+- [B-PHONE]555-987-1234[O]
+
+**Discharge Diagnoses:**
+1. Acute Appendicitis
+2. Hypertension
+3. Type II Diabetes Mellitus
+
+**Instructions for Patient:**
+- Keep surgical site clean and dry
+- Avoid heavy lifting for at least six weeks
+- Contact your doctor if you experience increased pain, fever, or signs of infection.
+
+**Discharge Coordinator:** Nurse [B-NAME]Linda Grey[O]
+
+**Signature:** Dr. [B-NAME]Emily Clark[O], Attending Physician
+
+**Date:** [B-DATE]1/14/2023[O], Time: 11:00 AM
+
+This comprehensive discharge summary ensures continuity of care by providing all relevant medical information and follow-up directions. The PHI has been clearly annotated for privacy compliance.

@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+
+- **Patient Name**: [B-NAME]Jane Doe[O]
+- **Age**: [B-AGE]45 years[O]
+- **Date of Birth**: [B-DATE]June 3, 1978[O]
+- **Medical Record Number**: [B-ID]43729482[O]
+
+**Hospital Admission/Discharge:**
+
+- **Admission Date**: [B-DATE]September 15, 2023[O]
+- **Discharge Date**: [B-DATE]September 25, 2023[O]
+- **Admitting Diagnosis**: Suspected myocardial infarction
+- **Final Diagnosis**:
+  - Primary: Coronary artery disease
+  - Secondary: Type 2 diabetes mellitus
+
+**Treatment Provided:**
+
+- Coronary angioplasty with stenting
+- Medication adjustment for diabetes control
+- Diet and lifestyle counseling
+
+**Hospital Course:**
+
+[B-NAME]Jane Doe[O]'s hospital stay was necessitated due to chest pains experienced on [B-DATE]September 14, 2023[O], while at work. Upon admission at [B-ORGANIZATION]City General Hospital[O], she underwent several diagnostic tests that confirmed significant blockages in her coronary arteries. An elective angioplasty was performed successfully on [B-DATE]September 17, 2023[O]. Her recovery was straightforward without complications, and her diabetic control was optimized during the stay with adjustments in her oral hypoglycemic agents.
+
+**Discharge Medications:**
+
+- Aspirin 81 mg daily
+- Metformin 1000 mg twice daily
+- Simvastatin 40 mg nightly
+
+**Outpatient Follow-up:**
+
+- Cardiology follow-up with Dr. [B-NAME]Alan Grant[O] scheduled for [B-DATE]October 5, 2023[O] at [B-ORGANIZATION]City General Outpatient Clinic[O].
+- Diabetes management follow-up with Endocrinologist Dr. [B-NAME]Sarah Lee[O] on [B-DATE]October 10, 2023[O].
+- Patient is to continue lifestyle modifications including a balanced diet and regular exercise as advised during hospital discharge education sessions.
+
+**Instructions for Patient:**
+
+- Report immediately for chest pain, shortness of breath, or severe hypoglycemia.
+- Continue medications as prescribed without interruption.
+- Adhere to the diet and exercise regimen prescribed by the dietitian and physiotherapist.
+
+**Discharge Condition:**
+
+Patient discharged in stable condition with prescriptions and follow-up appointments scheduled. Advised to monitor her blood sugar levels daily and keep a log to be reviewed during her follow-up appointments.
+
+**Signature**:
+- **Discharging Physician**: Dr. [B-NAME]Emily Stanton[O]
+- **Date**: [B-DATE]September 25, 2023[O]
+- **Time**: 11:45 AM
+
+**Hospital Contact Information**:
+- **Phone**: [B-PHONE]555-0199[O]
+- **Address**: [B-ADDRESS]123 Health Way, Metropolis, IL, 62960[O]
+
+This narrative document provided a comprehensive view of [B-NAME]Jane Doe[O]'s hospital stay, highlighting the primary medical events, treatment, and follow-up plans while maintaining the integrity of PHI labeling as per HIPAA guidelines.

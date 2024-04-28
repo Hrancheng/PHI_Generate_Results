@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+
+**Patient**: [B-NAME]Edward Milton[O], MRN: [B-ID]785492314[O], is a [B-AGE]72 years old[O] male, admitted to the Cardiology service for management of acute myocardial infarction and subsequent complications.
+
+**Admission Date**: [B-DATE]September 10, 2023[O]
+**Discharge Date**: [B-DATE]September 30, 2023[O]
+**Attending Physician**: Dr. [B-NAME]Susan O'Malley[O]
+**Consulting Team**:
+- Cardiology: Dr. [B-NAME]Hari Srinivasan[O]
+- Endocrinology: Dr. [B-NAME]Lisa Wong[O]
+- Nutritionist: [B-NAME]Angela Brooks[O]
+
+**Hospital Problems Noted - Active upon Discharge**:
+- Acute myocardial infarction [B-DATE]September 10, 2023[O] - Present
+- Type 2 Diabetes Mellitus - Poor control [B-DATE]September 15, 2023[O] - Present
+- Hypertension [B-DATE]September 10, 2023[O] - Present
+
+**Hospital Course**:
+Mr. [B-NAME]Edward Milton[O] was brought to the emergency department of [B-ORGANIZATION]Mercy General Hospital[O] on [B-DATE]September 10, 2023[O], after experiencing severe chest pain while at [B-ADDRESS]home[O]. Initial EKG confirmed ST-elevation myocardial infarction (STEMI), and he was immediately taken to the [B-LOCATION]Cardiac Catheterization Lab[O]. A significant blockage was identified and successfully treated with angioplasty and stent placement.
+
+Post-procedure, Mr. [B-NAME]Milton[O] was transferred to the [B-LOCATION]ICU[O] for close monitoring. His blood sugar levels were found to be high, necessitating consultation with endocrinology for diabetes management. He was managed on an insulin drip with subsequent transition to a tailored subcutaneous regimen.
+
+Throughout his hospitalization, Mr. [B-NAME]Milton[O] also participated in dietary counseling with [B-NAME]Angela Brooks[O] to help better manage his diabetes through lifestyle adjustments. His condition stabilized, and he was discharged to a [B-LOCATION]rehabilitation facility[O] on [B-DATE]September 30, 2023[O] for further recovery and monitoring of his heart function.
+
+**Medications on Discharge**:
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Lisinopril 20 mg daily
+- Atorvastatin 80 mg at night
+- Insulin Glargine 20 units at bedtime
+- Insulin Lispro according to sliding scale
+
+**Follow-Up Instructions**:
+Mr. [B-NAME]Milton[O] is advised to follow up with his cardiologist, Dr. [B-NAME]Hari Srinivasan[O], within two weeks post-discharge. He should also schedule an appointment with his primary care physician, Dr. [B-NAME]Susan Barnett[O], in one month to review his overall health and diabetes management.
+
+**Discharge Diet**: Diabetes appropriate diet, low in saturated fats and sodium, prescribed by the nutritionist. Continue with caloric intake as discussed during hospital stay.
+
+**Activity Level**: Limited to light activities, including walking and minor household tasks. No lifting of weights above 10 pounds is recommended until further evaluation.
+
+**Patient Education**: Provided comprehensive education about recognizing signs of chest pain, managing diabetes, and the importance of adhering to the medication regimen. Instructions were also given regarding signs of infection at the catheter insertion site.
+
+**Next Steps for Follow-Up**:
+- [B-ORGANIZATION]Cardio Rehab Center[O], [B-PHONE]554-983-5521[O]
+- [B-ORGANIZATION]Community Diabetes Support Group[O], [B-PHONE]554-132-9981[O]
+
+Signed: Dr. [B-NAME]Susan O'Malley[O], MD, [B-DATE]September 30, 2023[O], [B-LOCATION]Mercy General Hospital Discharge Office[O].

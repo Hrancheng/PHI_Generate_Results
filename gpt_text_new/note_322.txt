@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Evelyn Morris[O], MRN# [B-ID]458726598[O], is a [B-AGE]62 y.o.[O] female, admitted to the surgical unit for management of a right hip fracture following a fall at home.
+
+**Admission Date:** [B-DATE]10/15/2023[O]  
+**Discharge Date:** [B-DATE]10/25/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Nathan O'Reilly[O]  
+**Treatment Team:**
+- Primary Nurse: [B-NAME]Samantha Wright[O], RN
+- Orthopedic Surgeon: Dr. [B-NAME]Ian Malcolm[O]
+
+**Hospital Problems Noted - Resolved**  
+**POA Active Problems**
+1. Right hip fracture [B-DATE]10/15/2023[O] - Present Yes  
+2. Hypertension - Controlled as of [B-DATE]10/20/2023[O]
+
+**Hospital Course:**  
+Mrs. [B-NAME]Evelyn Morris[O] presented in the ED with severe pain in her right hip after slipping on a wet floor at home. Diagnostics included X-rays confirming a right hip fracture. Surgery was performed on [B-DATE]10/16/2023[O] for hip pinning. Post-operatively, the patient responded well to physical therapy and was able to ambulate with assistance by [B-DATE]10/20/2023[O]. Blood pressure was initially elevated due to pain but was managed effectively with antihypertensives.
+
+**Discharge Medications:**
+- Acetaminophen 500 mg tablet, take 1 tablet every 6 hours as needed for pain.
+- Lisinopril 10 mg tablet, take 1 tablet daily for hypertension.
+
+**Follow-Up Appointments:**  
+- Orthopedic follow-up with Dr. [B-NAME]Ian Malcolm[O] on [B-DATE]11/02/2023[O] at [B-ORGANIZATION]City Orthopedics[O]. 
+- Primary Care follow-up with Dr. [B-NAME]Laura Harris[O] on [B-DATE]11/05/2023[O] at [B-ORGANIZATION]Main Street Medical Clinic[O].
+
+**Discharge Instructions:**
+Patient advised to avoid placing full weight on the right leg until cleared by orthopedics. Continue use of walker for mobility. Maintain scheduled blood pressure monitoring and regular medication adherence.
+
+**Advanced Directives:**  
+Patient has a living will on file and prefers to avoid resuscitation efforts beyond non-invasive measures.
+
+**Discharge Summary Completed By:** Dr. [B-NAME]Nathan O'Reilly[O], signed electronically on [B-DATE]10/25/2023[O].
+
+**Last Recorded Vital Signs:**
+- BP: 130/85
+- Pulse: 78
+- Temp: 98.6 °F
+- Resp: 16
+- SpO2: 98%
+
+**Discharge Exam Findings:**
+- General: Well appearing, no acute distress
+- Cardiovascular: Regular rate and rhythm
+- Respiratory: Clear to auscultation bilaterally
+- Musculoskeletal: Right hip with surgical dressing, no signs of infection
+- Neurologic: Alert and oriented, good movement of all extremities apart from restricted right lower limb due to surgery
+
+**QuickLab Panel:**
+- CBC: Normal
+- CMP: Within normal limits
+- EKG: Normal sinus rhythm
+
+**Imaging:**
+- Right hip X-ray post-surgery: Shows good alignment of surgical pins with no complications.
+
+The patient and her daughter, [B-NAME]Susan Thompson[O], who will be assisting her at home, both understand the discharge plan and have assured they will contact the clinic if there are any concerns. A copy of this summary has been emailed to both the follow-up providers and the patient at [B-CONTACT]evelyn.morris@patientmail.com[O].
+
+**Physical Address:** Residence at [B-ADDRESS]1872 Maple View Drive, Springfield, IL[O]. 

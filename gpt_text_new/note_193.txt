@@ -1,0 +1,68 @@
+**Hospital Inpatient Discharge Summary**
+---
+**Patient Information:**
+- Patient Name: [B-NAME]Emily Thompson[O]
+- MRN#: [B-ID]8439025[O]
+- Age: [B-AGE]55 years[O]
+- Admission Date: [B-DATE]September 14th, 2023[O]
+- Discharge Date: [B-DATE]September 28th, 2023[O]
+
+**Admitting Physician:**
+- Dr. [B-NAME]Richard Grant[O]
+
+**Hospital Service:**
+- General Medicine
+
+**Admission Diagnosis:**
+- Acute exacerbation of chronic heart failure
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] was admitted following increasing shortness of breath associated with bilateral lower extremity edema and paroxysmal nocturnal dyspnea. Initial labs showed elevated B-type Natriuretic Peptides and an ECG demonstrating non-specific ST-T wave changes. She was managed with IV diuretics and beta-blockers, adjusting her oral medications to optimize heart failure management. Her response was favorable, with significant reduction in symptoms and stabilization of fluid status.
+
+**Consultations:**
+- Cardiology
+- Dietetics for sodium-restricted diet education
+
+**Procedures:**
+- Echocardiogram on [B-DATE]September 16th, 2023[O]: Showed left ventricular ejection fraction of 35%.
+
+**Significant Findings:**
+- Potassium at admission: 4.1 mEq/L
+- Creatinine at admission: 1.2 mg/dL
+- Discharge Potassium: 4.3 mEq/L
+- Discharge Creatinine: 1.1 mg/dL
+
+**Medications on Discharge:**
+- Furosemide 40 mg twice daily
+- Carvedilol 25 mg twice daily
+- Lisinopril 20 mg daily
+- Spironolactone 25 mg daily
+
+**Discharge Planning:**
+[B-NAME]Emily Thompson[O] has shown significant improvement and is discharged to her home at [B-ADDRESS]345 West Slate Street, Apartment 4B, Jackson, MS, 39201[O]. She is advised to weigh daily and continue a sodium-restricted diet. Fluid intake should not exceed 2 liters per day.
+
+**Follow-up:**
+- Return to Dr. [B-NAME]Richard Grant[O] in one week for post-discharge check-up at [B-ORGANIZATION]Jackson Main Hospital, General Medicine Clinic[O]
+- Cardiology follow-up in one month
+
+**Discharge Condition:**
+- Stable, much improved
+- Counseled on signs of worsening heart failure
+- Verbal and written instructions provided for emergency measures in case of symptom exacerbation
+
+**Instructions for Patient:**
+- Continue medications as prescribed
+- Monitor blood pressure and heart rate twice daily
+- Report any weight gain of more than 3 pounds in a day or 5 pounds in a week immediately
+
+**Signed:**
+- Dr. [B-NAME]Richard Grant[O], MD, [B-DATE]September 28th, 2023[O], at 16:00
+
+**For any concerns or to report symptoms, please contact:**
+- [B-PHONE]555-692-1103[O]
+
+**Note:**
+- All information is meant for continuation of care and follow-ups as outlined. Stick to the low-sodium diet and keep active as tolerated. Continue outpatient cardiac rehabilitation sessions. Safe measures such as avoiding overexertion and provision for emergency response were discussed in detail and understood by [B-NAME]Emily Thompson[O].
+
+---
+This discharge summary was synthesized based on common scenarios and practices for a patient with heart failure being managed in an inpatient setting and being transitioned back to outpatient care.

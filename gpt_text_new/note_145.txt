@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Elizabeth Tomson[O], MRN#[B-ID]785392015[O],** is a [B-AGE]54-year-old[O] female who was admitted to the cardiology service due to a myocardial infarction. 
+
+**Admission Date**: [B-DATE]February 10, 2023[O]  
+**Discharge Date**: [B-DATE]February 20, 2023[O]  
+**Attending Provider**: Dr. [B-NAME]Harold Greene[O]
+
+**Hospital Service**: Cardiology  
+**PCP**: Dr. [B-NAME]Amy Kline[O]  
+**Consulted Services**: Nutrition, Physical Therapy
+
+**Admission Diagnosis**:  
+1. Acute Myocardial Infarction  
+2. Hypertension
+
+**Hospital Course**:  
+Ms. [B-NAME]Tomson[O] presented to the emergency department with chest pain and was subsequently diagnosed with a myocardial infarction. She underwent cardiac catheterization revealing a 90% blockage in her left anterior descending artery, which was successfully stented. Post-procedure, she was initiated on dual antiplatelet therapy and statins. Her blood pressure was managed with ACE inhibitors and beta-blockers. She participated in cardiac rehabilitation sessions and was counseled by nutrition on a heart-healthy diet.
+
+**Discharge Medications**:  
+1. Aspirin 81 mg daily  
+2. Atorvastatin 40 mg at bedtime  
+3. Lisinopril 20 mg daily  
+4. Metoprolol 50 mg twice a day  
+
+**Allergies**: No known drug allergies
+
+**Discharge Condition**: Stable  
+**Disposition**: Discharged to home with home healthcare services  
+**Follow-up**:  
+- Cardiology follow-up in 2 weeks with Dr. [B-NAME]Harold Greene[O]  
+- Primary care follow-up within 1 week  
+- Scheduled for outpatient cardiac rehabilitation
+
+**Instructions**:  
+- Follow a low-sodium, low-fat diet  
+- Monitor blood pressure twice a day  
+- Contact her healthcare provider if symptoms such as chest pain, shortness of breath, or excessive swelling occur  
+
+**Preventive Measures**: Encouraged smoking cessation, regular exercise, stress management, and adherence to prescribed therapies.
+
+**Signed by**: Dr. [B-NAME]Harold Greene[O], [B-DATE]February 20, 2023[O] at 3 PM
+
+**[B-ORGANIZATION]Metropolitan Heart and Vascular Institute[O]**
+**[B-ADDRESS]3425 River Park Drive, Metro City, MA 02210[O]**
+
+**[B-PHONE]321-555-0198[O]**
+
+This synthetic discharge summary helps emphasize the key components of de-identified patient and healthcare provider information, aligned with the PHI de-identification annotation guidelines.

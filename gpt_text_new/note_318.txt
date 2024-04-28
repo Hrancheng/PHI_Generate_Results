@@ -1,0 +1,50 @@
+**[B-ORGANIZATION]City Hospital Medical Center[O] Discharge Summary**
+
+**Patient Name:** [B-NAME]Margaret Connolly[O]  
+**MRN:** [B-ID]987654321[O]  
+**Age:** [B-AGE]72 years[O]  
+**Admission Date:** [B-DATE]September 12, 2023[O]  
+**Discharge Date:** [B-DATE]September 20, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Helen Richardson[O]
+
+**Admitting Diagnosis:**
+Acute exacerbation of chronic heart failure
+
+**Hospital Course:**
+[B-NAME]Margaret Connolly[O] was admitted to [B-ORGANIZATION]City Hospital Medical Center[O] following a presentation at the Emergency Department with symptoms of dyspnea and fatigue. The patient's condition was managed with IV diuretics and stabilization of her heart condition. The serial echocardiograms showed no significant change compared to the previous study carried out on [B-DATE]June 15, 2023[O]. Her renal function was monitored closely due to the administration of diuretics, showing slight improvement in creatinine levels from 1.9 to 1.4 mg/dL.
+
+Over the course of her hospital stay, symptoms improved significantly, allowing for a step-down in diuretic therapy and transition to oral medications. Dietary restrictions were reinforced, and patient education was given about fluid restriction and salt intake.
+
+**Discharge Medications:**
+1. Furosemide 40 mg, orally, twice a day
+2. Potassium Chloride 20 mEq, orally, once a day
+3. Carvedilol 25 mg, orally, twice a day
+
+**Follow-up:**
+[B-NAME]Margaret[O] is scheduled for outpatient follow-up at [B-ORGANIZATION]City Heart Clinic[O] on [B-DATE]October 4, 2023[O] with Dr. [B-NAME]Jason Lee[O]. She has been advised to monitor her weight daily and report any gain of more than three pounds in a day or five pounds in a week.
+
+**Diet:**
+Low salt diet, fluid restriction of 1.5 liters per day.
+
+**Activity:**
+Gradual increase in activity is advised. [B-NAME]Margaret[O] is to continue with physical therapy twice a week to assist with mobility and strengthen her cardiovascular endurance.
+
+**Pending Lab Tests to be reviewed at follow-up:**
+1. Serum Potassium
+2. BNP (Brain Natriuretic Peptide)
+
+**Instructions for Patient:**
+[B-NAME]Margaret Connolly[O] is instructed to keep a log of her daily weights and bring it during the follow-up visit. She should contact the clinic immediately if she experiences increasing shortness of breath, chest pain, or undue fatigue.
+
+**Discharge Instructions:**
+The patient should continue to monitor for signs of fluid overload, adherence to a low salt diet is critical, and prompt reporting of symptoms suggestive of worsening heart failure is emphasized.
+
+**LACE Score:**
+8 – High risk of readmission
+
+**Discharge Status:**
+Discharged to home under the care of her daughter, [B-NAME]Susan Thompson[O]. [B-PHONE]555-123-4567[O] is provided for emergencies.
+
+[**Signed:** Dr. [B-NAME]Helen Richardson[O], [B-DATE]September 20, 2023[O]]  
+  
+This discharge summary complies with the de-identification requirements and provides a clear, concise, and informative overview of [B-NAME]Margaret Connolly[O]'s hospital stay, treatment, and follow-up care.

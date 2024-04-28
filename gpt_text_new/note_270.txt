@@ -1,0 +1,48 @@
+**Metropolitan General Hospital**
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Helen Turner[O]
+**Medical Record Number:** [B-ID]45739582[O]
+**Age:** [B-AGE]68 years old[O]
+
+**Admission Date:** [B-DATE]January 15, 2023[O]
+**Discharge Date:** [B-DATE]January 24, 2023[O]
+**Attending Physician:** Dr. [B-NAME]Eric Johnson[O]
+
+### Hospital Course:
+[B-NAME]Helen Turner[O] was admitted after presenting with symptoms of a mild stroke. Initial assessment revealed left-sided weakness and slurred speech.
+
+### Significant Interventions:
+1. Administered IV tPA within the first 3 hours of symptom onset, observing significant improvement in speech and mobility.
+2. Conducted MRI of the brain on [B-DATE]January 16, 2023[O], confirming the presence of a small ischemic area in the right hemisphere.
+3. Rehabilitation services were consulted and initiated physical therapy from [B-DATE]January 17, 2023[O].
+
+### Progress:
+Patient's condition improved steadily with physical therapy. Neurological evaluations showed regained strength in the left limbs. Speech therapy assisted with the recovery of speech clarity.
+
+### Discharge Medications:
+1. Aspirin 81 mg daily
+2. Atorvastatin 20 mg nightly
+3. Lisinopril 10 mg daily
+
+### Follow-Up Appointments:
+1. Neurology follow-up with Dr. [B-NAME]Susan Malik[O] at [B-ORGANIZATION]Metropolitan Neurological Institute[O] on [B-DATE]February 5, 2023[O].
+2. Primary care follow-up with Dr. [B-NAME]Harold Greeves[O] on [B-DATE]February 12, 2023[O].
+
+**Discharge Instructions:**
+Continue with prescribed medications without interruption. Attend all scheduled physical therapy sessions and follow-up appointments. Monitor blood pressure and cholesterol levels regularly. Contact [B-NAME]Susan Malik[O] or [B-NAME]Harold Greeves[O] if symptoms such as weakness, speech difficulties, or dizziness reoccur.
+
+**Discharge Vitals:**
+Blood Pressure: 130/80 mmHg; Heart Rate: 72 bpm; Temperature: 98.6 F (Oral); Respiratory Rate: 16 per minute.
+
+**Condition at Discharge:**
+Stable with significant improvement in initial presentation symptoms.
+
+**Discharge Planner:** [B-NAME]Jennifer Parkson, RN[O]
+**Contact Information:** [B-PHONE]555-392-4055[O]
+**Hospital:** [B-ORGANIZATION]Metropolitan General Hospital[O]
+
+**Summary and Recommendations:**
+Patient to continue rehabilitation therapies and adhere to stroke prevention strategies including lifestyle and dietary modifications. Regular monitoring of cardiovascular risk factors is strongly advised. 
+
+This summary has been discussed with the patient and her son, [B-NAME]Michael Turner[O], ensuring understanding and agreement with the care plan post-discharge.

@@ -1,0 +1,44 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Emily Carter[O], MRN# [B-ID]444253762[O], a [B-AGE]52 y.o.[O] female, was admitted under the care of the General Surgery service due to complications from a previous abdominal surgery. 
+
+Admission Date: [B-DATE]9/10/2023[O]  
+Discharge Date: [B-DATE]9/17/2023[O]  
+Attending Physician: Dr. [B-NAME]Amanda Lee[O]  
+
+**Hospital Course:**
+Upon admission, [B-NAME]Carter[O] was experiencing severe abdominal pain and signs of infection at the surgical site noted during her last outpatient visit. The decision was made to perform exploratory surgery which revealed a small abscess which was drained and cleaned thoroughly. Post-operatively, the patient was started on IV antibiotics.
+
+Post-surgical recovery was closely monitored in the post-operative recovery unit, where she initially showed signs of improvement. However, on the third post-operative day ([B-DATE]9/13/2023[O]), [B-NAME]Carter[O] developed a fever and increased leukocyte count indicating a potential post-surgical infection. Additional antibacterial therapy was initiated, and the patient responded well with subsequent normalization of temperature and white cell count by [B-DATE]9/16/2023[O].
+
+**Discharge Medications:**
+1. Ciprofloxacin 500 mg Oral Tablet: Take one tablet twice daily for 14 days.
+2. Paracetamol 500 mg Oral Tablet: Take one tablet every 6 hours as needed for pain.
+   
+**Follow-Up Care:**
+[B-NAME]Carter[O] is scheduled for a follow-up appointment with her primary care provider, Dr. [B-NAME]Susan Hill[O], on [B-DATE]9/25/2023[O] at [B-ORGANIZATION]Central City Medical Group[O]. During this visit, the status of the surgical site will be assessed and further recommendations for physical activity and diet will be provided. 
+
+**Instructions for Patient:**
+- Monitor the surgical site for signs of redness, swelling, or discharge.
+- Maintain adequate hydration and follow the prescribed dietary recommendations.
+- Contact healthcare provider if experiencing fever, severe pain, or other symptoms suggestive of complications.
+
+**Discharge Diagnostics:**
+- WBC count normalized to 11,000/uL on [B-DATE]9/16/2023[O].
+- Discharge abdominal ultrasound showed no further abscess formation.
+
+**Condition at Discharge:**
+Good; stable with recommendations to monitor for signs of infection or complications. Patient is aware of symptoms that would necessitate immediate medical attention.
+
+**Discharge Disposition:**
+Home with follow-up as noted above. Patient understands discharge instructions and verbalizes understanding of warning signs for potential complications.
+
+Next Steps:
+- Contact information for emergency and follow-up care given.
+- [B-PHONE]555-0198[O] for Dr. [B-NAME]Susan Hill[O]’s office
+- [B-PHONE]555-2020[O] for 24/7 patient care hotline
+
+Signed:
+[B-NAME]Amanda Lee[O], MD
+Date: [B-DATE]9/17/2023[O] at 11:00 AM
+[B-ORGANIZATION]General Hospital[O]

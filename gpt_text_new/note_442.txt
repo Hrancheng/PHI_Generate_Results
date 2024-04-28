@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Michael Trenton[O], MRN #[B-ID]987654321[O]
+
+**Age:** [B-AGE]58 years old[O]
+
+**Dates:**
+- **Admission Date:** [B-DATE]10/10/2023[O]
+- **Discharge Date:** [B-DATE]10/25/2023[O]
+
+**Admitting Diagnosis:** 
+- Acute myocardial infarction
+- Type II diabetes mellitus
+
+**Discharge Diagnosis:**
+- Acute myocardial infarction, resolved
+- Type II diabetes mellitus, stable
+
+**Hospital Course:**
+Mr. [B-NAME]Trenton[O] presented to the emergency department on [B-DATE]10/10/2023[O] complaining of severe chest pain radiating to his left arm, onset approximately 2 hours prior to admission. ECG on arrival indicated ST-elevation myocardial infarction. Immediate cardiology consultation led to cardiac catheterization, revealing two blocked coronary arteries, which were successfully revascularized with stents.
+
+Post-procedure, his hospital course was complicated by transient hyperglycemic episodes, managed with insulin adjustments. A diet consultation was provided to adjust his diabetic meal plan. His recovery was steady, and he was progressively mobilized with cardiology and endocrinology managing his care collaboratively.
+
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Metformin 500 mg twice daily
+- Insulin Glargine 40 units at bedtime
+- Rosuvastatin 20 mg at bedtime
+
+**Follow-up Appointments:**
+1. Cardiology follow-up on [B-DATE]11/05/2023[O] at [B-ORGANIZATION]Downtown Cardiology Clinic[O]
+2. Diabetes management on [B-DATE]11/06/2023[O] with Dr. [B-NAME]Emily Stanson[O]
+3. Dietician review in two weeks via telehealth.
+
+**Discharge Instructions:**
+Mr. [B-NAME]Trenton[O] has been counseled on recognizing signs of chest pain, managing his blood sugar levels, and the importance of adherence to his therapeutic regime. He is discharged on a balanced diet suitable for his diabetic condition, advised to avoid strenuous activity for 4 weeks, and to progressively increase his physical activities as tolerated. He should continue smoking cessation.
+
+**Next Steps:**
+- Call your physician if you experience chest pain, uncontrolled blood sugar levels or if you have any concerns regarding your medications.
+- Ensure to attend all scheduled follow-up appointments.
+
+**Discharge Condition:**
+Patient is alert and oriented, ambulating independently, vitals stable, and reports readiness to return home. Discharged in stable condition.
+
+**Physician:** Dr. [B-NAME]Jonathan Reed[O], MD, Cardiologist
+
+**Discharge Coordinator:** Nurse [B-NAME]Patricia Helms[O]
+
+**Location:** [B-ORGANIZATION]Regional Health Hospital[O], [B-ADDRESS]4500 Riverwalk Parkway, Riverside, CA 92505[O]
+
+This discharge summary details Mr. [B-NAME]Michael Trenton[O]'s care during his stay at [B-ORGANIZATION]Regional Health Hospital[O]. It should be used to coordinate care and continue monitoring his recovery and ongoing health management. Should any questions arise, please contact our facility.

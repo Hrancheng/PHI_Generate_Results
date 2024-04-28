@@ -1,0 +1,65 @@
+**UHS Medical Center Discharge Summary**
+
+**Patient Name:** [B-NAME]Emily Rostova[O]  
+**MRN#:** [B-ID]312547896[O]  
+**Age:** [B-AGE]68 years old[O]  
+**Admission Date:** [B-DATE]February 15, 2023[O]  
+**Discharge Date:** [B-DATE]February 28, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Michael Greer[O]  
+
+**Hospital Problems Noted - Resolved:**  
+POA Active Problems:  
+- Chronic obstructive pulmonary disease [B-DATE]2/15/2023[O] - Present Yes  
+- Hypertension [B-DATE]2/15/2023[O] - Present Yes  
+- Type 2 Diabetes Mellitus [B-DATE]2/15/2023[O] - Present Yes
+
+**Resolved Problems:**  
+RESOLVED: Acute exacerbation of COPD [B-DATE]2/15/2023[O] - [B-DATE]2/28/2023[O] Yes  
+RESOLVED: Urinary tract infection [B-DATE]2/18/2023[O] - [B-DATE]2/24/2023[O] Yes
+
+**Recommendations for Follow Up:**  
+Attention to Primary Care Physician: Dr. [B-NAME]Linda Schmidt[O]  
+Follow-up appointment on [B-DATE]March 10, 2023[O].  
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient: Routine blood work to monitor HbA1c. Monitor blood pressure weekly.
+
+**Discharge Medications:**  
+Metformin 500 mg tablet Refills: 1  
+Quantity: 60 tablet, Oral, TWICE DAILY  
+Lisinopril 20 mg tablet Refills: 1  
+Quantity: 30 tablet, Oral, ONCE DAILY  
+
+**Discharge Instructions:**  
+Patient instructed to maintain a low-sodium diet and continue using CPAP machine nightly. Patient educated on proper medication adherence and to schedule follow-up appointments as directed.
+
+**Significant Test or Procedure Results:**  
+Chest X-ray [B-DATE]2/20/2023[O]: Shows no acute disease, stable COPD.  
+EKG [B-DATE]2/22/2023[O]: Normal sinus rhythm, no significant changes from prior.
+
+**Discharge Information:**  
+Home with home health services.  
+[B-ORGANIZATION]Regional Home Health[O] will attend to the patient starting [B-DATE]March 1, 2023[O].  
+[B-PHONE]555-987-6543[O]
+
+**Home Instructions:**
+Patient is encouraged to maintain light daily activities and continue pulmonary rehabilitation exercises. Keep the home environment free from potential allergens and smoking.
+
+**Day of Discharge Vital Signs:**  
+BP 132/82 | Pulse 78 | Temp 36.8 °C | Resp 16 | SpO2 95%
+
+**Discharge Exam:**  
+General Appearance: Well-appearing, adequately hydrated, and nourished.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.  
+Heart: Regular heart rate and rhythm, no murmurs.  
+Extremities: No edema.  
+Neurologic: Alert and oriented x 4, no focal deficits.  
+
+**Follow-Up**:  
+Follow up with [B-ORGANIZATION]Regional Home Health[O].  
+Follow up with PCP, Dr. [B-NAME]Linda Schmidt[O], on [B-DATE]March 10, 2023[O].
+
+**Other Notes:**  
+Patient verbalizes understanding of discharge instructions and the importance of follow-up appointments. Noted to have family support from daughter, [B-NAME]Anna Rostova[O], who will assist with daily activities and transportation.
+
+**Signed:**  
+Dr. [B-NAME]Michael Greer[O], MD  
+[B-DATE]February 28, 2023[O], 2:45 PM.

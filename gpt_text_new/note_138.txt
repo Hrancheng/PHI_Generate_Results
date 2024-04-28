@@ -1,0 +1,53 @@
+Inpatient Discharge Summary 
+-----------------------------------
+
+Patient Information:
+- [B-NAME]Martha Reynolds[O], MRN# [B-ID]789654322[O], is a [B-AGE]65 y.o.[O] [B-DATE]female[O], admitted for complications related to chronic obstructive pulmonary disease (COPD). 
+
+Admission Date: [B-DATE]02/15/2023[O] 
+Discharge Date: [B-DATE]02/21/2023[O] 
+Discharge Physician: Dr. [B-NAME]Helen Zhou[O], [B-ORGANIZATION]City General Hospital[O]
+
+Primary Diagnosis: 
+- Exacerbation of COPD 
+Secondary Diagnoses:
+- Hypertension
+- Type 2 Diabetes Mellitus
+
+Hospital Course: 
+Mr. [B-NAME]Martha Reynolds[O] presented to the emergency department on [B-DATE]02/15/2023[O] with increased shortness of breath and a productive cough. Initial evaluation included chest X-rays, complete blood counts and assessment of arterial blood gases, confirming a COPD exacerbation. Treatment involved corticosteroid therapy and titration of her existing inhalation regimen. Blood glucose levels were monitored due to her diabetes, and hypertension was controlled through IV medication.
+
+Significant Events:
+- Blood pressure at admission was elevated, managed with intravenous antihypertensives.
+- Temporary insulin adjustment for blood glucose control.
+
+Medications at Discharge:
+- Albuterol inhaler, use as needed for breathlessness
+- Prednisone tapering dose starting from 40 mg daily.
+- Insulin adjusted dose as per Discharge 
+- Lisinopril for hypertension, 10 mg daily
+
+Discharge Instructions:
+- Continue with inhalers, follow tapering guide for Prednisone.
+- Monitor blood sugar levels daily.
+- Follow up with primary care physician Dr. [B-NAME]Samuel Kerr[O], [B-ORGANIZATION]Greenwood Medical Clinic[O], scheduled on [B-DATE]03/01/2023[O]. 
+- Immediate medical attention if shortness of breath worsens or if unable to control blood glucose levels.
+
+Disposal Status:
+Patient discharged to home under care of family member, [B-NAME]Elaine Reynolds[O]. Patient has demonstrated ability to manage medications and appropriate use of inhaler technique. 
+
+Disposition: Good
+Follow-Up Appointments:
+- Follow up in COPD clinic on [B-DATE]03/10/2023[O] at [B-LOCATION]Respiratory Therapy Dept., City General Hospital[O].
+- Review and potential adjustment of diabetes management on [B-DATE]03/20/2023[O] with [B-NAME]Dr. Jennifer Lee[O], [B-ORGANIZATION]Diabetes Care Center, City General Hospital[O].
+
+For Any Issues Post Discharge:
+Contact information:
+- [B-ORGANIZATION]City General Hospital[O], Respiratory Therapy Dept.: [B-PHONE]555-1234[O] 
+- [B-ORGANIZATION]Greenwood Medical Clinic[O]: [B-PHONE]555-5678[O]
+- For immediate concerns, call [B-LOCATION]Emergency Department[O] at [B-ORGANIZATION]City General Hospital[O].
+
+Signed:
+[B-NAME]Helen Zhou[O], MD
+[B-DATE]02/21/2023[O], 4:15 PM
+

@@ -1,0 +1,53 @@
+**Inpatient Discharge Summary**
+
+**[B-NAME]Alice Brown[O]**, MRN# [B-ID]789346293[O], is a [B-AGE]54 y.o.[O] [B-DATE]10/06/1968[O] female, admitted to the Cardiothoracic surgery department for management of ischemic heart disease complicated by acute myocardial infarction (AMI). 
+
+**Admission Date:** [B-DATE]9/15/2023[O]  
+**Discharge Date:** [B-DATE]9/25/2023[O]  
+**Admitting Physician:** Dr. [B-NAME]Sharon Lee[O]  
+**Discharge Physician:** Dr. [B-NAME]Michael Roberts[O]  
+**PCP:** [B-NAME]David Hall[O], MD  
+**[B-ADDRESS]104 Elm St., Boulder, CO, 80302[O]**  
+
+**Hospital Problems Noted - Resolved POA Active Problems**  
+1. Ischemic heart disease [B-DATE]9/15/2023[O] - Present Yes  
+2. Acute myocardial infarction [B-DATE]9/15/2023[O] - Present Yes  
+
+**Other Problems**  
+None
+
+**Hospital Course**:  
+[B-NAME]Alice Brown[O] was initially admitted to the emergency department at [B-ORGANIZATION]Mountain View Heart Hospital[O] after presenting with chest pain and shortness of breath. ECG confirmed ST-elevation AMI, and she was urgently taken to the catheterization lab where a coronary angioplasty and stenting were performed, showing significant improvement in coronary flow. Her recovery was monitored in the cardiovascular intensive care unit, where she remained hemodynamically stable post-procedure.
+
+**Discharge Medication List**:  
+1. Aspirin 81 mg tablet, Oral, ONCE DAILY  
+2. Atorvastatin 20 mg tablet, Oral, NIGHTLY  
+3. Metoprolol 50 mg tablet, Oral, TWICE DAILY  
+4. Isosorbide mononitrate 30 mg tablet, Oral, ONCE DAILY IN THE MORNING  
+
+**Appointments TO BE Scheduled**:  
+- Cardiology follow-up appointment: [B-DATE]10/05/2023[O], 2:00 PM with Dr. [B-NAME]Sharon Lee[O]  
+- PCP follow-up: [B-DATE]10/10/2023[O], 10:30 AM with Dr. [B-NAME]David Hall[O]  
+
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization**:   
+[B-AGE]54-year-old[O] female with a known history of hypertension presented with acute onset of chest pain and dyspnea on [B-DATE]9/15/2023[O]. Vitals on admission revealed hypotension and tachycardia, suggestive of cardiogenic shock. ECG showed ST-segment elevation in anterior leads.
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Upon admission, [B-NAME]Alice Brown[O] was rapidly assessed and taken for urgent coronary angiography which revealed a 90% occlusion of her left anterior descending artery. Immediate percutaneous intervention with stent placement was successful. Post-procedure, her chest pain resolved, and cardiac markers trended down. She was started on dual antiplatelet therapy and high-intensity statin therapy. Cardiac rehabilitation was initiated early during her hospitalization. She remained stable and showed good clinical progress with improved functional status.
+
+**Last Recorded Vital Signs:**  
+BP 122/78 | Pulse 64 | Temp 36.8 °C (98.2 °F) | Resp 16 | SpO2 98%
+
+**Pertinent Discharge Physical Exam Findings:**  
+General: Well-appearing female in no acute distress  
+Cardiovascular: Regular rhythm, no murmurs, good peripheral perfusion  
+Respiratory: Clear to auscultation bilaterally  
+Neurologic: Alert and oriented, no focal deficits  
+
+**Discharge Instructions:**  
+[B-NAME]Alice Brown[O] is to continue with medications as prescribed. She should monitor for any signs of chest pain, shortness of breath, or excessive fatigue. Cardiac rehabilitation should be continued on an outpatient basis. Follow-up appointments have been scheduled, and she is advised to keep these appointments without fail. In case of any concerns, she should contact her healthcare provider or return to the emergency room.
+
+**Clinic and On-Call Service Numbers provided** for any non-emergency concerns or questions.
+
+**[B-ORGANIZATION]Mountain View Heart Hospital[O]**  
+[B-PHONE]555-349-0123[O]

@@ -1,0 +1,53 @@
+**Inpatient Discharge Summary**
+
+**Patient Summary:**
+- [B-NAME]Thomas Ackerman[O], MRN [B-ID]654321[O]
+- [B-AGE]65-year-old[O] male
+- Admission Date: [B-DATE]1/12/2023[O]
+- Discharge Date: [B-DATE]1/22/2023[O]
+- Attending Physician: Dr. [B-NAME]Emily Jordan[O]
+- [B-ORGANIZATION]Central City Medical Center[O]
+
+**Hospital Course:**
+Mr. [B-NAME]Ackerman[O] presented to the emergency department with symptoms of a transient ischemic attack ([B-DATE]1/12/2023[O]). Neurology was consulted, and an MRI of the brain indicated no permanent damage. His cholesterol levels were notably high, and he underwent dietary counseling and adjustment in his lipid-lowering medications.
+
+During his stay, patient underwent daily physical therapy and showed significant improvements. His strength and coordination improved, and by the time of discharge, he was ambulating with minimal assistance.
+
+**Discharge Medications:**
+1. Atorvastatin 40 mg once daily
+2. Aspirin 81 mg daily
+3. Lisinopril 10 mg once daily
+
+**Follow-up Appointments:**
+- [B-DATE]1/30/2023[O] at 10 AM with [B-NAME]Dr. Emily Jordan[O] Neurology, [B-ORGANIZATION]Central City Medical Clinic[O]. 
+- [B-DATE]2/02/2023[O] at 11 AM Lipid Clinic at [B-ORGANIZATION]Central City Medical Center[O] for cholesterol management.
+
+**Significant Findings:**
+- Cholesterol at admission: 240 mg/dL
+- Cholesterol at discharge: 215 mg/dL
+- MRI: No signs of chronic infarction.
+
+**Laboratory Tests:**
+- Most recent LDH: 190 U/L ([B-DATE]1/21/2023[O])
+- Most recent HbA1c: 6.8% indicating good glucose control.
+
+**Education and Counseling:**
+Patient and family educated on signs and symptoms of stroke, importance of medication adherence, and lifestyle modifications including dietary changes. Stroke prevention pamphlets were provided.
+
+**Functional Status at Discharge:**
+Patient is alert and oriented x4. Ambulates with a walker, steady gait, no assistance needed for personal care.
+
+**Diagnostics:**
+- Carotid Ultrasound: No significant stenosis detected ([B-DATE]1/13/2023[O]).
+- ECHO: Normal left ventricular ejection fraction with no valvular abnormalities ([B-DATE]1/14/2023[O]).
+
+**Discharge Instructions:**
+Mr. [B-NAME]Ackerman[O] is to continue physical therapy at home and follow a low cholesterol diet. He should monitor for any signs of stroke or changes in his condition and report to the emergency department if symptoms reoccur.
+
+**Emergency Contacts:**
+In case of emergency, contact [B-ORGANIZATION]Central City Medical Center ER[O] at [B-PHONE]555-123-9870[O].
+
+**Signed:**
+[B-NAME]Dr. Emily Jordan[O], MD
+Date: [B-DATE]1/22/2023[O]
+Time: 3:00 PM

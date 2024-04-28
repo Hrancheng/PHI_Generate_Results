@@ -1,0 +1,53 @@
+Inpatient Discharge Summary
+[B-NAME]Michael Thomas[O], MRN# [B-ID]857473829[O], is a [B-AGE]58 y.o.[O] male, admitted to the Cardiology service for management of chronic heart failure and recent exacerbation. 
+
+Admission Date: [B-DATE]2/14/2023[O] 
+Discharge Date: [B-DATE]2/28/2023[O]
+Attending Provider: Dr. [B-NAME]Emily Stone[O]
+Treatment Team: Cardiology Unit Staff
+
+Hospital Problems Noted - Resolved:
+- Chronic heart failure [B-DATE]2/14/2023[O] - Present Yes
+- Acute kidney injury [B-DATE]2/16/2023[O] - [B-DATE]2/23/2023[O] Yes
+- Hypokalemia [B-DATE]2/17/2023[O] - [B-DATE]2/20/2023[O] Yes
+
+Resolved Problems:
+- RESOLVED: Acute exacerbation of chronic heart failure [B-DATE]2/14/2023[O] - [B-DATE]2/28/2023[O] Yes
+
+Discharge Medication List:
+- Furosemide 40 mg tablet Refills: 2
+   Take one tablet by mouth twice daily
+- Potassium Chloride 20 mEq tablet Refills: 2
+   Take one tablet by mouth once daily
+
+Plan for Follow-up:
+Primary Care Physician: Dr. [B-NAME]Sarah Lee[O], MD
+[B-ADDRESS]123 Health St, MediCare Clinic, Springfield, IL 62704[O]
+Phone: [B-PHONE](217) 555-0192[O]
+Next appointment scheduled on: [B-DATE]3/5/2023[O]
+
+Cardiology outpatient clinic:
+Follow-up appointment on [B-DATE]3/12/2023[O] with Dr. [B-NAME]Emily Stone[O] at [B-ORGANIZATION]Springfield Heart Institute[O]
+Check complete blood count, electrolytes, and renal function prior to the appointment.
+
+Labs to be drawn on [B-DATE]3/3/2023[O]:
+- Complete blood count
+- Comprehensive metabolic panel
+- NT-proBNP
+
+Education Provided:
+Discussed importance of medication adherence, daily weight monitoring, and dietary restrictions including fluid and salt limitation.
+Signs and symptoms of heart failure exacerbation such as increased shortness of breath, weight gain over 3 pounds in one week, or swelling of the legs were reviewed.
+
+Social Work Consult:
+Evaluated patient's home support system. Patient lives with wife, who is fully capable of assisting with his care. Discussed available community resources for additional support if needed.
+
+Disposition: 
+Patient discharged to home in stable condition, expressing understanding of discharge instructions and verbalized no further questions at this time.
+
+Discharge Instructions Signed by: 
+[B-NAME]Emily Stone[O], MD
+Date: [B-DATE]2/28/2023[O], Time: 4:30 PM
+
+This discharge summary was confirmed and discussed with the patient and his wife, [B-NAME]Susan Thomas[O]. 
+All involved parties agreed upon the follow-up plan and were provided with contact details for any questions or emergencies.

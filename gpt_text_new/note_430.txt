@@ -1,0 +1,55 @@
+**Inpatient Discharge Summary**
+
+Patient: [B-NAME]Rebecca Thompson[O], MRN#: [B-ID]982257483[O], is a [B-AGE]53 y.o.[O] female, admitted under Critical Care Medicine for monitoring after experiencing a stroke.
+
+Admission Date: [B-DATE]October 21, 2022[O]
+Discharge Date: [B-DATE]November 5, 2022[O]
+
+Attending Provider:
+Dr. [B-NAME]Simon Gregory[O]
+
+Treatment Team:
+Nursing care provided by [B-NAME]Sally Hanson[O], RN
+Neurology consults by Dr. [B-NAME]Irene Walsh[O]
+
+Hospital Problems Noted - Resolved:
+● Acute ischemic stroke ([B-DATE]October 21, 2022[O] - Present)
+● Hypertension ([B-DATE]October 21, 2022[O] - Present)
+● Type II Diabetes Mellitus ([B-DATE]October 21, 2022[O] - Present)
+
+Resolved Problems:
+RESOLVED: Urinary tract infection ([B-DATE]October 22, 2022[O] - [B-DATE]October 30, 2022[O])
+RESOLVED: Elevated blood glucose managed with insulin ([B-DATE]October 23, 2022[O] - [B-DATE]November 1, 2022[O])
+
+Brief Hospital Course:
+
+Ms. [B-NAME]Rebecca Thompson[O] was admitted on [B-DATE]October 21, 2022[O], after experiencing sudden left-sided weakness and slurred speech at home. On admission, her BP was elevated at 190/110 mmHg. Immediate CT scan confirmed an ischemic stroke in the right cerebral hemisphere. Intravenous thrombolysis was initiated within the 3-hour window, followed by stabilization in the ICU.
+
+Throughout her stay, blood pressure and blood glucose levels were closely monitored and controlled. After initial stabilization, Ms. [B-NAME]Thompson[O] began physical therapy to improve mobility and regain function on her left side.
+
+Discharge Medications:
+1. Aspirin 81 mg, once daily
+2. Simvastatin 20 mg, once daily at bedtime
+3. Lisinopril 10 mg, once daily
+4. Metformin 500 mg, twice daily
+
+Rehabilitation is recommended, focusing on strength training and speech therapy.
+
+Follow-up Appointments:
+● Physical Therapy at [B-ORGANIZATION]Downtown Physiotherapy and Rehab Center[O] - First appointment: [B-DATE]November 12, 2022[O], 10:00 AM
+● Dr. [B-NAME]Irene Walsh[O], Neurology follow-up at [B-ADDRESS]455 Healwell Street Clinic, Suite 210, Springfield, IL 62704[O] on [B-DATE]November 20, 2022[O] at 2:30 PM
+● Cardiology follow-up with Dr. [B-NAME]Laura Kim[O] at [B-ORGANIZATION]Springfield General Hospital[O], Cardiology Unit on [B-DATE]November 25, 2022[O] at 1:45 PM
+
+Home Care Instructions:
+1. Continue to monitor blood pressure and blood sugar levels at home.
+2. Adhere to prescribed medication regimen without any skips or changes unless consulted with healthcare provider.
+3. Diet recommendations include low sodium, low cholesterol, and controlled carbohydrate intake to manage blood pressure and diabetes.
+4. Immediate contact with healthcare provider if symptoms reoccur or worsen.
+
+Discharge Condition: Stable and improved, appropriate for home care with scheduled follow-up and rehabilitation appointments.
+
+[End of Discharge Summary]
+
+[Signature]
+Dr. [B-NAME]Simon Gregory[O]
+[B-DATE]November 5, 2022[O]

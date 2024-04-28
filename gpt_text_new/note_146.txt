@@ -1,0 +1,59 @@
+**[B-ORGANIZATION]General Hospital[O] Inpatient Discharge Summary**
+
+Patient: [B-NAME]Michael Thompson[O], MRN#: [B-ID]989760245[O], is a [B-AGE]58 y.o.[O] male who was admitted to the Cardiology service due to chest pain and suspected myocardial infarction.
+
+**Admission Date:** [B-DATE]9/15/2023[O]  
+**Discharge Date:** [B-DATE]9/25/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Anna Peterson[O]  
+**Treatment Team:** RN [B-NAME]Susan Hill[O], Dr. [B-NAME]Rajiv Kumar[O]
+
+**Hospital Problems Noted - Resolved**  
+**POA Active Problems:**  
+- Acute Myocardial Infarction [B-DATE]9/15/2023[O] - Present Yes  
+- Hypertension [B-DATE]9/15/2023[O] - Present Yes  
+- Type II Diabetes Mellitus [B-DATE]9/15/2023[O] - Present Yes
+
+**Resolved Problems:**  
+RESOLVED: Chest pain [B-DATE]9/15/2023[O] - [B-DATE]9/25/2023[O] Yes  
+RESOLVED: Elevated blood glucose on admission [B-DATE]9/15/2023[O] - [B-DATE]9/17/2023[O] Yes
+
+**Hospital Course:**  
+Mr. [B-NAME]Michael Thompson[O] was admitted with chest pain and diaphoresis. Initial EKG showed ST-segment elevation in anterior leads. Immediate cardiac catheterization confirmed a blockage in the left anterior descending artery, which was successfully treated with the placement of a drug-eluting stent. Post-procedure, the patient remained hemodynamically stable with resolution of chest pain. Diabetes management was adjusted with insulin sliding scale and metformin.
+
+**Significant Test or Procedure Results:**  
+- **Cardiac Catheterization on** [B-DATE]9/16/2023[O]: Successful stent placement in LAD.  
+- **EKG on** [B-DATE]9/15/2023[O]: Demonstrated ST elevation.  
+- **Blood Glucose Levels** [B-DATE]9/15/2023[O]: Varied from 200 mg/dL to 120 mg/dL over the course of admission.
+
+**Discharge Medications:**  
+1. Aspirin 81 mg tablet daily  
+2. Metoprolol 50 mg tablet twice daily  
+3. Atorvastatin 40 mg at bedtime  
+4. Metformin 500 mg tablet twice daily  
+5. Insulin Glargine 40 units at bedtime
+
+**Follow-Up Appointments:**  
+- Cardiology follow-up with Dr. [B-NAME]Rajiv Kumar[O] on [B-DATE]10/05/2023[O] at [B-ORGANIZATION]General Hospital Cardiology Clinic[O]  
+- Diabetes management with Endocrinology, [B-ORGANIZATION]General Hospital Diabetes Care Center[O] on [B-DATE]10/12/2023[O]
+
+**Instructions for Patient:**  
+- Continue medication as prescribed.  
+- Monitor blood sugar levels four times a day.  
+- Report any symptoms of chest pain, breathlessness, or hypoglycemia immediately.  
+- Maintain a diet low in saturated fats and sugars, and pursue moderate aerobic exercise like walking for at least 30 minutes each day.
+
+**LACE Score at Discharge:**  
+Total Score: 9 (Moderate Risk)  
+Contributing Factors: Length of Stay (5 days), Acuity of Admission (High), Comorbidities (3), Emergency department visits in last 6 months (0).
+
+**Risk Level:** Moderate  
+**Readmission Rate - 30 Day:** 7.9%  
+**Mortality Rate - 30 Day:** 0.7%
+
+**Contact Information for Queries/Concerns:**  
+General Cardiology: [B-PHONE]555-192-4567[O]  
+Diabetes Care Center: [B-PHONE]555-192-4532[O]
+
+**Final Thoughts:**  
+Mr. [B-NAME]Michael Thompson[O]'s hospital stay involved intensive cardiovascular and glycemic management. Plans and guidelines have been established to maintain his health post-discharge, with supportive follow-ups and ongoing therapy modifications based on his evolving clinical status.
+

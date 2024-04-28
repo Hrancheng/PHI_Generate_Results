@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+
+Discharge Date: [B-DATE]09/15/2023[O]  
+Patient Name: [B-NAME]Emily Thompson[O]  
+MRN#: [B-ID]987654321[O]  
+Age: [B-AGE]42 years old[O]  
+Admission Date: [B-DATE]09/01/2023[O]  
+
+Attending Physician: Dr. [B-NAME]Henry Goldsmith[O]  
+Treatment Team: Critical Care Medicine  
+First Contact: Hospital Emergency Services, documented via Pager [B-ID]#2341234[O]  
+
+**Hospital Problems Noted - Resolved:**
+- Acute Respiratory Distress Syndrome (Resolved as of [B-DATE]09/12/2023[O])
+- Pneumonia, Community Acquired (Resolved as of [B-DATE]09/10/2023[O])
+- Hypokalemia (Resolved with supplementation as of [B-DATE]09/08/2023[O])
+
+**Hospital Course:**
+Miss [B-NAME]Thompson[O] was admitted under the critical care unit at [B-ORGANIZATION]Greenwich Hospital[O] following a severe asthma attack compounded by community-acquired pneumonia. She was intubated briefly due to hypoxia but was successfully extubated two days post-admission. She received IV antibiotics and steroids to manage her conditions. Her potassium levels were closely monitored and addressed via supplementation.
+
+Miss [B-NAME]Thompson[O] showed satisfactory improvement, tolerated a step-down in care, and participated actively in respiratory therapy. Her recovery trajectory remained positive with marked improvement in respiratory function confirmed via pulmonary function tests.
+
+**Recommendations for Follow-Up Care:**
+Please schedule a follow-up appointment within one week of discharge for post-hospitalization evaluation. Future appointments should monitor lung function and the potential need for pulmonary rehabilitation to regain full respiratory health.
+- Follow-up with [B-ADDRESS]2034 Healing Way, Suite 302, Greenwich, CT[O] [B-PHONE]555-123-4567[O]
+- Pulmonary Rehab Consultation Scheduled for [B-DATE]09/22/2023[O] at 10 AM
+
+**Medications Prescribed at Discharge:**
+1. Prednisone 40 mg daily for 5 days then taper
+2. Salbutamol inhaler, 2 puffs every 4-6 hours as needed
+3. Amoxicillin 500 mg, three times a day for 7 days
+
+**Discharge Condition:**  
+Patient's condition at discharge is stable. She is encouraged to minimize physical exertion until after her follow-up appointment. Patient education was provided regarding signs of potential complications such as increasing shortness of breath or unresponsive wheezing, in which case she should seek immediate medical attention.
+
+**LACE Readmission Risk Score:**  
+- Total Score: 7 (Length of Stay: 3, Acute Admission: 2, Comorbidities: 2)
+- Risk Level: Moderate with a 7.9% readmission rate, 0.7% 30 Day Mortality Rate
+
+**Physical Exam at Discharge:**
+- General: No acute distress observed, awake, alert, and oriented.
+- Respiratory: Clear to auscultation bilaterally, no use of accessory muscles.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Extremities: No edema, normal peripheral perfusion.
+
+For any non-emergency concerns post-discharge, please contact the post-discharge helpline at [B-PHONE]555-789-0123[O]. For emergencies, dial 911 or return to the nearest emergency room.
+
+**Discharge Instructions:**  
+Patient was instructed on the importance of medication adherence, attending all follow-up appointments, and on the proper use of her inhaler technique by respiratory therapy. Dietary recommendations include a high protein, low salt diet to aid in recovery.
+
+**Signatures:**  
+Signed: Dr. [B-NAME]Henry Goldsmith[O], [B-DATE]09/15/2023[O]  
+Time: 2:00 PM  
+[O] Compliance acknowledged by [B-NAME]Emily Thompson[O]

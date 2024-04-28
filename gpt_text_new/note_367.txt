@@ -1,0 +1,55 @@
+**Inpatient Discharge Summary**
+
+**Patient:** [B-NAME]Eleanor T. Rigby[O], MRN: [B-ID]4583029[O]
+
+**[B-AGE]54-year-old[O] [B-ORGANIZATION]female[O], presented initially with symptoms of acute cholecystitis.**
+
+**Admission Date:** [B-DATE]09/15/2023[O]
+
+**Discharge Date:** [B-DATE]09/20/2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Harold Freeman[O]
+
+**Hospital Service:** General Surgery
+
+---
+### Hospital Course:
+
+Ms. [B-NAME]Rigby[O] was admitted following a presentation in the ER with severe abdominal pain, fever, and leukocytosis. An ultrasound confirmed the presence of gallstones with signs of inflammation. She underwent a laparoscopic cholecystectomy on [B-DATE]09/16/2023[O], which was converted to an open procedure due to technical difficulties. Her postoperative period was complicated by mild pneumonia, treated effectively with antibiotics. Her recovery was otherwise uneventful, and she progressively improved with supportive care.
+
+### Medications at Discharge:
+- Acetaminophen 650 mg Oral, every 6 hours as needed for pain
+- Amoxicillin-Clavulanate 625 mg Oral, twice daily for 7 days
+
+### Allergies:
+- No known drug allergies
+
+### Follow-Up:
+- [B-NAME]Dr. Helen Cho[O], General Surgery: [B-DATE]10/05/2023[O], at [B-ORGANIZATION]City General Hospital Clinic[O]
+
+### Instructions:
+- Keep the surgical site clean and dry.
+- Avoid heavy lifting and strenuous activities for 6 weeks.
+- Report any signs of infection, persistent pain, or jaundice immediately.
+
+### Contact Information:
+- General Surgery Clinic: [B-PHONE]555-0123[O]
+
+---
+### Discharge Condition:
+Patient is stable for discharge. She is to continue with a bland diet for the next week and gradually reintroduce regular food under the guidance of her dietician. Pain is currently managed with oral medications.
+
+---
+### Diagnostic Studies:
+- Ultrasound [B-DATE]09/15/2023[O]: Showed multiple gallstones with thickened gallbladder wall.
+- Chest X-Ray [B-DATE]09/18/2023[O]: Indicated mild infiltrates on the right lower lobe suggestive of pneumonia.
+
+### LACE Score:
+- Readmission Risk Level: Low
+- Readmission Rate - 30 Day Mortality Rate - 30 Day: 3.3% 0.1%
+
+**[B-NAME]Dr. Harold Freeman[O]**
+
+**Date signed:** [B-DATE]09/20/2023[O]
+
+**[B-ORGANIZATION]City General Hospital[O]**

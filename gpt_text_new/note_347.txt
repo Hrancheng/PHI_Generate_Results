@@ -1,0 +1,59 @@
+**Hospital Name: [B-ORGANIZATION]City General Hospital[O]**
+
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Eleanor Rigby[O]
+**MRN#:** [B-ID]8675309[O]
+**Age:** [B-AGE]65 years old[O]
+**Admission Date:** [B-DATE]March 1, 2023[O]
+**Discharge Date:** [B-DATE]March 15, 2023[O]
+**Attending Physician:** Dr. [B-NAME]Helen Parr[O]
+
+**Admission Diagnosis:**
+- Chronic Heart Failure
+- Type II Diabetes Mellitus
+
+**Hospital Course:**
+Ms. [B-NAME]Eleanor Rigby[O] was admitted to [B-ORGANIZATION]City General Hospital[O] with exacerbated chronic heart failure and poor glycemic control. During her stay, she was managed with IV diuretics and insulin therapy. Adjustments to her oral diabetic medications were made to improve her hemoglobin A1c levels which showed improvement from 9.2% to 7.5% over the two-week period.
+
+**Procedures Performed:**
+- Echocardiogram on [B-DATE]March 3, 2023[O]
+- Continuous Glucose Monitoring initiated on [B-DATE]March 4, 2023[O]
+
+**Discharge Medications:**
+- Lisinopril 20 mg daily
+- Metformin 1000 mg twice daily
+- Insulin Glargine 40 units at bedtime
+
+**Follow-Up Appointments:**
+1. Cardiology follow-up with Dr. [B-NAME]Ivy Pepper[O] on [B-DATE]March 22, 2023[O] at [B-LOCATION]Clinic A[O]
+2. Diabetes management follow-up with Dr. [B-NAME]Bruce Banner[O] on [B-DATE]March 29, 2023[O] at [B-LOCATION]Diabetes Care Center[O]
+
+**Discharge Instructions:**
+Ms. [B-NAME]Rigby[O] is advised to monitor her fluid intake and adhere strictly to her low-salt diet. She should continue to monitor her blood glucose levels four times a day using the provided glucometer and report any readings higher than 200 mg/dL to her healthcare provider. She is encouraged to weigh herself daily and report any weight gain over 3 pounds in a week.
+
+**Signature:**
+Dr. [B-NAME]Helen Parr[O]
+[B-DATE]March 15, 2023[O], 11:00 AM
+
+---
+
+**LACE - Readmission Risk Score** 
+(former content: does not apply to Pediatric, OB, PM&R, or Psychiatry Patients)
+**Total Score:** 9
+- **Length of Stay:** 14 days
+- **Acute Admission:** Confirm
+- **Charleson Comorbidity Score:** Confirm
+- **ED Visits in last 6 months:** 2 visits
+
+LACE is a risk assessment tool to prospectively identify patients at risk for unplanned Readmission or Death within 30 days of discharge. **Risk Level:** Moderate with a **Readmission Rate - 30 Day Mortality Rate - 30 Day:** 7.9% 0.7%. Click here for more information.
+
+**Communication of Discharge:**
+A comprehensive summary of the hospital stay and management plan was communicated to the primary care provider Dr. [B-NAME]Stephen Strange[O] on [B-DATE]March 15, 2023[O] via medical office system message.
+
+**Last Filed:** [B-DATE]March 15, 2023[O] at 1557
+**Initiated by:** Dr. [B-NAME]Helen Parr[O]
+
+---
+
+This discharge summary showcases a concise reflection of the patient's hospital stay and outlines a clear plan for outpatient management.

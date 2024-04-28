@@ -1,0 +1,42 @@
+**University Hospital Discharge Summary**
+
+**IDENTIFICATION:**
+- **Patient:** [B-NAME]Robert Clarkson[O], MRN [B-ID]25543628[O]
+- **Age:** [B-AGE]68 y.o.[O]
+- **Date of Admission:** [B-DATE]September 15, 2023[O]
+- **Date of Discharge:** [B-DATE]October 3, 2023[O]
+- **Attending Physician:** Dr. [B-NAME]Melissa Grant[O]
+
+**HOSPITAL COURSE:**
+Mr. [B-NAME]Clarkson[O] was admitted following a fall at home, presenting with left hip pain and inability to ambulate. Initial assessments indicated a hip fracture, and the patient underwent successful hip replacement surgery on [B-DATE]September 17, 2023[O].
+
+Post-operatively, Mr. [B-NAME]Clarkson[O] participated in physical therapy, initially with assistance, progressing to ambulation with minimal support. Complications included a brief episode of postoperative delirium, which resolved with conservative management.
+
+**MEDICATIONS AT DISCHARGE:**
+1. Acetaminophen 650 mg Tablet - Take 1 tablet by mouth every 6 hours as needed for pain.
+2. Enoxaparin 40 mg subcutaneous injection - Administer one injection daily for venous thromboembolism prevention until [B-DATE]October 10, 2023[O].
+
+**FOLLOW-UP CARE:**
+Mr. [B-NAME]Clarkson[O] has been scheduled for a follow-up appointment with his orthopedic surgeon, Dr. [B-NAME]Emily Watson[O], on [B-DATE]October 17, 2023[O], at [B-ORGANIZATION]Regional Orthopedics Clinic[O]. Additional follow-up for physical therapy evaluation will occur at [B-ORGANIZATION]Community Rehab Services[O] twice weekly.
+
+Home health services have been arranged with [B-ORGANIZATION]Priority Home Care[O]; a nurse will visit biweekly to evaluate the wound and provide necessary care. Patient's son, Mr. [B-NAME]Daniel Clarkson[O], will be assisting with daily activities and transportation to appointments.
+
+**INSTRUCTIONS FOR PATIENT/CAREGIVER:**
+- Continue using a walker or cane as advised during physical therapy sessions.
+- Perform prescribed hip-strengthening exercises twice daily.
+- Report any signs of infection, increased pain, or decreased mobility to the healthcare provider immediately.
+
+**DIETARY RECOMMENDATIONS:**
+Maintain a balanced diet rich in calcium and vitamin D to support bone health—plenty of fruits, vegetables, lean protein, and whole grains. Hydrate adequately.
+
+**DISCHARGE CONDITION:**
+Mr. [B-NAME]Clarkson[O] is discharged in a stable condition, with pain controlled by medications. He is ambulatory with assistance and shows readiness to engage in further outpatient recovery.
+
+**SUMMARY & PLAN:**
+The hip replacement has been successful with a smooth intraoperative course. Expected full recovery with adherence to physical therapy protocols. Vigilance for signs of post-surgical complications will continue through home health care visits.
+
+**DISCHARGE SIGN-OFF:**
+Signed by: Dr. [B-NAME]Melissa Grant[O], MD, [B-DATE]October 3, 2023[O]
+Time: 14:45 PM
+
+**Contact Information for Concerns:** Main hospital line at [B-PHONE]555-139-4586[O]. For severe or emergent issues, contact emergency services or return to the emergency department.

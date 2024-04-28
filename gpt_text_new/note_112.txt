@@ -1,0 +1,75 @@
+**[Y-HOSPITAL AND MEDICAL CENTER]**
+
+**Inpatient Discharge Summary**
+
+**[B-NAME]Evelyn Roberts[O]**, MRN #[B-ID]987654321[O], is a [B-AGE]72-year-old[O] female, admitted to the cardiology service for management of acute myocardial infarction. 
+
+**Admission Date**: [B-DATE]09/21/2023[O]
+**Discharge Date**: [B-DATE]09/30/2023[O]
+**Attending Provider**: Dr. [B-NAME]Helen Mirren[O]
+**Treatment Team**: Cardiovascular Medicine
+
+**!! FIRST CONTACT !!**: SA3 FLOOR - PAGER [B-ID]24750[O]
+**Hospital Problems Noted** - Resolved
+POA Active Problems:
+- Myocardial infarction (STEMI) [B-DATE]09/21/2023[O] - Present
+- Hypertension (CMS/HCC) [B-DATE]09/22/2023[O] - Present 
+
+**Resolved Problems**:
+Yes
+- Hypertension Control
+- Arrhythmia (resolved following medication adjustment)
+- Acute Kidney Injury
+
+**Recurring Problems**:
+- Ongoing management of chronic heart failure
+- Type 2 Diabetes Mellitus
+
+**Hospital Course: Brief Overview**
+Mrs. [B-NAME]Evelyn Roberts[O] was admitted to the cardiac care unit following the onset of severe chest pain characterized by tightness radiating to her left arm. Upon arrival, an immediate EKG confirmed ST-Elevation Myocardial Infarction (STEMI), and she was taken to the catheterization lab where she underwent successful percutaneous coronary intervention (PCI) to her left anterior descending artery. 
+
+Post-procedure, she was initiated on dual antiplatelet therapy and guideline-directed management for heart failure and diabetes. Her in-hospital course was complicated by transient acute kidney injury, likely contrast-induced, which resolved with hydration and careful management of her diuretics.
+
+**Medications at Discharge**:
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Empagliflozin 10 mg daily
+- Atorvastatin 40 mg at bedtime
+- Insulin Glargine 25 units at bedtime
+
+**Pertinent Discharge Instructions**:
+1. Follow a low-salt, heart-healthy diet as discussed with our dietitian.
+2. Continue rehabilitation through our outpatient cardiac rehab program.
+3. Monitor blood sugar levels daily before breakfast and any adjustments in insulin dosage to discuss with an endocrinologist.
+4. Report any symptoms of chest pain, difficulty breathing, or increasing edema to the hospital immediately.
+
+**Appointments TO BE Scheduled**:
+Referral to Endocrinology
+Referral to Cardiac Rehabilitation
+
+**Significant Test or Procedure Results**:
+
+- Coronary Angiogram: Successful PCI, no complications.
+- Echocardiogram: Ejection Fraction estimated at 40%, moderate left ventricular dysfunction.
+- Blood work: HbA1c 7.8%, indicating suboptimal glycemic control.
+
+**Diagnostic Studies**:
+- Next Appointment: [B-DATE]10/05/2023[O] with [B-NAME]Dr. Aaron Shelby[O], Cardiologist at 10:00 AM in cardiology clinic.
+
+Discharge Medication List:
+New Medications:
+- Empagliflozin commenced to improve glycemic control and has potential cardiovascular benefits as discussed.
+- Continue all other medications as prior to admission.
+
+**Discharge Condition**:
+Stable, with improvements in cardiac function and resumption of usual activities gradually as tolerated.
+
+**Next Steps**:
+Follow up with [B-ORGANIZATION]Central City Cardiology Group[O] at [B-PHONE]555-2368[O].
+Instructions: Mrs. [B-NAME]Roberts[O] will continue with outpatient follow-up including lab work and a repeat echocardiogram in [B-DATE]one month[O] to reassess heart function.
+
+**Signed**: 
+Dr. [B-NAME]Helen Mirren[O]
+Date: [B-DATE]09/30/2023[O], 11:00 AM
+
+**[B-ORGANIZATION]City Medical Center[O], Cardiology Service**

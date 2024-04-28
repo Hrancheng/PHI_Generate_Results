@@ -1,0 +1,51 @@
+**[B-ORGANIZATION]General Hospital[O] Inpatient Discharge Summary**
+
+Patient: **[B-NAME]Elizabeth Martin[O]**
+MRN#: **[B-ID]987654321[O]**
+Age: **[B-AGE]73 years old[O]**
+Admission Date: **[B-DATE]09/01/2023[O]**
+Discharge Date: **[B-DATE]09/15/2023[O]**
+
+**Admitting Diagnosis:**
+Exacerbation of chronic heart failure
+
+**Hospital Course:**
+**[B-NAME]Elizabeth Martin[O]**, a **[B-AGE]73-year-old[O]** woman, presented to **[B-ORGANIZATION]General Hospital[O]** with shortness of breath and lower extremity swelling. She has a history of heart failure diagnosed in **[B-DATE]2010[O]**. During this hospitalization, she was managed with IV diuretics and adjustment of her oral heart medications. She underwent an echocardiogram showing a decreased ejection fraction of 35%. The patient's symptoms improved with treatment, making her suitable for discharge.
+
+**Medications at Discharge:**
+- Furosemide 40 mg orally daily
+- Lisinopril 10 mg orally daily
+- Metoprolol 50 mg twice a day
+- Spironolactone 25 mg orally daily
+
+**Discharge Instructions:**
+**[B-NAME]Elizabeth Martin[O]** is to follow a low-salt diet, monitor her weight daily, and limit fluid intake to less than 2 liters per day. She should continue with physical rehabilitation to improve her functional status. Outpatient follow-up with her cardiologist, **[B-NAME]Dr. Susan Thompson[O]**, is scheduled for **[B-DATE]09/22/2023[O]**.
+
+**Follow-up Appointments:**
+- Cardiology follow-up on **[B-DATE]09/22/2023[O]** at **[B-LOCATION]Cardiac Health Clinic[O]**, **[B-ORGANIZATION]General Hospital[O]**
+- Physical Therapy twice weekly at **[B-LOCATION]Rehab Center[O]**, **[B-ADDRESS]123 Wellness Street, Springfield, SP 12345[O]**
+
+**Discharge Condition:**
+The patient's condition is stable with the above plan aimed at preventing rehospitalization and supporting continued improvement in her functional capabilities and heart failure management.
+
+**Activity:**
+Light activity recommended with gradual increase as tolerated.
+
+**Diet:**
+Low sodium, fluid restriction as previously mentioned.
+
+**Significant Findings:**
+- Ejection fraction: 35%
+- No signs of acute organ derangement 
+
+**Physician:**
+**[B-NAME]Dr. Susan Thompson[O]**, Cardiologist
+Signed
+
+This discharge summary has been reviewed and all details have been verified by the patient care team.
+
+______________________________
+**[B-NAME]Dr. Susan Thompson[O]**, MD
+Cardiologist
+**[B-ORGANIZATION]General Hospital[O]**
+**[B-DATE]09/15/2023[O]**

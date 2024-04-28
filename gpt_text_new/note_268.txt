@@ -1,0 +1,54 @@
+**Discharge Summary**
+
+**Patient Information:**  
+Name: [B-NAME]James Hawthorne[O]  
+MRN: [B-ID]469213[O]  
+DOB: [B-DATE]03/12/1965[O]  
+Age: [B-AGE]58[O]  
+Sex: Male  
+Admission Date: [B-DATE]10/21/2023[O]  
+Discharge Date: [B-DATE]10/27/2023[O]  
+Attending Physician: Dr. [B-NAME]Emily Stanton[O]
+
+**Hospital Course:**
+Mr. [B-NAME]Hawthorne[O] was admitted to the [B-ORGANIZATION]Regional Medical Center[O] after presenting with symptoms of chest pain and shortness of breath. On admission, his troponin levels were elevated, and EKG changes indicative of an acute myocardial infarction were noted. He underwent emergency cardiac catheterization, revealing a single vessel disease, which was successfully revascularized with a drug-eluting stent. Post-procedure, his recovery was uneventful.
+
+**Procedures:**
+1. Cardiac Catheterization - [B-DATE]10/22/2023[O]
+2. Drug-Eluting Stent Placement - [B-DATE]10/22/2023[O]
+
+**Medications at Discharge:**
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice a day
+
+**Allergies:**
+No known drug allergies (NKDA)
+
+**Follow-Up Appointments:**
+1. Cardiology follow-up with Dr. [B-NAME]Michael Thompson[O] at [B-ORGANIZATION]Heart Health Clinic[O] on [B-DATE]11/10/2023[O] at 10:00 AM.
+2. Primary care follow-up with Dr. [B-NAME]Anna Lee[O] on [B-DATE]11/05/2023[O] at 2:00 PM.
+
+**Discharge Instructions:**
+Mr. [B-NAME]Hawthorne[O] is advised to avoid strenuous activity for the next 4 weeks. He should follow a heart-healthy diet, as discussed with the in-hospital dietitian. Signs of chest pain, shortness of breath, or any new symptoms should prompt an immediate call to the physician or an emergency department visit.
+
+**Labs at Discharge:**
+- Troponin I: Decreased from 2.1 ng/mL to 0.3 ng/mL
+- LDL: 112 mg/dL
+- HDL: 45 mg/dL
+
+**Patient Status at Discharge:**
+Condition: Stable
+Discharge to: Home
+Disposition: Self-care with family support
+
+Signed:
+[B-NAME]Emily Stanton, MD[O]
+Date: [B-DATE]10/27/2023[O]
+Time: 3:45 PM
+
+**Summary & Recommendations:**
+Patient to continue medications as prescribed. Importance of adherence to therapy and lifestyle modifications discussed at length and understood. Patient scheduled for outpatient follow-up and cardiac rehabilitation assessment to continue recovery phase. Monitoring for signs and symptoms of heart failure or recurrent angina is essential. Immediate medical attention should be sought if symptoms reoccur.
+
+For any further updates or changes in condition, contact the Heart Health Clinic at [B-PHONE]555-123-0978[O].

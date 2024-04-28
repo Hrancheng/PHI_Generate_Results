@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+
+**Patient Information**:
+- [B-NAME]Helena Thompson[O], MRN: [B-ID]987654321[O]
+- Age: [B-AGE]72 years old[O]
+- Sex: Female
+
+**Admission Date**: [B-DATE]September 14, 2023[O]
+**Discharge Date**: [B-DATE]October 1, 2023[O]
+**Attending Physician**: Dr. [B-NAME]Michael Grierson[O]
+**Consultants**: Dr. [B-NAME]Anita Desai[O], Cardiology; Dr. [B-NAME]Henry Walton[O], Nephrology
+**Hospital**: [B-ORGANIZATION]Central City Healthcare[O]
+
+**Chief Complaint**:
+The patient was admitted with complications of congestive heart failure and chronic kidney disease.
+
+**History of Present Illness**:
+[B-NAME]Helena Thompson[O] was admitted after experiencing increasing shortness of breath and swelling in her lower extremities over the past two weeks before admission. She presented to the emergency department with marked dyspnea on exertion and orthopnea. Her past medical history includes hypertension, diabetes mellitus type 2, and previous myocardial infarction.
+
+**Hospital Course**:
+Upon admission, the patient was hypotensive with a blood pressure of 85/50 mmHg and tachycardic with a heart rate of 112 bpm. Immediate management included IV diuretics and vasopressors to stabilize her hemodynamics. Over the course of her stay, her cardiac function was closely monitored, involving echocardiography which showed a decreased ejection fraction of 25%. Kidney functions were periodically reviewed, indicating a worsening of her baseline chronic kidney disease, managed with adjustments to her medication regimen. Cardiology was consulted and recommended optimizing heart failure management.
+
+**Medications at Discharge**:
+1. Lisinopril 20 mg daily
+2. Carvedilol 12.5 mg twice daily
+3. Furosemide 40 mg twice daily
+4. Insulin glargine 40 units at bedtime
+
+**Follow-up**:
+Follow-up in heart failure clinic in [B-DATE]two weeks[O]. She is scheduled for a renal function test in [B-DATE]one month[O] and a follow-up echocardiogram in [B-DATE]three months[O]. Cardiology follow-up with Dr. [B-NAME]Anita Desai[O] and nephrology follow-up with Dr. [B-NAME]Henry Walton[O].
+
+**Condition at Discharge**:
+The patient's condition has stabilized, and she is being discharged to home under the care of her daughter [B-NAME]Susan M. Thompson[O]. Patient educated about signs and symptoms of heart failure exacerbation and when to seek immediate care.
+
+**Discharge Instructions**:
+- Continue with prescribed medications as directed.
+- Monitor weight daily.
+- Restrict fluid intake to less than 1.5 liters per day.
+- Maintain a low-salt diet.
+- Schedule and keep all follow-up appointments.
+- Monitor blood pressure and blood sugar levels daily.
+
+**Signed**:
+Dr. [B-NAME]Michael Grierson[O], MD
+[B-DATE]October 1, 2023[O]
+
+**Clinical Contact Information**:
+Central City Heart Failure Clinic, Phone: [B-PHONE]555-123-4567[O]
+
+**Home Care Arrangements**:
+Visit by home health nurse scheduled for [B-DATE]October 3, 2023[O] to evaluate home setting and patient's adherence to the medication protocol. The patient has been provided with a list of symptoms that should prompt an immediate call to the health provider or a visit to the emergency room. Session arranged with a dietitian specializing in diabetic and renal care diets.
+
+**Summary**:
+This summarizes the stay and management of [B-NAME]Helena Thompson[O] during her time at [B-ORGANIZATION]Central City Healthcare[O] from [B-DATE]September 14, 2023[O], to [B-DATE]October 1, 2023[O]. Her condition upon discharge is stable with plans for close outpatient monitoring and support in place.

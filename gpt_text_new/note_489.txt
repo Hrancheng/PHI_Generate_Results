@@ -1,0 +1,52 @@
+**University of Anywhere Hospital Discharge Summary**
+
+**Patient Name:** [B-NAME]Michael Thompson[O], MRN# [B-ID]789654123[O], is a [B-AGE]45 y.o.[O] male.
+
+**Admission Date:** [B-DATE]9/12/2023[O]
+**Discharge Date:** [B-DATE]9/16/2023[O]
+
+**Attending Provider:** Dr. [B-NAME]Sarah Connors[O]
+
+**Hospital Problems Noted - Resolved:**
+- Hypertension: Managed and stable
+- Type II Diabetes: Blood sugar levels controlled with adjusted medication
+
+**Treatment Team:**
+- [B-NAME]Dr. James Lee[O], Cardiologist
+- [B-NAME]Nurse Patricia Kim[O], Diabetes Specialist
+
+**Hospital Course Brief Overview:**
+Mr. [B-NAME]Michael Thompson[O] was admitted with elevated blood pressure and poorly controlled blood sugar levels. During his stay, his antihypertensive medications were adjusted, and insulin therapy was optimized. Daily blood pressure and blood glucose monitoring showed gradual improvement. Dietary consultation was provided. Mr. [B-NAME]Thompson[O] showed good understanding of lifestyle modifications necessary to manage his conditions.
+
+**Consultations:**
+- [B-NAME]Dr. Anita Patel[O], Endocrinologist. Adjusted diabetes management plan.
+- [B-NAME]Dr. Robert Frost[O], Dietitian. Provided dietary guidelines tailored to patient's needs.
+
+**Diagnostic Tests:**
+- Echocardiogram: Showed a normal ejection fraction with no significant valvular disease.
+- Labs on admission: Elevated A1C and fasting blood glucose.
+- Discharge labs showed improvement in blood sugar control.
+
+**Medications at Discharge:**
+1. Metformin 500 mg, twice daily.
+2. Lisinopril 10 mg, once daily.
+3. Insulin Aspart, as per sliding scale.
+
+**Discharge Condition:**
+Patient is stable and symptoms are well-controlled. He was educated on the importance of medication adherence and lifestyle changes including diet and exercise.
+
+**Discharge Instructions:**
+Mr. [B-NAME]Thompson[O] is advised to monitor his blood pressure and blood sugar levels at home regularly. He should follow up with his primary care provider, [B-NAME]Dr. Susan Quire[O], in one week and return to the diabetes clinic in one month. Mr. [B-NAME]Thompson[O] has been scheduled for a follow-up appointment on [B-DATE]9/23/2023[O] at [B-ORGANIZATION]University of Anywhere Health Center[O].
+
+He has been provided with prescriptions and a detailed plan for diet and exercise. He understands the symptoms that would necessitate an earlier visit to healthcare providers or the emergency department.
+
+**Follow-Up Contact Information:**
+- Primary Care Provider: [B-NAME]Dr. Susan Quire[O] at [B-PHONE]555-987-6543[O]
+- Diabetes Clinic: [B-PHONE]555-123-4567[O]
+- Cardiology Clinic: [B-ORGANIZATION]University of Anywhere Health Center, Cardiology[O] at [B-PHONE]555-321-7654[O]
+
+**Discharge Status:**
+Discharged to home. The patient has understood all his discharge instructions and verbalized comprehension of the follow-up plan.
+
+**Signed:** 
+[B-NAME]Dr. Sarah Connors[O], MD, [B-DATE]9/16/2023[O], 2:00 PM.

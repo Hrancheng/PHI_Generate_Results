@@ -1,0 +1,72 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+**Name:** [B-NAME]Maria Thompson[O]  
+**MRN#:** [B-ID]869423158[O]  
+**Age:** [B-AGE]68-years-old[O]  
+**Admission Date:** [B-DATE]September 5th, 2023[O]  
+**Discharge Date:** [B-DATE]September 25th, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Helen Zhao[O]  
+
+**Hospital Service:** Cardiology
+
+---
+**Hospital Course:**  
+Mrs. [B-NAME]Thompson[O] was admitted following an episode of severe chest pain and diagnosed with acute myocardial infarction. She underwent successful percutaneous coronary intervention (PCI) to the left anterior descending artery. Her post-procedural course was complicated by transient congestive heart failure which was managed with diuretics and beta-blockers. Her condition improved, and her ejection fraction at discharge was 45%.
+
+**Medications at Discharge:**  
+1. Aspirin 81 mg daily  
+2. Clopidogrel 75 mg daily  
+3. Atorvastatin 40 mg at bedtime  
+4. Carvedilol 12.5 mg twice daily  
+5. Furosemide 40 mg daily  
+
+**Allergies:**  
+No known drug allergies.
+
+**Follow-Up:**  
+Mrs. [B-NAME]Thompson[O] is to follow up with her cardiologist, Dr. [B-NAME]Irene Watt[O], [B-ORGANIZATION]City Heart Medical Center[O], on [B-DATE]October 5th, 2023[O]. She has been counseled on lifestyle modifications including a low-sodium diet and regular physical activity.
+
+**LACE - Readmission Risk Score:**  
+Total Score: 9  
+Length of Stay: 3  
+Acute Admission: 3  
+Comorbidities: 2  
+ED Visits in Last 6 Months: 1  
+
+**LACE Score Risk Level:** Moderate  
+Readmission Rate - 30 Day: 7.9%  
+Mortality Rate - 30 Day: 0.7%
+
+**Remarks:**  
+Mrs. [B-NAME]Thompson[O] has shown stable cardiac status and good understanding of her medications and follow-up requirements. She also has the support of her husband, [B-NAME]Robert Thompson[O], at home.
+
+**Discharge Condition:**  
+Stable for discharge. Able to manage medications independently and perform daily activities with mild exertion.
+
+**Instructions for Patient:**  
+- Monitor weight daily.  
+- Adhere to medication schedule.  
+- Report any symptoms of chest pain, breathlessness, or excessive fatigue to a healthcare provider immediately.
+
+**Signed:**  
+Dr. [B-NAME]Helen Zhao[O], MD  
+Date: [B-DATE]September 25th, 2023[O], 3:00 PM
+
+**Contact Information:**  
+Cardiology Clinic: [B-PHONE]555-123-6789[O]  
+Emergency Contact: [B-PHONE]555-987-6543[O] (Robert Thompson - Husband)
+
+**Next Steps for Follow-Up Care:**  
+1. Echocardiogram scheduled for [B-DATE]October 12th, 2023[O] at [B-ORGANIZATION]City Heart Medical Center[O].  
+2. Lab tests including lipid panel and renal function tests on [B-DATE]October 3rd, 2023[O].  
+3. Cardiac rehabilitation assessment on [B-DATE]October 7th, 2023[O].
+
+---
+
+**Impressions:**  
+1. Acute Myocardial Infarction managed successfully with PCI.  
+2. Underlying hypertensive heart disease well-controlled on current medications.  
+3. Discharge conditions and follow-up plan well understood by the patient and spouse.
+
+This comprehensive discharge plan is designed to manage Mrs. [B-NAME]Thompson[O]'s ongoing health needs and prevent complications.

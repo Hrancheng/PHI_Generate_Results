@@ -1,0 +1,46 @@
+Inpatient Discharge Summary
+----------------------------
+
+**[B-NAME]Marilyn Monroe[O]**, MRN# [B-ID]56894327[O], an [B-AGE]68-year-old[O] female, admitted to the hospital on [B-DATE]January 18th, 2023[O], was discharged on [B-DATE]January 25th, 2023[O]. Admitted under the care of Dr. [B-NAME]Henry Gibbs[O] from [B-ORGANIZATION]Central City Health Clinic[O].
+
+### Admission Diagnosis:
+- Severe abdominal pain and suspected gallstone complications.
+
+### Treatment Team:
+- Attending Physician: Dr. [B-NAME]Henry Gibbs[O]
+- Consulting Gastroenterologist: Dr. [B-NAME]Sara Connor[O]
+- Nursing Care Coordinator: Nurse [B-NAME]Patricia Neal[O]
+
+### Hospital Course:
+**[B-NAME]Marilyn Monroe[O]**’s hospital stay was notable for a diagnostic workup that included an ultrasound which confirmed the presence of multiple gallstones. She underwent an elective laparoscopic cholecystectomy successfully performed by Dr. [B-NAME]Sara Connor[O] on [B-DATE]January 20th, 2023[O]. Post-operative period was uneventful and marked by good pain control and return of bowel function. She received antibiotics as a precautionary measure and showed no signs of infection.
+
+### Procedures:
+- **Elective Laparoscopic Cholecystectomy**: Successfully performed without complications.
+
+### Discharge Medications:
+- Acetaminophen 500 mg tablet, Take 1-2 tablets every 6 hours as needed for pain.
+- Ibuprofen 400 mg tablet, Take 1 tablet every 8 hours as needed for pain.
+- No antibiotics prescribed at discharge.
+
+### Instructions at Discharge:
+- Diet: Resume regular diet as tolerated.
+- Activity: Avoid lifting heavy objects for at least two weeks; gradual return to normal activities as tolerated.
+- Wound care: Keep the surgical site clean and dry. Observe for signs of infection.
+
+### Follow-up:
+- Follow-up appointment with Dr. [B-NAME]Sara Connor[O] in two weeks for post-operative evaluation.
+- Primary care follow-up with Dr. [B-NAME]Henry Gibbs[O] for ongoing management of other chronic conditions.
+
+### Last Recorded Vital Signs at Discharge:
+- BP 122/78 mmHg | Pulse 72 | Temp 36.7 °C (98.1 °F) | Resp 16 | SpO2 98%
+
+Should symptoms such as fever, increased pain, or signs of infection occur, patient is advised to contact Dr. [B-NAME]Henry Gibbs[O] immediately or visit the nearest emergency room.
+
+### Additional Notes:
+The patient was grateful for the care received and was optimistic about her recovery. She was provided with contact numbers for the surgical team and primary care provider in case of emergency or concerns during recovery.
+
+Signed: 
+**Dr. [B-NAME]Henry Gibbs[O]**
+[B-DATE]January 25th, 2023[O] 2:00 PM
+
+This discharge summary will be part of the official medical records at [B-ORGANIZATION]Central City Health Clinic[O].

@@ -1,0 +1,45 @@
+**Inpatient Discharge Summary**
+
+**Patient**: [B-NAME]Elizabeth Thompson[O]  
+**MRN**: [B-ID]584672245[O]  
+**Age**: [B-AGE]52 years old[O]  
+**Admission Date**: [B-DATE]01/12/2023[O]  
+**Discharge Date**: [B-DATE]01/20/2023[O]  
+**Attending Provider**: Dr. [B-NAME]Harold Greene[O]  
+**Admitting Diagnosis**: Decompensated heart failure  
+**Discharge Diagnosis**: Same as admitting diagnosis, improved  
+**Hospital Problems**:
+- Acute decompensated heart failure (resolved)
+- Hypertension (controlled)
+- Type 2 diabetes mellitus (controlled)
+
+**Hospital Course**  
+[B-NAME]Elizabeth[O] was admitted with symptoms of orthopnea and paroxysmal nocturnal dyspnea. Initial echocardiography showed reduced ejection fraction of 35%, consistent with her history of heart failure. During her stay, she was optimally managed with IV diuretics and beta-blocker therapy. Significant improvement in her fluid status and symptoms was achieved. [B-NAME]Elizabeth[O] was also counseled by dietitian and diabetes educators to optimize her diabetes management. Her anti-hyperglycemic medications were adjusted due to improved diet and activity level.
+
+**Treatment Team**  
+- Cardiology: Dr. [B-NAME]Samantha Irving[O]
+- Endocrinology: Dr. [B-NAME]Michelle Wang[O]
+- Nutrition: [B-NAME]Lisa Monroe[O], RD 
+
+**Medications at Discharge**:
+- Furosemide 40 mg orally twice daily
+- Metoprolol 75 mg orally once daily
+- Metformin 1000 mg orally twice daily
+
+**Follow-Up**
+[B-NAME]Elizabeth[O] is advised to follow up with her primary care provider Dr. [B-NAME]Leonard Kravitz[O] in [B-ADDRESS]Houston, TX[O]. Follow-up appointment scheduled for [B-DATE]01/27/2023[O] at 10:00 AM. She should also continue with her monthly follow-ups at the Diabetes Care Clinic at [B-ORGANIZATION]General Health System[O].
+
+**Instructions**   
+She has been counseled about monitoring her fluid intake and adhering to a low-salt diet. Importance of daily weights and managing her medication regimen were emphasized. She has to monitor her blood sugar levels four times a day. Patient educated regarding signs of heart failure exacerbation and when to seek medical help.
+
+**Discharge Condition**:  
+Stable with advice on weight management, and salt and fluid restriction. Prescribed medications should be continued as per the discharge summary.
+
+**Next Steps**  
+Patient should monitor her weight daily. If she gains more than 3 pounds in a day or 5 pounds in a week, she should contact her cardiologist immediately.
+
+**Sign-Off**  
+Discharge approved by Dr. [B-NAME]Harold Greene[O], all details reviewed and patient's understanding confirmed. Details were discussed with [B-NAME]Elizabeth[O] and her son [B-NAME]Michael Thompson[O].
+
+**Contact for Emergencies**: [B-PHONE]713-500-2100[O]  
+Discharge information provided on [B-DATE]01/20/2023[O] at [B-LOCATION]General Health System discharge office[O].

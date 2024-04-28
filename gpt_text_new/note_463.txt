@@ -1,0 +1,48 @@
+**University Medical Center Discharge Summary**
+
+**Patient Name:** [B-NAME]Emily Thompson[O]  
+**Medical Record Number:** [B-ID]56794321[O]    
+**Age:** [B-AGE]68 years[O]    
+**Admission Date:** [B-DATE]September 15, 2023[O]  
+**Discharge Date:** [B-DATE]October 3, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Harold Greene[O]  
+**Consulting Team:** Cardiology, Endocrinology  
+**Hospital Service:** General Medicine
+
+**Chief Complaint:**  
+Acute exacerbation of chronic heart failure.  
+
+**Hospital Course:**  
+[B-NAME]Emily Thompson[O] was admitted to [B-ORGANIZATION]University Medical Center[O] following worsening shortness of breath and ankle swelling. Her echocardiogram showed reduced ejection fraction, which had declined since her last evaluation [B-DATE]six months[O] prior. Treatment included IV diuretics and adjustment of her oral heart failure medications.
+
+Cardiology was consulted and recommended up-titration of her current heart failure regimen and initiation of sacubitril/valsartan. Endocrinology managed her diabetic care, adjusting her insulin regimen due to fluctuations in her blood glucose levels during her diuretic therapy.
+
+**Medications at Discharge:**  
+- Furosemide 40 mg Tablet: 1 tablet to be taken twice daily  
+- Metoprolol Tartrate 50 mg Tablet: 1 tablet to be taken twice daily  
+- Sacubitril/Valsartan 49 mg/51 mg Tablet: 1 tablet to be taken twice daily  
+- Insulin Glargine 100 units/mL: Inject 30 units subcutaneously at bedtime  
+
+**Follow-Up Plans:**  
+[B-NAME]Emily Thompson[O] is to follow up with her primary care provider, Dr. [B-NAME]Susan O'Malley[O], next [B-DATE]week on October 10, 2023[O], at [B-ADDRESS]215 Main St., Suite 300, Springfield, IL 62701[O]. Cardiology follow-up has been scheduled for [B-DATE]October 17, 2023[O], with Dr. [B-NAME]Brian Foster[O] at the same location.
+
+**Labs at Discharge:**  
+- BNP: 582 pg/mL  
+- Creatinine: 1.2 mg/dL  
+- Potassium: 4.5 mEq/L  
+
+**Discharge Instructions:**  
+Continue weight monitoring and log daily. Report weight gain of over 3 pounds in a day or 5 pounds in a week. Frequently check blood glucose levels due to changes in insulin. Follow a low-salt diet as advised by the dietitian. Limit fluid intake to less than 2 liters per day. Increase physical activity as tolerated.
+
+**Condition at Discharge:**  
+Stable with improvement in heart failure symptoms. Patient and family educated about signs and symptoms of worsening heart failure.
+
+**Readmission Risk:**  
+The LACE index calculated for [B-NAME]Emily Thompson[O] identifies her at moderate risk of readmission, with a score of 9 indicating a [B-DATE]30 day[O] readmission probability of 7.9%.
+
+**Signature:**  
+Dr. [B-NAME]Harold Greene[O]  
+[B-DATE]October 3, 2023[O] at [B-DATE]4:00 PM[O]  
+
+**Instructions for Emergencies:**  
+In case of severe shortness of breath, chest pain, or fainting, visit the nearest emergency room or call [B-PHONE]911[O]. For other concerns, contact Dr. [B-NAME]Susan O'Malley[O]'s office at [B-PHONE]555-123-4567[O].

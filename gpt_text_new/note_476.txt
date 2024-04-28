@@ -1,0 +1,69 @@
+**Inpatient Discharge Summary**
+
+**Patient**: [B-NAME]Michael Thompson[O], MRN# [B-ID]656483920[O], is a [B-AGE]45-year-old[O] male, admitted to the General Medicine service for management of acute pancreatitis.
+
+**Admission Date**: [B-DATE]01/21/2023[O]
+**Discharge Date**: [B-DATE]01/28/2023[O]
+
+**Attending Provider**: Dr. [B-NAME]Amanda Hill[O]
+**Treatment Team**: Nurse practitioner [B-NAME]Sara Jacobs[O], Physician Assistant [B-NAME]Eric Nolan[O]
+
+---
+
+**Hospital Problems Noted - Resolved**
+1. Acute Pancreatitis ([B-DATE]01/21/2023[O] - [B-DATE]01/28/2023[O])
+2. Hypertension ([B-DATE]01/21/2023[O] - Present)
+3. High Cholesterol levels ([B-DATE]01/21/2023[O] - Present)
+
+**Discharge Diagnosis**: 
+- Primary: Acute Pancreatitis
+- Secondary: Hypertension controlled with medication adjustment
+
+**Hospital Course: Brief Overview**
+Mr. [B-NAME]Michael Thompson[O] was admitted with severe abdominal pain and was diagnosed with acute pancreatitis. During his stay, he was managed with IV fluids, pain control, and fasting until symptoms improved. His lipase and amylase levels, initially high, normalized over the course of his admission. Cardiology also reviewed the patient, given his history of hypertension, and optimized his antihypertensive medications. His diet was advanced as tolerated after resolution of symptoms, and he was able to maintain a low-fat diet without recurrence of pain.
+
+**Procedure Performed**: ERCP to remove common bile duct stone dated [B-DATE]01/24/2023[O].
+
+**Significant Test Results**:
+- Lipase initially 600 U/L, decreased to 150 U/L at discharge
+- CT Abdomen: Showed inflammation of the pancreas, no necrosis or fluid collections.
+
+**Medications at Discharge**:
+1. Enalapril 20 mg orally once daily for hypertension
+2. Rosuvastatin 10 mg at bedtime for cholesterol
+3. Paracetamol 500 mg every 6 hours as needed for pain
+
+**Follow-Up**:
+- Follow up with primary care provider, [B-NAME]Dr. Richard Tanner[O], MD in one week at [B-ORGANIZATION]Downtown Clinic[O], [B-PHONE]504-555-9876[O].
+- Gastroenterology follow-up in two weeks regarding diet and enzyme supplementation.
+
+**Discharge Instructions**:
+- Continue with a low-fat diet
+- Avoid alcohol and smoking
+- Check blood pressure daily and report if consistently >140/90 mmHg
+- Take medications as prescribed without skipping doses
+
+**Pending Labs and Studies**:
+- Fasting lipid profile to be checked during follow-up with primary care
+- HbA1c to assess for underlying diabetes
+
+**Readmission Risk**: Moderate
+Lace Score: 7, due to the following factors:
+- Length of Stay: 7 days
+- Acute Admission: High severity of illness
+- Comorbidities: Hypertension and Hyperlipidemia
+
+**Clinical Comments**:
+The patient responded well to the treatment, with significant improvement in symptoms and stabilization of vital signs. The discharge plan focuses on dietary management, close monitoring, and medication adherence to prevent recurrence and manage existing comorbidities.
+
+**Date and Time of Discharge**: [B-DATE]01/28/2023[O] at 11:00 AM
+**Discharge Approved by**: [B-NAME]Amanda Hill[O], MD
+
+**Discharge Condition**: Good
+**Disposition**: Home with family support
+
+**Other Pertinent Discharge Remarks**: Mr. [B-NAME]Michael Thompson[O] understands his discharge instructions and the importance of follow-up. He expressed his gratitude towards the treatment team for his care.
+
+---
+
+This summary is confidential and intended solely for the use of Mr. [B-NAME]Michael Thompson[O] and his designated healthcare providers. Unauthorized use of this information is strictly prohibited.

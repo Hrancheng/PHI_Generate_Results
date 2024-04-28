@@ -1,0 +1,51 @@
+**Mount Sinai General Hospital**
+
+**Inpatient Discharge Summary**
+
+Patient Name: [B-NAME]Elizabeth Johnson[O]  
+MRN: [B-ID]448593202[O]  
+Age: [B-AGE]45 years old[O]  
+Admission Date: [B-DATE]September 14, 2023[O]  
+Discharge Date: [B-DATE]September 22, 2023[O]  
+Attending Physician: Dr. [B-NAME]Harold Greene[O]  
+Admitting Diagnosis: Acute Cholecystitis  
+Discharge Diagnosis: Resolved acute cholecystitis  
+
+**Hospital Course:**  
+Ms. [B-NAME]Johnson[O] was admitted to our hospital on [B-DATE]September 14, 2023[O] with severe right upper quadrant pain and fever. An ultrasound confirmed the presence of gallstones and a thickened gallbladder wall, indicative of acute cholecystitis.  
+
+She underwent a laparoscopic cholecystectomy on [B-DATE]September 16, 2023[O], performed by Dr. [B-NAME]Amanda Smith[O] and was managed postoperatively on the general surgery floor. Her postoperative course was uneventful, and her pain and inflammatory markers improved steadily. She participated in routine postoperative care with physical therapy and was gradually advanced to a regular diet.
+
+**Medications at Discharge:**
+- Acetaminophen 500 mg, take 1-2 tablets every 6 hours as needed for pain
+- Ibuprofen 400 mg, take 1 tablet every 8 hours as needed for inflammation
+
+**Follow-Up Appointments:**
+- General Surgery follow-up with Dr. [B-NAME]Amanda Smith[O] on [B-DATE]October 6, 2023[O].
+- Primary care follow-up with Dr. [B-NAME]Nathan Lane[O] on [B-DATE]October 12, 2023[O].
+
+**Discharge Instructions:**
+Ms. [B-NAME]Johnson[O] is advised to avoid heavy lifting and strenuous activity for 4 weeks. She should monitor the incision sites for signs of infection, including redness, swelling, or discharge. Pain management should be handled as prescribed, and she should increase fluid intake to aid recovery.
+
+**Diet:**  
+Gradual return to a regular diet advised. She should avoid high-fat foods for the next 4-6 weeks.
+
+**Activity:**  
+Light walking is encouraged, but no heavy lifting or strenuous activities until the follow-up appointment with the surgeon.
+
+**Discharge Status:**
+Ms. [B-NAME]Johnson[O] is being discharged in stable condition with plans to recover at home. Her understanding of her discharge instructions was confirmed, and she verbalized understanding of signs of potential complications to watch for.
+
+**Last Recorded Vitals:**
+BP 122/78, Pulse 78, Temp 36.8 C (98.2 F), Respiration 16
+
+Ms. [B-NAME]Johnson[O] has been provided with emergency contact numbers in case there is an increase in pain, fever, or any questions regarding her care. All prescribed medications have been reviewed and understood.
+
+***
+
+**Signed:**  
+Dr. [B-NAME]Harold Greene[O], MD  
+[B-DATE]September 22, 2023[O], at 11:00 AM
+
+**[B-ORGANIZATION]Mount Sinai General Hospital[O]**
+

@@ -1,0 +1,51 @@
+**[B-ORGANIZATION]City Hospital[O] Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Eleanor Rigby[O]  
+**MRN#:** [B-ID]896543210[O]  
+**Age:** [B-AGE]68 years[O]  
+**Admission Date:** [B-DATE]06/01/2023[O]  
+**Discharge Date:** [B-DATE]06/15/2023[O]  
+**Attending Provider:** Dr. [B-NAME]Amanda Hugginkiss[O]  
+
+---
+
+### Medical Team:
+- **Primary Care Physician**: [B-NAME]Martin Luther King[O], MD
+- **Consulting Cardiologist**: [B-NAME]Harvey Dent[O], MD
+- **Nursing Contact:** [B-CONTACT]nurse.johndoe@cityhospital.com[O]
+
+### Hospital Problems Noted - Resolved
+**POA Active Problems:**
+- Chronic Heart Failure (CHF) [B-DATE]2007[O] - Present Yes
+- New Onset Atrial Fibrillation [B-DATE]06/05/2023[O] - Present Yes  
+
+**Resolved Problems:**
+- UTI [B-DATE]06/01/2023[O] - [B-DATE]06/04/2023[O] Yes  
+- Dehydration [B-DATE]06/01/2023[O] - [B-DATE]06/03/2023[O] Yes
+
+### Hospital Course:
+*[B-NAME]Mrs. Rigby[O]* was admitted with symptoms of fatigue and dizziness, attributed to dehydration and newly diagnosed atrial fibrillation. Management included IV fluids and initiation of anticoagulation with Apixaban. Rate control was achieved with low-dose Metoprolol. Her CHF was managed with adjusted doses of Lasix. 
+
+### Discharge Instructions:
+1. **Medications**:
+   - **Apixaban** 5 mg, Oral, TWICE DAILY
+   - **Metoprolol** 25 mg, Oral, ONCE DAILY
+   - **Lasix** 40 mg, Oral, ONCE DAILY
+
+2. **Activity**: Limit stair climbing and heavy lifting for two weeks. Daily walks recommended increasing in length as tolerated.
+3. **Diet**: Low-salt diet recommended. Stay hydrated, especially in hot weather or periods of extended physical activity.
+
+### Follow-up Appointment:
+- **Cardiology Follow-up**: [B-DATE]06/30/2023[O] with Dr. [B-NAME]Harvey Dent[O], at [B-ORGANIZATION]City Hospital Cardiology Clinic[O]
+- **Primary Care Follow-up**: [B-DATE]06/28/2023[O] with Dr. [B-NAME]Martin Luther King[O], at his office at [B-ADDRESS]1234 Heartbeat Lane, Springfield, IL 62704[O]
+
+### Additional Recommendations:
+- Watch for signs of bleeding while on Apixaban. Any falls or head injuries should prompt immediate medical evaluation.
+- Monitor weight daily. A weight gain of 3 pounds or more in a week should prompt a call to the primary care provider.
+
+### Signature:
+**Signed:**  
+By: [B-NAME]Amanda Hugginkiss[O], MD  
+Date: [B-DATE]06/15/2023[O], 3:45 PM
+
+Please contact our department at [B-PHONE]555-123-4567[O] for any questions or concerns regarding this discharge summary.

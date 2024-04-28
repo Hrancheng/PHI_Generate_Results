@@ -1,0 +1,52 @@
+**Henry Ford Hospital Inpatient Discharge Summary**
+
+**[B-NAME]Elizabeth Thompson[O]**, MRN# **[B-ID]5628793[O]**, is a **[B-AGE]68-year-old[O]** female, admitted to the Cardiology service following symptoms indicative of an acute myocardial infarction. 
+
+**Admission Date:** **[B-DATE]03/15/2023[O]**
+**Discharge Date:** **[B-DATE]03/22/2023[O]**
+
+**Attending Provider:** Dr. **[B-NAME]Aaron Miller[O]**
+
+**Hospital Problems Noted - Resolved:**
+- Acute myocardial infarction **[B-DATE]03/15/2023[O]** - Present Yes
+- Type 2 diabetes mellitus **[B-DATE]03/15/2023[O]** - Present Yes
+- Hypertension **[B-DATE]03/15/2023[O]** - Present Yes
+
+**Recommendations for Follow-up:**
+Attention to Primary Care Physician for management and adjustment of medications. Referrals to Endocrinology for glycemic control and Dietary for diabetic diet counseling.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+1. Follow-up appointment at **[B-ORGANIZATION]Care Health Cardiology Clinic[O]** **[B-PHONE]595-723-9987[O]**.
+2. Lab tests to monitor cardiac enzymes and HbA1c in one week at **[B-LOCATION]Patient Service Center[O]**.
+
+**Significant Test Results and Dates:**
+- Troponin elevated on admission, peaked at 50 ng/mL, trended down to 0.5 ng/mL.
+- HbA1c 7.8% indicating uncontrolled diabetes.
+- Echocardiogram showed left ventricular ejection fraction (LVEF) of 40%.
+
+**Medications at Discharge:**
+1. Aspirin 81 mg daily.
+2. Metformin 500 mg twice daily.
+3. Lisinopril 10 mg daily.
+4. New prescription for insulin glargine 10 units at bedtime.
+
+**Discharge Condition:**
+The patient has shown improvement with medications and under continuous monitoring. Educated on symptoms of hypoglycemia and signs of heart failure exacerbation. 
+
+**Discharge Instructions:**
+[B-NAME]Elizabeth[O] was instructed on the importance of medication adherence, diabetic diet, regular physical activity, and monitoring blood sugar levels. She was also advised to seek immediate medical attention if she experiences chest pain, breathing difficulties, or severe hypoglycemia.
+
+**Physician's Signature:**
+Signed: Dr. **[B-NAME]Aaron Miller[O]**, MD, **[B-DATE]03/22/2023[O]**, 4:00 PM
+
+**Follow-up Appointments:**
+1. Cardiology follow-up on **[B-DATE]03/29/2023[O]** with Dr. **[B-NAME]Henry Grant[O]** at **[B-ORGANIZATION]Care Health Cardiology Clinic[O]**. 
+2. Diabetes management follow-up on **[B-DATE]04/02/2023[O]** with Dr. **[B-NAME]Lucy Herndon[O]** at **[B-ORGANIZATION]Care Health Endocrinology Center[O]**.
+
+**Instructions for Home Care:**
+Regular monitoring of vital signs and blood glucose levels. Eat a balanced diet as instructed by the dietitian, and continue prescribed exercise regimen. 
+
+**Next Steps and Precautions:**
+Continue medications as prescribed without interruption and keep all scheduled appointments for ongoing monitoring and adjustment of treatment as necessary.
+
+These discharge instructions and care plan have been reviewed in detail with [B-NAME]Elizabeth[O] and her daughter [B-NAME]Susan Daley[O]. Both expressed understanding of the care instructions and next steps.

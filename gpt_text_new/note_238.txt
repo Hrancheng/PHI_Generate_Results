@@ -1,0 +1,54 @@
+Inpatient Discharge Summary
+[B-ORGANIZATION]Mercy General Hospital[O]
+[B-NAME]Elizabeth Tanner[O], MRN# [B-ID]590274982[O], is a [B-AGE]67 y.o.[O] female, admitted to the Cardiology service for management of chronic heart failure and recent exacerbation. 
+
+Admission Date: [B-DATE]9/15/2023[O]
+Discharge Date: [B-DATE]9/25/2023[O]
+Attending Provider: Dr. [B-NAME]Michael Reynolds[O]
+Treatment Team: Cardiology Team A
+
+!! FIRST CONTACT !!
+Cardiology Unit - [B-LOCATION]4th Floor[O], [B-LOCATION]Room 402[O], Bed 1.
+
+Hospital Course:
+The patient was admitted following an increase in shortness of breath, lower extremity edema, and a weight gain of approximately 4 pounds over 2 days. Initial labs showed a BNP of 580 pg/mL. A chest X-ray confirmed mild pulmonary congestion. Aggressive diuretic therapy was initiated with IV furosemide. The patient's symptoms significantly improved with treatment and her weight stabilized. Reassessment echocardiogram showed stable left ventricular function with an EF of 30%.
+
+Resolved Problems:
+1. Acute exacerbation of heart failure - [B-DATE]9/15/2023[O] - [B-DATE]9/25/2023[O] 
+
+Discharge Medication List:
+- Furosemide 40 mg tablet: 1 tablet to be taken orally twice daily
+- Carvedilol 12.5 mg tablet: 1 tablet to be taken orally twice daily
+- Spironolactone 25 mg tablet: 1 tablet to be taken orally daily
+
+Follow-Up:
+1. Cardiology outpatient clinic on [B-DATE]10/5/2023[O]. Review recent labs and adjust medications if needed.
+2. Primary Care Provider, Dr. [B-NAME]Hannah Lee[O], [B-PHONE]301-555-0198[O] - follow up in two weeks.
+
+Recommendations for Follow Up:
+Continue sodium and fluid restriction. 
+Monitor weight and swelling daily. Record daily weights and bring to follow-up appointment.
+Assess need for home health for vital sign and weight monitoring.
+
+Signed: [B-NAME]Linda Gregory[O], NP, [B-DATE]9/25/2023[O], 3:45 PM
+Supervising Physician: I have discussed the contents of this discharge plan with the patient and agree with the pathway set forth above. 
+
+Last Recorded Vital Signs:
+- BP 120/80 (Left arm, sitting position)
+- Pulse 78
+- Temp 37.0 °C (98.6 °F)
+- Resp 16
+- SpO2 93%
+- BMI 27 kg/m²
+
+Pertinent Discharge Physical Exam Findings:
+- General: Alert, at ease, in no acute distress.
+- Cardiovascular: Heart rate regular, no murmurs, rubs, or gallops.
+- Respiratory: Clear breath sounds bilaterally, no wheezes, rales, or rhonchi.
+- Extremities: No edema present at discharge.
+- Neurologic: Alert and oriented to person, place, time, and situation.
+
+Discharge Instructions:
+The patient is advised to keep her legs elevated when sitting and to restrict salt intake. She should avoid non-prescription NSAIDs. If she experiences increasing shortness of breath, chest pain, or weight gain more than 2 pounds in a day or 5 pounds in a week, she should contact her healthcare provider immediately or visit the nearest emergency room.
+
+This summary and all care decisions have been coordinated with the primary care provider, Dr. [B-NAME]Hannah Lee[O], and cardiologist, Dr. [B-NAME]Michael Reynolds[O]. A copy of this summary will be sent to both providers to ensure continuity of care.

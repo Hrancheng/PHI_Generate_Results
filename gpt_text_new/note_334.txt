@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**  
+**[B-NAME]Margaret Thompson[O]**, MRN: *[B-ID]556897310[O]*, is a *[B-AGE]68 y.o.[O]* female, admitted to the Internal Medicine service following an episode of acute pulmonary embolism and subsequent pneumonia. 
+
+**Admission Date:** *[B-DATE]September 5th, 2023[O]*  
+**Discharge Date:** *[B-DATE]September 19th, 2023[O]*  
+**Discharging Provider:** Dr. *[B-NAME]Emily Randal[O]*  
+**Attending Provider:** Dr. *[B-NAME]Helen Grant[O]*
+
+**Hospital Course:**  
+Ms. *[B-NAME]Thompson[O]*, after suffering from sudden onset shortness of breath and chest pain at home, was emergently brought to the [B-ORGANIZATION]General Hospital[O] Emergency Department. Upon evaluation, she was immediately administered treatment for a suspected pulmonary embolism, which was confirmed via CT Angiogram. The complication of hospital-acquired pneumonia was managed with broad-spectrum antibiotics. 
+
+Her condition improved with intervention, and she was transferred from the ICU to the medical ward *[B-LOCATION]Room 510[O]* on *[B-DATE]September 8th, 2023[O]*. She recovered adequately with medications, consisting of anticoagulants and antibiotics, and showed improvement in respiratory function. 
+
+- **Acute Health Issues:**  
+1. Pulmonary embolism *[B-DATE]September 5th, 2023[O]* - managed with enoxaparin transitioning to apixaban.
+2. Pneumonia *[B-DATE]September 9th, 2023[O]* - resolved.
+
+**Discharge Medications:**  
+- Apixaban 5 mg tablet, twice daily for 6 months.  
+- Levofloxacin 750 mg tablet, once daily, to complete a 7-day course.  
+
+**Plan for Follow-Up Care:**  
+**[B-ORGANIZATION]Community Medical Group[O]**, Tel: **[B-PHONE]555-984-2530[O]**  
+Appointment Date: *[B-DATE]September 26th, 2023[O]*, 10:00 AM  
+Dr. *[B-NAME]Laura Bishop[O]*, Primary Care Physician, will review ongoing anticoagulation therapy and general medical condition. Referral to Pulmonology for further evaluation of respiratory status.
+
+**Instructions for patient:**  
+Continue medication as prescribed, maintain light to moderate physical activity as tolerated, report any symptoms of bleeding, unusual pain, or worsening respiratory symptoms. 
+
+**Discharge Condition:**  
+Mrs. *[B-NAME]Thompson[O]* is stable and reports significant improvement in her symptoms. 
+
+**Final Diagnostics:**  
+CT scans confirmed resolution of pulmonary emboli and significant clearing of pulmonary infiltrates. EKG and blood tests within normal limits on day of discharge.
+
+**Next Steps and Other Recommendations:**  
+- Continue to monitor for signs of recurrent emboli or complications from anticoagulation.
+- Pulmonary rehabilitation might be considered after final evaluation by the pulmonologist.
+
+**[B-NAME]Margaret Thompson[O]** has verbalized understanding of her discharge instructions and the importance of follow-up care. She has been given written copies of all instructions, prescriptions, and follow-up care appointments.
+
+**Discharge Instructions Signed:**  
+Dr. **[B-NAME]Helen Grant[O]**, *[B-DATE]September 19th, 2023[O]*, 2:00 PM.
+
+**Special Notes:**  
+Patient was extremely cooperative and compliant with her treatment plan during her hospital stay.
+
+---
+
+This synthetic discharge summary for *[B-NAME]Margaret Thompson[O]* reflects pertinent clinical care and management consistent with her conditions and recovery trajectory. All personal health information (PHI) such as names, dates, medical record numbers, and other identifiers have been labeled and anonymized correctly following the provided guidelines.

@@ -1,0 +1,46 @@
+**[B-ORGANIZATION]General Hospital[O] Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Margaret Thompson[O]
+**MRN**: [B-ID]987654321[O]
+**[B-AGE]68 years old[O] Female**
+**Admission Date**: [B-DATE]02/15/2023[O]
+**Discharge Date**: [B-DATE]02/25/2023[O]
+**Attending Provider**: Dr. [B-NAME]Susan O'Neil[O]
+**Admitting Diagnosis**: Exacerbation of Chronic Heart Failure
+
+**Hospital Course**:
+Mrs. [B-NAME]Thompson[O] was admitted following a presentation to the ED with shortness of breath and pedal edema. Initial labs revealed elevated BNP and mild renal dysfunction. Chest X-ray showed signs compatible with congestive heart failure. She was managed with IV diuretics and transitioned to oral medications over her hospital stay. Her response to treatment was marked by a gradual decrease in edema and improvement in respiratory status. Echocardiogram done on [B-DATE]02/18/2023[O] showed no change in ejection fraction compared to the last evaluation.
+
+**Discharge Medications**:
+- Furosemide 40 mg tablet: Take 1 tablet by mouth twice daily
+- Potassium Chloride 20 mEq tablet: Take 1 tablet by mouth once daily
+- Lisinopril 20 mg tablet: Take 1 tablet by mouth daily
+
+**Follow-Up Appointments**:
+- [B-NAME]Dr. Laura Green, MD[O] - Cardiologist at [B-ORGANIZATION]Cardiac Care Associates[O] on [B-DATE]03/01/2023[O] at 10:00 AM
+- [B-NAME]Dr. Susan O'Neil, MD[O] for post-discharge follow-up on [B-DATE]03/05/2023[O] at 09:30 AM
+
+**Condition at Discharge**:
+Mrs. [B-NAME]Thompson[O] is stable with significant improvement in heart failure symptoms. She remains NYHA class II. Oxygen saturation on room air is 97%, and blood pressure is within expected range.
+
+**Discharge Instructions**:
+1. Continue weighing yourself daily and record the readings.
+2. Monitor your blood pressure and heart rate twice daily.
+3. Restrict fluid intake to not more than 2 liters per day.
+4. Adhere strictly to the low-sodium diet prescribed.
+5. Contact [B-ORGANIZATION]Cardiac Care Associates[O] if shortness of breath recurs or weight increases by more than 3 pounds in a day.
+
+**Discharge Diet**: Low sodium diet
+**Activity Level**: Light activity, avoid heavy lifting and strenuous activity
+**Pending Lab Results**: None
+**Discharge Condition**: Stable
+**Copy to**: [B-NAME]Dr. Laura Green[O]
+
+**Communication**:
+A summary of this hospital stay and treatment plan was communicated to [B-NAME]Dr. Laura Green[O], who will oversee Mrs. [B-NAME]Thompson[O]'s ongoing cardiac care. The patient and her daughter, [B-NAME]Elizabeth Johnson[O], were present during the discharge planning and verbalized understanding of the follow-up instructions.
+
+**Signature**:
+[B-NAME]Susan O'Neil, MD[O]
+[B-DATE]02/25/2023[O], 08:00 AM
+
+This discharge summary includes all the necessary details formatted similarly to the provided examples, with PHI annotated appropriately according to the guidelines.

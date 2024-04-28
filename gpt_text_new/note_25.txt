@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- Name: [B-NAME]Michael Thompson[O]
+- Date of Birth: [B-DATE]01/15/1985[O]
+- Age: [B-AGE]38 years old[O]
+- Medical Record Number: [B-ID]582046789[O]
+
+**Hospital Information:**
+- Hospital: [B-ORGANIZATION]City General Hospital[O]
+- Address: [B-ADDRESS]1234 Health Blvd, Metropolis, State 45231[O]
+- Admission Date: [B-DATE]02/15/2023[O]
+- Discharge Date: [B-DATE]02/25/2023[O]
+- Attending Physician: Dr. [B-NAME]Emily Stark[O]
+  
+**Discharge Information:**
+- Condition at Discharge: Improved
+- Disposition: Home with self-care.
+- Last Recorded Vitals:
+  - Blood Pressure: 131/85 mmHg
+  - Temperature: 98.7 F
+  - Heart Rate: 78 bpm
+  - Respirations: 16 per minute
+
+**Summary of Hospital Stay:**
+Mr. [B-NAME]Michael Thompson[O] was admitted on [B-DATE]02/15/2023[O] with symptoms of acute cholecystitis characterized by severe abdominal pain, fever, and vomiting. Ultrasound confirmed the presence of gallstones and inflamed gallbladder. Surgery was conducted on [B-DATE]02/16/2023[O], and Mr. Thompson tolerated the procedure well without any complications. His postoperative recovery was unremarkable, with gradual improvement in symptoms. He completed a course of antibiotics and his pain was effectively managed with acetaminophen. Prior to discharge, pain was minimal and diet was advanced to regular as tolerated.
+
+**Medications at Discharge:**
+- Acetaminophen 500 mg every 6 hours as needed for pain.
+- Ciprofloxacin 250 mg orally twice daily for 7 days.
+
+**Follow-Up Care:**
+Mr. [B-NAME]Thompson[O] is to follow up with his primary care provider, Dr. [B-NAME]Aaron Rogers[O], on [B-DATE]03/03/2023[O]. He should also have a follow-up ultrasound in three months to ensure that his postoperative course continues without issue.
+
+**Specific Instructions:**
+- Maintain a low-fat diet to prevent further gallbladder issues.
+- Gradually resume regular physical activity as tolerated.
+- Report any symptoms of infection, persistent pain, or jaundice to his primary care provider immediately.
+
+**Emergency Contact:**
+- Wife: [B-NAME]Sarah Thompson[O]
+- Phone: [B-PHONE]555-672-9802[O]
+
+The patient expressed understanding of all discharge instructions and verbalized comprehension of signs and symptoms that would necessitate a return to the hospital. He was provided with written copies of his medication management plan and follow-up care instructions.
+
+**Discharge Physician:**
+Signature: Dr. [B-NAME]Emily Stark[O]
+Date: [B-DATE]02/25/2023[O]
+Time: 2:00 PM
+
+This discharge document serves as a comprehensive overview of Mr. [B-NAME]Michael Thompson[O]'s hospitalization from admission through discharge, including management, medications, follow-up, and specific care instructions.

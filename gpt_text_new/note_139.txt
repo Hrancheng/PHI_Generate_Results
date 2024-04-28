@@ -1,0 +1,53 @@
+**[B-ORGANIZATION]General Medical Center[O] Hospital Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Margaret Thompson[O]  
+**Medical Record Number:** [B-ID]982476135[O]  
+**Birth Date:** [B-DATE]July 8, 1954[O]  
+**Age:** [B-AGE]68 y.o.[O]  
+**Admission Date:** [B-DATE]March 4, 2023[O]  
+**Discharge Date:** [B-DATE]March 12, 2023[O]  
+**Attending Physician:** Dr. [B-NAME]Harold Greene[O]  
+**Insurance Provider:** [B-ORGANIZATION]SecureHealth Ins[O]
+
+**Chief Complaint:**
+Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+
+**Hospital Course:**
+Mrs. [B-NAME]Thompson[O] was admitted following a severe COPD exacerbation characterized by increased shortness of breath and decreased oxygen saturation levels observed at her primary care physician’s office on [B-DATE]March 4, 2023[O]. During her hospitalization, Mrs. [B-NAME]Thompson[O] received high-dose corticosteroids and bronchodilators via nebulization, which gradually eased her breathing difficulties. She participated in respiratory therapy, steadily improving and maintaining oxygen saturation above 92% on room air.
+
+**Procedures:**
+1. Chest X-ray: Revealed hyperinflated lung fields typical of COPD; no acute disease identified.
+2. ABG Analysis: Indicated moderate hypoxia initially which improved post-treatment.
+
+**Consultations:**
+Pulmonology - Dr. [B-NAME]Annabelle Liu[O]; recommended follow-up in the COPD clinic.
+
+**Medications at Discharge:**
+- Albuterol Inhaler as needed
+- Prednisone taper starting at 40 mg orally once daily for 5 days 
+- Tiotropium 18 mcg inhaled daily
+
+**Discharge Instructions:**
+Patient to continue using supplemental oxygen at 2 liters per minute as needed. Recommended to avoid known allergens and respiratory irritants. Ms. [B-NAME]Thompson[O] should follow up with her primary care provider, Dr. [B-NAME]Eliot Manson[O], within one week of discharge and with Pulmonology within one month.
+
+**Follow-Up Appointments:**
+1. Dr. [B-NAME]Eliot Manson[O], [B-DATE]March 20, 2023[O], for post-hospitalization check-up.
+2. Pulmonology clinic on [B-DATE]April 10, 2023[O], for COPD management evaluation. 
+
+**Patient's Condition at Discharge:**
+Stable with recommendations for continued outpatient management.
+
+**Readmission Risk:**
+Moderate; closely monitor respiratory status and adhere to medication regimen to prevent likely readmission.
+
+**Signature:**
+Dr. [B-NAME]Harold Greene[O], MD        
+Date: [B-DATE]March 12, 2023[O]  
+Time: 16:00 PM  
+
+**[B-ORGANIZATION]General Medical Center[O], Discharge Department**  
+**Contact Phone:** [B-PHONE]555-0123-4567[O]
+
+---
+
+This document has been created adhering to the guidelines for PHI de-identification, labeling only necessary personal health information for post-hospital care and record-keeping.

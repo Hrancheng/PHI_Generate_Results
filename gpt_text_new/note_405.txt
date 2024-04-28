@@ -1,0 +1,69 @@
+**Inpatient Discharge Summary**
+
+**Patient Name**: [B-NAME]Emily Thompson[O]
+
+**MRN#:** [B-ID]987654321[O]
+
+**Age**: [B-AGE]42 years old[O]
+
+**Admission Date**: [B-DATE]January 5th, 2023[O]
+
+**Discharge Date**: [B-DATE]January 20th, 2023[O]
+
+**Admitted Through**: Emergency Department
+
+Attending Physician: Dr. [B-NAME]Sarah Hughes[O]
+
+**Primary Diagnosis**:
+- Acute Cholecystitis
+
+**Secondary Diagnoses**:
+- Type II diabetes mellitus
+- Hypertension
+
+**Hospital Course**:
+[B-NAME]Emily Thompson[O] was admitted with severe right upper quadrant pain, nausea, and vomiting. An ultrasound confirmed the presence of gallstones with signs of inflammation. The patient was managed with IV antibiotics and fluids for acute cholecystitis. Her diabetes and hypertension were controlled with insulin and oral antihypertensives, respectively. Surgical consultation recommended elective cholecystectomy due to recurrent similar episodes. Overall, her condition stabilized with conservative management, and she was scheduled for outpatient follow-up for surgical consideration.
+
+**Medications on Discharge**:
+- Metformin 500 mg twice daily
+- Lisinopril 20 mg once daily
+- Insulin Glargine 40 units at bedtime
+
+**Allergies**: No known drug allergies
+
+**Follow-up Appointments**:
+1. General Surgery with Dr. [B-NAME]Michael Grant[O] on [B-DATE]January 27th, 2023[O] at [B-ADDRESS]456 Health Blvd, Clinic A, Room 301, Springfield, IL[O]
+2. Endocrinology for diabetes management on [B-DATE]February 3rd, 2023[O] at the Diabetes Care Center, [B-ADDRESS]789 Wellness Drive, Springfield, IL[O]
+
+**Instructions for Patient**:
+- Adhere strictly to the prescribed medication regimen.
+- Monitor blood sugar levels four times a day.
+- Follow a low-fat diet as discussed to manage both gallstone issues and diabetes.
+- Seek immediate care if experiencing increased pain, fever, jaundice, or any signs of infection.
+
+**Labs to be Rechecked**:
+- CBC and Liver Function Tests on [B-DATE]January 25th, 2023[O]
+- HbA1c on [B-DATE]February 2nd, 2023[O]
+
+**Discharge Condition**: Stable
+
+**Disposition**: Discharged to home under the care of her husband, [B-NAME]David Thompson[O].
+
+**Additional Notes**: 
+Patient was counseled extensively about lifestyle modifications essential for managing her current health conditions. She verbalized understanding and commitment to following through with the outpatient procedures and follow-up regimen.
+
+Signed:
+Dr. [B-NAME]Sarah Hughes[O]
+[B-DATE]January 20th, 2023[O], [B-TIME]2:00 PM[O]
+
+Emergency Contact:
+Husband, [B-NAME]David Thompson[O], available at [B-PHONE]555-123-4567[O]
+
+**Risk Factor Analysis**:
+The patient's LACE index score was calculated to be 9, indicating a moderate risk for readmission. This assessment underscores the importance of closely monitored follow-up care, strict adherence to the medication regimen, and commitment to recommended lifestyle changes to mitigate the risk of readmission.
+
+**Future considerations**:
+- Consideration for laparoscopic cholecystectomy if symptoms recur before the scheduled appointment.
+- Continuous monitoring and management of blood pressure and blood glucose levels to prevent complications.
+
+This comprehensive discharge summary aims to facilitate seamless continuation of care by detailing the patient's hospital course, treatment outcomes, and follow-up care plans.

@@ -1,0 +1,47 @@
+Inpatient Discharge Summary
+-----------------------------------
+[B-NAME]Emily Thompson[O], MRN# [B-ID]876543210[O], is a [B-AGE]58-year-old[O] female admitted to the [B-ORGANIZATION]General Hospital Medical Center[O] for management of acute exacerbation of chronic obstructive pulmonary disease (COPD). 
+
+Admission Date: [B-DATE]March 15, 2023[O]
+Discharge Date: [B-DATE]March 22, 2023[O]
+Attending Provider: Dr. [B-NAME]Alan Rickman[O]
+
+Treatment Team:
+-Primary Care Provider: Dr. [B-NAME]Susan O'Malley[O]
+-Nursing contact: [B-NAME]Nancy Hills[O], RN
+
+Hospital Course:
+Ms. [B-NAME]Thompson[O] was admitted following a week of increased shortness of breath and reduced exercise tolerance. Her symptoms were accompanied by a productive cough with green sputum. Initial arterial blood gases showed marked hypoxia which necessitated supplementary oxygen via a nasal cannula. She was started on IV corticosteroids and antibiotics after initial cultures were taken. Over her course in the hospital, she showed gradual improvement with reduced oxygen requirements and resolution of fever. 
+
+Complications:
+None.
+
+Test Results:
+- Chest X-ray on admission showed increased bronchial wall thickness and bilateral air space opacities.
+- Sputum culture grew [B-ORGANIZATION]Haemophilus influenzae[O].
+
+Disposition at Discharge:
+Ms. [B-NAME]Thompson[O] was discharged in stable condition. She is to continue with home oxygen at 2 liters per minute as required and has been prescribed the following medications:
+- Prednisone 40 mg daily for 5 days
+- Amoxicillin 500 mg three times daily for 7 days
+
+Follow-up:
+Ms. [B-NAME]Thompson[O] needs to follow up with her primary care provider, Dr. [B-NAME]Susan O'Malley[O], in one week's time. She is also scheduled for a follow-up in the COPD clinic in two weeks. 
+
+Home Care Instructions:
+Ms. [B-NAME]Thompson[O] has been instructed on the correct use of her inhalers and has been advised to avoid any known respiratory irritants. She was educated on COPD exacerbation signs and instructed to seek immediate medical attention if her symptoms dramatically worsen. 
+
+Discharge Medications:
+1. Prednisone 40 mg, take 1 tablet daily for 5 days.
+2. Amoxicillin 500 mg, take 1 capsule three times daily for 7 days. 
+
+Instructions for Patient at Home:
+- Continue using supplemental oxygen as prescribed.
+- Complete the course of prescribed antibiotics and oral steroids.
+- Monitor for symptoms of COPD exacerbation.
+
+Discharge Vitals:
+BP 130/85 mmHg, HR 78 beats per minute, Temperature 98.6 F, Respirations 18 per minute, O2 Saturation on room air 92%.
+
+Signed: Dr. [B-NAME]Alan Rickman[O]
+Date: [B-DATE]March 22, 2023[O]

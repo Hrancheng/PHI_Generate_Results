@@ -1,0 +1,63 @@
+Inpatient Discharge Summary
+------------------------------
+Patient Name: [B-NAME]Mary Elizabeth Winston[O]
+MRN: [B-ID]459321789[O]
+Age: [B-AGE]56 years[O]
+Dates of Service: [B-DATE]Admitted on 2/25/2023 and Discharged on 3/5/2023[O]
+
+**Chief Complaint:**
+Patient initially presented with severe abdominal pain and vomiting.
+
+**History of Present Illness:**
+[B-NAME]Mary[O] experienced escalating abdominal discomfort over the past week, described as sharp and constant. Associated symptoms included nausea and three episodes of vomiting on the day of admission. Over-the-counter antacids did not relieve her symptoms.
+
+**Past Medical History:**
+- Type 2 Diabetes
+- Hypertension
+- Previous appendectomy ([B-DATE]2005[O])
+
+**Medications on Admission:**
+- Metformin 500 mg twice daily
+- Lisinopril 20 mg once daily
+
+**Hospital Course:**
+[B-NAME]Mary[O] was admitted under the care of Dr. [B-NAME]Johnathan Meyers[O], gastroenterology. An abdominal ultrasound and CT scan revealed gallstones and cholecystitis. She underwent laparoscopic cholecystectomy on [B-DATE]2/27/2023[O], which was uneventful.
+
+Post-operatively, she developed a mild fever, managed effectively with acetaminophen and intravenous antibiotics. Her recovery was otherwise straightforward, with a gradual return to a normal diet and activity by [B-DATE]3/2/2023[O].
+
+**Consults:**
+- Nutrition: Evaluated and provided a low-fat diet plan.
+- Diabetes Management: Reviewed by Endocrinology; adjustments made to her diabetic medications.
+
+**Condition at Discharge:**
+Stable. All vital signs within normal limits. Patient reports significant improvement in symptoms.
+
+**Medications at Discharge:**
+- Metformin 500 mg twice daily
+- Lisinopril 20 mg once daily
+- Oxycodone 5 mg every 6 hours as needed for pain
+
+**Follow-Up Appointments:**
+- [B-ORGANIZATION]Community Health Clinic[O] for surgical follow-up on [B-DATE]3/12/2023[O] with Dr. [B-NAME]Emily Strauss[O], PA.
+- Diabetes follow-up with Dr. [B-NAME]Ivan Gregor[O] on [B-DATE]3/15/2023[O] at the [B-ORGANIZATION]Downtown Medical Center[O].
+
+**Discharge Instructions:**
+- Avoid lifting heavy objects for 4 weeks.
+- Continue a low-fat diet as discussed with the dietitian.
+- Monitor for signs of infection or undue pain at the incision sites.
+- Resume diabetes medications immediately; monitor blood sugar levels at least twice daily.
+
+**Labs/Results on Discharge:**
+- WBC: 7.3 (within normal range)
+- Hemoglobin: 13.2 (stable)
+- Fasting Blood Glucose: 158 mg/dL
+
+**Codes Status:**
+Full code
+
+**Prepared by:**
+Dr. [B-NAME]Johnathan Meyers[O], GI specialist, [B-DATE]3/5/2023[O]
+**Reviewed and co-signed by:**
+Dr. [B-NAME]Anna Fitzgerald[O], Chief of Surgery, [B-DATE]3/5/2023[O]
+
+Note: This summary is intended for use by the following medical care providers and should be included in the patient's personal health records to ensure continuity of care.

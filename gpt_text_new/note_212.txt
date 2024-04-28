@@ -1,0 +1,68 @@
+**HFT Inpatient Discharge Summary**
+
+**Patient Information:**  
+- **[B-NAME]Emily Thompson[O]**, MRN# [B-ID]229745863[O], is a [B-AGE]52 y.o.[O] female, admitted to the Cardiology service for evaluation and management of chest pain and shortness of breath.  
+- Admission Date: [B-DATE]2/14/2023[O]  
+- Discharge Date: [B-DATE]2/20/2023[O]  
+- Attending Provider: Dr. [B-NAME]Harold Greene[O]  
+- Treatment Team: !! FIRST CONTACT !!: Cardiac Unit Nurse Team - PAGER [B-ID]145678[O]
+
+**Hospital Problems Noted - Resolved**  
+- POA Active Problems  
+  - Hypertension [B-DATE]2/14/2023[O] - Present Yes  
+  - Type 2 Diabetes Mellitus [B-DATE]2/14/2023[O] - Present Yes  
+  - Congestive Heart Failure [B-DATE]2/14/2023[O] - Present Yes
+
+**Other Problems**  
+- None
+
+**Hospital Course: Brief Overview**  
+Mr. [B-NAME]Emily Thompson[O] presented to [B-ORGANIZATION]City General Hospital[O] with chest pain characterized as substernal, exertional with shortness of breath. On admission, her EKG showed new T wave inversions in the anterior leads. She was immediately started on dual antiplatelet therapy and a statin. Given her risk factors and initial cardiac biomarkers, which were elevated, she underwent coronary angiography that showed a 70% stenosis in the left anterior descending artery. A drug-eluting stent was successfully placed. Her post-operative course was uncomplicated, and she was started on a beta-blocker and ACE inhibitor for heart failure management.
+
+**Discharge Condition:**  
+- Disposition: Stable  
+- Home or Self Care with follow-up at [B-ORGANIZATION]City General Cardiac Rehab[O]  
+- Next Appointment: [B-DATE]2/28/2023[O], 10:30 AM with Dr. [B-NAME]Harold Greene[O]
+
+**Discharge Medication List**  
+- Aspirin 81 mg tablet: 1 tab daily  
+- Atorvastatin 20 mg tablet: 1 tab at bedtime  
+- Metoprolol 50 mg tablet: 1 tab twice daily  
+- Lisinopril 10 mg tablet: 1 tab daily  
+- Follow-Up Instructions: Patient instructed to continue medication as prescribed, monitor blood pressure and blood sugar levels daily, and maintain a low-salt, diabetic-friendly diet. Education provided on recognizing signs of heart failure exacerbation.
+
+**Recommendations for Follow-Up:**  
+- Cardiology follow-up in 2 weeks or sooner if symptoms recur.  
+- Diabetic education follow-up with [B-ORGANIZATION]City General Diabetic Care Center[O] scheduled for [B-DATE]3/5/2023[O].  
+- Heart failure education session recommended within one month.
+
+**Last Recorded Vital Signs:**  
+- BP 132/82 mmHg  
+- Pulse 78 bpm  
+- Temp 36.6 °C (97.9 °F)  
+- Resp 16  
+- SpO2 97%  
+
+**Pertinent Discharge Physical Exam Findings:**  
+- Cardiovascular: Regular rhythm, no murmurs, S1 and S2 noted, no peripheral edema.  
+- Respiratory: Clear to auscultation bilaterally.  
+- Abdominal: Soft, non-tender, no organomegaly.  
+- Extremities: No cyanosis, clubbing, or edema.  
+- Neurologic: Alert and oriented × 3, no focal deficits.
+
+**Significant Test or Procedure Results:**  
+- Coronary angiography on [B-DATE]2/15/2023[O] indicated 70% LAD stenosis, treated with stenting, showing good flow post-procedure.  
+- Echocardiogram showed LVEF of 45%, indicating mild systolic dysfunction.
+
+**Communication:**  
+- A follow-up letter and a copy of the discharge summary have been sent to [B-NAME]Dr. Susan Miller[O], the patient’s primary care physician.  
+
+**Education Provided:**  
+- Heart disease management, importance of medication adherence, and lifestyle modifications for heart health and diabetes management. 
+
+**Discharge Instructions:**  
+- Patient to avoid heavy lifting and strenuous activity for 1 week.  
+- Report any symptoms of chest pain, shortness of breath, or leg swelling to the physician immediately.
+
+Signed: [B-NAME]Harold Greene[O], MD, [B-DATE]2/20/2023[O], 11:45 AM  
+**[B-ORGANIZATION]City General Hospital[O]**

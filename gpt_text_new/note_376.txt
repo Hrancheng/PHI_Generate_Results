@@ -1,0 +1,77 @@
+**Inpatient Discharge Summary**
+
+Patient Information:  
+[B-NAME]Elizabeth Connor[O], MRN# [B-ID]625748921[O], is a [B-AGE]68 y.o.[O] female, admitted to the Cardiothoracic Surgery Unit for management of acute coronary syndrome.
+
+Admission Date: [B-DATE]09/15/2023[O]  
+Discharge Date: [B-DATE]09/25/2023[O]  
+Attending Provider: Dr. [B-NAME]Michael Thompson[O]  
+Treatment Team: Cardiovascular Team B  
+!! FIRST CONTACT !!: SA3 FLOOR CALLS - PAGER [B-ID]25915[O]
+
+Hospital Problems Noted - Resolved:  
+Acute coronary syndrome [B-DATE]09/15/2023[O] - Present Yes  
+Hypertension [B-DATE]09/15/2023[O] - [B-DATE]09/25/2023[O] Yes   
+Resolved Problems:  
+RESOLVED: Angina Pectoris [B-DATE]09/15/2023[O] - [B-DATE]09/25/2023[O] Yes  
+RESOLVED: Electrolyte imbalance due to diuretics [B-DATE]09/18/2023[O] - 09/22/2023[O]
+
+Other Problems  
+None
+
+Recommendations for Follow Up:  
+Attention to Primary Care Attending: (diagnostic studies and exam findings) General follow up.  
+To Do's for Referring / Subspecialty Provider(s):  
+Cardiology: Follow up appointment on [B-DATE]10/03/2023[O].  
+Endocrinology: Follow up scheduled for [B-DATE]10/10/2023[O].
+
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient: Contact information for follow-up Phys, Self-Refer Or No PCP/Referring  
+Next Steps: Follow up   
+[B-ORGANIZATION]Carter Health Solutions[O] [B-PHONE]572-829-9384[O]  
+Next Steps: Follow up Instructions: [B-NAME]Matthew Rogers[O] will be delivered to your hospital room prior to DC. [B-NAME]Susan Hill, James Foreman[O], MD  
+Medications: Continued Aspirin 81 mg PO daily, Metoprolol 25 mg PO BID. New prescription for Atorvastatin 20 mg PO nightly.  
+
+Pertinent Discharge Physical Exam Findings:  
+General appearance: alert, appears relatively well for stated age and condition  
+Head: Normocephalic, atraumatic  
+Neck: No jugular vein distention  
+Lungs: Clear bilaterally  
+Heart: Regular rate and rhythm, no murmurs heard  
+Abdomen: Soft, non-tender, no hepatosplenomegaly  
+Extremities: No edema noted, pulses intact  
+Neurologic: Alert and oriented x 4, no focal neurologic deficits noted
+
+Last Recorded Vital Signs:  
+BP 130/80 (BP Location: Right arm, BP Patient position: Sitting, BP Cuff Information: Adult Large 33-47 cm) | Pulse 72 | Temp 36.8 °C (98.2 °F) | Resp 14 | Ht 1.63 m (5' 4") | Wt 75 kg (165 lb) | SpO2 98% | BMI 28.25 kg/m²  
+
+Operations/Major Procedures:  
+Surgical/Procedural Cases on this Admission  
+Case IDs Date Procedure Surgeon Location Status  
+[B-ID]415790[O] [B-DATE]09/17/2023[O] CORONARY ARTERY BYPASS GRAFT [B-NAME]Michael Thompson[O], MD CCT OR Complete
+
+Discharge Medication List:  
+Continue all home medications except for discontinuation of pre-admission NSAIDs.  
+New Medications: Start taking as prescribed  
+Metoprolol 25 mg, Oral, TWICE DAILY  
+Aspirin 81 mg, Oral, ONCE DAILY  
+Atorvastatin 20 mg, Oral, NIGHTLY  
+Gabapentin 100 mg, Oral, NIGHTLY as needed for neuropathic pain  
+
+Significant Test or Procedure Results:  
+ECHO [B-DATE]09/18/2023[O]: Normal systolic function, LVEF 55%. No significant valvular abnormalities. Mild left ventricular hypertrophy.  
+Post-operative Chest X-ray [B-DATE]09/17/2023[O]: Stable post-operative status with surgical changes, no acute disease.
+
+Day of Discharge Labs:  
+CBC with differential, Comprehensive Metabolic Panel, and Coagulation Profile all within normal limits. No significant changes from previous values.
+
+Discharge Instructions:  
+Ms. [B-NAME]Connor[O] is advised to limit strenuous activity for the next 6 weeks and avoid lifting objects heavier than 5 pounds. She should continue a low salt diet as recommended by dietician. She is instructed to monitor for signs of infection around the wound site, chest pain, excessive fatigue, or any new symptoms and to report these to her healthcare provider immediately. Follow-up appointments have been scheduled and detailed in the next steps.
+
+Follow-up:    
+Scheduled with Cardiology on [B-DATE]10/03/2023[O] at [B-LOCATION]Greenway Cardiology Clinic[O].  
+Scheduled with Endocrinology on [B-DATE]10/10/2023[O] at [B-LOCATION]Downtown Medical Center - Endocrine Department[O].
+
+The patient and family expressed understanding of the discharge plan and verbalized understanding of follow-up instructions. Transportation has been arranged for discharge by [B-ORGANIZATION]Community Transport Services[O].
+
+_________
+The discharge plan was reviewed and agreed upon with the patient. All information has been validated and confirmed.

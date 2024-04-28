@@ -1,0 +1,71 @@
+**University Medical Center Inpatient Discharge Summary**
+
+[B-NAME]Eleanor Thompson[O], MRN# [B-ID]458962357[O], is a [B-AGE]62-year-old[O] female, admitted to the cardiology service due to chest pain and shortness of breath. 
+
+Admission Date: [B-DATE]02/15/2023[O]
+Discharge Date: [B-DATE]02/20/2023[O]
+Attending Provider: Dr. [B-NAME]Henry Abrams[O]
+Treatment Team: Cardiology Unit C3
+
+!! FIRST CONTACT !!:
+ICU Nurse Calls - PAGER [B-ID]17205[O]
+
+**Hospital Problems Noted - Resolved/Active Problems:**
+- Acute myocardial infarction [B-DATE]02/15/2023[O] - Present Yes
+- Hypertension [B-DATE]02/15/2023[O] - [B-DATE]02/20/2023[O] Yes
+- Diabetes Mellitus Type 2 [B-DATE]02/15/2023[O] - Present Yes
+
+**Resolved Problems:**
+- RESOLVED: Hypoxemia [B-DATE]02/16/2023[O] - [B-DATE]02/18/2023[O] Yes
+
+**Other Problems:** 
+None
+
+**Recommendations for Follow-Up:**
+Attention to Primary Care Physician: 
+General follow-up recommended in one week.
+
+To Do's for Referring/Subspecialty Provider(s):
+- Cardiology: [B-DATE]03/01/2023[O] for echocardiogram follow-up
+- Endocrinology: Review and manage diabetes treatment regimen.
+
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders:**
+- CBC, CMP, lipid panel, and HbA1c scheduled for [B-DATE]02/28/2023[O]
+
+Next Steps: 
+Follow up with Dr. [B-NAME]Susan Lee[O], MD at [B-ORGANIZATION]Heart Health Specialists[O] [B-PHONE]555-423-7890[O]
+
+Next Steps Follow up Instructions: 
+[B-NAME]Samantha, Care Coordinator[O] will arrange transport to your home and ensure all prescriptions are delivered.
+
+Scheduled Appointments:
+Future Appointments Date Time Provider Department Center
+[B-DATE]2/28/2023[O] 11:00 AM [B-NAME]Lee, Susan[O], MD CARDIO HHSC
+
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**
+[B-AGE]62-year-old[O] female presented to the emergency department complaining of acute onset of chest pain radiating to her left arm, accompanied by shortness of breath while climbing stairs. Patient was immediately assessed, revealing elevated troponin levels and an abnormal EKG suggestive of anterior wall myocardial infarction. Patient was treated with emergency coronary angioplasty and stenting of the left anterior descending artery.
+
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+Ms. [B-NAME]Eleanor Thompson[O] was promptly taken to the cardiac catheterization lab upon admission, where successful stenting of her LAD artery was performed. She was monitored in the ICU for 24 hours, showing improved cardiac function and resolution of chest pain. Transitioned to the cardiac ward, where she remained stable with management of her blood pressure and blood sugar levels.
+
+**Discharge Medications:**
+- Aspirin 81 mg, daily
+- Metformin 500 mg, twice daily
+- Rosuvastatin 20 mg, nightly
+- Lisinopril 10 mg, daily 
+
+**Discharge Condition:**
+Stable 
+
+**Discharge Instructions:**
+Patient is advised to avoid strenuous activity for the next two weeks. Follow up with primary care physician and cardiologist as scheduled. Adhere strictly to the prescribed medication regimen. Eat a balanced diet low in sodium and saturated fats. Continue using diabetes monitoring equipment to track blood glucose levels.
+
+**Last Recorded Vital Signs:**
+BP 130/85 mmHg | Pulse 72 | Temp 98.6 °F | Resp 16 | SpO2 98%
+
+**Additional Notes:**
+Patient was counseled about smoking cessation and encouraged to join a support group. Patient and family were educated about recognizing signs of heart attack and instructed to call 911 if symptoms recur. 
+
+The discharge was signed off by Dr. [B-NAME]Henry Abrams[O], and communicated to the Primary Care Provider, Dr. [B-NAME]Susan Lee[O], on [B-DATE]02/20/2023[O] via secure email. 
+
+**Discharge Physician: Dr. [B-NAME]Henry Abrams[O]**

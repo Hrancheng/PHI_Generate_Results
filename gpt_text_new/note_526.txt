@@ -1,0 +1,55 @@
+**Inpatient Discharge Summary**
+
+[B-NAME]Michael Thompson[O], MRN# [B-ID]51897236[O], is a [B-AGE]45 y.o.[O] male, admitted to the Cardiology service for management of acute myocardial infarction and subsequent complications. 
+
+Admission Date: [B-DATE]2/15/2023[O]  
+Discharge Date: [B-DATE]2/25/2023[O]  
+Attending Provider: Dr. [B-NAME]Samantha Lee[O]  
+Treatment Team:  
+- Cardiology Fellow: Dr. [B-NAME]Henry Grant[O]  
+- Primary Nurse: [B-NAME]Nancy Drew[O]   
+
+**Hospital Course: Brief Overview**  
+Mr. [B-NAME]Michael Thompson[O] was admitted following a severe chest pain episode while at work at [B-ORGANIZATION]Finch Technologies[O]. He was initially managed in the Emergency Department where cardiac biomarkers confirmed an acute ST-elevation myocardial infarction (STEMI). He underwent emergent cardiac catheterization revealing triple vessel coronary artery disease, requiring the placement of two stents. 
+
+His post-operative course was complicated by transient acute kidney injury attributed to contrast use, which resolved with hydration and medical management. Atrial fibrillation was detected on day 3 of the admission, managed effectively with rate control and anticoagulation. The patient participated in daily cardiac rehabilitation sessions and responded well to guideline-directed medical therapy.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily  
+- Atorvastatin 80 mg nightly  
+- Metoprolol 50 mg twice daily  
+- Furosemide 40 mg daily as needed for fluid overload  
+
+**Discharge Instructions:**  
+Mr. [B-NAME]Thompson[O] is advised to follow a low-salt, heart-healthy diet, continue with outpatient cardiac rehabilitation, and monitor his weight daily. He should keep his follow-up appointment with Dr. [B-NAME]Lee[O] in one week and with his primary care physician, [B-NAME]Joseph Tanner[O], MD, in two weeks. Instructions for escalating diuretics if weight increases more than 2 kg in 24 hours have been provided.
+
+[B-ORGANIZATION]Heart Health Clinic[O]  
+Follow-Up Appointments:  
+- [B-DATE]3/1/2023[O], 10:00 AM with Dr. [B-NAME]Samantha Lee[O], Cardiology at [B-ORGANIZATION]City Hospital Cardiac Unit[O]  
+- [B-DATE]3/15/2023[O], 2:00 PM with [B-NAME]Joseph Tanner[O], MD at [B-ORGANIZATION]Downtown Medical Associates[O]  
+
+[B-PHONE]213-555-0192[O] - [B-ORGANIZATION]City Hospital Cardiac Unit[O]  
+[B-PHONE]213-555-0248[O] - [B-ORGANIZATION]Downtown Medical Associates[O]  
+
+**Pertinent Discharge Physical Exam Findings:**  
+- Cardiovascular: Stable post-procedure, no chest pain, S1 and S2 heard, no murmurs.  
+- Respiratory: Clear breath sounds bilaterally.  
+- Abdomen: Soft, non-tender.  
+- Extremities: No edema, pulses intact.  
+- Neurologic: Alert and oriented to person, place, and time.
+
+**Lab Work to be Followed up:**  
+- CBC, CMP, lipid panel, and INR scheduled for [B-DATE]2/28/2023[O] at [B-ORGANIZATION]City Hospital Laboratory Services[O]. 
+
+**Last Recorded Vital Signs:**  
+BP 132/86 | Pulse 78 | Temp 36.8°C | Resp 16 | O2 Sat 98% on room air
+
+**Other Instructions:**  
+- Avoid lifting objects heavier than 10 pounds for six weeks.  
+- Continue smoking cessation. Patient has been smoke-free since admission and should continue to utilize nicotine replacement therapy as prescribed.
+
+**Signed:** [B-NAME]Samantha Lee[O], MD, [B-DATE]2/25/2023[O], 3:30 PM.  
+**Cosigned:** [B-NAME]Henry Grant[O], MD, Cardiology Fellow.
+
+Please call the clinic with any symptoms of chest pain, excessive shortness of breath, or if weight gain exceeds 2 kg over 24 hours. Ensure you keep all medications and follow-up appointments as scheduled.

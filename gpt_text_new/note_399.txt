@@ -1,0 +1,43 @@
+**[B-ORGANIZATION]Maple Grove Hospital[O] Discharge Summary**
+
+**Patient Information:**  
+- **Patient:** [B-NAME]Emily Robinson[O], MRN# [B-ID]475869305[O]  
+- **[B-AGE]68-years-old[O]** female  
+- **Admission Date:** [B-DATE]3/15/2008[O]  
+- **Discharge Date:** [B-DATE]3/30/2008[O]  
+- **Attending Provider:** Dr. [B-NAME]Jonathan Harwood[O]  
+
+**Admission Diagnosis:**  
+- Acute exacerbation of chronic obstructive pulmonary disease  
+- Type 2 diabetes mellitus  
+- Hypertension  
+
+**Hospital Course:**  
+Ms. [B-NAME]Robinson[O] was admitted following an episode of severe dyspnea and was found to have an acute exacerbation of her COPD. Treatment included intravenous corticosteroids and nebulizers. Her diabetes was managed with an insulin sliding scale. Blood pressure was initially elevated but responded well to adjustments in her antihypertensive medications.
+
+**Tests/Procedures:**  
+- **Chest X-ray:** Indicated hyperinflated lung fields, no acute consolidation  
+- **EKG:** Normal sinus rhythm, no significant changes  
+- **Echo:** Showed preserved ejection fraction with no regional wall motion abnormalities  
+
+**Discharge Medications:**  
+- Albuterol inhaler: Use as needed for wheezing  
+- Prednisone taper: 5 mg Oral, daily for 7 days  
+- Lisinopril 20 mg tablet: Once daily for hypertension  
+- Metformin 500 mg: Twice daily  
+
+**LACE - Readmission Risk Score:**  
+- **Total Score:** 9 (Length of stay: 2, Acute Admission: 3, Comorbidities: 2, ED Visits in last 6 months: 2)  
+- **Risk Level:** Moderate  
+
+**Discharge Instructions:**  
+Ms. [B-NAME]Robinson[O] is advised to avoid exposure to cold weather and pollution, which could trigger her COPD. She should continue using her inhaler as prescribed and manage her diabetes by monitoring her blood sugar levels regularly. Follow-up appointments have been scheduled with her primary care physician and pulmonologist.
+
+**Follow-Up:**  
+- **[B-DATE]4/10/2008[O]** at [B-TIME]10:00 AM[O]: Appointment with Dr. [B-NAME]Susan Miller[O], Pulmonologist  
+- **[B-DATE]4/15/2008[O]** at [B-TIME]2:00 PM[O]: Primary care follow-up with Dr. [B-NAME]Neil Grant[O]
+
+**Discharge Condition:**  
+- Ms. [B-NAME]Robinson[O] is stable and fully oriented. Her breathing has improved, and she is to continue with oxygen supplementation as needed at home.
+
+**[B-DATE]3/30/2008[O] Signed:** [B-NAME]Jonathan Harwood, MD[O]

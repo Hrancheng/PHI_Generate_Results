@@ -1,0 +1,44 @@
+**[B-ORGANIZATION]City General Hospital[O] Inpatient Discharge Summary**
+
+**Patient Information:**
+- Patient Name: [B-NAME]Margaret Thompson[O]
+- Medical Record Number: [B-ID]5823024896[O]
+- [B-AGE]78-year-old[O] female
+- Admission Date: [B-DATE]February 19, 2023[O]
+- Discharge Date: [B-DATE]March 1, 2023[O]
+- Attending Physician: Dr. [B-NAME]Harold Greene[O]
+- Consulting Team: Cardiology, Nephrology, Nutrition
+
+**Hospital Course:**
+[B-NAME]Margaret Thompson[O] was admitted with a chief complaint of chest pain and diagnosed with acute myocardial infarction. She underwent successful percutaneous coronary intervention (PCI) to the left anterior descending artery. Post-procedure, her course was complicated by acute kidney injury, likely due to contrast nephropathy. She required IV hydration and temporary renal dose adjustments of her medications. Her renal function began to improve steadily.
+
+Cardiology managed her post-MI care, optimizing her heart medications and recommending lifestyle modifications, including diet and exercise. Dietary consultations were provided, focusing on heart-healthy foods low in sodium and saturated fats. [B-NAME]Margaret[O] participated in counseling sessions to address her new dietary regimen and was very cooperative.
+
+**Procedures Performed:**
+1. PCI to the left anterior descending artery on [B-DATE]February 20, 2023[O].
+2. Daily ECGs and echocardiogram which showed improved cardiac function by discharge.
+
+**Discharge Medications:**
+1. Aspirin 81 mg daily.
+2. Atorvastatin 40 mg at bedtime.
+3. Metoprolol 50 mg twice daily.
+4. Lisinopril 10 mg daily, to be adjusted based on kidney function.
+
+**Follow-Up Appointments:**
+- [B-NAME]Margaret[O] is scheduled to follow up with Dr. [B-NAME]Harold Greene[O] on [B-DATE]March 15, 2023[O] at the cardiology clinic of [B-ORGANIZATION]City General Hospital[O]. 
+- Nephrology follow-up in 2 weeks with [B-NAME]Susan Patel, MD[O] concerning her kidney function and medication adjustments.
+
+**Discharge Instructions:**
+[B-NAME]Margaret[O] should continue to monitor her blood pressure and weight daily. She is instructed to limit her fluid intake to less than 1.5 liters per day and follow a low-sodium diet as recommended. She should watch for signs of fluid overload or worsening renal function, including increased shortness of breath, swelling in her legs, or decreased urine output.
+
+**Outpatient Services and Equipment:**
+- Ordered home health services to assist with medication management and monitoring of her blood pressure and weight.
+- A blood pressure cuff and weighing scale were provided for home use to monitor her vital signs daily.
+
+**Summary and Recommendations:**
+[B-NAME]Margaret Thompson[O] has made good recovery from her recent hospitalization for myocardial infarction and kidney injury. It is crucial that she continues with her medications as prescribed, adheres to her new dietary restrictions, and attends all scheduled follow-up appointments. The heart-healthy modifications to her lifestyle are critical to her ongoing recovery and long-term health outcomes.
+
+**Signed:**
+- Dr. [B-NAME]Harold Greene[O], MD, Cardiologist, [B-ORGANIZATION]City General Hospital[O]
+- Date: [B-DATE]March 1, 2023[O]
+- Time: 11:00 AM

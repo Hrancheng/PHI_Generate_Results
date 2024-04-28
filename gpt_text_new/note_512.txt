@@ -1,0 +1,41 @@
+Inpatient Discharge Summary
+
+[B-NAME]Jane Doe[O], MRN# [B-ID]382716005[O], is a [B-AGE]54 y.o.[O] female, admitted to the [B-ORGANIZATION]Global Medical Center[O] for management of acute cholecystitis. 
+
+Admission Date: [B-DATE]11/12/2023[O]
+Discharge Date: [B-DATE]11/18/2023[O]
+Attending Provider: Dr. [B-NAME]Amelia Hartford[O]
+Treatment Team: General Surgery Service
+
+Hospital Course:
+Mrs. [B-NAME]Doe[O] was admitted after presenting to the ER with severe right upper quadrant pain, nausea, and vomiting. An abdominal ultrasound confirmed the presence of cholecystitis with cholelithiasis. She was started on IV antibiotics and underwent a laparoscopic cholecystectomy on [B-DATE]11/14/2023[O] which was successful with no complications. Postoperatively, the patient had a stable course, was started on a liquid diet, and gradually progressed to a solid diet as tolerated. Her pain was managed with IV acetaminophen and she was switched to oral medications as her condition improved.
+
+Discharge Medications:
+- Acetaminophen 500 mg tablet, Take 1 tablet by mouth every 6 hours as needed for pain.
+- Ibuprofen 400 mg tablet, Take 1 tablet by mouth every 8 hours as needed for pain.
+- Amoxicillin 500 mg capsule, Take 1 capsule by mouth three times daily for 7 days.
+
+Discharge Instructions:
+Mrs. [B-NAME]Doe[O] is to follow up with her primary care doctor, Dr. [B-NAME]Susan Kline[O], in one week. She should continue her medications as prescribed and adhere to a low-fat diet for the next month to aid in her recovery. She is advised to monitor her pain and temperature, and report any fevers, jaundice, or worsening abdominal pain to her doctor immediately.
+
+Activities: 
+Limit lifting to less than 10 pounds for 4 weeks. Gradually increase activity as tolerated.
+
+Diet:
+Advance to regular diet as tolerated. Recommended to avoid fatty and fried foods for 4 weeks.
+
+Follow-Up Appointments:
+Scheduled with Dr. [B-NAME]Susan Kline[O] on [B-DATE]11/25/2023[O] at [B-ORGANIZATION]Maple Leaf Medical Clinic[O].
+
+Warnings:
+Seek immediate medical help if experiencing symptoms of infection, such as increasing pain, redness or discharge from incisions, fevers, or chills.
+
+Last Recorded Vital Signs:
+BP 120/82 | Pulse 72 | Temp 36.8 °C | Resp 16 | SpO2 98%
+
+Summary and Impressions:
+Mrs. [B-NAME]Doe[O] showed good postoperative recovery. Laparoscopic cholecystectomy was performed without any complications. She is being discharged in a stable condition with appropriate follow-up in place.
+
+Prepared by:
+[B-NAME]Lisa Raymond[O], MD
+Discharge summary dictated on [B-DATE]11/18/2023[O] and signed electronically by [B-NAME]Amelia Hartford[O], MD.

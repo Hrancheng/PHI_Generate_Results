@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+[B-NAME]Robert Thomson[O], MRN# [B-ID]445621398[O], is a [B-AGE]54-year-old[O] male, admitted to the Cardiology service following a suspected myocardial infarction. 
+
+**Admission Date:** [B-DATE]09/15/2023[O]
+**Discharge Date:** [B-DATE]09/23/2023[O]
+**Attending Provider:** Dr. [B-NAME]Alice Hart[O]
+**Treatment Team:**
+  - Cardiovascular Care Unit
+  - Consulting Physician: Dr. [B-NAME]Samantha Rey[O]
+
+**Hospital Problems Noted - Resolved:**
+POA Active Problems:
+  - Myocardial Infarction, Anterior Wall [B-DATE]09/15/2023[O] - Present Yes
+  - Type II Diabetes Mellitus [B-DATE]09/18/2023[O] - Present Yes
+
+**Brief Hospital Course:**
+Mr. [B-NAME]Thomson[O] was brought to the [B-ORGANIZATION]City General Hospital[O] emergency department reporting severe chest pain and shortness of breath. ECG confirmed anterior wall myocardial infarction. He was urgently taken to the cath lab where Dr. [B-NAME]Rey[O] performed a successful angioplasty with stent placement to the left anterior descending artery. 
+
+Post-procedure, the patient remained stable with no recurrent chest pain. He was initiated on dual antiplatelet therapy and high-intensity statin therapy. Diabetes management was adjusted with an insulin regimen due to elevated blood glucose levels during his stay. 
+
+His recovery was uneventful, and he participated in daily cardiac rehabilitation sessions on the ward.
+
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice a day
+- Insulin Aspart per sliding scale
+
+**Discharge Instructions:**
+Mr. [B-NAME]Thomson[O] is advised to avoid strenuous activity for the next 4 weeks. He should follow up with his primary care physician, Dr. [B-NAME]Harold Greene[O], and his cardiologist, Dr. [B-NAME]Samantha Rey[O], within the next week. He is also scheduled for a follow-up in our outpatient cardiac rehabilitation program.
+
+**Next Steps: Follow up**
+- Follow up appointment with Dr. [B-NAME]Samantha Rey[O], Cardiology, on [B-DATE]10/01/2023[O] at [B-ORGANIZATION]City General Hospital Cardiology Clinic[O].
+- Diabetes management review on [B-DATE]10/05/2023[O] with Dr. [B-NAME]Harold Greene[O].
+
+**Other Instructions:**
+Mr. [B-NAME]Thomson[O] is instructed to monitor his blood pressure and blood sugar levels at home. He should contact our clinic if he experiences chest pain, shortness of breath, or symptoms of hypoglycemia. He should continue to adhere to a heart-healthy diet, as instructed by our nutrition team, and gradually increase his physical activity as tolerated.
+
+**Final Day of Hospital Vital Signs:**
+BP 130/85 | Pulse 72 | Temp 98.6 °F | Resp 16 | O2 Sat 98% on room air
+
+**Discharge Condition:**
+Patient's condition at discharge is stable, with improved cardiac function and controlled blood glucose levels. He understands all discharge instructions and acknowledges the importance of close follow-up.
+
+**Discharge by:**
+Dr. [B-NAME]Alice Hart[O], Cardiology
+Time of Discharge: [B-DATE]09/23/2023[O] at 11:00 AM
+
+This summary is provided to ensure a smooth transition of care and to facilitate follow-up arrangements. Should any further information be required, please do not hesitate to contact our office.

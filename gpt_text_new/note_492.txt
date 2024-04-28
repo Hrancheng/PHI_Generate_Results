@@ -1,0 +1,60 @@
+**[B-ORGANIZATION]Regional General Hospital[O] Inpatient Discharge Summary**
+
+**Patient Information:**
+- **[B-NAME]Emily Thompson[O]**
+- **MRN#: [B-ID]987654321[O]**
+- **Age: [B-AGE]58 years old[O]**
+
+**Admission Date: [B-DATE]March 15, 2023[O]**
+**Discharge Date: [B-DATE]March 22, 2023[O]**
+
+**Attending Provider:** Dr. [B-NAME]Alice Johnson[O]
+
+**Admission Diagnosis:** Acute Cholecystitis  
+**Discharge Diagnosis:** Acute Cholecystitis resolved
+
+**Hospital Course:**
+[B-NAME]Emily Thompson[O] was admitted with severe right upper quadrant pain and was diagnosed with acute cholecystitis based on ultrasound findings and lab results. The patient underwent laparoscopic cholecystectomy on [B-DATE]March 16, 2023[O], which was uncomplicated. Post-operative recovery was uneventful, and the patient's pain was well controlled with IV acetaminophen and oral ibuprofen. The patient started a liquid diet, progressed to solid food without issues, and had no post-operative complications.
+
+**Medications at Discharge:**
+- Acetaminophen 500 mg tablet: 1-2 tablets every 6 hours as needed for pain
+- Ibuprofen 400 mg tablet: 1 tablet every 8 hours as needed for pain
+
+**Follow-up Instructions:**
+- General Surgery follow-up in 2 weeks with Dr. [B-NAME]Alice Johnson[O] for wound check and post-operative evaluation.
+- Patient is advised to avoid heavy lifting and strenuous activities for 4 weeks.
+- Diet: Low-fat diet recommended for the next month.
+
+**Discharge Instructions:**
+- The patient should monitor for any signs of infection around the incision sites, excessive abdominal pain, or jaundice.
+- Should symptoms persist or worsen, the patient should seek immediate medical attention or return to the emergency department.
+
+**LACE - Readmission Risk Score:**
+- Total Score: 4
+- Length of Stay: 7
+- Acute Admission: No
+- Charleson Comorbidity Score: 1
+
+LACE Score Risk Level:
+Readmission Rate - 30 Day Mortality Rate - 30 Day
+1-4 Low 3.3% 0.1%
+
+**Signed:**
+- [B-NAME]Alice Johnson, MD[O]
+- [B-DATE]March 22, 2023[O], 2:00 PM
+
+**[B-ADDRESS]300 Healing Way, Room 12, Regional General Hospital, Springfield, IL 62704[O]**
+
+**Phone: [B-PHONE]555-123-4567[O]** 
+
+**Next Steps for Patient:**
+- Continue medication as prescribed.
+- Schedule follow-up appointment within 2 weeks.
+- Contact [B-PHONE]555-123-4567[O] for any concerns or questions related to recovery.
+
+**Discharge Condition:**
+- Stable
+- Pain controlled
+- Ambulating as tolerated
+
+This discharge summary represents the course of treatment and condition of [B-NAME]Emily Thompson[O] during her hospital stay from [B-DATE]March 15, 2023[O] to [B-DATE]March 22, 2023[O]. All patient data has been reviewed and confirmed by the attending physician. 

@@ -1,0 +1,45 @@
+**Inpatient Discharge Summary**
+
+**Patient Name:** [B-NAME]Mary Anderson[O]  
+**MRN:** [B-ID]987654321[O]  
+**Age:** [B-AGE]72 y.o.[O]  
+**Admission Date:** [B-DATE]September 15th, 2023[O]  
+**Discharge Date:** [B-DATE]September 30th, 2023[O]  
+**Attending Provider:** Dr. [B-NAME]Alex Reid[O]  
+
+**Admission Diagnosis:**
+Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+
+**Hospital Course:**
+[B-NAME]Mary Anderson[O] presented to the emergency department on [B-DATE]September 15th[O] with increased shortness of breath, wheezing, and a productive cough. She was found to have an acute exacerbation of COPD and was started on a course of steroids and bronchodilators. Her hospital stay was complicated by a brief episode of acute urinary retention, which was managed with a temporary urinary catheter.
+
+**Treatment Team:**
+Pulmonology: Dr. [B-NAME]John Carter[O], MD  
+Nursing: [B-NAME]Sarah Hill[O], RN  
+Social Work: [B-NAME]Emily White[O], LSW  
+
+**Discharge Medications:**
+Albuterol inhaler—use two puffs every 4 hours as needed  
+Prednisone—taper over the next 10 days
+
+**Discharge Instructions:**
+Patient and family educated on proper inhaler technique and the importance of adhering to the tapering schedule for prednisone. Patient advised to follow up with primary care physician Dr. [B-NAME]Helen Parr[O] within one week and with pulmonologist Dr. [B-NAME]John Carter[O] within two weeks.
+
+**Follow-up Appointments:**
+Primary Care: [B-NAME]Helen Parr[O], MD on [B-DATE]October 7th, 2023[O] at [B-ORGANIZATION]Community Health Clinic[O]  
+Pulmonology: [B-NAME]John Carter[O], MD on [B-DATE]October 14th, 2023[O] at [B-ORGANIZATION]Downtown Medical Center[O]  
+
+**Phone Numbers:**
+Primary Care: [B-PHONE]555-123-4567[O]  
+Pulmonology: [B-PHONE]555-987-6543[O]
+
+**Code Status at Discharge:**
+Full code
+
+**Discharge Condition:**
+Stable, to home with family support
+
+**Remarks:**
+Patient has benefited from respiratory therapy and has been breathing comfortably on room air since [B-DATE]September 25th, 2023[O]. Home oxygen to be used as per prior settings. Patient's spouse, [B-NAME]Robert Anderson[O], has received training on the new medications and is competent in their administration.
+
+This discharge template ensures comprehensive communication of necessary details while protecting patient privacy by anonymizing sensitive information.

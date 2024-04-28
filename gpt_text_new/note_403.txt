@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+
+**Patient Information:**
+- **Name:** [B-NAME]Matthew Carson[O]
+- **MRN#:** [B-ID]987654321[O]
+- **Age:** [B-AGE]58 y.o.[O]
+- **Admission Date:** [B-DATE]3/15/2023[O]
+- **Discharge Date:** [B-DATE]3/25/2023[O]
+- **Attending Provider:** Dr. [B-NAME]Rebecca Simms[O]
+- **Discharging NP/PA:** [B-NAME]Alex Johnson[O], PA-C
+
+**Admission Diagnosis:**
+- Acute cholecystitis
+- Gallbladder obstruction
+
+**Hospital Course:**
+- On [B-DATE]3/15/2023[O], [B-NAME]Matthew Carson[O] presented at the ER of [B-ORGANIZATION]City Medical Center[O] with severe right upper quadrant pain. An ultrasound confirmed the presence of gallstones with cholecystitis. He was admitted under the care of Dr. [B-NAME]Rebecca Simms[O] and was started on IV antibiotics and pain management.
+- On [B-DATE]3/17/2023[O], [B-NAME]Matthew[O] underwent a laparoscopic cholecystectomy, which was uncomplicated. Post-surgery, his recovery was closely monitored, and he responded well to the treatment with a gradual reduction in pain and improvement in appetite.
+- His postoperative period was uneventful, and he resumed oral intake on [B-DATE]3/19/2023[O]. He continued to improve and was gradually mobilized.
+- Discharge planning began on [B-DATE]3/23/2023[O] with arrangements made for home care and a follow-up appointment scheduled in two weeks at the [B-ORGANIZATION]City Medical Surgical Clinic[O].
+
+**Discharge Medications:**
+- Acetaminophen 500 mg tablet, Take 1 tablet by mouth every 6 hours as needed for pain.
+- Ibuprofen 400 mg tablet, Take 1 tablet by mouth every 8 hours as needed for inflammation.
+
+**Discharge Instructions:**
+- The patient was instructed to avoid heavy lifting and vigorous activity for a minimum of four weeks. He was advised to gradually increase his activity level as tolerated.
+- [B-NAME]Matthew[O] was educated about signs of infection or complications to watch for including, but not limited to, fever, worsening pain, redness or discharge from incision sites.
+- Diet recommendations include a low-fat diet for the initial few weeks post-discharge, progressively introducing more variety as tolerated.
+ 
+**Follow-Up Appointments:**
+- Follow-up visit scheduled with [B-NAME]Dr. Rebecca Simms[O] on [B-DATE]4/8/2023[O] at 10:00 AM at the [B-ORGANIZATION]City Medical Surgical Clinic[O].
+- Additional follow-up as needed based on symptomatology and recovery progression.
+
+**Condition at Discharge:**
+- [B-NAME]Matthew Carson[O] is being discharged in a stable condition with all vital signs within normal limits. He is able to manage activities of daily living with mild discomfort that is controlled with oral analgesics.
+
+**Discharge Summary Comments:**
+- [B-NAME]Matthew[O] has responded well to the surgery and subsequent management. The prognosis is good with adherence to post-discharge care instructions.
+
+**Preparations for Discharge:**
+- Discharge medications prescribed and handed over to [B-NAME]Matthew[O].
+- Final vital signs checked and discharge paperwork completed.
+- Home healthcare arranged to aid in recovery for the first week post-discharge.
+
+**Signed:**
+- [B-NAME]Alex Johnson[O], PA-C
+- Date: [B-DATE]3/25/2023[O]
+- Time: 2:00 PM
