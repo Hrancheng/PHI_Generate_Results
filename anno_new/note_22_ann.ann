@@ -1,23 +1,23 @@
 T1	ORGANIZATION 2 18	General Hospital
-T2	NAME 60 81	Johnathan M. Hargrove
-T3	ID 92 101	987654321
-T4	AGE 111 123	54 years old
-T5	DATE 144 162	September 10, 2023
-T6	DATE 183 201	September 14, 2023
-T7	NAME 227 244	Dr. Lisa Franklin
-T8	NAME 271 292	Johnathan M. Hargrove
-T9	NAME 610 631	Johnathan M. Hargrove
-T10	DATE 836 854	September 11, 2023
-T11	NAME 1398 1415	Dr. Harold Greene
-T12	NAME 1476 1491	Dr. Anita Desai
-T13	DATE 1519 1537	September 21, 2023
-T14	ADDRESS 1541 1576	555 Pulmonary Road, Clinic Room 204
-T15	NAME 2453 2464	 Nancy Sims
-T16	ORGANIZATION 2473 2504	General Hospital Discharge Team
-T17	DATE 2515 2533	September 14, 2023
-T18	NAME 2564 2581	Dr. Lisa Franklin
-T19	DATE 2592 2610	September 14, 2023
-T20	NAME 2824 2840	Michael Hargrove
-T21	PHONE 2912 2924	555-987-6543
-T22	CONTACT 2934 2962	jhargrove_med@healthmail.com
-T23	NAME 3002 3014	Cynthia Knox
+T2	NAME 61 82	Johnathan M. Hargrove
+T3	ID 93 102	987654321
+T4	AGE 112 124	54 years old
+T5	DATE 146 164	September 10, 2023
+T6	DATE 185 203	September 14, 2023
+T7	NAME 229 246	Dr. Lisa Franklin
+T8	NAME 274 295	Johnathan M. Hargrove
+T9	NAME 614 635	Johnathan M. Hargrove
+T10	DATE 840 858	September 11, 2023
+T11	NAME 1405 1422	Dr. Harold Greene
+T12	NAME 1483 1498	Dr. Anita Desai
+T13	DATE 1526 1544	September 21, 2023
+T14	ADDRESS 1548 1583	555 Pulmonary Road, Clinic Room 204
+T15	NAME 2465 2476	 Nancy Sims
+T16	ORGANIZATION 2486 2517	General Hospital Discharge Team
+T17	DATE 2528 2546	September 14, 2023
+T18	NAME 2578 2595	Dr. Lisa Franklin
+T19	DATE 2606 2624	September 14, 2023
+T20	NAME 2839 2855	Michael Hargrove
+T21	PHONE 2928 2940	555-987-6543
+T22	CONTACT 2950 2978	jhargrove_med@healthmail.com
+T23	NAME 3019 3031	Cynthia Knox

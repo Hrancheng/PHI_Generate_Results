@@ -1,25 +1,25 @@
-T1	ORGANIZATION 47 77	Valley Stream General Hospital
-T2	NAME 87 98	Mary Huerta
-T3	ID 105 113	88053254
-T4	AGE 120 131	68-year-old
-T5	DATE 280 295	August 15, 2023
-T6	DATE 312 327	August 25, 2023
-T7	NAME 356 366	Alan Grant
-T8	NAME 393 407	Eliza Smithson
-T9	NAME 447 453	Huerta
-T10	NAME 1063 1076	Tracy Collins
-T11	NAME 1328 1334	Huerta
-T12	ORGANIZATION 1372 1403	Valley Stream Cardiology Clinic
-T13	DATE 1407 1424	September 5, 2023
-T14	NAME 1447 1457	Alan Grant
-T15	ORGANIZATION 1658 1684	Prime Home Health Services
-T16	NAME 1744 1761	Nurse Jill Harlow
-T17	NAME 1783 1789	Huerta
-T18	ORGANIZATION 2176 2206	Valley Stream Dietary Services
-T19	DATE 2607 2622	August 23, 2023
-T20	DATE 2683 2698	August 22, 2023
-T21	NAME 2769 2784	Anna Fitzgerald
-T22	ORGANIZATION 3026 3061	Community Senior Transport Services
-T23	NAME 3092 3102	Alan Grant
-T24	DATE 3109 3124	August 25, 2023
-T25	LOCATION 3149 3207	Valley Stream General Hospital, 8th Floor, Cardiology Unit
+T1	ORGANIZATION 48 78	Valley Stream General Hospital
+T2	NAME 89 100	Mary Huerta
+T3	ID 107 115	88053254
+T4	AGE 122 133	68-year-old
+T5	DATE 283 298	August 15, 2023
+T6	DATE 315 330	August 25, 2023
+T7	NAME 359 369	Alan Grant
+T8	NAME 396 410	Eliza Smithson
+T9	NAME 451 457	Huerta
+T10	NAME 1068 1081	Tracy Collins
+T11	NAME 1335 1341	Huerta
+T12	ORGANIZATION 1379 1410	Valley Stream Cardiology Clinic
+T13	DATE 1414 1431	September 5, 2023
+T14	NAME 1454 1464	Alan Grant
+T15	ORGANIZATION 1666 1692	Prime Home Health Services
+T16	NAME 1752 1769	Nurse Jill Harlow
+T17	NAME 1792 1798	Huerta
+T18	ORGANIZATION 2186 2216	Valley Stream Dietary Services
+T19	DATE 2621 2636	August 23, 2023
+T20	DATE 2697 2712	August 22, 2023
+T21	NAME 2784 2799	Anna Fitzgerald
+T22	ORGANIZATION 3043 3078	Community Senior Transport Services
+T23	NAME 3110 3120	Alan Grant
+T24	DATE 3127 3142	August 25, 2023
+T25	LOCATION 3167 3225	Valley Stream General Hospital, 8th Floor, Cardiology Unit

@@ -1,20 +1,20 @@
-T1	NAME 91 104	Sarah Johnson
-T2	DATE 122 139	February 15, 1976
-T3	ID 148 158	9876543210
-T4	AGE 166 174	47 years
-T5	DATE 196 212	January 20, 2023
-T6	DATE 234 251	February 10, 2023
-T7	NAME 279 291	Emily Thomas
-T8	NAME 311 323	Angela White
-T9	NAME 529 542	Sarah Johnson
-T10	NAME 793 798	Sarah
-T11	DATE 1080 1096	January 21, 2023
-T12	NAME 1646 1658	Emily Thomas
-T13	DATE 1850 1867	February 17, 2023
-T14	NAME 1889 1901	Emily Thomas
-T15	ADDRESS 1903 1971	123 Heart Health Blvd, Cardiology Dept., Metro Health Medical Center
-T16	DATE 1995 2012	February 24, 2023
-T17	NAME 2033 2042	Laura Kim
-T18	ADDRESS 2044 2115	456 Diabetes Care Way, Endocrinology Dept., Metro Health Medical Center
-T19	NAME 2143 2156	Sarah Johnson
-T20	NAME 2491 2503	Emily Thomas
+T1	NAME 92 105	Sarah Johnson
+T2	DATE 123 140	February 15, 1976
+T3	ID 149 159	9876543210
+T4	AGE 167 175	47 years
+T5	DATE 197 213	January 20, 2023
+T6	DATE 235 252	February 10, 2023
+T7	NAME 280 292	Emily Thomas
+T8	NAME 312 324	Angela White
+T9	NAME 533 546	Sarah Johnson
+T10	NAME 797 802	Sarah
+T11	DATE 1085 1101	January 21, 2023
+T12	NAME 1654 1666	Emily Thomas
+T13	DATE 1859 1876	February 17, 2023
+T14	NAME 1898 1910	Emily Thomas
+T15	ADDRESS 1912 1980	123 Heart Health Blvd, Cardiology Dept., Metro Health Medical Center
+T16	DATE 2004 2021	February 24, 2023
+T17	NAME 2042 2051	Laura Kim
+T18	ADDRESS 2053 2124	456 Diabetes Care Way, Endocrinology Dept., Metro Health Medical Center
+T19	NAME 2153 2166	Sarah Johnson
+T20	NAME 2503 2515	Emily Thomas

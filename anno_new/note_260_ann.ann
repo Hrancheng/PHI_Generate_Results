@@ -1,26 +1,26 @@
-T1	NAME 62 76	Helen Mitchell
-T2	ID 83 90	4748265
-T3	AGE 100 108	68 years
-T4	DATE 129 147	January 22nd, 2023
-T5	DATE 172 190	February 5th, 2023
-T6	NAME 220 233	Emily Stanton
-T7	NAME 267 280	Emily Stanton
-T8	NAME 346 359	Jessica Bosch
-T9	NAME 404 413	Aaron Lee
-T10	NAME 460 473	Ian Frederick
-T11	ADDRESS 479 523	742 Evergreen Terrace, Springfield, IL 62701
-T12	DATE 607 625	January 23rd, 2023
-T13	DATE 671 689	January 24th, 2023
-T14	DATE 717 735	January 22nd, 2023
-T15	NAME 803 817	Helen Mitchell
-T16	NAME 1794 1807	Ian Frederick
-T17	NAME 1917 1926	Aaron Lee
-T18	DATE 2081 2100	February 12th, 2023
-T19	NAME 2122 2135	Ian Frederick
-T20	ORGANIZATION 2137 2173	Springfield Internal Medicine Clinic
-T21	DATE 2178 2197	February 19th, 2023
-T22	NAME 2218 2227	Aaron Lee
-T23	ORGANIZATION 2229 2256	MetroHeart Cardiology Group
-T24	LOCATION 2258 2287	Outpatient Building, Room 205
-T25	NAME 2792 2805	Emily Stanton
-T26	DATE 2811 2829	February 5th, 2023
+T1	NAME 63 77	Helen Mitchell
+T2	ID 84 91	4748265
+T3	AGE 102 110	68 years
+T4	DATE 132 150	January 22nd, 2023
+T5	DATE 175 193	February 5th, 2023
+T6	NAME 224 237	Emily Stanton
+T7	NAME 271 284	Emily Stanton
+T8	NAME 351 364	Jessica Bosch
+T9	NAME 410 419	Aaron Lee
+T10	NAME 466 479	Ian Frederick
+T11	ADDRESS 485 529	742 Evergreen Terrace, Springfield, IL 62701
+T12	DATE 614 632	January 23rd, 2023
+T13	DATE 678 696	January 24th, 2023
+T14	DATE 724 742	January 22nd, 2023
+T15	NAME 812 826	Helen Mitchell
+T16	NAME 1807 1820	Ian Frederick
+T17	NAME 1930 1939	Aaron Lee
+T18	DATE 2095 2114	February 12th, 2023
+T19	NAME 2136 2149	Ian Frederick
+T20	ORGANIZATION 2151 2187	Springfield Internal Medicine Clinic
+T21	DATE 2192 2211	February 19th, 2023
+T22	NAME 2232 2241	Aaron Lee
+T23	ORGANIZATION 2243 2270	MetroHeart Cardiology Group
+T24	LOCATION 2272 2301	Outpatient Building, Room 205
+T25	NAME 2810 2823	Emily Stanton
+T26	DATE 2829 2847	February 5th, 2023

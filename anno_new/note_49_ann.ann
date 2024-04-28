@@ -1,24 +1,24 @@
-T1	NAME 84 99	Robert Thompson
-T2	ID 107 116	987654321
-T3	AGE 119 131	62 years old
-T4	DATE 150 166	January 13, 2023
-T5	DATE 185 201	January 20, 2023
-T6	NAME 225 241	Dr. Emily Stuart
-T7	NAME 263 275	Mr. Thompson
-T8	DATE 377 393	January 14, 2023
-T9	DATE 694 724	Prescribed on January 20, 2023
-T10	NAME 755 771	Dr. Emily Stuart
-T11	DATE 791 807	January 27, 2023
-T12	ORGANIZATION 811 858	University Medical Center Outpatient Department
-T13	NAME 885 900	Dr. John Harvey
-T14	DATE 927 944	February 10, 2023
-T15	DATE 1293 1309	January 19, 2023
-T16	NAME 1550 1564	Susan Thompson
-T17	PHONE 1567 1579	555-123-4567
-T18	ADDRESS 1582 1621	123 Maple Street, Springfield, Illinois
-T19	ORGANIZATION 1637 1664	Community Health Associates
-T20	DATE 1773 1789	January 22, 2023
-T21	NAME 1884 1898	Susan Thompson
-T22	NAME 2358 2374	Dr. Emily Stuart
-T23	DATE 2379 2395	January 20, 2023
+T1	NAME 85 100	Robert Thompson
+T2	ID 108 117	987654321
+T3	AGE 120 132	62 years old
+T4	DATE 151 167	January 13, 2023
+T5	DATE 186 202	January 20, 2023
+T6	NAME 226 242	Dr. Emily Stuart
+T7	NAME 265 277	Mr. Thompson
+T8	DATE 379 395	January 14, 2023
+T9	DATE 697 727	Prescribed on January 20, 2023
+T10	NAME 759 775	Dr. Emily Stuart
+T11	DATE 795 811	January 27, 2023
+T12	ORGANIZATION 815 862	University Medical Center Outpatient Department
+T13	NAME 889 904	Dr. John Harvey
+T14	DATE 931 948	February 10, 2023
+T15	DATE 1299 1315	January 19, 2023
+T16	NAME 1558 1572	Susan Thompson
+T17	PHONE 1575 1587	555-123-4567
+T18	ADDRESS 1590 1629	123 Maple Street, Springfield, Illinois
+T19	ORGANIZATION 1646 1673	Community Health Associates
+T20	DATE 1782 1798	January 22, 2023
+T21	NAME 1894 1908	Susan Thompson
+T22	NAME 2370 2386	Dr. Emily Stuart
+T23	DATE 2391 2407	January 20, 2023
 T24	ORGANIZATION 2 27	University Medical Center

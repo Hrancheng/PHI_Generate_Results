@@ -1,21 +1,21 @@
-T1	NAME 62 74	David Turner
-T2	ID 87 96	586295403
-T3	DATE 113 130	September 9, 2023
-T4	DATE 147 165	September 15, 2023
-T5	AGE 171 183	72 years old
-T6	NAME 205 222	Dr. Emily Stanton
-T7	NAME 436 446	Mr. Turner
-T8	ORGANIZATION 467 492	University Medical Center
-T9	NAME 1340 1356	Dr. Sarah Hughes
-T10	ORGANIZATION 1551 1600	Heart Failure Clinic at University Medical Center
-T11	DATE 1604 1622	September 22, 2023
-T12	NAME 2317 2333	Dr. Sarah Hughes
-T13	DATE 2337 2355	September 22, 2023
-T14	ADDRESS 2359 2411	450 W Medical Court, Suite 201, Metro City, AZ 85020
-T15	DATE 2437 2455	September 29, 2023
-T16	NAME 2471 2502	Nurse Practitioner Linda Carter
-T17	ORGANIZATION 2542 2577	Metro City Endocrinology Associates
-T18	DATE 2581 2596	October 3, 2023
-T19	NAME 2710 2727	Dr. Emily Stanton
-T20	DATE 2730 2748	September 15, 2023
-T21	NAME 3034 3046	Susan Turner
+T1	NAME 63 75	David Turner
+T2	ID 88 97	586295403
+T3	DATE 114 131	September 9, 2023
+T4	DATE 148 166	September 15, 2023
+T5	AGE 172 184	72 years old
+T6	NAME 206 223	Dr. Emily Stanton
+T7	NAME 440 450	Mr. Turner
+T8	ORGANIZATION 471 496	University Medical Center
+T9	NAME 1347 1363	Dr. Sarah Hughes
+T10	ORGANIZATION 1558 1607	Heart Failure Clinic at University Medical Center
+T11	DATE 1611 1629	September 22, 2023
+T12	NAME 2330 2346	Dr. Sarah Hughes
+T13	DATE 2350 2368	September 22, 2023
+T14	ADDRESS 2372 2424	450 W Medical Court, Suite 201, Metro City, AZ 85020
+T15	DATE 2450 2468	September 29, 2023
+T16	NAME 2484 2515	Nurse Practitioner Linda Carter
+T17	ORGANIZATION 2555 2590	Metro City Endocrinology Associates
+T18	DATE 2594 2609	October 3, 2023
+T19	NAME 2725 2742	Dr. Emily Stanton
+T20	DATE 2745 2763	September 15, 2023
+T21	NAME 3051 3063	Susan Turner

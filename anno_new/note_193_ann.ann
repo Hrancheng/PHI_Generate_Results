@@ -3,14 +3,14 @@ T2	ID 109 116	8439025
 T3	AGE 124 132	55 years
 T4	DATE 151 171	September 14th, 2023
 T5	DATE 190 210	September 28th, 2023
-T6	NAME 242 255	Richard Grant
-T7	NAME 389 403	Emily Thompson
-T8	DATE 995 1015	September 16th, 2023
-T9	NAME 1403 1417	Emily Thompson
-T10	ADDRESS 1485 1540	345 West Slate Street, Apartment 4B, Jackson, MS, 39201
-T11	NAME 1691 1704	Richard Grant
-T12	ORGANIZATION 1748 1794	Jackson Main Hospital, General Medicine Clinic
-T13	NAME 2253 2266	Richard Grant
-T14	DATE 2272 2292	September 28th, 2023
-T15	PHONE 2365 2377	555-692-1103
-T16	NAME 2704 2718	Emily Thompson
+T6	NAME 243 256	Richard Grant
+T7	NAME 393 407	Emily Thompson
+T8	DATE 1001 1021	September 16th, 2023
+T9	NAME 1412 1426	Emily Thompson
+T10	ADDRESS 1494 1549	345 West Slate Street, Apartment 4B, Jackson, MS, 39201
+T11	NAME 1701 1714	Richard Grant
+T12	ORGANIZATION 1758 1804	Jackson Main Hospital, General Medicine Clinic
+T13	NAME 2266 2279	Richard Grant
+T14	DATE 2285 2305	September 28th, 2023
+T15	PHONE 2379 2391	555-692-1103
+T16	NAME 2719 2733	Emily Thompson

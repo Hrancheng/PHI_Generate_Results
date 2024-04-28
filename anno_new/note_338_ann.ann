@@ -1,22 +1,22 @@
-T1	NAME 57 73	Elizabeth Turner
-T2	ID 79 88	948502394
-T3	DATE 108 125	September 5, 2023
-T4	DATE 145 163	September 15, 2023
-T5	AGE 169 181	54 years old
-T6	NAME 294 310	Elizabeth Turner
-T7	ORGANIZATION 327 347	Metro Medical Center
-T8	DATE 643 660	September 7, 2023
-T9	NAME 752 761	Elizabeth
-T10	NAME 1234 1253	Dr. Harriet Wallace
-T11	NAME 1278 1298	Dr. Simon Fredericks
-T12	DATE 1362 1380	September 22, 2023
-T13	NAME 1386 1405	Dr. Harriet Wallace
-T14	ORGANIZATION 1409 1428	Metro Health Clinic
-T15	DATE 1433 1451	September 29, 2023
-T16	NAME 1457 1477	Dr. Simon Fredericks
-T17	ORGANIZATION 1481 1515	Metro Medical Center Surgical Unit
-T18	DATE 1786 1803	September 5, 2023
-T19	NAME 2459 2477	Dr. Jonathan Parks
-T20	DATE 2506 2524	September 15, 2023
-T21	PHONE 2550 2558	555-0139
-T22	ADDRESS 2570 2640	123 Healing Blvd, Room 2B, Metro Medical Center, Springfield, IL 62704
+T1	NAME 58 74	Elizabeth Turner
+T2	ID 81 90	948502394
+T3	DATE 111 128	September 5, 2023
+T4	DATE 149 167	September 15, 2023
+T5	AGE 174 186	54 years old
+T6	NAME 302 318	Elizabeth Turner
+T7	ORGANIZATION 335 355	Metro Medical Center
+T8	DATE 652 669	September 7, 2023
+T9	NAME 762 771	Elizabeth
+T10	NAME 1246 1265	Dr. Harriet Wallace
+T11	NAME 1290 1310	Dr. Simon Fredericks
+T12	DATE 1374 1392	September 22, 2023
+T13	NAME 1398 1417	Dr. Harriet Wallace
+T14	ORGANIZATION 1421 1440	Metro Health Clinic
+T15	DATE 1445 1463	September 29, 2023
+T16	NAME 1469 1489	Dr. Simon Fredericks
+T17	ORGANIZATION 1493 1527	Metro Medical Center Surgical Unit
+T18	DATE 1800 1817	September 5, 2023
+T19	NAME 2478 2496	Dr. Jonathan Parks
+T20	DATE 2525 2543	September 15, 2023
+T21	PHONE 2570 2578	555-0139
+T22	ADDRESS 2590 2660	123 Healing Blvd, Room 2B, Metro Medical Center, Springfield, IL 62704

@@ -1,11 +1,1 @@
-**Inpatient Discharge Summary**
-**Patient: Meredith Grey**
-MRN#: JX992278907
-**Age**: 52 y.o.
-**Admission Date:** 9/10/2003
-**Discharge Date:** 9/20/2003
-**Admitting Physician:** Dr. Richard Webber
-**Primary Care Physician:** Dr. Miranda Bailey, 215 Forrest St, Seattle WA 98109
-**Consulting Team:**
-- Cardiology: Dr. Preston Burke
-- Neurology: Dr. [B-N...
+**Inpatient Discharge Summary**  **Patient: Meredith Grey**  MRN#: JX992278907  **Age**: 52 y.o.  **Admission Date:** 9/10/2003  **Discharge Date:** 9/20/2003  **Admitting Physician:** Dr. Richard Webber  **Primary Care Physician:** Dr. Miranda Bailey, 215 Forrest St, Seattle WA 98109  **Consulting Team:** - Cardiology: Dr. Preston Burke - Neurology: Dr. [B-N... 
