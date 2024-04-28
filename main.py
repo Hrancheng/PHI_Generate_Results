@@ -132,7 +132,7 @@ def main():
     output_html_dir_name = "text_html"  # text_html
     label_dir_name = "anno"  # anno
 
-    create_directories()
+    create_directories(output_dir_name, label_dir_name)
     process_files(input_dir_name, output_dir_name, output_html_dir_name, label_dir_name)
 
 if __name__ == "__main__":
