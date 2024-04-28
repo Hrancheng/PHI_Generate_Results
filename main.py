@@ -1,12 +1,11 @@
 import os
 import re
 
-def remove_labels_and_compute_indices(input_file, output_file, output_file_html, label_info_file):
+def remove_labels_and_compute_indices(input_folder, input_file, cleaned_text_folder, output_file, cleaned_text_html_folder, output_file_html, label_folder, label_info_file):
     # Define the pattern to find and remove labels
     pattern = r'\[B-(.*?)\](.*?)\[O\]'
     
     # Read the input file and remove empty lines
-    input_folder = 'gpt_text'
     input_path = os.path.join(input_folder, input_file)
     with open(input_path, 'r') as file:
         lines = file.readlines()
@@ -22,7 +21,6 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     cleaned_text = cleaned_text.rstrip('\n')
 
     # Write the cleaned text to the output file
-    cleaned_text_folder = 'text'
     cleaned_text_path = os.path.join(cleaned_text_folder, output_file)
     with open(cleaned_text_path, 'w') as file:
         file.write(cleaned_text)
@@ -99,7 +97,6 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
         cleaned_text = cleaned_text.replace(word, ' ' * len(word), 1)
 
     # Write the label info to the label info file
-    label_folder = 'anno'
     label_file_path = os.path.join(label_folder, label_info_file)
     with open(label_file_path, 'w') as file:
          file.write('\n'.join(results))
@@ -107,17 +104,17 @@ def remove_labels_and_compute_indices(input_file, output_file, output_file_html,
     return results
 
 # Function to create directories if they don't exist
-def create_directories():
-    if not os.path.exists('text'):
-        os.makedirs('text')
-    if not os.path.exists('anno'):
-        os.makedirs('anno')
+def create_directories(cleaned_text_dir_name, label_dir_name):
+    if not os.path.exists(cleaned_text_dir_name):
+        os.makedirs(cleaned_text_dir_name)
+    if not os.path.exists(label_dir_name):
+        os.makedirs(label_dir_name)
 
 # Function to process files
-def process_files():
-    for file in os.listdir('gpt_text'):
+def process_files(input_dir_name, output_dir_name, output_html_dir_name, label_dir_name):
+    for file in os.listdir(input_dir_name):
         if file.endswith('.txt'):
-            full_path = os.path.join('gpt_text', file)
+            full_path = os.path.join(input_dir_name, file)
             filename = os.path.basename(full_path)
             input_file = filename
             filename = os.path.splitext(filename)[0]
@@ -126,12 +123,17 @@ def process_files():
             label_info_file = f"{filename}_ann.ann"
 
             # Call your ann.py script with the appropriate command-line arguments here
-            remove_labels_and_compute_indices(input_file, output_file, output_file_html, label_info_file)
+            remove_labels_and_compute_indices(input_dir_name, input_file, output_dir_name, output_file, output_html_dir_name, output_file_html, label_dir_name, label_info_file)
 
 # Main function
 def main():
+    input_dir_name = "gpt_text"  # gpt_text
+    output_dir_name = "text"  # text
+    output_html_dir_name = "text_html"  # text_html
+    label_dir_name = "anno"  # anno
+
     create_directories()
-    process_files()
+    process_files(input_dir_name, output_dir_name, output_html_dir_name, label_dir_name)
 
 if __name__ == "__main__":
     main()
