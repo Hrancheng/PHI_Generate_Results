@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+Patient Information:
+- Michael Thomas, MRN# 562738495, is a 68-year-old male, admitted to the Cardiology service due to chest pain and shortness of breath.
+Hospital Admission and Discharge:
+- Admission Date: 10/21/2023
+- Discharge Date: 10/28/2023
+- Attending Physician: Dr. Helen Mirren
+Hospital Stay and Treatment:
+Mr. Thomas was admitted following a suspected myocardial infarction. He underwent a coronary angiography performed by Dr. Aaron Lee, which revealed two blocked coronary arteries. A successful double bypass surgery was performed on 10/22/2023 by Dr. Samantha Right. Post-surgery, the patient was monitored in the ICU before being moved to the cardiology ward.
+Mr. Thomas responded well to the treatment, showing improvement in heart function and reduction in chest pain. He participated actively in physiotherapy sessions to aid his recovery.
+Consultations:
+- Cardiology: Dr. Helen Mirren
+- Surgical: Dr. Samantha Right
+- Physiotherapy: Lucy Granger, PT
+Medications Prescribed at Discharge:
+- Aspirin 75 mg daily
+- Lipitor 40 mg nightly
+- Metoprolol 50 mg twice daily
+- Follow-up medications and detailed dosing instructions were reviewed with the patient and provided in written form.
+Future Appointments and Follow-Up Care:
+Mr. Thomas should follow up with his primary care physician, Dr. John Carter, in one week. He is scheduled for a follow-up examination in the cardiology clinic on 11/15/2023 at Room 250, Cardiology Department, General Hospital.
+Next Steps and Lifestyle Changes:
+- Continue cardiac rehabilitation program.
+- Adhere to a heart-healthy diet as discussed with the dietician, Emily Stone.
+- Monitor blood pressure and cholesterol levels.
+- Refrain from smoking and reduce alcohol intake.
+Special Instructions:
+- Report any signs of chest pain, dizziness, or shortness of breath immediately to the healthcare provider.
+- Ensure adherence to medication schedule.
+Discharge Status and Condition:
+Mr. Thomas is discharged in a stable condition, with recommendations for regular monitoring and lifestyle adjustments to support cardiac health.
+Last Recorded Vitals:
+- Blood pressure: 130/85 mmHg
+- Heart rate: 72 bpm
+- Respiratory rate: 16 breaths per minute
+- Temperature: 98.6 °F
+The complete discharge instructions were reviewed with Mr. Thomas who understood and agreed to all recommendations. He expressed his appreciation for the care received and felt prepared to continue his recovery at home.
+Signatures:
+- Discharged by: Dr. Helen Mirren
+- Date: 10/28/2023
+- Time: 2:00 PM
+This discharge summary includes considerations for continuity of care and emphasizes the importance of follow-up to ensure the ongoing recovery and health of Mr. Michael Thomas.

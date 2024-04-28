@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Patient: Robert Johnson
+- MRN: 51248796
+- 54 years old
+- Date of Admission: September 5, 2023
+- Date of Discharge: September 15, 2023
+- Discharging Physician: Dr. Emily Stanton
+**Hospital Course:**
+Mr. Johnson was admitted with complaints of chest pain and was diagnosed with an acute myocardial infarction. He underwent cardiac catheterization revealing two significant blockages, which were successfully treated with the placement of stents. Post-procedure, his recovery was uneventful, and he was started on dual antiplatelet therapy. The patient participated in daily cardiac rehabilitation sessions and showed good progress.
+**Medications at Discharge:**
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice daily
+5. Lisinopril 10 mg daily
+**Follow-up Appointments:**
+- Cardiac Rehab Center
+   - September 20, 2023 at Room 204
+   - With: Dr. Alan Rickman, Cardiologist
+- Primary Care Physician: Dr. Susan Avery
+   - September 25, 2023 at 10:00 AM
+   - At: 450 Maple St, Springfield, IL 62704
+**Instructions:**
+Patient advised to avoid lifting heavy weights and strenuous exercise for the next 4 weeks. He should continue taking his medications as prescribed with no skips. A low-sodium, heart-healthy diet was recommended by the attending dietitian. Smoking cessation counseling was provided, with follow-up support arranged via the hospital's smoking cessation program.
+**Discharge Condition:**
+Patient was stable at the time of discharge. He understood all discharge instructions as evidenced by repeat demonstration and verbalization. He acknowledged understanding the importance of medication adherence and follow-up appointments
+**Reconciliation of Discharge Information:**
+- Previous Medication: Metformin 500 mg for Type 2 diabetes, continued.
+- New Medications: Described above.
+- Stopped Medications: None.
+**Contact Information:**
+- For urgent issues, contact Dr. Susan Avery at 555-342-1234
+- For routine questions, please contact the Cardiac Rehab Center at 555-567-8901
+**Summary**
+Mr. Robert Johnson's hospital course was complicated by an acute myocardial infarction. With timely intervention and appropriate post-procedural care, he has recovered well. He is encouraged to strictly adhere to his prescribed medication and follow-up schedules to promote optimal recovery and prevent potential complications. The patient and his wife, Mary Johnson, expressed their gratitude and understanding of the discharge plan, feeling prepared for home care.

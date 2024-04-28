@@ -1,0 +1,52 @@
+**Veterans Health Administration Inpatient Discharge Summary**
+**Patient Information:**  
+Patient: Michael Thompson  
+MRN#: 894756123  
+Age: 68 y.o.
+**Admission Date:** 02/15/2023  
+**Discharge Date:** 02/25/2023  
+**Attending Provider:** Dr. Patricia Lee  
+**Treatment Team:**  
+Primary Nurse: Amelia Sanders, RN  
+Case Manager: Sarah Goldsmith
+**Admission Diagnosis:**  
+1. Acute exacerbation of chronic obstructive pulmonary disease (COPD)  
+2. Community-acquired pneumonia
+**Hospital Course:**
+Michael Thompson was admitted following a week of worsening dyspnea and cough, culminating in acute respiratory distress. Initial ABGs showed marked hypoxemia, which necessitated non-invasive ventilatory support. During his stay, he received antibiotics, including IV levofloxacin and oral prednisone for COPD exacerbation management. 
+Patient's response to treatment was favorable, with gradual improvement in respiratory function and ABGs returning to baseline. Inhaler technique was assessed and corrected. Education provided on smoking cessation and pulmonary rehabilitation. 
+**Discharge Condition:** Stable, with improved respiratory symptoms.
+**Discharge Medications:**  
+1. Levofloxacin 750 mg tab, once daily for 7 days (continue)  
+2. Prednisone 40 mg tab, taper over 14 days  
+3. Albuterol Inhaler, 2 puffs every 4 hours as needed  
+**Follow-up Appointments:**  
+1. Veterans Affairs Outpatient Clinic, Pulmonology  
+   Date: 03/05/2023 10:30 AM  
+   Provider: Dr. Jonathan Crane  
+2. Smoking Cessation Group, weekly on Wednesdays  
+   Date: Starting 03/09/2023  
+**Discharge Instructions:**  
+Patient advised to continue medication regimen as prescribed, monitor symptoms, and return to the ER if experiencing increased difficulty breathing, chest pain, or other new symptoms. Emphasized importance of smoking cessation. Patient educated on use of spacer with inhaler and to continue exercises from pulmonary rehabilitation.
+**Disposition:** Discharged to home with home health services from Community Health Partners. O2 to be used at 2L via nasal cannula continuously. Home health nurse to check on setup and patient compliance.
+**Discussion/Communication:**  
+Care coordination meetings held daily during hospital stay. Discussed case with Dr. Crane on 02/24/2023 concerning follow-up care and ongoing COPD management.
+**Summary by:**  
+Emily Richardson, RN  
+Date: 02/25/2023  
+Time: 16:45
+**Pending Results:**  
+Chest X-ray follow-up in outpatient clinic to assess resolution of pneumonia.
+**Other Pertinent Information:**  
+Discussed advanced directives and completed a POLST form during hospitalization. The patient opted for full intervention in the acute setting and desires continuation of all preventative care measures.
+**Readmission Risk:** LACE index score calculated at 9 (moderate risk).
+- Length of Stay: 10 days
+- Acuity of Admission: Emergent
+- Comorbidities: High
+- Emergency Department Visits in Last 6 Months: 2
+**Next Steps:**  
+Family and patient’s daughter, Susan Thompson, has been instructed on medication management and when to seek further medical help. A SOS pendant was also provided to the patient for emergency assistance.
+**Additional Notes:**  
+Patient showed significant interest in the veterans support group for respiratory challenges and has agreed to be an active participant moving forward. 
+**Code Status at Discharge:** Full Code
+**Discharge Condition:** Stable with recommendations for continued outpatient care and close monitoring of respiratory status.

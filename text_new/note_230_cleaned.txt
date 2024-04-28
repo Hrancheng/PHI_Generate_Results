@@ -1,0 +1,38 @@
+**General Hospital Inpatient Discharge Summary**
+Patient: **Elizabeth Martin**
+MRN#: **987654321**
+Age: **73 years old**
+Admission Date: **09/01/2023**
+Discharge Date: **09/15/2023**
+**Admitting Diagnosis:**
+Exacerbation of chronic heart failure
+**Hospital Course:**
+**Elizabeth Martin**, a **73-year-old** woman, presented to **General Hospital** with shortness of breath and lower extremity swelling. She has a history of heart failure diagnosed in **2010**. During this hospitalization, she was managed with IV diuretics and adjustment of her oral heart medications. She underwent an echocardiogram showing a decreased ejection fraction of 35%. The patient's symptoms improved with treatment, making her suitable for discharge.
+**Medications at Discharge:**
+- Furosemide 40 mg orally daily
+- Lisinopril 10 mg orally daily
+- Metoprolol 50 mg twice a day
+- Spironolactone 25 mg orally daily
+**Discharge Instructions:**
+**Elizabeth Martin** is to follow a low-salt diet, monitor her weight daily, and limit fluid intake to less than 2 liters per day. She should continue with physical rehabilitation to improve her functional status. Outpatient follow-up with her cardiologist, **Dr. Susan Thompson**, is scheduled for **09/22/2023**.
+**Follow-up Appointments:**
+- Cardiology follow-up on **09/22/2023** at **Cardiac Health Clinic**, **General Hospital**
+- Physical Therapy twice weekly at **Rehab Center**, **123 Wellness Street, Springfield, SP 12345**
+**Discharge Condition:**
+The patient's condition is stable with the above plan aimed at preventing rehospitalization and supporting continued improvement in her functional capabilities and heart failure management.
+**Activity:**
+Light activity recommended with gradual increase as tolerated.
+**Diet:**
+Low sodium, fluid restriction as previously mentioned.
+**Significant Findings:**
+- Ejection fraction: 35%
+- No signs of acute organ derangement 
+**Physician:**
+**Dr. Susan Thompson**, Cardiologist
+Signed
+This discharge summary has been reviewed and all details have been verified by the patient care team.
+______________________________
+**Dr. Susan Thompson**, MD
+Cardiologist
+**General Hospital**
+**09/15/2023**

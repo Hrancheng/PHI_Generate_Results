@@ -1,0 +1,30 @@
+**Inpatient Discharge Summary**
+- **Matthew Cole**, MRN#567834200, is a **45-year-old** male, admitted to the Cardiovascular Surgery service due to an acute myocardial infarction and subsequent complications. 
+- **Admission Date:** 08/05/2023 
+- **Discharge Date:** 08/25/2023
+- **Attending Provider:** Dr. **Helen Jacobs**
+**Hospital Problems Noted - Resolved**
+- **08/06/2023** - Angina pectoris - Resolved
+- **08/15/2023** - Myocardial infarction, ST elevation (STEMI) - Improved
+- **08/18/2023** - Ventricular tachycardia - Controlled
+**Discharge Medications:**
+1. Aspirin 81 mg, daily
+2. Atorvastatin 40 mg, nightly
+3. Metoprolol 50 mg, twice a day
+**Brief Hospital Course:**
+Mr. **Matthew Cole** presented with severe chest pain radiating to his left arm. An emergent cardiac catheterization on **08/05/2023** revealed triple vessel coronary artery disease. A successful stenting of the left anterior descending artery was performed. Although initially stable, the patient developed ventricular tachycardia on **08/18/2023**, which was managed with medication and did not require defibrillation. He showed improvement with conservative management and was scheduled for outpatient follow-up in the cardiology clinic.
+**Rehabilitation and Follow-Up Care:**
+- Cardiac rehabilitation appointment scheduled for **08/30/2023** at **Heart Health Services**
+- Follow up with Dr. **Aaron Lee** on **09/05/2023**
+**Instructions at Discharge:**
+- Follow a low-sodium, low-fat diet.
+- Continue medications as prescribed without interruption.
+- Engage in light to moderate physical activity as tolerated, progressively advancing as directed by cardiac rehabilitation team.
+- Immediate reporting of symptoms such as chest pain, breathing difficulties, or excessive fatigue.
+**Discussion and Planning:**
+The treatment team, including **Helen Jacobs** and **Aaron Lee**, reviewed the case in detail with Mr. **Cole** and his family, discussing the importance of lifestyle modifications and adherence to therapy to prevent future cardiac events.
+**Contact Information for Emergencies and Concerns:**
+- Cardiology clinic: **555-0123-9876**
+- Emergency Department: **555-1234-5678**
+**Discharge Condition:**
+Mr. **Cole** was discharged in a stable condition with plans for close outpatient monitoring and support through our cardiac rehabilitation program. His understanding of discharge instructions was confirmed, and he verbalized his understanding of signs and symptoms that would necessitate immediate medical attention.

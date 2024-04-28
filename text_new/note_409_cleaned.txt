@@ -1,0 +1,59 @@
+**Greenwich Hospital Regional Medical Center Inpatient Discharge Summary**
+**Patient Name:** Martha Elaine Thompson, MRN#: 987654321, is a 54 y.o. female, admitted to the Cardiology service for evaluation of chest pain and shortness of breath.
+**Admission Date:** 02/15/2023  
+**Discharge Date:** 02/20/2023  
+**Attending Provider:** Dr. Harold Greene  
+**Treatment Team:**
+- **!! FIRST CONTACT !!:** Cardiology team, pager 15243
+- **Hospital Problems Noted - Resolved**: 
+  - Acute coronary syndrome (02/15/2023 - Present: Yes)
+  - Hypertension managed (02/17/2023 - 02/20/2023)
+**Resolved Problems:**
+- Mild non-ST elevation myocardial infarction (02/15/2023 - 02/20/2023, yes)
+- Controlled hypertension (02/17/2023 - 02/20/2023, yes)
+**Discharge Diagnosis:**
+- Stable post non-ST elevation myocardial infarction
+**Recommendations for Follow-Up:**
+General cardiology follow-up within one week post-discharge, with focus on:
+- Blood pressure monitoring
+- Medication adherence
+- Lifestyle recommendations
+**Instructions for Referring / Subspecialty Provider(s):**
+- **Cardiology:** Follow up appointment on 02/27/2023
+- **Primary Care Physician:** Routine follow-up
+**Diagnostic Studies and Exam Findings:**
+- Echocardiogram showed mild left ventricular hypertrophy with preserved ejection fraction.
+- Coronary angiography revealed mild to moderate atherosclerotic changes, no immediate intervention required.
+**Medications at Discharge:**
+- Aspirin 81 mg, daily
+- Atorvastatin 40 mg, at bedtime
+- Metoprolol 50 mg, twice daily
+- Lisinopril 20 mg, daily
+**Discharge Planning:**
+Patient education provided regarding medication adherence, symptom monitoring, and lifestyle modifications including diet and exercise. Patient verbalized understanding.
+**Next Steps: Follow-Up Instructions:**
+- Blood work in one month
+- Repeat echocardiogram in six months
+- Contact Cardiology Clinic of Greenwich Hospital Regional Medical Center at 555-123-4567 for symptoms of chest pain or significant hypertension.
+**Scheduled Appointments:**
+Future Appointments Date Time Provider Department Center:
+- 02/27/2023 at 10:00 AM, Dr. Susan Lee, MD, Cardiology Clinic, Greenwich Hospital Regional Medical Center
+**Last Recorded Vital Signs:**
+BP 125/85 | Pulse 72 | Temp 36.8 °C | Resp 16 | SpO2 98% | Weight 160 lb | Height 5'6"
+**Pertinent Discharge Physical Exam Findings:**
+- **General:** Appears well, no acute distress
+- **CV:** RRR, no murmurs
+- **Resp:** Clear to auscultation bilaterally
+- **Abd:** Soft, non-tender
+- **Ext:** No edema
+- **Neuro:** Alert and oriented x 3
+**Discharge Condition:**
+Patient condition at discharge stable. Educated on signs and symptoms that should prompt immediate medical attention. Patient and family agree with the discharge plan and understand follow-up instructions thoroughly.
+**Discharge Medication List:** Home Medications as listed, all to continue.
+**To be scheduled:**
+- 02/27/2023 Routine follow-up with Dr. Susan Lee
+**Code status at Discharge:** Full Code
+**Discharge to:** Home
+**Condition:** Stable
+**Readmission Risk:** Moderate
+**Sign out to primary care physician, Dr. Johnathan Price, MD, completed today 02/20/2023 via secure e-message. Signed by:** Dr. Harold Greene, MD, 02/20/2023 at 3:30 PM.

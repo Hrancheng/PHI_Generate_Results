@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+John Doe was admitted to City Hospital following complaints of severe chest pain and shortness of breath.
+- MRN: 897654321
+- Admission Date: September 14, 2023
+- Discharge Date: September 20, 2023
+- Attending Physician: Dr. Lisa Reynolds
+**Hospital Course:**
+Mr. Doe presented to the emergency department with symptoms suggestive of a myocardial infarction. Initial EKG showed ST-segment elevation in anterior leads. He was taken to the cath lab where a percutaneous coronary intervention (PCI) was performed, revealing a 90% blockage in the left anterior descending artery which was successfully stented.
+Post-procedure, the patient was managed in the Cardiac Care Unit under continuous monitoring and standard post-MI medical therapy including aspirin, statins, beta-blockers, and ACE inhibitors.
+**Medications at Discharge:**
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg at bedtime
+3. Metoprolol 50 mg twice daily
+4. Lisinopril 10 mg daily
+**Discharge Instructions:**
+Mr. Doe is advised to follow up with his primary care provider, Dr. Henry Gold, 555-123-4567, within one week for a medication review and further evaluation. Additionally, cardiac rehabilitation has been scheduled to commence in two weeks at City Health Physical Therapy.
+**Diet and Activity:**
+A heart-healthy diet low in saturated fats, trans fats, cholesterol, salt (sodium), and added sugars is recommended. Gradual increase in activity as tolerated, avoid lifting heavy objects for at least one month.
+**Warning Signs and Symptoms to Watch for:**
+- Chest pain or discomfort that doesn't go away with rest
+- Severe breathlessness
+- Fainting or severe dizziness
+- Palpitations
+**Scheduled Follow-up Tests:**
+- Chest X-ray on October 1, 2023 at City Diagnostic Center
+- Follow-up echocardiogram scheduled for October 15, 2023
+**Contact Information:**
+- Cardiology Clinic at 555-987-6543
+- City Hospital Emergency Department: 555-567-8901 for any urgent needs
+**Discharge Summary Prepared By:**
+Dr. Emily Stone, MD
+Date: September 20, 2023
+Time: 3:45 PM
+**Signed:**
+Emily Stone

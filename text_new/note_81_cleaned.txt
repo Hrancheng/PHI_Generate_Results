@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+**Patient:** Emily Thomas, MRN# 987654321, is a 55 y.o. female, admitted to the Cardiovascular Health service for management of newly diagnosed atrial fibrillation and congestive heart failure.
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/21/2023  
+**Attending Provider:** Dr. Robert Jameson  
+**Treatment Team:** Cardiovascular Health Unit  
+**Hospital Problems Noted - Resolved**
+POA Active Problems:  
+- Atrial fibrillation 09/15/2023 - Present Yes  
+- Congestive heart failure 09/15/2023 - Present Yes  
+**Discharge Physician:** Dr. Erica Liu  
+**Consulting Cardiologist:** Dr. Alan Greene  
+**Referring Physician:** Susan O'Malley, MD  
+**Hospital Course:**  
+Ms. Emily Thomas presented initially with episodes of shortness of breath and palpitations. Upon admission, EKG confirmed atrial fibrillation with rapid ventricular rate. The patient was started on IV diltiazem, which was later switched to oral form as her rate became controlled. A transthoracic echocardiogram showed an ejection fraction of 40%, confirming systolic heart failure. The patient responded well to diuretics and was started on guideline-directed medical therapy for heart failure including ACE-inhibitors and beta-blockers.
+Her conditions stabilized over the course of the week, with improvement in heart function and resolution of atrial fibrillation to normal sinus rhythm observed. Education was provided regarding medication adherence, diet modifications, and the importance of regular cardiac follow-ups.
+**Discharge Medications:**
+- Lisinopril 20 mg daily
+- Carvedilol 6.25 mg twice daily
+- Apixaban 5 mg twice daily
+- Furosemide 40 mg daily
+**Follow Up:**  
+Dr. Alan Greene on 09/28/2023 at City Medical Center Cardiology Clinic.  
+Telehealth visit with Dr. Erica Liu on 10/05/2023.
+**Instructions:**  
+Patient is advised to monitor for signs of fluid overload or palpitations. Daily weights are recommended. She should continue with a low salt diet as previously instructed. Emergency room visit is advised if she experiences symptoms of chest pain, severe breathlessness, or fainting spells.
+**Discharge Condition:** Stable for discharge to home with outpatient follow-up.  
+**Discharge Assistant:** Nurse Patricia Mellows provided discharge education and confirmed the patient understood all departure instructions.
+**Last Recorded Vital Signs:**  
+- BP 110/70
+- Pulse 72
+- Temp 98.6 °F
+- Resp 16
+- Weight 165 lbs
+**Significant Test or Procedure Results:**  
+- Echocardiogram on 09/17/2023: EF 40%, mild to moderate mitral regurgitation.
+- Continuous EKG monitoring showed conversion to normal sinus rhythm on 09/19/2023.
+**Emergency Contacts:**  
+[CONTACT]husband Michael Thomas[O]  
+[PHONE](333) 555-6789[O]
+**Coding:**  
+ICD-10 Codes: I48.91 Unspecified atrial fibrillation, I50.9 Heart failure, unspecified
+**Signature:**  
+Dr. Erica Liu, MD  
+Date: 09/21/2023  
+Time: 2:00 PM  

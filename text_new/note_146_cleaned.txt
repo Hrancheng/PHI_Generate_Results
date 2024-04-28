@@ -1,0 +1,45 @@
+**General Hospital Inpatient Discharge Summary**
+Patient: Michael Thompson, MRN#: 989760245, is a 58 y.o. male who was admitted to the Cardiology service due to chest pain and suspected myocardial infarction.
+**Admission Date:** 9/15/2023  
+**Discharge Date:** 9/25/2023  
+**Attending Provider:** Dr. Anna Peterson  
+**Treatment Team:** RN Susan Hill, Dr. Rajiv Kumar
+**Hospital Problems Noted - Resolved**  
+**POA Active Problems:**  
+- Acute Myocardial Infarction 9/15/2023 - Present Yes  
+- Hypertension 9/15/2023 - Present Yes  
+- Type II Diabetes Mellitus 9/15/2023 - Present Yes
+**Resolved Problems:**  
+RESOLVED: Chest pain 9/15/2023 - 9/25/2023 Yes  
+RESOLVED: Elevated blood glucose on admission 9/15/2023 - 9/17/2023 Yes
+**Hospital Course:**  
+Mr. Michael Thompson was admitted with chest pain and diaphoresis. Initial EKG showed ST-segment elevation in anterior leads. Immediate cardiac catheterization confirmed a blockage in the left anterior descending artery, which was successfully treated with the placement of a drug-eluting stent. Post-procedure, the patient remained hemodynamically stable with resolution of chest pain. Diabetes management was adjusted with insulin sliding scale and metformin.
+**Significant Test or Procedure Results:**  
+- **Cardiac Catheterization on** 9/16/2023: Successful stent placement in LAD.  
+- **EKG on** 9/15/2023: Demonstrated ST elevation.  
+- **Blood Glucose Levels** 9/15/2023: Varied from 200 mg/dL to 120 mg/dL over the course of admission.
+**Discharge Medications:**  
+1. Aspirin 81 mg tablet daily  
+2. Metoprolol 50 mg tablet twice daily  
+3. Atorvastatin 40 mg at bedtime  
+4. Metformin 500 mg tablet twice daily  
+5. Insulin Glargine 40 units at bedtime
+**Follow-Up Appointments:**  
+- Cardiology follow-up with Dr. Rajiv Kumar on 10/05/2023 at General Hospital Cardiology Clinic  
+- Diabetes management with Endocrinology, General Hospital Diabetes Care Center on 10/12/2023
+**Instructions for Patient:**  
+- Continue medication as prescribed.  
+- Monitor blood sugar levels four times a day.  
+- Report any symptoms of chest pain, breathlessness, or hypoglycemia immediately.  
+- Maintain a diet low in saturated fats and sugars, and pursue moderate aerobic exercise like walking for at least 30 minutes each day.
+**LACE Score at Discharge:**  
+Total Score: 9 (Moderate Risk)  
+Contributing Factors: Length of Stay (5 days), Acuity of Admission (High), Comorbidities (3), Emergency department visits in last 6 months (0).
+**Risk Level:** Moderate  
+**Readmission Rate - 30 Day:** 7.9%  
+**Mortality Rate - 30 Day:** 0.7%
+**Contact Information for Queries/Concerns:**  
+General Cardiology: 555-192-4567  
+Diabetes Care Center: 555-192-4532
+**Final Thoughts:**  
+Mr. Michael Thompson's hospital stay involved intensive cardiovascular and glycemic management. Plans and guidelines have been established to maintain his health post-discharge, with supportive follow-ups and ongoing therapy modifications based on his evolving clinical status.

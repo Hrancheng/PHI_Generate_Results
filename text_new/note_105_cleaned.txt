@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Gloria Thompson  
+**MRN:** 948475206  
+**Age:** 63 years old  
+**Admission Date:** September 5, 2023  
+**Discharge Date:** September 20, 2023  
+**Admitting Diagnosis:** Acute exacerbation of chronic heart failure  
+**Discharge Diagnosis:** Same as admitting diagnosis  
+**Attending Physician:** Dr. Helen Mirren
+**Hospital Course:**
+Gloria Thompson was admitted with symptoms of dyspnea and orthopnea. Her condition was stabilized using IV diuretics and BiPAP support initially in the Cardiac Care Unit and later stepped down to the medical floor as her condition improved.
+Echo performed on September 7, 2023 showed reduced ejection fraction of 28%, consistent with her prior known reduced EF but somewhat lower than previous results (last echo from February 2022 showed EF of 35%).
+**Consultations:**
+1. Cardiology: Adjusted heart failure medications and reinforced the importance of strict fluid and sodium restriction.
+2. Nutrition: Consulted to help optimize a low sodium diet.
+3. Social Work: Assessed need for home health aids considering the patient's reduced mobility and the spouse's inability to fully support ADLs.
+**Medications on Discharge:**
+- Furosemide 40 mg tablet: Take 1 tablet by mouth twice daily.
+- Carvedilol 25 mg tablet: Take 1 tablet by mouth twice daily.
+- Lisinopril 5 mg tablet: Take 1 tablet by mouth once daily.
+- Spironolactone 25 mg tablet: Take 1 tablet by mouth once daily.
+**Follow-Up Appointments:**
+- Cardiology Clinic follow-up on October 8, 2023 at Cardiology Specialist Clinic Room 402
+- Primary Care Physician, Dr. Susan Shaw, for evaluation on October 15, 2023 
+**Instructions:**
+- Continue monitoring weight daily.
+- Maintain strict fluid intake restrictions (no more than 1.5 L/day).
+- Observe for signs of weight gain, increasing edema, or any difficulty breathing and if so, report immediately to a healthcare provider.
+**Discharge condition:**
+- Stable, with improved symptoms of heart failure.
+**Discharged to:**
+- Home under the care of her husband, Mitchell Thompson with support from community nursing services for the next two weeks.
+**Code Status:**
+- Full Code.
+**LACE Score:**
+- Total Score: 10 (High risk for readmission)
+   - Length of Stay: 3
+   - Acute Admission: 4
+   - Comorbidity Score: 2
+   - ED Visits: 1
+**Analysis:**
+Overall, the patient's hospital course was uncomplicated. Adjustment of her heart failure management appears to have yielded positive results, and she was deemed stable for discharge. Close outpatient follow-up is imperative given her high LACE score which suggests a significant risk of readmission.
+**Signature:**
+- Signed: Dr. Helen Mirren, September 20, 2023 at 2:00 PM  
+    - City General Hospital  
+**Contact Info:** 555-123-9876
+**Addendum:**
+Patient reviewed and understands discharge instructions. Acknowledges understanding of medications and follow-up. Expresses satisfaction with the hospital stay and treatment received.
+**Filed:** September 20, 2023, 4:30 PM

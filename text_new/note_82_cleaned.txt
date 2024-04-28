@@ -1,0 +1,50 @@
+**General Hospital Inpatient Discharge Summary**
+Patient: Elizabeth Thompson, MRN# 582903472, is a 67 y.o. female, admitted to the Cardiology service for management of acute heart failure exacerbation. 
+Admission Date: 9/17/2023  
+Discharge Date: 9/30/2023  
+Attending Provider: Dr. Jonathan S. Teller  
+**Chief Complaint:**  
+Acute shortness of breath and lower extremity swelling.
+**Hospital Course:**  
+Mrs. Elizabeth Thompson was admitted following a worsening of her chronic heart failure symptoms, notably increased dyspnea on exertion and bilateral leg edema. Initial lab tests indicated elevated BNP levels, and echocardiography showed reduced ejection fraction. Treatment included intravenous diuretics and adjustment of her oral heart failure regimen. Her condition improved steadily with diuretic therapy, and she was transitioned to oral medications. Technical instructions on fluid and diet management were provided.
+**Medications at Discharge:**  
+- Furosemide 40 mg tablet  
+   Quantity: 30 tablets  
+   Refills: 2  
+- Carvedilol 12.5 mg  
+   Quantity: 60 tablets  
+   Refills: 2  
+- Lisinopril 20 mg  
+   Quantity: 30 tablets  
+   Refills: 2  
+**Allergies:**  
+No known drug allergies.
+**Discharge Instructions:**  
+Patient is advised to closely monitor weight, restrict fluid intake to less than 2 liters per day, and adhere to a low-sodium diet. Outpatient follow-up within one week with her cardiologist, Melissa Grant, is scheduled.
+**Follow-Up Appointments:**  
+10/7/2023, 10:00 AM with Melissa Grant, M.D., at General Hospital Cardiology Clinic.  
+**LACE Score at Discharge:**  
+7 - Moderate risk of readmission
+**Home Health Services:**  
+Patient agreed to home health services including a visiting nurse to monitor her medication management and heart failure symptoms, starting from 10/2/2023.
+**Additional Follow-Up:**  
+- Lab tests for kidney function and electrolytes on 10/4/2023.  
+- Echocardiogram scheduled in three months.
+**Equipment Provided:**  
+Blood pressure cuff and digital scale for daily monitoring.
+**Reason for Hospitalization:**  
+Patient experienced increased episodes of shortness of breath with minimal exertion and difficulty lying flat, indicating decompensated heart failure.
+**Final Diagnoses:**  
+1. Acute decompensated heart failure  
+2. Hypertension  
+3. Type 2 Diabetes Mellitus
+**Discharge Condition:**  
+Mrs. Thompson is stable and reported feeling significantly better than at admission. Plans are set for close outpatient monitoring given the risk of future exacerbations.
+**Last Recorded Vital Signs:**  
+BP 130/85 | Pulse 78 | Temp 98.6 °F | Resp 16 | O2 Sat 94% on room air
+**Prepared By:**  
+Jonathan S. Teller, MD, Cardiology  
+Date: 9/30/2023  
+Time: 4:00 PM
+**Follow Up Contact:**  
+Patient or family to call General Hospital Cardiology Clinic at 555-312-4422 with any concerns or worsening symptoms.

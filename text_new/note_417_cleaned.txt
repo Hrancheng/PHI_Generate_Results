@@ -1,0 +1,40 @@
+**University Hospital Discharge Summary**
+**Patient:** Emily Thompson, MRN# 856342179, is a 58 y.o. female.
+**Admission Date:** January 12, 2023  
+**Discharge Date:** January 19, 2023  
+**Attending Provider:** Dr. Helen Zhao  
+**Treatment Team Contact:** SA3 FLOOR CALLS - PAGER 25748
+**Hospital Problems Noted - Resolved**  
+- Anemia due to chronic blood loss 1/12/2023 - Present Yes  
+- Hypertension 1/12/2023 - Present Yes  
+- Resolved Issues:  
+  - UTI 1/12/2023 - 1/15/2023 Yes
+**Brief Hospital Course:**
+Ms. Emily Thompson was admitted following complaints of severe fatigue and intermittent headaches. Upon evaluation, hemoglobin levels were found to be low, indicative of anemia secondary to chronic blood loss, possibly gastrointestinal in nature. A gastroscopy confirmed the presence of multiple benign gastric ulcers. Patient was managed with IV iron supplementation and a PPI, and responded well to the treatment. Blood pressure was elevated upon admission and controlled through IV antihypertensives. UTI noted upon admission; treated with IV antibiotics and resolved.
+**Recommendations for Follow Up:**
+Attention to Primary Care Physician:
+- Continue iron supplements and PPI as prescribed.
+- Blood pressure monitoring and continuation of antihypertensive medication.
+- Re-evaluation of hemoglobin and iron levels in two weeks.
+**Referrals:**
+- Gastroenterology for follow-up on gastric ulcers.
+- Cardiology for hypertension management.
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+Contact information for follow-up,
+- Phys, Self-Refer Or No PCP/Referring 
+- Next Steps: Follow up with Community Clinics Inc. 555-798-4321
+**Discharge Medications:**
+- Ferrous sulfate 325 mg tablet, Oral, THREE TIMES DAILY
+- Omeprazole 20 mg capsule, Oral, ONCE DAILY
+- Lisinopril 10 mg tablet, Oral, ONCE DAILY 
+**Home or Self Care:** 
+Patient discharged to home under the care of her daughter, Sarah Thompson. Written and verbal instructions provided regarding medication adherence, signs of worsening condition, and follow-up appointments.
+**Last Filed:** January 20, 2023 at 0800 hrs
+**Discharge Condition:** Stable  
+**Disposition:** Home  
+**Code Status at Discharge:** Full Code
+**Next Steps:**
+- Follow up appointment with Primary Care within 5 days 
+- Gastroenterology follow-up within 2 weeks  
+- Cardiology review within 1 month  
+**Signed:** Dr. Helen Zhao, MD, January 19, 2023, 5:00 PM

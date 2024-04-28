@@ -1,0 +1,36 @@
+**UMH Acute Care Hospital Discharge Summary**
+Patient Name: Michael Thompson  
+MRN#: 987654321  
+DOB: 11/02/1971  
+Age: 52 years old  
+Admission Date: 10/21/2023  
+Discharge Date: 10/28/2023  
+Attending Physician: Dr. Anna Lee  
+Referring Physician: Dr. Robert Clark  
+Admission Diagnosis: Complicated diverticulitis  
+Discharge Diagnosis: Resolved diverticulitis, stable condition  
+**Hospital Course:**  
+Mr. Thompson was admitted with severe abdominal pain and fever. CT abdomen and pelvis confirmed the presence of diverticulitis with a small localized abscess in the sigmoid colon. The patient was started on IV antibiotics (Piperacillin-Tazobactam), and his condition improved over the next few days. Interventional radiology was not required as the abscess decreased in size with conservative management. His pain was well-controlled with IV Acetaminophen and oral Ibuprofen.
+Throughout his stay, Mr. Thompson's vital signs remained stable, and he gradually returned to a regular diet after being NPO for 48 hours post-admission. His last recorded temperature was 98.6°F, blood pressure was 120/76 mmHg, and he reported significant relief from abdominal pain.
+**Medications on Discharge:**
+1. Metronidazole 500 mg, Oral, TWICE DAILY, for 7 days
+2. Ciprofloxacin 500 mg, Oral, TWICE DAILY, for 7 days
+3. Acetaminophen 650 mg, Oral, EVERY 6 HOURS AS NEEDED for pain
+**Follow-up:**
+- Primary care follow-up with Dr. Robert Clark in 2 weeks for reevaluation.
+- Gastroenterology follow-up recommended within one month.
+**Discharge Instructions:**  
+Patient instructed to avoid foods that may exacerbate diverticulosis symptoms such as nuts and seeds. Increase fiber intake gradually. He was educated about the signs of infection, including fever, increased pain, or a return of symptoms, and was advised to seek immediate medical attention if any of these occur. Mr. Thompson verbalized understanding of his discharge instructions.
+**Diet:**
+High fiber diet as tolerated.
+**Activity:**
+Gradual return to normal activity as tolerated.
+**Discharge Condition:**
+Patient is stable and being discharged in good condition. He has tolerated a regular diet, and his pain is controlled on oral medication.
+**Signed:**
+Dr. Anna Lee, MD (10/28/2023, 2:00 PM)
+**Follow-up Contact:**
+For any urgent concerns, patient may contact UMH Acute Care Hospital at 555-123-4567.
+**Outstanding Issues:**
+None. All acute issues addressed during hospitalization with appropriate follow-up arranged.
+The discharge process was completed smoothly, and the patient left the hospital premises understanding his post-discharge care plan, expressing his satisfaction with the care received.

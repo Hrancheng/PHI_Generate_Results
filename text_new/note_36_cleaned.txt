@@ -1,0 +1,29 @@
+**Inpatient Discharge Summary**
+Patient Name: Michael Thompson  
+MRN: 987654321  
+Admission Date: September 15th, 2023  
+Discharge Date: September 25th, 2023  
+Discharge Diagnoses:  
+Main Diagnosis: Acute Cholecystitis  
+Secondary Diagnosis: Hypertension  
+Hospital Course:  
+Mr. Thompson was admitted with severe right upper quadrant pain radiating to his back, nausea, and vomiting. An ultrasound confirmed the presence of gallstones and a thickened gallbladder wall. He was managed with IV antibiotics and underwent a successful laparoscopic cholecystectomy on September 17th, 2023. Post-operatively, the patient's recovery was uncomplicated. His hypertension was managed with oral medications, achieving good control.
+Medications at Discharge:  
+- Ciprofloxacin 500 mg orally twice daily for 7 days  
+- Metoprolol 50 mg orally once daily  
+Follow-Up:  
+He should follow up with his primary care provider, Dr. Susan Lee, October 2nd, 2023 for blood pressure management and postoperative check. Please contact Dr. Lee at 555-123-4567 for any urgent issues.
+Instructions:  
+The patient is advised to maintain a low-fat diet post-cholecystectomy and to monitor his blood pressure daily. He should seek immediate medical attention if he experiences symptoms such as persistent vomiting, jaundice, or severe abdominal pain.
+Diet: Normal diet as tolerated  
+Activities: Light activities, no heavy lifting for 4-6 weeks  
+Wound Care: Keep the surgical site clean and dry. Observe for signs of infection.  
+Discharge Condition:  
+The patient is stable with all vital signs within normal limits. He is in a good condition to be discharged and continue recovery at home.
+[**Attending Physician:** Dr. Emily Carter, M.D., General Surgery  
+[**Signature:**  
+Dr. Emily Carter  
+September 25th, 2023, 14:00 PM  
+[**Patient Acknowledgment:**  
+I have received and understand my discharge instructions.  
+Patient Signature: M. Thompson 

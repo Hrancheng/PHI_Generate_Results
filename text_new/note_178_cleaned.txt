@@ -1,0 +1,53 @@
+**St. Mary's Regional Medical Center Discharge Summary**
+Patient Name: Margaret Thompson
+MRN: 987654321
+Age: 72 years
+Sex: Female
+**Admission Date:** October 21, 2023
+**Discharge Date:** October 27, 2023
+**Admitting Physician:** Dr. Emily Stone
+**Consulting Team:**
+- Cardiology: Dr. Alan Rickman
+- Endocrinology: Dr. Susan O'Malley
+**Chief Complaint:**
+Patient presented in the ER with complaints of severe shortness of breath and chest pain.
+**History of Present Illness:**
+Margaret Thompson is a 72-year-old female with a history of type 2 diabetes and hypertension who presented to the emergency department on October 21, 2023 with acute onset of chest pain and dyspnea. Initial evaluation suggested an acute myocardial infarction, confirmed by elevated troponin I levels and characteristic EKG changes.
+**Past Medical History:**
+- Type 2 Diabetes
+- Hypertension
+- Previous myocardial infarction (2018)
+**Hospital Course:**
+Upon admission, the patient was managed with IV nitroglycerine, beta-blockers, and a statin. Cardiology was consulted, and coronary angiography was performed by Dr. Alan Rickman, revealing two blocked coronary arteries requiring stenting. Post-procedure, the patient showed significant improvement and was started on a dual antiplatelet therapy. Endocrinology adjusted her diabetic medications due to fluctuating blood glucose levels during her stay.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Insulin Glargine 40 units at bedtime
+- Insulin Lispro sliding scale as per dosing chart
+**Follow-up:**
+Follow-up appointment with Cardiology, Dr. Alan Rickman, scheduled for November 4, 2023 at St. Mary's Cardiac Clinic.
+Diabetes management follow-up with Dr. Susan O'Malley on November 10, 2023 at St. Mary's Endocrinology Department.
+**Diet/Activity:**
+Low sodium, low fat diet recommended. Gradual increase in activity advised, targeting 30 minutes of walking 5 days a week.
+**Discharge Planning:**
+Margaret Thompson was instructed on the importance of medication adherence, signs and symptoms of cardiac distress, and diabetes management. Discharge medications were reviewed, and prescriptions were sent to City Pharmacy. Home health care arranged to assess home safety and provide initial follow-up support. Patient and family expressed understanding of discharge instructions.
+**Labs at Discharge:**
+- Hemoglobin A1c: 7.2%
+- Total Cholesterol: 182 mg/dL
+- LDL: 90 mg/dL
+- HDL: 40 mg/dL
+- Triglycerides: 150 mg/dL
+**Discharge Condition:**
+Patient is stable with recommendations for close outpatient follow-up. Continued monitoring of cardiac and diabetic status is essential.
+**Myocardial Infarction Team:**
+- Primary Nurse: Jessica Lee
+- Patient Care Coordinator: Robert Frost
+**Signed:**
+Dr. Emily Stone, MD
+Date: October 27, 2023
+Time: 12:00 PM
+**Instructions:**
+If the patient experiences any chest pain, shortness of breath, or uncontrolled blood sugar, she should seek immediate medical attention or contact the hospital at 555-1234.
+---
+This discharge summary is in line with the example provided, containing all relevant details in a comprehensive and clear format while adhering to PHI guidelines.

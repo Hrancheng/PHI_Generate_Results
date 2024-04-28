@@ -1,0 +1,44 @@
+**Regional General Hospital Inpatient Discharge Summary**
+**Patient Information:**
+- **Emily Thompson**
+- **MRN#: 987654321**
+- **Age: 58 years old**
+**Admission Date: March 15, 2023**
+**Discharge Date: March 22, 2023**
+**Attending Provider:** Dr. Alice Johnson
+**Admission Diagnosis:** Acute Cholecystitis  
+**Discharge Diagnosis:** Acute Cholecystitis resolved
+**Hospital Course:**
+Emily Thompson was admitted with severe right upper quadrant pain and was diagnosed with acute cholecystitis based on ultrasound findings and lab results. The patient underwent laparoscopic cholecystectomy on March 16, 2023, which was uncomplicated. Post-operative recovery was uneventful, and the patient's pain was well controlled with IV acetaminophen and oral ibuprofen. The patient started a liquid diet, progressed to solid food without issues, and had no post-operative complications.
+**Medications at Discharge:**
+- Acetaminophen 500 mg tablet: 1-2 tablets every 6 hours as needed for pain
+- Ibuprofen 400 mg tablet: 1 tablet every 8 hours as needed for pain
+**Follow-up Instructions:**
+- General Surgery follow-up in 2 weeks with Dr. Alice Johnson for wound check and post-operative evaluation.
+- Patient is advised to avoid heavy lifting and strenuous activities for 4 weeks.
+- Diet: Low-fat diet recommended for the next month.
+**Discharge Instructions:**
+- The patient should monitor for any signs of infection around the incision sites, excessive abdominal pain, or jaundice.
+- Should symptoms persist or worsen, the patient should seek immediate medical attention or return to the emergency department.
+**LACE - Readmission Risk Score:**
+- Total Score: 4
+- Length of Stay: 7
+- Acute Admission: No
+- Charleson Comorbidity Score: 1
+LACE Score Risk Level:
+Readmission Rate - 30 Day Mortality Rate - 30 Day
+1-4 Low 3.3% 0.1%
+**Signed:**
+- Alice Johnson, MD
+- March 22, 2023, 2:00 PM
+**300 Healing Way, Room 12, Regional General Hospital, Springfield, IL 62704**
+**Phone: 555-123-4567** 
+**Next Steps for Patient:**
+- Continue medication as prescribed.
+- Schedule follow-up appointment within 2 weeks.
+- Contact 555-123-4567 for any concerns or questions related to recovery.
+**Discharge Condition:**
+- Stable
+- Pain controlled
+- Ambulating as tolerated
+This discharge summary represents the course of treatment and condition of Emily Thompson during her hospital stay from March 15, 2023 to March 22, 2023. All patient data has been reviewed and confirmed by the attending physician. 

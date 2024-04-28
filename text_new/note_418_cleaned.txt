@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+**Patient Details and Background:**
+- Patient: Emily Thompson
+- MRN: 987654321
+- 62-year-old Caucasian female
+- Admission Date: 9/15/2023
+- Discharge Date: 10/3/2023
+- Attending Physician: Dr. Michael Harris 
+- Referring Physician: Dr. Linda Farley
+- Insured by: Blue Cross Blue Shield
+**Hospital Course Overview:**
+Mrs. Thompson was admitted with complaints of chest pain and shortness of breath. Initial EKG showed non-specific T-wave changes and her troponin levels were elevated. After an assessment by the attending team, she underwent a coronary angiogram which revealed two significant blockages. She successfully underwent double coronary artery bypass graft surgery on 9/18/2023. Postoperatively, she was managed in the cardiac recovery unit and gradually began cardiac rehabilitation.
+**Procedure Details:**
+1. Coronary Angiogram performed on 9/17/2023.
+2. Double Coronary Artery Bypass Graft on 9/18/2023 - Performed by Dr. Alan Rickman.
+**Hospital Problems Noted - Resolved:**
+- Angina Pectoris 9/15/2023 - 9/18/2023 - Resolved
+- Elevated troponin I levels 9/15/2023 - slightly elevated on admission, normalized post-surgery.
+**Discharge Medications:**
+1. Aspirin 81 mg, daily.
+2. Metoprolol 50 mg, twice daily.
+3. Atorvastatin 40 mg, nightly.
+4. Follow up with cardiologist Dr. Sara Cho in 1 week.
+5. Cardiac Rehabilitation appointments scheduled for 10/10/2023 and 10/12/2023 at St. Jude Medical Center.
+**Recommendations for Follow-Up:**
+Patient is advised to engage in light exercises as tolerated and gradually increase as instructed by physical therapy. Dietitian consultation suggested focusing on a heart-healthy diet. Psychological support is also recommended due to signs of post-surgical anxiety.
+**Discharge Conditions:**
+- Condition at Discharge: Stable 
+- Instructions: Follow-up with primary care physician and cardiologist within one week.
+- Follow-Up Appointment: Dr. Sara Cho on 10/10/2023
+- Contact Number for Emergencies: 555-123-9876
+**Discharge Summary Prepared by:**
+- Dr. Michael Harris, Attending Cardiologist
+- 10/3/2023, 4:30 PM
+**Summary and Instructions:**
+Mrs. Thompson is to focus on recovery and heart health. Any signs of chest discomfort, breathing difficulties, or other concerning symptoms should prompt an immediate visit to the emergency department. Regular monitoring of blood pressure and adherence to the prescribed medication regimen is crucial for recovery.

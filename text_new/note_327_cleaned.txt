@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+**Patient Information**:  
+- **Patient Name**: Samantha Reynolds  
+- **MRN**: 786205432  
+- **Age**: 52 years old  
+- **Admission Date**: March 15, 2023  
+- **Discharge Date**: March 22, 2023  
+- **Attending Provider**: Dr. Harold Greene  
+**Hospital Service**: General Medicine  
+**Admitting Diagnosis**: Acute cholecystitis  
+**Discharge Diagnosis**:  
+1. Acute cholecystitis  
+2. Hypertension  
+**Hospital Course**:  
+Ms. Reynolds was admitted following a 48-hour history of right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed gallstones and a thickened gallbladder wall. She was managed with IV antibiotics and underwent a laparoscopic cholecystectomy on March 17, 2023 which was uneventful. Post-operative recovery was complicated by hypertension, managed with adjustment of her home antihypertensive medications. Her condition stabilized, and she was prepared for discharge with instructions on wound care and follow-up.
+**Medications on Discharge**:  
+- Ciprofloxacin 500 mg orally twice a day for 7 days  
+- Metoprolol 50 mg orally twice a day  
+- Paracetamol 500 mg as needed for pain
+**Follow-Up Appointments**:  
+1. Gallbladder surgery follow-up with Dr. Harold Greene on April 2, 2023 at the City General Hospital Surgical Clinic.  
+2. Blood pressure check and medication review with Dr. Amy L. Hsu on March 29, 2023 at Downtown Medical Associates.
+**Discharge Instructions**:  
+Patient advised to avoid heavy lifting and fatty foods for at least two weeks. She should monitor for signs of infection around the incision sites and report any unexpected increase in pain or fever immediately.  
+**Diet**: Regular diet as tolerated.
+**Activity**: Light activities, avoid strenuous exercise for 4 weeks.
+**Additional Instructions**:  
+- Continue blood pressure monitoring at home.  
+- Wound care instructions provided and reviewed with the patient.
+**Condition at Discharge**:  
+The patient is stable and ready for discharge. She understands her medications, follow-up, dietary recommendations, and when to seek immediate medical attention.
+**Discharge Location**: Home  
+**Discharged By**: Dr. Harold Greene, March 22, 2023, at 02:00 PM.
+**Summary Comments**:  
+The patient’s stay was complicated by hypertension which required updating her current treatment regime. Immediate surgery was essential given the risk of rupture and was successfully performed with laparoscopic techniques which should offer a quicker recovery period.
+**[EOF - DISCHARGE SUMMARY FOR Samantha Reynolds]**

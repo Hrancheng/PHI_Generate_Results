@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Patient Name: Michael Thompson
+- MRN: 987654321
+- Age: 58 years old
+- Admission Date: November 12, 2023
+- Discharge Date: December 3, 2023
+- Attending Physician: Dr. Helen Clarkson
+**Hospital Course:**
+Mr. Thompson was admitted following a syncopal episode. Initial investigations including blood panels and imaging were conducted, revealing a diagnosis of atrial fibrillation. Treatment was initiated with anticoagulants and rate control medication. The patient responded well to the treatment without any recurrent episodes during the stay.
+**Medications at Discharge:**
+1. **Warfarin 5 mg oral tablet** - Once daily
+   - Prescribed Date: December 3, 2023
+2. **Metoprolol 50 mg oral tablet** - Twice daily
+   - Prescribed Date: December 3, 2023
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. Sara Li, MD at Cardiac Health Specialists. Scheduled for December 10, 2023 at 10:00 AM.
+- Primary Care Provider (PCP) check-up with Dr. John Carter, MD. Appointment on December 15, 2023 at 2:00 PM.
+- Coumadin Clinic on December 5, 2023 for INR check and warfarin dose adjustment.
+**Discharge Instructions:**
+Patient advised to monitor for signs of bleeding or bruising and report immediately to the hospital or his PCP. Maintain a consistent Vitamin K intake while on warfarin. Avoid activities that have a high risk of causing injury or bleeding. 
+**Home Medications to Continue:**
+- **Lisinopril 20 mg oral tablet** - Once daily for hypertension
+- **Simvastatin 40 mg oral tablet** - At bedtime for cholesterol management
+**Remarks:**
+Mr. Thompson is to continue rehabilitation for strength and mobility improvement at home. He has been prescribed compression stockings to help with circulation.
+**Discharge Condition:**
+Mr. Thompson was discharged in a stable condition with improvements noted in his cardiac rhythm and overall health. His discharge condition is expected to improve with adherence to medications and follow-up care.
+**Communication:**
+A discharge summary was sent to all relevant care providers, including Dr. Sara Li and Dr. John Carter via electronic health record system updates performed on December 3, 2023.
+**Prepared by:**
+Emily Tran, RN
+Date: December 3, 2023
+Time: 3:30 PM
+**Final Verification:**
+Reviewed and finalized by Dr. Helen Clarkson
+Date: December 3, 2023
+Time: 4:00 PM

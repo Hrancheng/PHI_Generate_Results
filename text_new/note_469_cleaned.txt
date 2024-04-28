@@ -1,0 +1,49 @@
+**CARDIOLOGY INPATIENT DISCHARGE SUMMARY**
+**Facility**: Saint Luke's Medical Center
+**Erica Mullins**, MRN#: 592308771, is a 68-year-old female, admitted to the Cardiology service for management of chest pain and evaluation of reported dyspnea.
+**Admission Date**: August 15, 2023
+**Discharge Date**: August 25, 2023
+**Attending Provider**: Dr. Helen Clarkson
+**Consulting Providers**: Cardiology, Pulmonology
+**Admission Diagnosis**:
+- Acute coronary syndrome
+- Chronic obstructive pulmonary disease (COPD) exacerbation
+**Hospital Course**:
+The patient, Mrs. Mullins, presented to the Emergency Department (ED) on August 15, 2023 complaining of chest pain radiating to her left arm and associated shortness of breath. Initial EKG showed non-specific ST changes, and troponins were elevated. She was admitted under Cardiology for an acute coronary syndrome work-up and management.
+During her stay, she underwent a coronary angiography performed by Dr. Ian McArthur, which revealed a 70% stenosis in the left anterior descending artery. A drug-eluting stent was successfully placed.
+Her COPD symptoms were managed with an increased regimen of inhaled corticosteroids and bronchodilators, overseen by Dr. Samantha Lee from Pulmonology. Her respiratory status improved with these adjustments.
+She participated actively in cardiac rehabilitation sessions led by Nathan Briggs, PT, and showed significant improvement in her exercise tolerance.
+**Medications at Discharge**:
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg nightly
+4. Inhaler: Fluticasone/Salmeterol 250/50 mcg BID
+**Follow-up**:
+The patient is scheduled for follow-up appointments as follows:
+- Cardiology follow-up with Dr. Helen Clarkson on September 5, 2023 at Saint Luke's Cardiology Clinic.
+- Pulmonology follow-up with Dr. Samantha Lee on September 10, 2023 at Saint Luke's Respiratory Care Center.
+**Discharge Instructions**:
+- Continue medications as prescribed.
+- Maintain a low-sodium, heart-healthy diet.
+- Resume activities gradually, increase exercise as tolerated.
+- Attend cardiac rehabilitation sessions twice a week.
+- Monitor for any new or worsening symptoms of chest pain or respiratory distress. If symptoms occur, seek immediate medical attention or call 9-1-1.
+**Last Recorded Vital Signs**:
+- BP: 132/86 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6 °F
+- Respiratory Rate: 16 breaths per minute
+- SpO2: 97% on room air
+**Physical Examination at Discharge**:
+- Cardiovascular: Heart sounds were regular, with no murmurs or gallops. Peripheral pulses were intact.
+- Respiratory: Lungs clear to auscultation bilaterally; no wheezes, crackles, or rhonchi.
+- Extremities showed no signs of edema.
+**Plan**:
+- Monitor lipid profile and liver function tests during cardiology follow-up.
+- Assess the effectiveness and compliance of COPD management in pulmonology follow-up.
+Mrs. Mullins's condition upon discharge was stable with significant improvement seen during her hospitalization. She was agreeable to the management plan and expressed confidence in managing her conditions at home. Her understanding of medications, follow-up, and when to seek further care was affirmed during discharge education. 
+**Signed**:
+Dr. Helen Clarkson, M.D.
+Date: August 25, 2023
+Time: 2:00 PM
+This summary includes all pertinents facts about Mrs. Mullins's hospital stay and provides a targeted plan to ensure continuity of care. If any changes arise in her condition, modifications to this plan should be made promptly to ensure optimal outcomes.

@@ -1,0 +1,49 @@
+**Mount Sinai Hospital Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** Emily Taylor
+- **MRN:** 897254321
+- **Age:** 68 years old
+- **Admission Date:** March 15, 2023
+- **Discharge Date:** March 25, 2023
+- **Attending Provider:** Dr. Alan Grant
+**Admission Diagnosis:**
+- Decompensated heart failure
+- Chronic obstructive pulmonary disease (COPD) exacerbation
+**Hospital Course:**
+Mrs. Taylor was admitted following a two-day history of increased shortness of breath and lower extremity edema. Her home medications including diuretics were optimized, resulting in gradual improvement. Pulmonary function tests confirmed COPD exacerbation, managed with corticosteroids and bronchodilators.
+**Conditions at Discharge:**
+The patient's breathing has notably improved, and she was able to walk short distances without significant dyspnea. She is advised to continue medications as prescribed and follow up with her primary care provider and pulmonologist.
+**Medications at Discharge:**
+1. Furosemide 40 mg daily
+2. Carvedilol 12.5 mg twice daily
+3. Spiriva Handihaler once daily
+**Discharge Plan:**
+Mrs. Taylor will return home with her daughter, Jessica, who will assist with her care. Home health will visit twice a week to monitor her progress and provide physical therapy.
+**Follow-up Appointments:**
+- Pulmonology follow-up on April 2, 2023 at Outpatient Clinic
+- Cardiology follow-up on April 10, 2023 at Heart Center
+**Last Recorded Vital Signs:**
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- Temp: 98.6 °F
+- O2 Sat: 96% on room air
+**LACE Score:** (Does not apply to Pediatric)
+- Total Score: 10
+- Length of Stay: 4
+- Acuity of Admission: 3
+- Charleson Comorbidity Score: 3
+**Risk Level:**
+- High risk of unplanned Readmission within 30 days of discharge. Close monitoring recommended.
+**Advice on Discharge:**
+Patient and family educated on signs and symptoms of worsening heart failure and COPD. They were instructed to seek immediate medical attention if she experiences significant shortness of breath, chest pain, or other concerning symptoms.
+**Discharge Signed by:**
+- Dr. Alan Grant, MD, March 25, 2023, 3:00 PM
+**Instructions for Patient:**
+- Continue salt and fluid restriction as discussed.
+- Monitor daily weights and report any gain of over 3 lbs in a day.
+- Keep all scheduled appointments.
+**Equipment Provided at Discharge:**
+- Oxygen concentrator for home use as needed.
+- Compression stockings for lower extremity edema management.
+**Emergency Contact:**
+- Mount Sinai Hospital Emergency Department: 555-0199

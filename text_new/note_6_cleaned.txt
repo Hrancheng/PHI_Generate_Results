@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- **Robert Thompson**, MRN#: 489325760
+- 62-year-old Caucasian male
+- Admission Date: March 15, 2023
+- Discharge Date: March 20, 2023
+- Attending Physician: Dr. Elizabeth Holmes
+**Hospital Course:**
+Mr. Thompson was admitted with a diagnosis of acute cholecystitis. He underwent a laparoscopic cholecystectomy on March 16, 2023, performed by Dr. Johnathan Green. His post-operative period was complicated by mild hypotension, which was managed conservatively with IV fluids. He responded well and was gradually transitioned to oral intake. His pain was controlled using PCA pump initially, transitioning to oral acetaminophen by Day 2 post-op.
+**Medications on Discharge:**
+- Acetaminophen 500 mg orally every 6 hours as needed for pain
+- Cephalexin 500 mg orally every 8 hours for 5 days
+**Follow-up Instructions:**
+Patient is advised to follow-up with his primary care provider, Dr. Emily Stanton, within one week of discharge. He should also schedule a follow-up appointment with the surgical team in two weeks. Contact number for scheduling: 555-987-6543.
+**Labs:**
+- WBC count normalized from 12.5 at admission to 8.3 at discharge.
+- Liver enzymes were within normal limits post-operatively.
+**Radiology:**
+- Post-operative ultrasound dated March 18, 2023 showed no bile leakage.
+- Chest X-ray dated March 20, 2023 was clear.
+**Discharge Condition:**
+Patient is stable to be discharged on room air with vital signs within normal limits. His wound is clean, dry, and intact with sutures to be removed at follow-up visit.
+**Instructions for Patient:**
+- Keep the wound area clean and dry.
+- Avoid lifting objects heavier than 10 pounds for at least 4 weeks.
+- Report any signs of infection, unusual pain, or jaundice immediately.
+**Allergies:**
+No known drug allergies.
+**Diet:**
+Advance to regular diet as tolerated.
+**Activity:**
+Light daily activities, no strenuous exercise until follow-up.
+**Discharge Disposition:**
+Home with family support, 247 E Maple St, Springfield, IL 62704.
+**Clinical Signature:**
+Signed electronically by Dr. Elizabeth Holmes on March 20, 2023 at 11:00 AM.
+**Administrative Details:**
+- Copy of this summary has been mailed to the patient's place of residence (247 E Maple St, Springfield, IL 62704) and to Dr. Emily Stanton's office.
+- Billing information processed under account number BH58943627.
+**City Hospital, Springfield, IL 62701**
+**Contact Details for Follow-up:**
+- Primary Care: 555-0303-1209
+- Surgery Clinic: 555-987-6543
+**Emergency Contact:**
+- Wife: Susan Thompson, 555-1122-3344
+This discharge summary includes complete clinical information to ensure continuity of care for the patient post-discharge. Recommendations and medications listed are crucial for the prevention of complications and promotion of a speedy recovery.

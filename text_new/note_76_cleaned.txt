@@ -1,0 +1,43 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Patient Name: Elizabeth Martin
+- MRN: 56782490
+- Age: 54 y.o.
+- Date of Birth: 7/16/1969
+- Address: 4321 Westlake Drive, Apt 230, Austin, TX 78731
+**Hospitalization Details:**
+- Admission Date: 1/10/2023
+- Discharge Date: 1/20/2023
+- Admission Diagnoses: Acute cholecystitis, Cholelithiasis
+- Discharge Diagnoses: Resolved acute cholecystitis, Status post cholecystectomy
+**Attending Physician:**
+- Dr. Michael Thompson, Austin General Hospital
+**Surgical Procedure Performed:**
+- Procedure: Laparoscopic Cholecystectomy
+- Date: 1/12/2023
+- Surgeon: Dr. Hannah Lee
+**Hospital Course:**
+Ms. Martin was admitted to Austin General Hospital with symptoms of right upper quadrant pain and nausea. An ultrasound confirmed the presence of gallstones. Given her diagnosis of acute cholecystitis, she underwent a successful laparoscopic cholecystectomy performed by Dr. Lee. Her postoperative course was uneventful, and her pain was well controlled with minimal opioid use.
+**Medications Prescribed at Discharge:**
+- Acetaminophen 500 mg: orally every 6 hours as needed for pain
+- Ibuprofen 400 mg: orally every 8 hours as needed for pain
+**Follow-up Appointments:**
+- Austin General Hospital Surgical Clinic
+- Date: 1/27/2023
+- Time: 10 AM
+- With: Dr. Hannah Lee
+**Discharge Instructions:**
+1. Diet as tolerated.
+2. Avoid heavy lifting and strenuous activities for four weeks.
+3. Incision care instructions provided.
+**Next of Kin:**
+- John Martin (husband)
+- Contact: 512-555-0132
+**Emergency Contact:**
+- Sarah Martin (daughter)
+- Contact: 512-555-0145
+**Discharge Summary Notes:**
+Ms. Martin is to continue resting at home and gradually increase her activities as tolerated. She is to observe for any signs of infection at the incision site or any unusual symptoms and contact the clinic or primary care physician if any issues arise. The patient and family have expressed understanding of all discharge instructions and follow-up care.
+**Signed:**
+Dr. Michael Thompson, MD
+1/20/2023, 3:45 PM

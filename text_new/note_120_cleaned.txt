@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+**Patient:** Emily Thompson
+**MRN#:** 558742312
+**Age:** 68 y.o.
+**Admission Date:** 09/15/2023
+**Discharge Date:** 09/25/2023
+**Admitting Physician:** Dr. Alan Rickman
+---
+**Hospital Course:**
+Emily Thompson presented to the emergency department on 09/15/2023 with symptoms of acute chest pain and shortness of breath. She was admitted under the care of cardiology due to suspected myocardial infarction. Cardiac catheterization performed on 09/16/2023 revealed two blocked coronary arteries. Angioplasty and stenting were successfully performed.
+Post-procedure, Emily was managed for pain control and observed for any signs of reinfarction or complications. She responded well to the treatment with noted improvement in cardiac function. Her hospital stay was complicated by a transient ischemic attack on 09/20/2023, which resolved without residual deficits after the adjustment of her anticoagulation therapy.
+---
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Rosuvastatin 20 mg at night
+- Metoprolol 50 mg twice daily
+- Clopidogrel 75 mg daily for 3 months
+---
+**Follow-Up Appointments:**
+1. Cardiology follow-up with Dr. Susan O’Neill at Heart Health Specialists on 10/05/2023.
+2. Primary care appointment with Dr. Gregory House on 10/10/2023.
+---
+**Instructions:**
+- Continue medications as prescribed.
+- Monitor blood pressure and heart rate twice daily.
+- Report any symptoms of chest pain, shortness of breath, or dizziness immediately.
+- Maintain a low-sodium diet and engage in light exercise such as walking.
+---
+**Labs to be Drawn:**
+Next blood work including CBC, lipid profile, and liver function tests scheduled for 10/04/2023 at Diagnostic Labs Inc..
+---
+**Discharge Status:**
+Emily Thompson is being discharged to her home with home health services arranged to assist with medication management and physical therapy. She has shown good understanding of her discharge instructions and follow-up care. She is ambulatory and in stable condition.
+**Discharge Nurse:** Nancy Drew, RN
+**Discharge Time:** 09/25/2023, 2:00 PM
+---
+This discharge summary documents the hospitalization from 09/15/2023 to 09/25/2023 for Emily Thompson, and has been communicated to her primary care provider, Dr. Gregory House. The patient and her family expressed gratitude for the care provided and felt well-prepared for home care.
+Signed,
+Dr. Alan Rickman
+09/25/2023, 3:00 PM
+---
+**Please Note:** For any emergency concerns post-discharge, the patient is advised to contact Heart Health Emergency Services or dial 911. For non-urgent questions, the patient may reach the nursing station at 555-123-4567.

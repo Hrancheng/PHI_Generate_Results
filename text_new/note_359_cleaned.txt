@@ -1,0 +1,50 @@
+Inpatient Discharge Summary
+=====================================
+Eleanor Torres, MRN# 562749003, is a 68-year-old female, admitted to the General Medicine service for evaluation and management of worsening shortness of breath and fatigue.
+Admission Date: 09/15/2023
+Discharge Date: 09/25/2023
+Attending Provider: Dr. Alice Hamilton
+Treatment Team: Jonathan Lee, Emily Clark, RN, and Michael Park, Respiratory Therapist
+Hospital Problems Noted - Resolved
+===================================
+POA Active Problems:
+- Chronic obstructive pulmonary disease (COPD) 01/12/2012 - Present Yes
+- Hypertension 03/18/2015 - Present Yes
+- Congestive heart failure (CHF) 05/22/2018 - Present Yes
+Hospital Course:
+---------------
+Mrs. Eleanor Torres was admitted after presenting with increasing episodes of dyspnea on exertion and at rest. On admission, her oxygen saturation was noted to be 88% on room air. She was started on 2 liters of supplemental oxygen via nasal cannula and nebulized bronchodilators. Cardiology and pulmonary services were consulted. Echocardiography showed an ejection fraction of 40% with no significant change from previous echos. Chest X-ray showed no acute infiltrates but confirmed chronic emphysematous changes. Diuretics were adjusted leading to a mild improvement in her symptoms. Her hospital stay was complicated by a hospital-acquired urinary tract infection, which was treated with ciprofloxacin.
+Discharge Condition:
+--------------------
+Mrs. Torres's condition has stabilized with her breath sounds improved, and she is maintaining an oxygen saturation of 92% on 2 liters of nasal oxygen. She is to continue with her home medications and oxygen therapy. She has been counseled on smoking cessation and the importance of adhering to her medication regimen.
+Discharge Medications:
+---------------------
+1. Albuterol inhaler, 2 puffs every 4 hours as needed
+2. Tiotropium, one inhaler daily
+3. Lisinopril 10 mg, oral, once daily
+4. Carvedilol 12.5 mg, oral, twice daily
+5. Furosemide 40 mg, oral, once daily
+Instructions for Patient:
+--------------------------
+- Continue using supplemental oxygen at 2 liters via nasal cannula.
+- Follow up with Downtown Clinic for COPD management on 10/05/2023.
+- Cardiology follow-up at City Hospital Heart Center on 10/12/2023.
+- Return to the emergency department if there is an increase in shortness of breath, chest pain, or other new symptoms.
+Additional Planning:
+--------------------
+- Home health to assess home setup for oxygen use.
+- Pulmonary rehabilitation referral to improve functional capacity and quality of life.
+- Dietician consultation for nutritional support given recent unintentional weight loss.
+Last Recorded Vital Signs:
+--------------------------
+BP 132/86 (BP Location: Right arm, BP Cuff Information: Adult large) | Pulse 88 | Temp 36.9 °C (98.4 °F) | Resp 18 | SpO2 92% on 2 L O2 | BMI 28.4 kg/m²
+Discharge Physical Exam Findings:
+---------------------------------
+General: alert, in no acute distress
+Lungs: Coarse breath sounds, no wheezes, crackles, or rhonchi
+Heart: regular rate and rhythm, no murmurs
+Abdomen: soft, non-tender
+Extremities: no edema
+The patient and her daughter, Rebecca Johnson have reviewed all discharge instructions and verbalized understanding. They were provided with contact numbers in case of any questions or concerns post discharge.
+Signed: Alice Hamilton, MD,
+09/25/2023, 2:00 PM

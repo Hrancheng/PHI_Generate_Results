@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+**Patient Details:**
+- **Elizabeth Thompson**, MRN# 456789001, is a 52 y.o. female.
+- Admission Date: 08/25/2023
+- Discharge Date: 09/14/2023
+- Primary Diagnosis: Acute cholecystitis
+- Attending Physician: Dr. Harold Greene
+- Treatment Team: Surgical Team 4
+**Hospital Course:**
+- **Ms. Thompson** presented in the ER with acute abdominal pain, nausea, and vomiting. 
+- Imaging confirmed cholecystitis. 
+- Admitted for IV antibiotics and pain management.
+- Underwent laparoscopic cholecystectomy on 08/27/2023, tolerated the procedure well.
+- Post-operative recovery was initially complicated by a mild wound infection, but it responded well to antibiotic therapy.
+- Gradually resumed oral intake and was ambulating by 08/30/2023.
+- Remained stable over the following two weeks with good recovery, facilitating discharge planning.
+**Consultations:**
+- General Surgery
+- Infectious Disease for wound infection management
+- Nutrition for post-cholecystectomy diet planning
+**Disposition:**
+- Discharged home.
+- Condition at discharge: Stable
+- Activity: Resume normal activity as tolerated.
+- Diet: Low-fat diet recommended.
+**Prescriptions at Discharge:**
+1. Acetaminophen 650 mg Q4-6h PRN pain
+2. Amoxicillin 500 mg TID for 7 days
+**Follow-Up:**
+- Follow up with Dr. Harold Greene in one week.
+- Surgical follow-up in two weeks.
+**Discharge Instructions:**
+- Monitor for signs of infection or increased abdominal pain.
+- Avoid heavy lifting and strenuous exercise for 4-6 weeks.
+- Patient educated on signs of potential complications such as fevers or jaundice, instructed to seek immediate medical attention if these occur.
+**Signed by:**
+- Dr. Harold Greene, 09/14/2023, 10:00 AM
+**City Hospital**
+Address: 123 Health St, Meditown, MT 55555
+Phone: 555-123-4567
+**Discharge Coordinator:**
+- Nurse Patricia M. Loomis
+- 555-987-6543
+- Email: ploomis@cityhospital.org
+**Notes:**
+- All data reviewed and confirmed with the patient and her daughter, Susan A. Thompson.
+- Patient expressed understanding of and agreement with the discharge plan.
+- All questions addressed, written information provided regarding medication, signs of complications, and dietary restrictions.
+**Social Work Consult:**
+- Assessed need for home healthcare, found not necessary.
+- Provided resources for local support groups for post-surgery patients.

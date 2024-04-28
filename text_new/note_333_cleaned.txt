@@ -1,0 +1,43 @@
+**Metro Health Hospital System Discharge Summary**
+**Patient Information**:
+- Patient: Evelyn Ross, 695734A
+- 72-year-old [ETHNICITY_NATIONALITY]Asian-American[O] female
+- Admission Date: January 20, 2023
+- Discharge Date: January 30, 2023
+- Attending Physician: Dr. Jonathan Huang
+**Hospitalization and Reason for Admission**:
+Mrs. Ross presented with shortness of breath and chest pain, diagnosed as acute myocardial infarction. She underwent invasive cardiac catheterization and was found to have two blocked coronary arteries.
+**Procedures Performed**:
+- Cardiac Catheterization on January 21, 2023
+- Stenting of the left anterior descending (LAD) and right coronary artery (RCA)
+**Hospital Course**:
+The patient's hospital stay was complicated by a brief episode of atrial fibrillation, which was successfully managed with medication. She responded well to the stenting procedure, with improved cardiac output as evidenced by follow-up echocardiography.
+**Discharge Medications**:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Metoprolol 50 mg twice daily
+4. Clopidogrel 75 mg daily for 12 months
+**Follow-up Instructions**:
+Mrs. Ross is advised to follow up with her cardiologist, Dr. Melissa Franklin, at Metro Health Cardiac Clinic. Appointment scheduled for February 10, 2023 at 10 AM. She is also scheduled to attend a cardiac rehabilitation program at Metro Health Rehabilitation Center, starting from February 15, 2023.
+**Dietary Recommendations**:
+Advised to follow a heart-healthy diet low in saturated fats, trans fats, and cholesterol. Salt intake should be minimized to help manage blood pressure.
+**Activity Recommendations**:
+Gradual return to activities is advised. Mrs. Ross should avoid heavy lifting and strenuous activities for at least 4 weeks. She can begin walking more frequently and increase her distance based on comfort.
+**Potential Complications to Monitor**:
+- Signs of infection at the catheter insertion site such as redness, swelling, or pus
+- Chest pain or discomfort
+- Shortness of breath
+- Dizziness or fainting spells
+**Discharge Condition**:
+The patient is stable for discharge, with vitals within normal ranges:
+- BP 130/85 mmHg
+- HR 76 bpm
+- RR 16 bpm
+- Temp 98.6 °F
+**Discharge Summary Completed By**:
+- Valerie Kim, Registered Nurse
+- Date: January 30, 2023
+- Time: 2:45 PM
+**Instructions for any complications**:
+Mrs. Ross is encouraged to contact 555-0199 or visit the nearest emergency department if she experiences any of the potential complications mentioned above or other concerning symptoms. 
+This discharge plan has been reviewed with Mrs. Ross and her daughter Susan Chen, and they expressed understanding of all instructions and follow-up recommendations.

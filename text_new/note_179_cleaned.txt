@@ -1,0 +1,43 @@
+**Inpatient Discharge Summary**
+**Patient Information**:
+- **Eleanor Rigby**, MRN: 587412963
+- **Age**: 68 years old
+- **Sex**: Female
+**Admission Date**: March 15, 2023
+**Discharge Date**: March 22, 2023
+**Admitting Diagnosis**: Decompensated heart failure
+**Discharge Diagnosis**: Stable heart failure, hypertension
+**Hospital Course**:
+Eleanor Rigby was admitted with symptoms of worsening shortness of breath, orthopnea, and edema. Management included IV diuretics resulting in gradual symptomatic improvement. Renal function monitored closely with creatinine levels peaking at 2.1 mg/dL but later stabilised. Cardiology consulted for optimization of heart failure therapy.
+**Procedures**:
+- **Echocardiogram on**: March 16, 2023 showing EF 35% with no significant valve abnormalities.
+- **Chest X-ray**: No acute disease
+**Consults**:
+- **Cardiology**: Dr. Henry Marsh
+- **Nephrology**: Dr. Alice Johnson, given temporary changes in renal function likely linked to aggressive diuresis.
+**Medications at Discharge**:
+1. Lisinopril 20 mg PO daily
+2. Carvedilol 25 mg PO BID
+3. Furosemide 40 mg PO BID
+**Follow-up**:
+Eleanor Rigby should follow up with her primary care physician Dr. Sarah Bloom and Cardiologist Dr. Henry Marsh within one week post-discharge. Appointment scheduled for March 29, 2023.
+**Discharge Instructions**:
+- Weigh daily, record weight.
+- Monitor blood pressure and pulse daily.
+- Limit fluid intake to less than 2 liters per day.
+- Restrict salt intake to less than 2 grams per day.
+- Resume physical activity gradually as tolerated.
+- Continue medications as prescribed without any changes unless instructed by the doctor.
+**Home Services**:
+- Community Care Nurses will visit twice a week to monitor vitals and compliance with medication regiment.
+**Health Teaching**:
+Patient educated on the importance of medication adherence, dietary restrictions, and warning signs that necessitate an urgent physician review.
+**Condition at Discharge**: 
+Stable
+**Discharging Physician**: 
+Dr. Emily Stanton, MD
+**Discharge Arrangements**:
+Patient was discharged to home with supportive services arranged from Community Care Nurses. Transfer via medically-equipped transport to ensure safety and comfort during transfer, arranged for March 22, 2023 at 2 PM.
+**Notes and Comments**:
+Patient showed understanding of discharge instructions and expressed gratitude towards the care team. Patient is optimistic about managing her health at home and has the support of family members living with her.
+All discharge plans were explained and agreed upon with the patient and her niece, Julia Dawson, who will be assisting her at home. Documentation completed and secured in patient’s medical record. The patient was handed all relevant prescriptions and a copy of her discharge summary for her records.

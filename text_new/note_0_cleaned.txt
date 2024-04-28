@@ -1,0 +1,39 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Name: Michael Johnson
+- Medical Record Number: 587492-A
+- 65 years old
+- Insurance ID: ZZ3491122043
+**Hospital Information:**
+- General Hospital
+- Discharge Date: September 15, 2023
+**Admission Date:**
+- September 1, 2023
+**Admission Diagnosis:** 
+- Acute myocardial infarction
+**History and Physical:**
+- Mr. Johnson presents with chest pain and shortness of breath which began while he was gardening at his home at 1234 Willow Lane, Springfield, IL.
+**Hospital Course:**
+- Patient was admitted under the care of Dr. Emily Stanton. Coronary angiography performed on September 2, 2023, revealed a 90% occlusion in the left anterior descending artery. A drug-eluting stent was successfully placed.
+- He responded well to treatment with marked improvement in chest pain and was started on appropriate medical therapy including aspirin, beta-blockers, and statins.
+- Follow-up echocardiography on September 12, 2023 showed an ejection fraction of 45%.
+**Medications on Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice daily
+- Patient education given regarding medication adherence and signs of potential complications.
+**Follow-Up:**
+- Mr. Johnson is to follow up with his primary care physician Dr. Sarah Lee in one week from discharge. 
+- Cardiology outpatient follow-up arranged with Dr. Emily Stanton at Heart Health Clinic, 4567 Elm Street, Springfield, IL, 62704, Phone: (555) 123-4567 in three weeks.
+**Condition at Discharge:**
+- Stable with plans to return home. He has been advised to avoid strenuous activities and follow a heart-healthy diet.
+**Discharge Planning:**
+- Referred to Springfield Home Health Services for home nursing visits to monitor his recovery and help with medication management.
+- Dietitian consultation arranged to aid in dietary adjustments supporting cardiac health.
+- Physical therapy recommended to gradually increase activity levels under supervision.
+**Clinical Instructions:**
+- Seek immediate medical help if experiencing symptoms like chest pain, severe shortness of breath, or palpitations.
+- Continue medications as prescribed without interruption.
+- Scheduled for a repeat echocardiogram in six months.
+**Signature:**
+- Signed: Dr. Emily Stanton, September 15, 2023

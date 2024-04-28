@@ -1,0 +1,37 @@
+**Title: Inpatient Discharge Summary**
+**Mercy General Hospital**
+**Patient Information:**
+- **Name**: Robert Harrison
+- **MRN**: 987654321
+- **Age**: 58 years old
+- **Admission Date**: September 21, 2023
+- **Discharge Date**: October 2, 2023
+- **Attending Physician**: Dr. Alice Thompson
+**Hospital Course:**
+Mr. Robert Harrison was admitted with symptoms of acute chest pain and shortness of breath. Cardiac catheterization performed on September 22, 2023, revealed triple vessel coronary artery disease. He underwent successful coronary artery bypass grafting (CABG) on September 25, 2023. Post-operatively, the patient faced temporary renal insufficiency which was managed conservatively with hydration and medication adjustments. He showed marked improvement and was moved from the Cardiovascular Intensive Care Unit to the step-down unit on September 28, 2023.
+**Discharge Medications:**
+1. Aspirin 81 mg oral, once daily
+2. Metoprolol 50 mg oral, twice daily
+3. Atorvastatin 40 mg oral, at bedtime
+4. Lisinopril 10 mg oral, once daily
+**Follow-up Instructions:**
+Mr. Harrison is to follow up with his cardiologist, Dr. Emily Stanfield, at Mercy Heart Clinic on October 10, 2023 at 10:00 AM for post-operative evaluation and medication review. Further, he should continue monitoring his blood pressure and blood sugar levels at home, and maintain a low salt, low fat diet. Participation in a cardiac rehabilitation program is strongly recommended starting October 12, 2023.
+**Discharge Condition:**
+The patient is stable with improved cardiac function. He is encouraged to maintain a sedentary lifestyle until the first follow-up appointment. 
+**Educational Materials Provided:**
+Cardiac surgery recovery, medication adherence, signs of infection, diet recommendations, and the importance of follow-up visits.
+**Future Plans:**
+- Engage in mild physical activity gradually increasing as tolerated.
+- Attend scheduled follow-up appointments without fail.
+- Report immediately if symptoms such as chest pain, breathing difficulties, or excessive fatigue occur.
+**Last Recorded Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.6°F 
+**Provider's Signature:**
+Dr. Alice Thompson
+October 2, 2023
+**Mercy General Hospital**
+Emergency Contact: 555-123-4567
+**Note**: All patient identifiers such as names, dates, medical record numbers are fabricated for confidentiality. 
+This discharge summary serves as a communication tool to summarize a patient encounter and ensure continuity of care after the hospital stay.

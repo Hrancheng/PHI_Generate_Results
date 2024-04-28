@@ -1,0 +1,27 @@
+**Discharge Summary for Elena Gomez, MRN# 987654321**
+**Patient Overview:**
+Elena Gomez, a 48-year-old female, was admitted to Riverdale General Hospital following an acute myocardial infarction (MI). This admission occurred on April 10, 2023, and she was discharged on April 15, 2023. 
+**Admission Diagnosis:**
+- Acute myocardial infarction
+**Discharge Diagnosis:**
+- Post-myocardial infarction status
+- Hypertension
+**Hospital Course:**
+Mrs. Gomez presented to the emergency department with chest pain and was diagnosed with an MI using ECG and elevated cardiac enzymes. During hospitalization, she underwent an emergency coronary angiography revealing two blockages. Angioplasty with stenting was successfully performed.
+Post-procedure, she was managed in the cardiology ward where she received medication adjustments, including the introduction of a beta-blocker and ACE inhibitor. Recovery was without any significant complications. Mrs. Gomez showed good response to treatment, evidenced by improved symptoms and stable vital signs.
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Lisinopril 20 mg daily
+- Metoprolol succinate 50 mg daily
+- Atorvastatin 40 mg nightly
+**Follow-Up Care:**
+- Follow-up appointment with Dr. Leonard McCoy at Riverdale Cardiology Clinic on April 25, 2023.
+- Continue cardiac rehabilitation at Riverdale Wellness Center.
+**Discharge Instructions:**
+Mrs. Gomez is advised to maintain a low-sodium diet, engage in light exercise as part of rehabilitation, monitor blood pressure daily, and adhere strictly to the prescribed medication regimen. Signs of chest pain, shortness of breath, or dizziness should prompt an immediate return to the hospital.
+**Discharge Condition:**
+Mrs. Gomez is stable at the time of discharge and has acknowledged understanding her discharge instructions, the importance of medication compliance, and follow-up care.
+The effective communication regarding discharge summary and care plan were discussed and handed over to Dr. Leonard McCoy. Any changes in condition should be reported to 555-123-4567.
+**Signed:**
+Dr. Amanda Hugankiss, MD
+April 15, 2023, Riverdale General Hospital

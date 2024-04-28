@@ -1,0 +1,40 @@
+**Greenwood Regional Medical Center Inpatient Discharge Summary**
+**Patient Information:**
+- **Robert Lee Thompson**
+- Medical Record Number: 562948384
+- 68 y.o. male, admitted to the Cardiology service for evaluation of chest pain and possible acute coronary syndrome.
+- Admission Date: 9/15/2022
+- Discharge Date: 9/20/2022
+- Attending Provider: Dr. Karen Singh
+- Treatment Team: Cardiology Team A
+**Hospital Course:**
+Mr. Thompson was admitted following an episode of severe chest pain while at home. On presentation, his electrocardiogram showed ST-segment elevation in leads II, III, and aVF. Cardiac enzymes were elevated, and he was taken emergently to the catheterization lab for a percutaneous coronary intervention. Successful stenting of the right coronary artery was performed. His post-procedural course was unremarkable with resolution of chest pain and stabilization of cardiac enzymes. Mr. Thompson was started on dual antiplatelet therapy, a beta-blocker, a statin, and an ACE inhibitor. He participated in daily cardiac rehabilitation sessions and showed good functional recovery. Education regarding lifestyle modification and medication adherence was provided. 
+**Discharge Instructions:**
+Mr. Thompson will follow up with Dr. Susan Parker, his primary care physician and Cardiologist Dr. Karen Singh in two weeks time or sooner if symptoms recur. He is advised to maintain a low cholesterol diet, perform mild to moderate exercise as tolerated, and strictly adhere to his medication regimen. 
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice daily
+- Lisinopril 10 mg daily
+**Disposition:**
+- Disposition: Stable
+- Activity Level: Light activities, no heavy lifting
+- Diet: Low salt, low fat
+**Follow-Up Appointments:**
+- Susan Parker, MD for primary care follow-up on 10/5/2022
+- Cardiology follow-up with Dr. Karen Singh on 10/5/2022
+**Total Score (Last filed: 9/20/2022 10:30 AM):**
+- 4 Length of Stay
+- 3 Acute Admission
+- 5 Charleson Comorbidity Score
+- 2 ED Visits in last 6 months
+LACE Score Risk Level
+- Readmission Rate - 30 Day: Moderate 7.9%
+- Mortality Rate - 30 Day: 0.7%
+**Instructions for Patient:**
+- Recognize signs of chest pain, shortness of breath, excessive sweating, and seek immediate medical attention if any of these symptoms occur.
+- Ensure access to all prescribed medications and adherence to the dosing schedule.
+Signed:
+- Attending Physician: Dr. Karen Singh, 9/20/2022, 11:00 AM
+*Note: This discharge summary is a secure document containing confidential health information.*

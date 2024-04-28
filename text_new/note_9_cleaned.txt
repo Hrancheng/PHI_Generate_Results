@@ -1,0 +1,45 @@
+Inpatient Discharge Summary
+-----------------------------
+Patient: Timothy Johnson 
+MRN#: 987654321
+Admission Date: 8/15/2023
+Discharge Date: 8/22/2023
+Attending Physician: Dr. Susan O'Malley
+Hospital: City General Hospital
+Chief Complaint:
+Mr. Johnson was admitted following a syncopal episode at his home in Brooklyn, NY.
+History of Present Illness:
+58-year-old Mr. Johnson experienced sudden onset dizziness and loss of consciousness while climbing stairs. No seizure activity observed. Patient regained consciousness within minutes and was brought to the ER by his wife, Marilyn Johnson.
+Past Medical History:
+- Hypertension
+- Type 2 Diabetes
+Medications on Admission:
+- Lisinopril 20 mg daily
+- Metformin 500 mg twice daily
+Hospital Course:
+Mr. Johnson was evaluated and monitored in the Cardiac Care Unit. Cardiac workup, including ECG and echocardiogram, showed no new changes. Carotid duplex was unremarkable. Syncopal episode likely due to postural hypotension.
+Procedures:
+- Echocardiogram on 8/16/2023
+- Carotid Duplex on 8/17/2023
+Lab Results:
+- CBC and BMP within normal limits
+- HbA1c 7.2%
+Consultations:
+Cardiology: Dr. Alan Rickman
+Endocrinology: Dr. Laura Chase
+Discharge Medications:
+- Lisinopril 20 mg daily
+- Metformin 500 mg twice daily
+- New Prescription: Orthostatic blood pressure medication as needed
+Follow-Up:
+Mr. Johnson is scheduled to follow up with his primary care physician, Dr. Henry Field, within one week of discharge. Cardiology follow-up within one month.
+Discharge Instructions:
+- Continue current medications
+- Monitor blood pressure and blood sugar levels daily
+- Report any episodes of dizziness or loss of consciousness to your doctor immediately
+Condition at Discharge:
+Stable. The patient understands his discharge instructions and verbalizes understanding of signs and symptoms to watch for post-discharge.
+Signature:
+Susan O'Malley, M.D.
+8/22/2023
+This fictional discharge summary was created for illustrative purposes based on sample patient scenario guidelines and includes annotated PHI for privacy training and education. It emulates elements of a typical discharge summary while ensuring confidentiality and educational use.

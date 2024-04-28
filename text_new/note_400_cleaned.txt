@@ -1,0 +1,45 @@
+**Inpatient Discharge Summary**
+**Patient Information**  
+Name: Emily R. Thompson  
+MRN: 859623045  
+Age: 72 years old  
+Date of Admission: March 15, 2023  
+Date of Discharge: March 20, 2023  
+Discharge Physician: Dr. Harold Greene
+**Hospital Course and Treatment:**  
+Ms. Thompson was admitted with complaints of acute chest pain and shortness of breath. The patient underwent a cardiac catheterization that confirmed the presence of multiple arterial blockages. Dr. Harold Greene and his team performed an elective triple coronary artery bypass graft on March 16, 2023. The procedure was successful without any complications, and post-operative recovery was within normal limits.
+During her hospital stay, Emily was monitored continuously in the Cardiac Care Unit, and her medications were adjusted according to her changing clinical parameters. She responded well to the new regimen and showed improvement in her cardiac function as evidenced by her echocardiogram on March 18, 2023.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Lisinopril 10 mg daily
+- Metoprolol 50 mg twice a day
+- Atorvastatin 40 mg at bedtime
+**Follow-Up Appointments:**
+- Cardiology follow-up with Dr. Irene Smith at City Heart Medical Center on March 27, 2023 at 10:00 AM.
+- Wound care appointment at Downtown Clinic on March 22, 2023 at 2:00 PM.
+**Discharge Instructions:**
+1. Take medications as prescribed.
+2. Monitor wound site for signs of infection.
+3. Avoid lifting objects heavier than 10 pounds.
+4. Gradually increase activity as tolerated; avoid strenuous activities and exercise until cleared by a cardiologist.
+5. Follow a heart-healthy diet, low in saturated fats and cholesterol.
+**Last Recorded Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Respiratory Rate: 16 per minute
+- Oxygen Saturation: 98% on room air
+**Pertinent Discharge Physical Exam Findings:**
+- General: Awake, alert, oriented x3, and in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respirations: Clear to auscultation bilaterally.
+- Wound: Sternotomy site dry and intact, sutures in place.
+- Extremities: No edema noted. Pedal pulses 2+ bilaterally.
+**Impression:**
+Successful elective triple coronary artery bypass graft. Stable to discharge with outpatient follow-up and secondary prevention strategies.
+**Physician Attestation:**
+I have discussed the above discharge plan with the patient and her daughter, Susan Johnson, ensuring understanding and agreement. The patient agrees with the discharge plan and understands the importance of follow-up appointments and medication adherence.
+Signed: Dr. Harold Greene, MD  
+Date: March 20, 2023  
+Time: 3:45 PM

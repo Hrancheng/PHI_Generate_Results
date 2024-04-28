@@ -1,0 +1,31 @@
+Inpatient Discharge Summary
+---
+Saint Helena Hospital.
+Patient Name: Michael Thompson 
+MRN: 37592JGD7891
+Date of Birth: 01/15/1984
+Admission Date: 09/20/2023
+Discharge Date: 09/25/2023
+Attending Physician: Dr. Laura Keener
+Admission Diagnosis: Acute cholecystitis
+Discharge Diagnosis: Acute cholecystitis, resolved
+Hospital Course:
+Mr. Thompson was admitted with severe right upper quadrant pain and fever. An ultrasound confirmed the presence of gallstones and a thickened gallbladder wall. He underwent an uneventful laparoscopic cholecystectomy on 09/21/2023. Post-operatively, the patient's recovery was smooth, and his pain and fever resolved. He tolerated a diet well and his incisions are healing without signs of infection.
+Medications at Discharge:
+- Acetaminophen 650 mg oral, every 6 hours as needed for pain
+- Ibuprofen 400 mg oral, every 8 hours as needed for pain
+Follow-Up:
+Appointment with Dr. Samantha Ley, City Medical Group, 7842 West Tree Lane, Springfield, IL 62794 on 10/05/2023 at 10 AM for surgical follow-up.
+Instructions:
+- Continue all medications as prescribed.
+- Gradually increase activity as tolerated.
+- Maintain hydration and follow a low-fat diet.
+- Alert hospital if fever, redness, or drainage at the incision site occurs.
+Diet:
+Normal diet as tolerated.
+Activity:
+Light activity, no heavy lifting for 4-6 weeks.
+Condition at Discharge:
+Good, stable.
+---
+No personal identifiers other than those necessary for healthcare follow-ups have been included in this discharge summary.

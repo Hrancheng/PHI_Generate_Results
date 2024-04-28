@@ -1,0 +1,54 @@
+**St. Helena Regional Hospital**
+**Inpatient Discharge Summary**
+Patient Name: Michael Thompson
+MRN#: 458796315
+Age: 52 y.o.
+Admission Date: 10/20/2023
+Discharge Date: 10/26/2023
+Attending Provider: Dr. Anita Desai
+Treatment Team: Medical Surgical Unit
+**Hospital Course:**
+Mr. Thompson, a 52-year-old Caucasian male, was admitted to St. Helena Regional Hospital following a syncopal episode at home. Initial evaluations suggested a cardiac etiology, prompting further assessments including an echocardiogram and 24-hour Holter monitoring. During his stay, he was managed for hypertension and a new diagnosis of atrial fibrillation. 
+**Medical History:**
+- Hypertension
+- Hypercholesterolemia
+- Recent diagnosis: Atrial Fibrillation
+**Diagnostic and Therapeutic Interventions:**
+1. Echocardiogram: Revealed left ventricular hypertrophy without signs of systolic or diastolic dysfunction.
+2. Holter Monitor: Confirmed intermittent atrial fibrillation.
+3. Medications adjusted: Initiation of Apixaban 5 mg BID and continuation of existing antihypertensive therapies.
+**Consultations:**
+Cardiology: Dr. Ibrahim Fayed consulted and recommended anticoagulation management with follow-up in his clinic.
+**Discharge Medications:**
+- Apixaban 5 mg, Oral, TWICE DAILY
+- Lisinopril 10 mg, Oral, ONCE DAILY
+- Atorvastatin 20 mg, Oral, ONCE DAILY at bedtime
+**Procedures:**
+None during this admission.
+**Discharge Plan:**
+- Cardiology follow-up with Dr. Ibrahim Fayed on 11/02/2023 at the Cardiology Clinic, St. Helena Regional Hospital.
+- Primary Care follow-up within one week for blood pressure and rhythm check. Follow up with Dr. Susan Clarke at 523 W Elm Street, Clarksburg, WV 26301.
+- Continue with low sodium diet and increase aerobic physical activities as tolerated after discharge.
+**Labs at Discharge:**
+- INR: 2.3
+- WBC: 5.2 x10^3/uL
+- Hemoglobin: 13.5 g/dL
+- Creatinine: 1.0 mg/dL
+- Electrolytes within normal limits
+**Discharge Condition:**
+The patient is stable to be discharged home with self-care. He shows an understanding of his new medication regimen and follow-up plan. 
+**Discharge Instructions:**
+- Monitor for signs of bleeding while on Apixaban. Report any unusual bruising or prolonged bleeding to the physician.
+- Avoid activities that could lead to trauma as this could increase bleeding risk.
+- Monitor blood pressure weekly and record values to present at next primary care visit. FetchType recommendations included.
+**Next Steps:**
+- Home Health to conduct a blood pressure and medication adherence check on 11/01/2023.
+- Patient provided with St. Helena Blood Pressure Monitoring Program brochure.
+**Follow-up Contacts:**
+St. Helena Cardiology Clinic, Phone: 304-555-0197 for cardiology appointment.
+Clarksburg Primary Care, Phone: 304-555-0672 for GP follow-up.
+**Signed:**
+Anita Desai, MD
+10/26/2023, 4:00 PM
+**Note:**
+The patient and his spouse, Jessica Thompson, have expressed their gratitude for the care provided and feel prepared for home management.

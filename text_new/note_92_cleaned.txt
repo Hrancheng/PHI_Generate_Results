@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+City General Hospital
+Patient Name: Michael Thompson
+Medical Record Number: 987654321
+Patient Age: 65 years
+Admission Date: September 15, 2023
+Discharge Date: September 30, 2023
+Admitting Physician: Dr. Emily Rodgers
+Discharge Physician: Dr. Henry Grant
+**Chief Complaint**: Shortness of breath and chest pain.
+**Hospital Course**:
+Michael was admitted with initial symptoms of acute shortness of breath and chest pain. After initial stabilization, further investigations revealed coronary artery disease. During his stay, Michael underwent angioplasty and stenting performed by Dr. Alexander Zhu. His post-procedural course was uneventful, with improvement in cardiac function noted. Medical management included aspirin, statins, and beta-blockers. Physical therapy was initiated for cardiac rehabilitation.
+**Procedures Performed**:
+1. Coronary Angioplasty and Stenting on September 18, 2023 - Dr. Alexander Zhu
+**Consultations**:
+1. Cardiology: Dr. Alexander Zhu
+2. Nutrition and Dietetics: Samantha Lee, RD
+**Discharge Medications**:
+1. Aspirin 81 mg daily
+2. Atorvastatin 20 mg at bedtime
+3. Metoprolol 50 mg twice daily
+**Follow-up Instructions**:
+Michael is advised to follow up with his primary care provider, Dr. Henry Grant, within one week of discharge. Cardiology follow-up in two weeks with Dr. Alexander Zhu is also scheduled.
+**Discharge Diagnostics**:
+ECG on discharge showed normal sinus rhythm with no acute changes. Echocardiogram indicated improved left ventricular ejection fraction of 55%.
+**LACE Score** (Readmission Risk):
+- Length of Stay: 15 days
+- Acuity of Admission: High
+- Comorbidity Score: High
+- ED Visits in last 6 months: None
+**Total LACE Score: 17 - High risk**
+**Patient Education**:
+Michael received comprehensive education regarding medication adherence, lifestyle modifications including dietary changes, and the importance of regular exercise as part of his cardiac rehabilitation.
+**Disposition**:
+Discharged to home under the care of Susan Thompson, spouse. Home services include a visiting nurse from Heart Care Home Services to monitor vitals and medication compliance.
+**Patient Instructions**:
+1. Strict adherence to medication schedule.
+2. Follow a low-sodium, heart-healthy diet as advised by the dietician.
+3. Gradual resumption of physical activity, guided by the rehabilitation therapist.
+4. Immediate consultation with a healthcare provider if symptoms such as chest pain or breathlessness recur.
+**Instructions for Primary Care Physician**:
+Please monitor blood pressure and lipid profile in follow-up visits. Assess medication tolerance and adherence.
+Signed:
+Henry Grant, MD
+Date: September 30, 2023
+Time: 14:00 PM

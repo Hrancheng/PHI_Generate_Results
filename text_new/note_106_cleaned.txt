@@ -1,0 +1,37 @@
+Inpatient Discharge Summary
+**Patient Information**  
+Patient Name: Margaret Conway   
+Age: 78 years  
+MRN: 456883202  
+Admission Date: September 14, 2023  
+Discharge Date: September 20, 2023  
+Attending Physician: Dr. Helen Troy  
+**Hospital Course**  
+Margaret Conway was admitted with a diagnosis of exacerbation of chronic obstructive pulmonary disease (COPD). During her stay, she required supplemental oxygen and a course of corticosteroids. Her condition improved with treatment, and she was weaned off supplemental oxygen by day 3. IV antibiotics were started due to elevated white cell counts and purulent sputum, indicating a possible bacterial infection.
+The patient's functional status has improved significantly since admission, and she is now able to perform light activities without significant dyspnea. She participated in bedside pulmonary rehabilitation and was seen by a dietician to optimize her nutritional status given her history of weight loss.
+**Medications at Discharge**  
+- Prednisone 20 mg, Oral, once daily for 5 days  
+- Tiotropium Bromide 18 mcg, Inhalation, once daily  
+- Azithromycin 250 mg, Oral, once daily for 5 more days  
+**Follow-up Care**  
+Margaret Conway is to follow up with her primary care physician, Dr. John Barclay, within one week of discharge. She should also continue with outpatient pulmonary rehabilitation twice a week. Her next appointment is on September 27, 2023 at 10:00 AM with Downtown Respiratory Clinic. 
+**Pertinent Lab Values at Discharge**  
+- CBC: WBC 12.0 x10^3/uL, Hgb 12.1 g/dL, Plt 237 x10^3/uL  
+- CMP: Sodium 138 mEq/L, Potassium 4.1 mEq/L, Creatinine 0.9 mg/dL  
+- ABG on room air: pH 7.38, PaCO2 45 mmHg, PaO2 76 mmHg, HCO3 26 mEq/L  
+**Consultations**  
+Cardiology consult was requested due to the patient's history of hypertension and the presence of tachycardia upon admission. The cardiology team recommended continuing current antihypertensive medications and monitoring heart rate and blood pressure closely. The consult was performed by Dr. Emily Stanton, who confirmed that there is no new cardiac event.
+**Discharge Instructions**  
+The patient has been instructed on the proper use of inhalers by the respiratory therapist. She has been advised to avoid pollutants and to continue with her smoking cessation efforts. The importance of fluid intake and a balanced diet rich in fruits and vegetables was emphasized during her dietetic consultation.
+**Discharge Condition**  
+Margaret Conway is being discharged in a stable condition. She will continue her recovery at home with the support of her daughter, Susan Baxter, who was educated on warning signs of COPD exacerbation and knows when to seek immediate medical attention.
+**Equipment Provided**  
+An oxygen concentrator was provided for use as needed at home, set to 2 liters per minute.  
+**Summary and Recommendations**  
+Patient has shown good progress during the hospital stay. It is critical to ensure follow-up care as scheduled and to adhere strictly to the medication regimen. Early detection of any signs of exacerbation will be vital to prevent future hospitalizations.
+**Readmission Risk**  
+Based on LACE index: Length of Stay: 6, Acuity of admission: Acute, Comorbidities: 3, ED Visits in last 6 months: 1, the risk level of readmission is high.
+**Sign Off**  
+Helen Troy, M.D.  
+Date of Signature: September 20, 2023 3:45 PM 
+City Hospital

@@ -1,0 +1,44 @@
+Inpatient Discharge Summary
+Matthew Thompson, MRN# 45899235, is a 58 y.o. male, admitted to the Cardiology service following an episode of chest pain and diagnosed with acute myocardial infarction. Admission Date: 03/15/2023 Discharge Date: 03/25/2023 
+Attending Provider: Dr. Alice Monroe 
+Treatment Team: Cardiology Team A
+!! FIRST CONTACT !!:
+SA2 FLOOR CALLS - PAGER 14580
+Hospital Problems Noted - Health Issues During Stay:
+- Acute myocardial infarction (MI) 03/15/2023 - Present
+- Hypertension (controlled with medication adjustment)
+- Hyperlipidemia (ongoing management with statin therapy)
+Resolved Problems:
+RESOLVED: Angina 03/15/2023 - 03/18/2023 
+RESOLVED: Elevated Troponin levels on admission gradually normalized by 03/20/2023
+Other Problems:
+- None additional recorded
+Recommendations for Follow Up:
+General follow up with primary care physician and cardiologist advised.
+To Do's for Referring / Subspecialty Provider(s):
+Cardiology: Follow-up appointment on 3/28/2023 with Dr. Helen Carter, MD.
+Endocrinology: Consult for diabetes management given patient's elevated A1C levels noted during admission.
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:
+Referred to Metropolitan Endocrinology Clinic for diabetes management consultation; scheduled for 04/02/2023.
+Discharge Medication List:
+New Medications:
+1. Metoprolol 50 mg tablet, twice a day for blood pressure and heart rate control.
+2. Atorvastatin 40 mg tablet, once at night for cholesterol management.
+3. Aspirin 81 mg tablet, daily for cardiovascular protection.
+Next Steps:
+Follow up Instructions:
+Patient advised to monitor blood pressure and blood sugar levels daily. Any chest pain or discomfort should prompt an immediate call to Dr. Alice Monroe or emergency services. 
+Scheduled Appointments:
+Future Appointments Date Time Provider Department Center
+03/28/2023, 10:00 AM, Helen Carter, MD Cardiology Dept. Metropolitan Hospital
+04/02/2023, 11:15 AM, Ian Smith, MD Endocrinology Metropolitan Endocrinology Clinic
+Day of Discharge Labs:
+Electrolytes, Kidney Function Tests, and CBC all within normal ranges as of 03/25/2023.
+Day of Discharge Vital Signs:
+BP 130/85 mmHg | Pulse 72 | Temp 37.0 °C (98.6 °F) | Resp 16 | SpO2 98% 
+Discharge Condition:
+Overall condition at discharge is stable with improvements in cardiac markers and symptoms. Patient aware of symptoms to monitor and emergency procedures.
+Last Minute Check:
+Prior to the final discharge procedures, all implantable devices (stents placed during admission) were checked and confirmed operational. 
+------------
+End of Discharge Summary - Matthew Thompson

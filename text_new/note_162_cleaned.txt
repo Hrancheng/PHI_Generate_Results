@@ -1,0 +1,58 @@
+**Inpatient Discharge Summary**
+**Evelyn Torres**, MRN# **293847502**, is a **58 y.o.** female, admitted to the Internal Medicine service for management of type 2 diabetes and hypertension complications.
+**Admission Date:** **10/10/2023**  
+**Discharge Date:** **10/20/2023**  
+**Attending Provider:** Dr. **Helen Mirren**  
+**Treatment Team:** 
+- **First Contact**: Nurse **Julia Clarkson**, **City General Hospital**
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- Diabetes Type 2 **10/12/2023** - Present Yes  
+- Hypertension **10/15/2023** - Present Yes
+**Resolved Problems**  
+RESOLVED: Dehydration **10/10/2023** - **10/14/2023** Yes  
+RESOLVED: Hyperkalemia **10/12/2023** - **10/14/2023** Yes
+**Other Problems**  
+None
+**Recommendations for Follow Up:**  
+Attention to Primary Care Attending:  
+- Continue monitoring blood sugar levels  
+- Adjust hypertension medications as needed
+To Do's for Referring / Subspecialty Provider(s):  
+- Endocrinology: Follow up appointment on **10/25/2023**  
+- Cardiology: Echocardiogram scheduled for **10/30/2023**
+**Lab, Diagnostic Testing, and Referral Follow-Up**  
+Orders given to patient: Contact information for follow-up  
+Phys, Self-Refer Or No PCP/Referring  
+Next Steps: Follow up **Health Link Services** **555-748-3620**  
+Next Steps: Follow up Instructions: **Evelyn** will be delivered to your hospital room prior to DC.
+**Paul Richardson**, MD  
+Lymph Nodes: No enlarged thoracic lymph nodes.
+**Clinical Presentation on Admission/ Reason for Hospitalization:**  
+**58-year-old** female presented to ER with elevated blood glucose levels and severe headache. Per EMS, the patient was found confused at her home in **Springfield, Illinois**. She was brought in by neighbors who called 911 after noticing her symptoms.
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+- **Evelyn Torres** was admitted and initially managed in the ER. She received IV hydration and insulin therapy, which resulted in stabilization of her blood glucose.
+- Adjustments to her antihypertensive medications were made due to persistent high blood pressure readings.
+- Patient was monitored daily by the endocrinology and cardiology teams. No significant cardiac events were noted during her stay.
+- Her diet was adjusted to better manage her diabetes.
+**Current Studies & Findings:**  
+ECG **10/12/2023**: Normal sinus rhythm  
+CXR **10/12/2023**: No acute cardiopulmonary disease.
+**Discharge Exam:**  
+Physical Exam Findings  
+General Appearance: alert, appears stated age, and no distress  
+Heart: regular rate and rhythm, no murmurs  
+Lungs: clear to auscultation bilaterally  
+Neurologic: alert and oriented x 3, no focal deficits
+**Discharge Medication List**  
+Home Medications: Continue taking as previously prescribed  
+- Metformin 500 mg tablet Refills: 2  
+- Lisinopril 20 mg tablet Refills: 1  
+**Follow-up Appointments:**  
+**10/25/2023** at **Community Health Clinic**, **10:00 AM**  
+- Dr. **Nancy Greene**, endocrinologist
+**10/30/2023** at **City General Hospital Cardiology Unit**, **9:00 AM**  
+- Echocardiogram with Dr. **Robert Chase**, cardiologist
+**Additional Instructions:**  
+Patient instructed to monitor her blood sugar levels at least four times a day and to adjust insulin therapy as discussed during her hospital stay. She is to maintain a low sodium diet as advised by the dietitian. 
+This summary was reviewed and discussed with the patient who understood and agreed with the follow-up plan. Signed: **Helen Mirren**, MD, **10/20/2023**, at **9:30 AM**.

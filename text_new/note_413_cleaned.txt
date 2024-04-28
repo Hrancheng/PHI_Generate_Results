@@ -1,0 +1,43 @@
+**Saint Alphonsus Regional Medical Center Inpatient Discharge Summary**
+**Patient Information:**
+- **Name**: Henry Thompson, MRN#: 987654321
+- **Age**: 52 years old
+- **Admission Date**: August 15, 2023
+- **Discharge Date**: August 22, 2023
+- **Attending Physician**: Dr. Samantha Lee
+- **Consulting Team**: Cardiothoracic Surgery and Nephrology
+- **Insurance Provider**: HealthCare Plus Insurance Co.
+**Hospital Course:**
+Mr. Thompson was admitted following a myocardial infarction at his home in Boise, Idaho. Upon arrival via emergency services, he was noted to be in acute distress with chest pain and shortness of breath. Immediate angioplasty was successfully performed, revealing two occluded coronary arteries, which were stented.
+Post-procedure, the patient remained hemodynamically stable with no recurrent chest pain. His postoperative course was complicated by acute kidney injury, likely due to contrast nephropathy, which was managed conservatively with hydration and temporary cessation of ACE inhibitors.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice daily
+- Lisinopril 20 mg daily, to be resumed after renal function reassessment
+- Pantoprazole 40 mg daily as GI prophylaxis
+**Follow-Up:**
+- Cardiology follow-up in 2 weeks at Saint Alphonsus Cardiology Clinic
+- Nephrology follow-up in 1 week, contingent on renal function improvement, at Boise Kidney Specialists
+**Instructions for Patient:**
+- Engage in light to moderate physical activity, gradually increasing as tolerated.
+- Monitor blood pressure daily; report any sustained readings over 160/100 mmHg.
+- Adhere strictly to a low-sodium, low-fat diet, as reviewed with our in-house dietitian.
+- Immediate ER visit recommended if symptoms such as chest pain, severe headache, or unexplained weakness occur.
+**Diagnostics and Labs:**
+- Echocardiogram performed on August 17, 2023 showed an ejection fraction of 45% with mild left ventricular hypertrophy.
+- Follow-up renal panel is scheduled for August 29, 2023. The patient's creatinine levels will be closely monitored.
+**Specific Concerns or Precautions:**
+- Continue renal protective measures given the recent acute kidney injury.
+- Patient to avoid NSAIDs to mitigate risk of further renal impairment.
+**Discharge Status:**
+- The patient is being discharged in a stable condition with an understanding of his discharge instructions.
+- Mr. Thompson has acknowledged recieving a printed copy of his medication schedule, follow-up appointments, and a guideline on lifestyle modifications for post-myocardial infarction patients.
+**Acknowledgment of Discharge Information:**
+- Patient verbalized understanding of all discharge instructions.
+- Discharge information was also sent to primary care physician Dr. Rebecca Morris via secured email.
+**Sarah Goldberg, RN**
+- Reviewed by: Dr. Samantha Lee
+- Date: August 22, 2023
+- Time: 10:30 AM
+This comprehensive discharge plan ensures continuity of care and supports the patient's recovery and health maintenance post-discharge from Saint Alphonsus Regional Medical Center.

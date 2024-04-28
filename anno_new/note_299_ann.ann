@@ -1,0 +1,19 @@
+T1	ORGANIZATION 24 53	 Springfield General Hospital
+T2	NAME 95 111	Michael Thompson
+T3	ID 123 132	987654321
+T4	AGE 144 156	65 years old
+T5	DATE 179 193	March 15, 2023
+T6	DATE 216 230	March 22, 2023
+T7	NAME 262 275	Sarah Connors
+T8	NAME 484 500	Michael Thompson
+T9	DATE 517 531	March 15, 2023
+T10	NAME 991 999	Thompson
+T11	NAME 1419 1427	Thompson
+T12	NAME 1704 1717	Sarah Connors
+T13	ORGANIZATION 1721 1769	Springfield General Hospital’s Cardiology Clinic
+T14	DATE 1773 1786	April 5, 2023
+T15	ORGANIZATION 1838 1870	Springfield Diabetes Care Center
+T16	DATE 1874 1888	April 12, 2023
+T17	NAME 2124 2132	Thompson
+T18	NAME 2297 2310	Sarah Connors
+T19	DATE 2327 2341	March 22, 2023

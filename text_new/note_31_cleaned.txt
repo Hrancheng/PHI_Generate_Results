@@ -1,0 +1,41 @@
+**Synthetic Patient Discharge Summary**
+Patient Name: Michael Johnson
+MRN #: 485762395
+DOB: 05/05/1985
+Discharge Date: 09/28/2023
+Discharge Diagnosis:
+1. Acute myocardial infarction
+2. Type II Diabetes Mellitus
+3. Hypertension
+Admitting Physician: Dr. Alice Hart
+Hospital: Central City General Hospital
+**Admission Summary:**
+Michael Johnson, a 38-year-old male, presented to the emergency department on 09/21/2023 with chest pain and was subsequently admitted under the care of Dr. Alice Hart. ECG confirmed acute myocardial infarction, and immediate medical intervention was initiated.
+**Hospital Course:**
+Upon admission, the patient was treated with IV thrombolytics which resulted in the resolution of his chest pain. His blood glucose on admission was elevated at 210 mg/dl and addressed with an insulin regimen during his hospital stay. Blood pressure was managed with IV medications and later transitioned to oral agents. He underwent coronary angiography revealing a 70% blockage in the left anterior descending artery, and a stent placement was performed successfully on 09/23/2023.
+**Procedures:**
+1. Coronary Angiography 09/23/2023
+2. Stent Placement in LAD 09/23/2023
+**Medications Prescribed at Discharge:**
+- Aspirin 81 mg daily
+- Metformin 500 mg twice daily
+- Lisinopril 10 mg each morning
+**Follow-up Appointments:**
+1. Cardiology follow up with Dr. Arthur Blake, Central City Cardiology Associates on 10/05/2023.
+2. Diabetes management with Dr. Helen Cho, Central City Endocrinology Clinic on 10/10/2023.
+**Discharge Instructions:**
+The patient is instructed to monitor his blood pressure and blood sugar levels daily. He should adhere strictly to the prescribed medication regimen and report any symptoms of chest pain, shortness of breath, or hypoglycemia immediately to 555-1234-5678 (Central City General Hospital Cardiology).
+**Dietary Recommendations:**
+A low sodium diet was recommended, along with diabetic dietary guidelines to help control blood sugar levels. A referral was made to the hospital dietitian for further counseling.
+**Activity Recommendations:**
+Gradual return to activities was advised. No heavy lifting or strenuous activities for the next 6 weeks.
+**Social Work Consult:**
+Social work consultation was arranged to assist with lifestyle modifications and stress management strategies.
+**Code Status:**
+Full Code
+**Return Precautions:**
+The patient was advised to return to the emergency department or call 911 if he experiences symptoms like chest pain that does not resolve with rest within 15 minutes, severe shortness of breath, or sudden weakness.
+**Discharge Condition:**
+Stable with plans for close outpatient monitoring.
+**Patient was discharged in stable condition with all necessary follow-up appointments scheduled and clear instructions given regarding medications and lifestyle changes.**
+[End of Discharge Summary]

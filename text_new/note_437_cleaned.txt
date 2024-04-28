@@ -1,0 +1,39 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Emily Thompson  
+**MRN**: 745288135  
+**Age**: 68 years old  
+**Admission Date**: 3/15/2023  
+**Discharge Date**: 3/25/2023  
+**Admitting Diagnosis**: Decompensated Heart Failure  
+**Attending Physician**: Dr. Harold Green  
+**Hospital Unit**: Cardiology Unit
+---
+**Hospital Course**:
+Emily Thompson was admitted with exacerbation of chronic heart failure characterized by increased shortness of breath, bilateral lower extremity edema, and fatigue. Initial labs showed elevated BNP and compromised renal function. Echocardiography revealed left ventricular ejection fraction of 30%. Aggressive diuretic therapy was initiated, resulting in improved symptoms and normalization of renal function. 
+During her hospital stay, the patient experienced a transient ischemic attack (TIA) for which neurology was consulted. Brain MRI indicated no acute changes, and antiplatelet therapy was optimized. Emily participated in daily physical therapy sessions and showed progressive improvement in her functional status.
+**Medications at Discharge**:
+1. Furosemide 40 mg twice daily
+2. Carvedilol 12.5 mg twice daily
+3. Lisinopril 20 mg once daily
+4. Atorvastatin 40 mg at bedtime
+**Discharge Instructions**:
+Emily Thompson is to continue with salt and fluid restriction, monitor her weight daily, and regularly check blood pressure and heart rate. She has been referred to the heart failure clinic for close follow-up and must return to the clinic in one week.
+**Follow-up Appointments**:
+Heart Failure Clinic on 4/2/2023 at 10 AM with Dr. Samantha Lee.
+Primary Care Physician, Dr. Robert Marks, on 4/10/2023 for routine health maintenance.
+**Discharge Condition**:
+Stable with marked improvement in heart failure symptoms. Advised immediate re-evaluation if she experiences worsening symptoms such as increased shortness of breath, chest pain, or unexplained weight gain of more than 3 pounds in a day.
+**Discharge Medication Education**:
+Patient was educated on all new medications by a clinical pharmacist. She understood the importance of compliance to prevent hospital readmission.
+**Diet/Activity**:
+Low salt diet recommended. Gradual increase in daily activity as tolerated with avoidance of exertion that provokes symptoms.
+**Saint Helen's Hospital Discharge Planner**: Nancy Drew
+**Instructions Given to**:
+- Continue medications as prescribed.
+- Follow up with healthcare provider immediately if symptoms worsen.
+- Engage with community heart failure support group.
+---
+**Signed**:
+Dr. Harold Green, 3/25/2023, Cardiology Unit 5B  
+**Contact Number**: 555-987-6543  
+**Time**: 3:00 PM

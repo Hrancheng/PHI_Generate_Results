@@ -1,0 +1,38 @@
+Inpatient Discharge Summary
+-----------------------------------------------------
+**Patient Information**:
+- **Rebecca Thomson:** 65-year-old female
+- **MRN:** 457896321
+- **Admission Date:** 09/15/2023
+- **Discharge Date:** 09/22/2023
+- **Attending Physician:** Dr. Emily Stanton
+**Hospital Course**:
+Patient Rebecca Thomson was admitted following a syncopal episode at home. Initial evaluation in the emergency department suggested dehydration and possible cardiac etiology. Cardiology was consulted, and they performed a diagnostic evaluation including an echocardiogram which showed no significant structural abnormalities. The patient was managed with IV fluids and observation. Over her hospital stay, she remained stable with no further episodes of syncope. All initial labs and imaging studies returned within normal limits. Patient education was provided regarding adequate hydration and the importance of regular follow-up in the outpatient setting. 
+**Diagnostic Data**:
+- **EKG:** Normal sinus rhythm with no acute changes.
+- **Echo:** Normal left ventricular function, no valvular abnormalities noted.
+- **Chest X-ray:** Clear lungs and normal cardiac silhouette.
+- **Labs:** Complete blood count and comprehensive metabolic panel within normal ranges throughout her stay.
+**Medications at Discharge**:
+1. **Metoprolol 50 mg Tablet:** 1 tablet orally twice a day
+2. **Aspirin 81 mg Tablet:** 1 tablet orally once daily for cardiovascular protection
+**Discharge Instructions**:
+Rebecca Thomson is to follow up with her primary care physician, Dr. Helen Gregory, within one week of discharge. It is advised that Eastwood Clinic revisits syncope protocols and adjusts fluid intake as needed based on daily activities and temperature. 
+Patient instructed to monitor for any new or worsening symptoms including dizziness, chest pain, or further episodes of syncope and to return to the hospital if these occur. 
+**Follow-Up Appointments**:
+1. 09/29/2023, 10:00 AM with Dr. Helen Gregory at Eastwood Clinic.
+**Condition at Discharge**:
+The patient is stable for discharge. Vital signs are stable, and the patient is asymptomatic from a cardiovascular perspective. Rebecca Thomson understands her discharge instructions and has the ability to contact her outpatient provider should issues arise.
+**Discharge By**: Dr. Emily Stanton, 09/22/2023 at 2:00 PM
+**Last Recorded Vitals**:
+- Blood Pressure: 130/82 mmHg
+- Pulse: 68 bpm
+- Respirations: 16 per minute
+- Temperature: 98.6 F (oral)
+- Oxygen Saturation: 98% on room air
+**Signature**:
+Dr. Emily Stanton
+09/22/2023, 2:30 PM
+**Contact Information for Follow-Up**:
+Eastwood Clinic, Phone: 555-894-3102
+This discharge summary serves as a detailed overview of Rebecca Thomson's recent hospitalization and outlines clear follow-up instructions for continuity of care.

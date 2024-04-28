@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Timothy Green  
+**MRN:** 546378945  
+**Date of Birth:** 07/14/1965  
+**Age at Admission:** 57  
+**Admission Date:** 09/10/2023  
+**Discharge Date:** 09/15/2023  
+**Admitting Physician:** Dr. Susan O'Neill  
+**Hospital Service:** General Medicine  
+**Admitted From:** Emergency Department  
+**Discharge Location:** 1245 Maple Avenue, Apt. 501, Springfield, IL 62704
+---
+**Hospital Course:**
+Mr. Green was admitted with worsening dyspnea and bilateral leg swelling. Initial labs showed elevated BNP and chest X-ray indicated acute exacerbation of heart failure. The patient was managed with IV diuretics resulting in gradual improvement in symptoms.
+**Diagnosis at Discharge:**
+1. Acute Congestive Heart Failure
+2. Hypertension
+3. Chronic Obstructive Pulmonary Disease (COPD)
+**Medications on Discharge:**
+- Furosemide 40 mg Tablet: 1 tab orally twice daily
+- Lisinopril 20 mg Tablet: 1 tab orally once daily
+- Salmeterol/Fluticasone Inhaler: 1 puff twice daily
+**Allergies:**
+No known drug allergies.
+---
+**Discharge Instructions:**
+Mr. Green is to maintain a low salt diet and continue with his prescribed medications without interruption. He is also advised to monitor his weight daily and report any weight gain of 3 pounds or more in a single day or 5 pounds in a week to his healthcare provider.
+**Follow-Up Appointments:**
+1. Springfield Cardiology Clinic - 09/20/2023 at 10 AM with Dr. Emily Tran.
+2. General Physicians Group - 09/25/2023 at 2 PM for COPD management.
+---
+**Discharge Activity:**
+Light activity like walking is encouraged. No heavy lifting or strenuous activity until further evaluation during follow-up visits.
+**Diet:**
+Low-sodium diet advocated.
+**Vaccinations:**
+Influenza vaccine administered on 09/14/2023.
+**Discharge Condition:**
+Stable for discharge with follow-up as noted above. Patient understands discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to hospital or emergency care.
+**Discharge Medications Given:**
+Patient provided with a 14-day supply of all discharge medications with instructions on usage.
+**Discharge Signed By:**
+Dr. Susan O'Neill  
+Date: 09/15/2023  
+Time: 11:45 AM
+---
+**Emergency Contacts:**
+- Wife: Sarah Green
+- Son: Michael Green
+---
+Should any complications arise, please contact Springfield General Hospital's helpline at 555-0198 or visit our emergency department.

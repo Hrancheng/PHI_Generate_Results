@@ -1,0 +1,42 @@
+**University of Health Sciences Hospital Discharge Summary**
+**Patient Name:** Martin Reynolds  
+**MRN:** 459-9923-466  
+**34 years old** male, admitted to the Cardiology service for evaluation of chest pain and shortness of breath.  
+**Admission Date:** February 14, 2023  
+**Discharge Date:** February 20, 2023  
+**Attending Provider:** Dr. Helen Choi  
+**Treatment Team:** First point of contact: Cardiology Nurse James Warner, RN  
+**Hospital Problems Noted - Resolved**  
+**POA Active Problems**  
+- Coronary artery disease February 15, 2023 - Present Yes  
+- Hypertension February 15, 2023 - Present Yes  
+**Other Problems**  
+None  
+**Hospital Course: Brief Overview**  
+Mr. Martin Reynolds presented to the University of Health Sciences Hospital emergency department on February 14, 2023 with symptoms of acute chest pain radiating to his left arm and shortness of breath. Initial workup including EKG and troponins suggested acute myocardial infarction. He was taken to the cath lab where a left anterior descending artery blockage was identified and successfully stented.
+**Significant Diagnostic Studies:**  
+- **EKG** on admission showed ST elevation in the anterior leads.  
+- **Echocardiogram** showed reduced ejection fraction of 40%.  
+- **Cardiac Catheterization** confirmed a 90% blockage in the LAD, which was stented successfully.
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily  
+- Atorvastatin 40 mg nightly  
+- Metoprolol 50 mg twice daily  
+These medications are prescribed to manage Mr. Reynolds' coronary artery disease and to prevent further cardiac events. He is to continue taking these medications without interruption and follow up with his primary care physician and cardiology at Community Health Clinic.
+**Scheduled Follow-Up Appointments:**  
+- Cardiology follow-up at Cardiac Health Services on March 1, 2023 at 10 AM with Dr. Erica Stanton.  
+- Primary care follow-up at Community Health Clinic on March 5, 2023 at 2 PM.
+**Rehabilitation and Lifestyle Modification:**  
+Patient advised to enroll in the cardiac rehabilitation program offered by University of Health Sciences Hospital. Recommended dietary changes and mild to moderate exercise as tolerated. Smoking cessation counseling provided and Mr. Reynolds agrees to attempt quitting with the aid of pharmacotherapy and support groups.
+**Discharge Condition:** Stable  
+Mr. Reynolds' condition at the time of discharge is stable. He is asymptomatic from a cardiac perspective, with pain well controlled on current medication regimen. He understands symptoms that would necessitate immediate medical attention, such as chest pain, shortness of breath, or palpitations.
+**LACE - Readmission Risk Score**  
+Total Score: 7 (Length of Stay: 6 days, Acute Admission: 1, Comorbidities: 3, ED Visits in last 6 months: 0)  
+Risk Level: Moderate  
+Readmission Rate - 30 Day Mortality Rate - 30 Day: 7.9% 0.7%
+**Discharge Instructions:**  
+Mr. Reynolds has been counseled on signs and symptoms of potential complications and when to seek immediate care. He has received educational materials about managing heart disease and the importance of adherence to the prescribed therapeutic regimen.
+**Helen Choi, MD, February 20, 2023, 3:00 PM**  
+**University of Health Sciences Hospital Cardiology Department** 
+This discharge summary provides a comprehensive overview of Mr. Reynolds' hospitalization, treatment, and follow-up care necessary to ensure his continued recovery and health maintenance post-discharge.

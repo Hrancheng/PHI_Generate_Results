@@ -1,0 +1,35 @@
+**University Hospital Discharge Summary**
+**Patient Information:**
+- Patient: Robert Thompson
+- MRN: 987654321
+- 58 years old Male
+- Admission Date: March 10, 2023
+- Discharge Date: March 15, 2023
+- Attending Physician: Dr. Elizabeth Green
+**Hospital Course:**
+Mr. Thompson was admitted after presenting with symptoms consistent with a myocardial infarction (acute chest pain radiating to his left arm). On initial assessment, electrocardiogram confirmed st-elevation in anterior leads. Immediate cardiac catheterization revealed a 90% occlusion in the left anterior descending artery (LAD). A drug-eluting stent was successfully placed during the procedure.
+**Treatment:**
+Post-procedure, the patient was started on dual antiplatelet therapy consisting of aspirin and clopidogrel and a statin regimen with atorvastatin to manage his cholesterol levels. Robert responded well to the treatment, with a significant reduction in chest pain and stabilization of cardiac markers over the subsequent days.
+**Discharge Medications:**
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg nightly
+4. Metoprolol 50 mg twice a day
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. Henry Fielding on March 30, 2023 at University Hospital Cardiac Center.
+- Primary care follow-up within one week post-discharge.
+**Discharge Instructions:**
+Mr. Robert Thompson is advised to maintain a low sodium and low-fat diet, monitor weight daily, and engage in moderate exercise such as walking for 30 minutes daily. He should avoid heavy lifting and strenuous activities for at least 4 weeks. It is crucial to adhere strictly to the prescribed medication regimen and to attend all arranged follow-up appointments. In case of chest pain, shortness of breath, or any new symptoms, he should seek immediate medical attention.
+**Discharge Disposition:**
+Patient is discharged in a stable condition to home. He understands all discharge instructions as evidenced by verbalization and teaching back key points. He will be accompanied by his daughter, Jennifer Thompson, to assist with his immediate needs at home.
+**Last Recorded Vitals:**
+- BP 132/86 mmHg
+- Heart rate: 72 bpm
+- Temperature: 98.6°F
+- Respirations: 16 per minute
+**Social Work Consult:**
+Social worker Mia Chang assessed patient support at home and concluded proper care resources are in place. Additional home health nursing services have been arranged to visit twice a week for the first two weeks post-discharge.
+**Code Status:**
+Full Code
+**Signature:**
+Signed: Dr. Elizabeth Green, March 15, 2023, 2:00 PM

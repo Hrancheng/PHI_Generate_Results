@@ -1,0 +1,60 @@
+**Inpatient Discharge Summary**
+**Patient: Emily Thompson**  
+MRN#: 874395028  
+72-year-old female, admitted to the Internal Medicine service for management of acute congestive heart failure and atrial fibrillation.  
+Admission Date: 03/11/2023  
+Discharge Date: 03/25/2023  
+Attending Provider: Dr. Samuel Richards  
+Treatment Team: Teams IM1 and Cardiology
+**!! FIRST CONTACT !!**: Code page - PAGER 41350
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+Congestive heart failure (CHF) 03/12/2023 - Present Yes  
+Atrial fibrillation (AF) 03/12/2023 - Present Yes  
+Resolved Problems  
+RESOLVED: Acute pulmonary edema 03/13/2023 - 03/19/2023 Yes  
+RESOLVED: Electrolyte imbalance 03/14/2023 - 03/17/2023 Yes  
+**Recommendations for Follow Up:**  
+Attention to Primary Care Attending: (diagnostic studies and exam findings)  
+General follow up.  
+To Do's for Referring / Subspecialty Provider(s):  
+Cardiology: Continued management of atrial fibrillation and CHF  
+Endocrinology: Management of newly diagnosed diabetes mellitus type 2  
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**  
+MRI scheduled for 04/05/2023 at Hospital Radiology Department Room 2  
+Follow up with Jameson Diabetes Clinic, 583-123-4578  
+Discharge Medications:  
+- Furosemide 40 mg tablet: Take 1 tablet by mouth twice daily.  
+- Metoprolol 50 mg tablet: Take 1 tablet by mouth twice daily.  
+- Eliquis 5 mg tablet: Take 1 tablet by mouth twice daily.  
+**Discharge Condition:** Stability reached with improved cardiac function and fluid status. Recommended to maintain low salt diet and monitor weight daily.
+**Home or Self Care:**  
+Riverside Home Health Services will assist with medication management and daily blood pressure and heart rate monitoring.  
+555-982-1345 for urgent issues  
+Follow up Instructions: Jennifer M. Lee, NP to visit home twice a week for the first month post-discharge.  
+**Other**  
+LACE - Readmission Risk Score: 11 Total Score (Last filed: 03/25/2023 1100 hours)  
+6 Length of Stay  
+4 Acute Admission  
+1 Charleson Comorbidity Score  
+ED Visits in last 6 months: 0  
+LACE Score Risk Level  
+10-12: High - Readmission Rate - 30 Day Mortality Rate - 30 Day 14.7% 2.5%  
+A communication regarding this hospital stay was shared with the Primary Care Provider, Henry Carlisle, MD today 03/25/2023 via secure email.
+**Last Recorded Vital Signs:**  
+BP 127/82 (BP Location: Right arm, BP: Patient position: Sitting, BP Cuff Information: Adult large 33-43 cm) | Pulse 78 | Temp 36.4 °C (97.5 °F) | Resp 16 | Ht 1.62 m (5' 4") | Wt 68 kg (150 lb) | SpO2 96% | BMI 25.9 kg/m²
+**Discharge Physical Exam Findings:**  
+General appearance: alert, appears stated age and cooperative  
+Cardiac: Regular rate, no murmurs  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, non-tender  
+Extremities: No edema noted, pulses 2+ throughout
+**Operations/Major Procedures:**  
+Surgical/Procedural Cases on this Admission  
+Date: 03/15/2023, Procedure: Cardioversion, Status: Completed  
+Date: 03/18/2023, Procedure: Echocardiogram, Findings: Improved ejection fraction  
+**Discharge Plan:**  
+Check-ups scheduled at City Medical Center with cardiology on 04/05/2023 and with primary care on 04/12/2023  
+Physical therapy twice a week at Health Pro Physical Therapy, 594-575-6721  
+Continued monitoring of fluid intake, diet consultations as necessary  
+**Conclusion:** Patient has shown significant improvement in cardiac function and will benefit from ongoing outpatient management to prevent hospital readmission. All pertinent discharge information has been communicated to the patient and their home health care provider.

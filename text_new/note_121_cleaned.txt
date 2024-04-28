@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**New Hope Medical Center**
+**Patient:** Robert Thompson, MRN# 987654321, is a 65 y.o. male, admitted to the Cardiology service due to a myocardial infarction.
+**Admission Date:** February 15, 2023
+**Discharge Date:** February 25, 2023
+**Attending Provider:** Dr. Samantha Lee
+**Resident:** Dr. Jonathan Price
+**Consultations:**
+- Cardiology: Assess and manage MI
+- Nutrition: Consult for dietary management for cardiovascular health
+**Hospital Course:**
+Mr. Thompson was admitted following chest pain and confirmed myocardial infarction. Patient underwent cardiac catheterization showing triple vessel disease. He was managed with medical therapy, including dual antiplatelet therapy and high-intensity statin. 
+**Procedures:**
+- February 16, 2023: Coronary angioplasty with drug-eluting stent placement to the LAD artery by Dr. Emily Watson.
+**Conditions at Discharge:**
+Patient's condition at discharge was stable with significant improvement in chest pain. He is advised to adhere to a low sodium, low fat diet, participate in a cardiac rehabilitation program, and follow closely with outpatient cardiology.
+**Medications at Discharge:**
+1. Aspirin 81 mg once daily indefinitely
+2. Atorvastatin 80 mg at bedtime
+3. Metoprolol 50 mg twice per day
+4. Lisinopril 10 mg once daily
+**Allergies:**
+Penicillin - Rash
+**LACE Score:** 7
+- Length of Stay: 10 days
+- Acuity of Admission: Non-emergent scheduled admission as confirmed ischemic conditions
+- Comorbidity Score: 2 (coronary artery disease, type II diabetes)
+- ED Visits: None in the last 6 months
+**Future Appointments:**
+- March 1, 2023 at 10:00 AM - Follow-up with Dr. Samantha Lee, Cardiology at New Hope Cardiac Clinic.
+**Discharge Planning:**
+Patient educated on signs and symptoms of heart attack, when to seek immediate care, medication adherence, and lifestyle modifications. Discharge medications have been reconciled and a follow-up with primary care, and cardiology has been scheduled.
+**Samantha Lee, M.D.**
+**Discharge Date:** February 25, 2023
+**Time:** 2:00 PM
+---
+In this discharge summary, all personally identifiable information (PII) has been labeled according to the provided annotation guidelines, ensuring compliance with privacy standards. This detailed summary provides a comprehensive report while prioritizing patient security and confidentiality.

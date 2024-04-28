@@ -1,0 +1,36 @@
+Inpatient Discharge Summary
+======================================
+Martin Thompson, MRN# 0472579A, is a 58 y.o. male, admitted to the Cardiology service due to severe chest pain and diagnosed with an acute myocardial infarction. 
+Admission Date: 10/21/2023 
+Discharge Date: 10/30/2023 
+Attending Provider: Dr. Emily Stanton  
+Hospital Problems Noted - Resolved
+* Acute myocardial infarction 10/21/2023 - Present Yes 
+* Hypertension 10/21/2023 - Present Yes 
+* Type 2 Diabetes Mellitus 10/21/2023 - Present Yes 
+* Hyperlipidemia 10/21/2023 - Present Yes 
+Discharge Medications:
+* Aspirin 81 mg, oral, once daily.
+* Metformin 500 mg, oral, twice daily.
+* Simvastatin 40 mg, oral, once daily at bedtime.
+* Lisinopril 20 mg, oral, once daily.
+Follow-Up Appointments:
+* Cardiology Clinic with Dr. Emily Stanton on 11/10/2023 at City Hospital Heart Center 
+* Primary Care Provider, Dr. Alan Rickman, 11/15/2023 for diabetes management and general health follow-up. 123 Health Street, Wellness City, TX 75001
+* Telehealth check-in on 11/03/2023 to assess medication tolerance.
+Hospital Course:
+Mr. Martin Thompson was admitted with chest pain radiating to his left arm. Initial ECG showed ST elevations in the anterior leads. He was immediately taken to the catheterization lab where a 90% blockage was noted in the left anterior descending artery. A stent was successfully placed, and the patient was started on dual antiplatelet therapy. His hospital course was complicated by a transient ischemic attack from which he recovered without residual deficits. He was managed by the cardiology team and the endocrinology team was consulted to optimize his diabetes management.
+Diet and Activity:
+* Mr. Thompson has been instructed to follow a heart-healthy diet low in saturated fats and simple sugars.
+* Begin mild to moderate exercise such as walking for 30 minutes daily, gradually increasing as tolerated.
+Instructions for the Patient:
+* Continue medications as prescribed without interruption.
+* Monitor blood sugar levels twice daily.
+* Report any symptoms of chest pain, shortness of breath, or excessive fatigue to the physician immediately.
+Discharge Condition:
+* The patient’s condition at discharge is stable. He has been educated on symptom management, medication adherence, and lifestyle modifications necessary to manage his condition.
+Discharge Plan:
+* Patient will be discharged to home. Home health services have been arranged to assist with medication management and dietary planning for the first two weeks post-discharge.
+Signed:
+Emily Stanton, MD
+10/30/2023, 2:00 PM

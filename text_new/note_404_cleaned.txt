@@ -1,0 +1,64 @@
+**Inpatient Discharge Summary**
+**Marjorie Ellis**, MRN# 654298317, is a 54 y.o. female, admitted to the Medical Service for management of a severe asthma exacerbation complicated by pneumonia. 
+**Admission Date**: 08/21/2023  
+**Discharge Date**: 08/29/2023  
+**Attending Provider**: Dr. Harold Greene  
+**Treatment Team**:  
+   - **First Contact**: Nurse Jessica Thomas, Floor Calls - Pager 15503
+**Hospital Problems Noted - Resolved**  
+**POA Active Problems**  
+   - Asthma, severe exacerbation 08/21/2023 - Present Yes  
+   - Pneumonia 08/21/2023 - Present Yes  
+**Resolved Problems**  
+   RESOLVED: Hypokalemia 08/25/2023 - 08/28/2023 Yes  
+   RESOLVED: Anxiety 08/21/2023 - 08/26/2023 Yes
+**Recommendations for Follow Up**:  
+   - **Attention to Primary Care Attending**: General follow-up with PCP advised for ongoing asthma management and to reassess pneumonia recovery.  
+   - **To Do's for Referring / Subspecialty Provider(s)**:  
+       Pulmonology: Follow up appointment on 09/02/2023.  
+       Psychology: Outpatient referral for anxiety management.
+**Lab, Diagnostic Testing, and Referral Follow-Up**:  
+   - Orders given to patient: Contact information for follow-up  
+   - Next Steps Follow up: Allied Heath Community Clinic  
+   - 555-784-9023  
+   - Next Steps Follow up Instructions: Anna Richards, MD  
+**Other Instructions**:  
+   - SLP Evaluation / Treatment (Speech-Language Pathology)
+   - Scheduled Appointments:  
+       Date Time Provider Department Center  
+       09/05/2023 11:30 AM Claire Zimmerman, PA-C RESP-TC U TC  
+       09/06/2023 9:45 AM BHC RAD CT ROOM 01 CT-BHC BHC  
+       09/06/2023 11:00 AM BHC EKG EKG-BHC UBHC  
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization**:  
+   - 54-year-old female presented with acute exacerbation of her chronic asthma in the context of a developing pneumonia. Patient experienced difficulty breathing, wheezing, and a productive cough. Was initially managed in the emergency department at Central City Hospital, where she was given steroids and antibiotics before transfer to our facility for further care.
+**Brief Hospital Course (including treatment rendered and response to treatment)**:  
+   - Ms. Ellis received IV steroids and was placed on a ventilator for 48 hours until her breathing stabilized. Antibiotics were administered to manage pneumonia. The patient responded well to the treatment, showing improved lung function and decreased wheezing. Anxiety was managed with counseling and appropriate medication.
+**Discharge Condition**:  
+   - Discharged under stable condition with instructions to continue oral steroids for two weeks and a tapering schedule. Antibiotics prescribed for seven more days. Patient educated on signs of infection or worsening asthma.
+**Last Recorded Vital Signs**:  
+   - BP 120/80 (BP Location: Right arm, BP: Patient position: Sitting, BP Cuff Information: Adult 23-33 cm) | Pulse 72 | Temp 37.0 °C (98.6 °F) | Resp 16 | Ht 1.68 m (5' 6") | Wt 70 kg (154 lb) | SpO2 95% | BMI 24.8 kg/m²
+**Pertinent Discharge Physical Exam Findings**:  
+   - General appearance: alert, appears stated age and cooperative  
+   - Head: Normocephalic, atraumatic  
+   - Nose: clear  
+   - Lungs: clear to auscultation bilaterally  
+   - Heart: regular rate and rhythm  
+   - Abdomen: soft, nontender, nondistended  
+   - Extremities: no edema  
+   - Neurologic: alert and oriented x 3  
+**Operations/Major Procedures**:  
+   - **Surgical/Procedural Cases on this Admission**  
+      Case IDs Date Procedure Surgeon Location Status  
+      651230 08/23/2023 BRONCHOSCOPY Michael Warner, MD CCU OR Comp  
+**Significant Test or Procedure Results**:  
+   - **Chest X-Ray**: Improved aeration, resolving infiltrates  
+   - **Spirometry Post Bronchodilator**: Improved flow rates  
+**Discharge Medication List**:  
+   - **New Medications**: Start taking as prescribed  
+     Sig: prednisone 40 mg tablet Refills: 1  
+     Commonly known as: DELTASONE 40 mg, Oral, ONCE DAILY  
+     amoxicillin 500 mg capsule Refills: 0  
+     Commonly known as: AMOXIL 500 mg, Oral, 3 TIMES DAILY
+**Follow up**:  
+   - Patient will follow up in the pulmonary clinic on 09/05/2023 and re-evaluate in the general internal medicine clinic on 09/15/2023. A referral was placed for a PCP to ensure continuity of care. 
+The plans for discharge were carefully reviewed with Ms. Ellis, and she verbalized understanding of all instructions provided. She was provided with written copies of her medical instructions and prescriptions, along with emergency contact numbers for her immediate use.

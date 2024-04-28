@@ -1,0 +1,45 @@
+Inpatient Discharge Summary
+_________________________
+**PATIENT INFORMATION**
+Patient: Emily Thompson
+MRN: 5821973
+Age: 68 years old
+Date of Admission: August 12, 2023
+Date of Discharge: August 21, 2023
+Admitting Diagnosis: Acute exacerbation of chronic heart failure
+Discharge Diagnosis: Chronic heart failure, stabilized
+**HOSPITAL COURSE**
+Ms. Emily Thompson was admitted with shortness of breath and pedal edema. She responded well to IV diuretics and adjustment of her heart failure medications. Her condition stabilized over the course of her stay. A follow-up echocardiogram showed an ejection fraction of 35%. She participated in heart failure education sessions and demonstrated proficiency in managing her condition.
+**MEDICATIONS AT DISCHARGE**
+- Furosemide 40 mg daily
+- Carvedilol 25 mg twice daily
+- Lisinopril 20 mg daily
+- Spironolactone 25 mg daily
+- Aspirin 81 mg daily 
+**FOLLOW-UP CARE**
+Primary Care Physician: Dr. Sarah Bentley
+Follow-up appointment: August 28, 2023, at Downtown Clinic
+Cardiology follow-up: September 5, 2023, with Dr. James Carlson at City Hospital Cardiology Unit
+**DISCHARGE INSTRUCTIONS**
+1. Continue medication as prescribed.
+2. Monitor weight daily; report gain of 3 pounds or more in a day.
+3. Limit fluid intake to 2 liters per day.
+4. Maintain a low-sodium diet.
+5. Engage in light exercise, such as walking, as tolerated.
+**SOCIAL WORK CONSULT**
+Evaluated and provided with resources for at-home support. Arranged for home health visits starting August 23, 2023.
+**DIETARY CONSULT**
+Patient educated on a low-sodium diet. Written materials provided.
+**CODE STATUS**
+Full code
+**DISCHARGE CONDITION**
+The patient is being discharged in a stable condition with instructions to manage her chronic heart failure at home. All follow-up appointments have been scheduled, and transportation has been arranged by Community Transport Services.
+**DISCHARGE ARRANGEMENTS**
+Transportation home provided by Community Transport Services. Arrival at home scheduled for approximately 1:00 PM on August 21, 2023.
+**DISCHARGING PHYSICIAN**
+Dr. Sarah Bentley, Cardiologist
+**SIGNATURE**
+Signed: Dr. Sarah Bentley
+Date: August 21, 2023
+Time: 12:00 PM
+Note: The information provided in this medical document is purely fictional and generated for illustrative purposes of annotating personal health identifiers following specified guidelines.

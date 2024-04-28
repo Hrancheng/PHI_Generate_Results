@@ -1,0 +1,33 @@
+**Inpatient Discharge Summary**
+HFT Inpatient Discharge Summary
+John Dorian, MRN# 457821369, is a 58 y.o. male, admitted to the Cardiology service for management of acute myocardial infarction and subsequent stabilization. 
+Admission Date: 01/05/2023  
+Discharge Date: 01/15/2023  
+Attending Provider: Dr. Perry Cox  
+Treatment Team: Cardiology Team A  
+Hospital Problems Noted - Resolved  
+Post-MI heart failure 01/05/2023 - 01/15/2023 Yes  
+Resolved Problems:  
+RESOLVED: Acute myocardial infarction 01/05/2023 - 01/10/2023 Yes  
+RESOLVED: Congestive heart failure 01/05/2023 - 01/12/2023 Yes  
+Other Problems: Stable angina  
+Discharge Medications:  
+1. Aspirin 81 mg oral tablet, once daily  
+2. Lisinopril 10 mg oral tablet, once daily  
+3. Metoprolol 50 mg oral tablet, twice a day  
+4. Atorvastatin 40 mg oral tablet, once nightly  
+Follow-Up Appointments:  
+Cardiology Clinic on 01/22/2023, 09:00 AM with Dr. Christopher Turk at New Sacred Heart Hospital
+Patient Instructions: Continue medications as listed above, adhere to a low-sodium diet, and engage in mild to moderate exercise, such as walking for 30 minutes daily. Call the clinic if you experience any chest pain, breathlessness, or undue fatigue.  
+Next Steps:  
+1. Cardiac rehabilitation session booked for 01/20/2023 at Cardiac Rehab Center Room 201  
+2. Echocardiogram scheduled for 02/01/2023 at New Sacred Heart Hospital Diagnostic Center  
+3. Outpatient follow-up labs: Lipid profile, renal function test scheduled for 01/19/2023 at Diagnostic Lab Room 101  
+Release Information:  
+Patient is being discharged to home with his wife, Elliot Reid. Patient demonstrated understanding of all medications and follow-up instructions. He expressed confidence in managing his care at home with support from visiting nurses from Helping Hands Home Care.
+Discharge Condition:  
+Discharged with stable vital signs, pain controlled, understanding of his health condition, and clear follow-up plans.
+Final Remarks:  
+The patient and his family were thankful for the care provided and felt prepared for continued recovery at home. NOTIFY PCP of discharge summary and follow-up care plan sent via secure email to pcp@heartcaremail.com.
+Signed: Carla Espinosa, RN, 01/15/2023 at 4:00 PM
+This concludes the discharge summary for Mr. John Dorian's admission from 01/05/2023 to 01/15/2023 at New Sacred Heart Hospital.

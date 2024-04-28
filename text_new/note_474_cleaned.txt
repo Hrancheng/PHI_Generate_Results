@@ -1,0 +1,33 @@
+**University Medical Center Discharge Summary**
+**Patient:** Eleanor Rigby  
+**MRN:** 987654321  
+**Admission Date:** 01/03/2023  
+**Discharge Date:** 01/14/2023  
+**Admitting Physician:** Dr. Harold M. Freeman  
+**Discharge Physician:** Dr. Cynthia O'Reilly  
+**Age:** 78 years old  
+**Admission Diagnosis:** Worsening congestive heart failure, pneumonia.
+**Hospital Course:**   
+Mrs. Rigby was admitted with shortness of breath and a productive cough diagnosed as bacterial pneumonia and acute on chronic heart failure. She was initially managed in the intensive care unit where she received intravenous diuretics and antibiotics. Improvement was noted, and she was stepped down to general medical floor on 01/07/2023.  
+**Procedures:**   
+Echocardiogram on 01/04/2023 showed LVEF of 35%. A chest X-ray confirmed consolidation in the right lower lobe, treated as pneumonia.  
+**Discharge Medications:**   
+1. Lasix 40 mg twice daily  
+2. Potassium Chloride 20 mEq daily  
+3. Lisinopril 20 mg daily  
+4. Carvedilol 6.25 mg twice daily  
+**Follow-up Care:**   
+Follow up with Dr. Amy Pond, Cardiologist, in 123 Heartwell Lane, Clinic Room 4 on 01/22/2023 at 10 AM.  
+Continue physical therapy with Mercy Outpatient Rehabilitation twice a week.
+**Diagnostics:**   
+Chest X-ray on 01/13/2023 showed resolving pneumonia. Echocardiogram prior to discharge showed stable LVEF.  
+**Discharge Instructions:**   
+Patient advised to monitor fluid intake and output, weight daily, and adhere to a low-salt diet. Watch for signs of worsening heart failure including increased shortness of breath, rapid weight gain, or swelling in feet and ankles. Contact physician if symptoms worsen.
+**Condition at Discharge:**  
+Stable with plans to continue recovery at home. Outpatient follow-up is scheduled, and home health services have been arranged with Home Health Aides Unlimited.
+**Instructions Given to Patient:**   
+Avoid excessive fluid intake. Comply with prescribed diet and medication regimen. Engage in mild exercise as tolerated, such as walking, to maintain physical condition but avoid exertion that leads to shortness of breath or fatigue.
+**Outpatient Services:**  
+Home health visits twice weekly for medication management and assessment. Physical therapy visits through Mercy Outpatient Rehabilitation for strength training.
+**Signature:**   
+Signed by Dr. Cynthia O'Reilly on 01/14/2023 at 15:00.

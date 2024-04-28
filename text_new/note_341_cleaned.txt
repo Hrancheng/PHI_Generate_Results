@@ -1,0 +1,35 @@
+**Cityside General Hospital** Inpatient Discharge Summary
+**Ella Fitzgerald**, MRN# 8792456734, is a 58 y.o. female, admitted to the Cardiology service for management of acute myocardial infarction. Admission Date: 2/7/2023. Discharge Date: 2/15/2023.
+Attending Provider: Dr. Jonathan Lee
+Treatment Team: Cardiology Team A
+**Hospital Problems Noted - Resolved**
+- Acute Myocardial Infarction 2/7/2023 - Present Yes
+- Congestive Heart Failure 2/8/2023 - Present Yes
+- Hypertension 2/7/2023 - Present Yes
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+Ms. Ella Fitzgerald was admitted following a severe episode of chest pain at home. Initial EKG confirmed ST-elevation myocardial infarction, and she was urgently taken to the cath lab for percutaneous coronary intervention (PCI). A coronary stent was placed in the left anterior descending artery, which was 90% occluded. Post-procedure, her chest pain resolved, and cardiac markers began to normalize. She was started on dual antiplatelet therapy and guideline-directed medical therapy for heart failure. Over the course of her hospital stay, congestive heart failure was managed with IV diuretics, transitioning to oral medications as her condition stabilized.
+**Recommendations for Follow Up:**
+- Cardiology out-patient follow up on 2/22/2023.
+- Continue aspirin, clopidogrel, beta-blockers, ACE inhibitors, and statins as prescribed.
+- Monthly lab work for renal function and electrolytes for the next three months.
+- Diet and lifestyle modification counseling advised.
+- Cardiac rehabilitation program recommended.
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+- Echocardiogram scheduled for 2/22/2023 at Cityside Diagnostic Center.
+- Follow up appointment with Dr. Sarah Goldsmith, cardiologist, at Cityside Cardiology Clinic on 2/22/2023.
+**Medications prescribed at discharge:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Lisinopril 10 mg daily
+- Atorvastatin 40 mg daily
+- Metoprolol tartrate 50 mg twice a day
+**Discharge Condition:**
+- Ms. Fitzgerald's condition at discharge is stable. She has been educated on recognizing signs of chest pain, managing her diet, and the necessity of medication adherence.
+- She is scheduled to participate in a cardiac rehabilitation program to improve cardiovascular fitness and reduce the risk of future cardiac events.
+**Discharge Instructions:**
+- Patient advised to avoid strenuous activity until evaluated at cardiac rehabilitation.
+- Keep all scheduled outpatient follow-up appointments.
+- Continue medications as prescribed without interruption.
+- Seek immediate medical help if symptoms such as chest pain, severe shortness of breath, or fainting occur.
+Signed: Dr. Samantha Reyes, MD, 2/15/2023, 3:30 PM
+Assistant: Margaret Cho, RN

@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Michael Thompson
+**Medical Record Number**: 908273645
+**Age**: 42 years old
+**Admission Date**: February 12, 2023
+**Discharge Date**: February 26, 2023
+**Attending Provider**: Dr. Helen Mirren
+**Admission Diagnosis**:
+Primary: Acute cholecystitis
+Secondary: Hypertension
+**Hospital Course**:
+Mr. Thompson was admitted with severe right upper quadrant pain and fever. An ultrasound confirmed the diagnosis of acute cholecystitis. He was started on IV antibiotics. His symptoms improved, and he underwent a laparoscopic cholecystectomy on February 14, 2023, which was uncomplicated. Post-operatively, he developed mild hypertension which was managed with oral medication.
+**Medications at Discharge**:
+1. Metoprolol 50 mg twice daily
+2. Paracetamol 500 mg as needed for pain
+3. Amoxicillin 500 mg three times daily for 7 days
+**Allergies**:
+No known drug allergies
+**Discharge Condition**: Stable
+**Patient Instructions**:
+1. Follow up with his primary care physician, Dr. Sarah Connors, in one week.
+2. Continue taking all prescribed medications.
+3. Avoid lifting heavy objects and strenuous exercise for four weeks.
+4. Report any signs of infection, such as redness, swelling, or drainage at the surgical site.
+**Follow-Up Appointments**:
+March 3, 2023 at 10:00 AM with Dr. Sarah Connors, General Practice
+**Discharge Diagnoses**:
+1. Acute cholecystitis - Resolved
+2. Hypertension - Stable
+**LACE Score**: 7 (Moderate risk of readmission)
+- **Length of Stay**: 14 Days
+- **Acute Admission**: Yes
+- **Comorbidities**: 2 – Hypertension, History of GERD
+- **Emergency Visits**: None in the last six months
+**Discharge Medication List**:
+1. Metoprolol - Beta Blocker 50 mg, Oral, TWICE DAILY
+2. Paracetamol - Pain Control 500 mg, Oral, AS NEEDED
+3. Amoxicillin - Antibiotic 500 mg, Oral, THREE TIMES DAILY
+**Orders Placed This Encounter**:
+1. Gallbladder removal, Laparoscopic
+2. IV fluids and antibiotics during stay
+**Significant Test Results**:
+1. Ultrasound Abdomen: Confirmed gallstones and inflammation of the gallbladder
+**Rehabilitation Needs**:
+- Advised dietary adjustment to low-fat diet post-gallbladder removal.
+- Scheduled a consultation with a dietitian on March 10, 2023 for further dietary management.
+**Discharge Summary Prepared By**:
+Lisa Carlton, PA-C
+[DATE]February 26, 2023[O], [TIME]2:00 PM[O]
+**Signature**: Helen Mirren, MD

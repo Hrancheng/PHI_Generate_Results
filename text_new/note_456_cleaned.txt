@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient Information:**  
+Sandra Thomas, MRN# 456123789  
+Age: 68 years old  
+Sex: Female  
+**Admission Date:** July 5, 2023  
+**Discharge Date:** July 15, 2023  
+**Attending Provider:** Dr. Amanda White  
+**Hospital Service:** Cardiology  
+**Reason for Hospitalization:**  
+Ms. Thomas presented in the Emergency Department at Cleveland Health Clinic with chest pain and was found to have a non-ST segment elevation myocardial infarction. She was admitted for further management and cardiac catheterization.
+**Major Treatments During Hospitalization:**  
+- Cardiac Catheterization revealed three vessels with significant atherosclerosis, treated with stent placement  
+- Medication management for ACS including aspirin, statins, and betablockers
+**Hospital Course:**
+- July 5, 2023: Arrival and admission through ER with initial EKG showing nonspecific ST changes. 
+- July 6, 2023: Underwent successful cardiac catheterization with Dr. Brian Foster.
+- July 7-14, 2023: Recovery with medical therapy adjustment. Cardiac rehabilitation initiated.
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily  
+- Atorvastatin 40 mg at bedtime  
+- Metoprolol 50 mg twice daily  
+**Discharge Instructions:**  
+Patient is instructed to follow up with their primary care physician, Dr. Susan O'Neill, within one week for follow-up care and continue cardiac rehabilitation at HeartStrong Rehab Center. No heavy lifting, no driving for two weeks, and adhere to a heart-healthy diet.
+**Follow-Up Appointments:**  
+- July 22, 2023, 10:00 AM with Philip Chang, MD, Cardiology at Cleveland Health Clinic.
+**Labs to be Done Before Next Visit:**  
+- CBC, CMP, Lipid Panel on July 21, 2023.
+**Discharge Condition:**  
+The patient is stable, pain-free, and understands discharge instructions. Continue monitoring for chest pain, shortness of breath, or excessive fatigue.
+**Discharge Prepared by:**  
+Lisa Hamilton, PA-C  
+**Reviewed and Signed by:**  
+Dr. Amanda White  
+Date: July 15, 2023, at 3:30 PM
+**Cleveland Health Clinic Discharge Summary Service**

@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Eleanor Thomas, MRN#: 347218965
+**Age:** 68 years old
+**Admission Date:** 09/14/2023
+**Discharge Date:** 09/20/2023
+**Attending Physician:** Dr. Martin Reynolds
+**Admission Diagnosis:** Decompensated heart failure, type 2 diabetes mellitus.
+**Discharge Diagnosis:**
+1. Decompensated heart failure
+2. Type 2 diabetes mellitus
+3. Hypertensive heart disease
+**Hospital Course:**
+Ms. Eleanor Thomas was admitted to Central City General Hospital on 09/14/2023 with shortness of breath and pedal edema. Echocardiography showed reduced ejection fraction of 35%. She was managed with IV diuretics and adjustment of her oral diabetic medications due to elevated fasting blood sugars. Her heart failure symptoms gradually improved with medical management. Throughout her stay, blood pressure and blood sugar levels were closely monitored and maintained within target range.
+**Procedures Performed:**
+- Echocardiogram: 09/15/2023
+- Daily blood glucose monitoring
+**Medications at Discharge:**
+- Furosemide 40 mg orally daily
+- Metformin 500 mg orally twice daily
+- Lisinopril 20 mg orally daily
+**Follow-up Care:**
+Ms. Thomas is advised to follow up with her primary care physician, Dr. James Lee, within one week post-discharge for ongoing management of her cardiac and diabetic conditions. A referral to the Downtown Cardiology Clinic for a follow-up echocardiogram in three months has been scheduled.
+**Discharge Instructions:**
+1. Continue with prescribed medication regimen.
+2. Monitor daily weight and record blood pressure and blood glucose levels.
+3. Restrict fluid intake to less than 2 liters per day.
+4. Follow a low-salt, diabetic-friendly diet.
+5. Report any symptoms of worsening heart failure such as increasing shortness of breath, new onset chest pain, or increasing leg swelling.
+**Outpatient Lab Tests:**
+- HbA1c and lipid profile on 10/05/2023
+- Renal function test on 10/05/2023
+**Discharge Condition:**
+The patient's condition at discharge was stable. She was able to perform activities of daily living with minimal dyspnea on exertion. Advised to avoid heavy lifting and strenuous activity until follow-up.
+**Signed:** Dr. Martin Reynolds, 09/20/2023, 555 Main St, Central City, CA 90210
+**Contact Information for further questions:** 555-333-7890 (Office of Dr. James Lee)
+This summary serves to provide an overview of Ms. Thomas's recent hospitalization and includes necessary instructions to ensure continuous care following her discharge. Please adhere to the outlined follow-up appointments and medication instructions.

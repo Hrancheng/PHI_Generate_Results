@@ -1,0 +1,44 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Elizabeth Johnson, MRN: 593672504
+**Age:** 68 years old
+**Admission Date:** March 10, 2023
+**Discharge Date:** March 24, 2023
+**Admitting Diagnosis:** Acute myocardial infarction
+**Discharge Diagnosis:**
+1. Acute myocardial infarction
+2. Type 2 diabetes mellitus
+3. Hypertension
+**Hospital Course:**
+Mrs. Elizabeth Johnson was admitted following an episode of severe chest pain while at home. Upon arrival via ambulance, her electrocardiogram confirmed an ST-elevation myocardial infarction. Immediate percutaneous coronary intervention was performed, revealing a blockage in the right coronary artery, which was successfully stented. The patient was started on dual antiplatelet therapy and other standard post-myocardial infarction medications, including beta-blockers and ACE inhibitors.
+Her hospital course was complicated by a brief episode of hypoglycemia, managed with adjustment of her diabetic medications. Blood glucose levels were subsequently stabilized. Her blood pressure was initially elevated but responded well to medication adjustments. 
+**Consultations:**
+Cardiology, Endocrinology, and Dietary. A dietitian consulted for diabetic diet education.
+**Procedures:**
+1. Percutaneous coronary intervention with stenting of the right coronary artery
+2. Daily blood glucose monitoring
+3. Dietary consultation for diabetes management
+**Condition at Discharge:**
+Mrs. Johnson is stable with improved chest pain. She is to continue with medication adjustments and follow a strict diabetic diet. Home medication list includes:
+1. Aspirin 81 mg daily
+2. Atorvastatin 20 mg at night
+3. Metformin 500 mg twice daily
+4. Lisinopril 10 mg daily
+**Discharge Instructions:**
+Mrs. Johnson has been instructed to avoid strenuous activities for the next 4 weeks, closely monitor her blood sugar levels, and adhere to her medication regimen. She is advised to follow up with her primary care physician, Dr. Emily Stanton, 485 Healing Blvd, Community Health Center, Carson City, NV 89703, and return to the Cardiology clinic on April 2, 2023. 
+**Prescriptions Provided:** Aspirin, Atorvastatin, Metformin, Lisinopril
+**Follow-up Appointments:**
+1. Cardiology follow-up on April 2, 2023 at 10 AM with Dr. Amit Patel
+2. Primary care follow-up on March 31, 2023 at 2 PM with Dr. Emily Stanton
+**Contact Information:**
+- Cardiology Clinic: 555-234-5678
+- Dr. Emily Stanton: 555-789-0123
+**Emergency Contact:**
+- Husband: Michael Johnson
+**Other Information:**
+Patient educated on symptoms of chest pain, hypoglycemia, and hypertension crisis. Urged to contact health provider if she experiences symptoms.
+**Signed:**
+Dr. Amit Patel, MD
+Date: March 24, 2023 Time: 15:30 PM
+**Medical Record Authenticated by:**
+Health Information Management
+Date: March 25, 2023

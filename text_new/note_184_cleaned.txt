@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+Patient: Eleanor Rigby
+MRN: 8675309
+Age: 78 y.o.
+Admission Date: September 15, 2023
+Discharge Date: September 22, 2023
+Admitting Physician: Dr. Michael Roberts
+Discharge Physician: Dr. Amelia Clarkson
+**Treatment Team:**
+Primary Nurse: Susan Grey, RN
+Clinical Pharmacist: Tom Baker, PharmD
+Social Worker: Lucas Newman, LSW
+Diagnosis:
+Primary: Acute Cholecystitis
+Secondary: Controlled Type 2 Diabetes Mellitus
+**Hospital Course:**
+Eleanor Rigby was admitted with a two-day history of severe right upper quadrant pain, nausea, and vomiting. Ultrasound at admission demonstrated cholelithiasis and a thickened gallbladder wall. She was started on IV antibiotics and scheduled for a laparoscopic cholecystectomy on September 17, 2023, which was converted to open due to difficult anatomy. Eleanor's post-operative course was complicated by mild transient hyperglycemia, managed by her sliding scale insulin regimen. She progressed with diet and was gradually ambulating with physical therapy by day four post-op.
+**Medications at Discharge:**
+Metformin 500 mg: 1 tablet orally twice a day
+Lisinopril 20 mg: 1 tablet orally once daily
+Oxycodone 5 mg: 1 tablet orally every 6 hours as needed for pain
+**Allergies:**
+Penicillin - Rash
+**Discharge Instructions:**
+Eleanor is to follow up with her primary care physician, Dr. Jennifer Lopez, within two weeks for surgery follow-up and to monitor her diabetes control. She should continue her medications as prescribed without interruption. Instructions for signs of infection, such as increased pain, redness, or discharge at the incision site, were given. Physical activity is encouraged as tolerated with gradual increase. 
+**Dietary Restrictions:**
+Low fat, diabetic-friendly diet as per dietary consultation during hospitalization. 
+**Follow-Up Appointments:**
+1. Dr. Jennifer Lopez - October 6, 2023 at 10:00 AM
+2. Surgery follow-up with Dr. Amelia Clarkson - October 13, 2023 at 9:00 AM
+**Referrals:**
+None
+**Services/Setups:**
+Home nursing arranged for incision care and diabetes management education.
+**Last Recorded Vital Signs:**
+BP: 132/84 mmHg
+Pulse: 78 bpm
+Temp: 98.6 F
+Resp: 16/min
+**Discharge Condition:**
+Fair to good. Eleanor is stable with expectations for full recovery with adherence to discharge instructions.
+**Readmission Risk:**
+Moderate due to age and presence of diabetes. Early PCP follow-up is crucial.
+**Additional Notes:**
+Patient educated on potential diabetes complications and instructed to check blood sugar levels four times a day. Application of ice to the surgical site and elevation to reduce swelling advised. Patient and family verbalized understanding of all discharge instructions.
+**Discharge Medication List:**
+- Metformin 500 mg orally twice a day
+- Lisinopril 10 mg daily
+- Oxycodone 5 mg as needed for pain
+Signed by: Dr. Amelia Clarkson
+Date/Time: September 22, 2023, 3:45 PM
+This document is meant for patient care and should be handled in accordance with privacy laws and hospital policies.

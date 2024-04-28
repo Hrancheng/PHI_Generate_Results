@@ -1,0 +1,46 @@
+**PATIENT DISCHARGE SUMMARY**
+**Discharge Date:** July 11, 2023
+**Admission Date:** June 23, 2023  
+**Hospital Service:** Cardiology  
+**Chief Complaint:** Chest Pain and Palpitations  
+**Attending Physician:** Dr. Jared Hemsworth  
+**Admission Diagnosis:** Suspected Acute Coronary Syndrome  
+**Discharge Diagnosis:**  
+1. Confirmed Non-ST Elevation Myocardial Infarction (NSTEMI)  
+2. Hypertension  
+3. Dyslipidemia  
+---
+**Hospital Course:**
+Mr. Michael Thompson, a 68-year-old male, presented to the emergency department with chest pain and palpitations on June 23, 2023. Initial EKG showed T-wave inversions in the lateral leads. Troponin levels were elevated at admission and peaked at 3.2 ng/mL. The patient was managed conservatively with dual antiplatelet therapy and a beta-blocker. Cardiac catheterization was performed on June 24, 2023, revealing 70% stenosis in the left anterior descending artery, which was successfully stented.
+Mr. Thompson participated in a supervised cardiac rehabilitation program and responded well. His blood pressure and cholesterol levels were managed with medication adjustments, achieving better control. The patient's hospital course was uncomplicated, and he showed significant improvement in cardiac function.
+---
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg nightly
+- Metoprolol 50 mg twice daily
+- Lisinopril 20 mg daily  
+**Allergies:** No known allergies
+**Discharge Instructions:**
+Mr. Thompson is advised to continue medication as prescribed. He should monitor his blood pressure and cholesterol levels, adhere to a low-sodium and low-cholesterol diet, and gradually increase his physical activity as tolerated. Follow-up with his primary care provider, Dr. Susan Kline, within one week and a cardiology follow-up within one month.
+**Follow-Up Appointments:**
+1. Dr. Susan Kline, 350 Pleasant Valley Way, Springfield, NJ 07081, 973-555-1023 on July 18, 2023 at 10:30 AM.
+2. Cardiology at Springfield Medical Center, 400 Broad St, Springfield, NJ 07081, on August 8, 2023 at 9:00 AM.
+---
+**Condition at Discharge:** Stable with improved cardiac function. Pain-free and ambulating without distress.
+**LACE Score:** 6 - Moderate Risk of Readmission  
+**Score Breakdown:**  
+- Length of Stay: 2 points  
+- Acuity of Admission: 1 point  
+- Comorbidity: 2 points  
+- ED Visits in last 6 months: 1 point  
+---
+**Signed:**  
+Dr. Jared Hemsworth, MD  
+Cardiology Department  
+July 11, 2023 at 2:00 PM
+**Authorized Hospital Contact:**  
+Nancy Fields, RN  
+Cardiac Unit Coordinator  
+973-555-2000
+---
+This discharge summary includes all pertinent patient information required to ensure continuous care. The instructions for follow-up aim to prevent complications and readmission, supporting the patient's recovery and ongoing health management.

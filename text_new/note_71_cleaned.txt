@@ -1,0 +1,36 @@
+Inpatient Discharge Summary
+**Discharge Summary for Michael Thompson**
+**MRN**: 567811005  
+**Admission Date**: June 5, 2023  
+**Discharge Date**: June 18, 2023  
+**Discharging Physician**: Dr. Elizabeth Warner  
+**Date of Birth**: May 22, 1956  
+**Age**: 67
+---
+**Chief Complaint at Admission**:
+Chest pain and shortness of breath.
+**Hospital Course**:
+Mr. Thompson was admitted with a diagnosis of acute myocardial infarction (MI), confirmed by elevated troponin levels and characteristic ECG changes. He underwent coronary angiography revealing two vessels disease. Percutaneous coronary intervention (PCI) to the right coronary artery was successfully performed on June 6, 2023. Post-procedure, the patient was managed in the cardiology unit and started on dual antiplatelet therapy.
+**Current Medications at Discharge**:
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Atorvastatin 80 mg at bedtime
+- Metoprolol succinate 50 mg daily
+- Lisinopril 10 mg daily
+- Furosemide 40 mg as needed for fluid overload
+**Allergies**:
+No known drug allergies.
+**Discharge Instructions**:
+Mr. Thompson is advised to follow a low salt diet, engage in light exercise such as walking, and avoid heavy lifting. He should monitor his weight daily and report any significant changes to his healthcare provider.
+Mr. Thompson will need to follow up with his cardiologist, Dr. Samantha Lee, within two weeks after discharge. A cardiac rehabilitation program has been recommended to aid his recovery.
+Discharge appointments are set for June 30, 2023 at Heart Care Associates, located at 123 Heart Health Drive, Springfield, IL 62704.
+**Contact Information** for follow-up:
+Heart Care Associates: (555) 123-4567
+**Discharge Condition**:  
+Stable with ongoing recovery expected. The patient is walking without significant chest pain, breathing comfortably on room air, and appears well nourished and in good spirits.
+**Condition at Discharge**:  
+Stably improved. Mr. Thompson demonstrated a good functional capacity and understanding of his discharge instructions. He is to continue home medications as prescribed and report any new symptoms to his doctor immediately.
+Signed:  
+Dr. Elizabeth Warner  
+Date: June 18, 2023  
+Time: 2:00 PM

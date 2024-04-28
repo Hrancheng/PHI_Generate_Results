@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+Patient: Robert Thompson, MRN: 987654321
+Age: 68 y.o.
+**Admission Date**: September 15, 2023
+**Discharge Date**: September 21, 2023
+**Admitting Diagnosis**:
+- Acute exacerbation of chronic heart failure
+**Hospital Course**:
+Mr. Thompson was admitted following a presentation at the ED with shortness of breath and ankle swelling. On admission, his BNP was elevated, and a chest X-ray confirmed pulmonary edema. He was managed with IV diuretics and his home medications were optimized during his stay. 
+Upon evaluation, the cardiology team, led by Dr. Sarah Lindley, recommended the addition of a low-dose beta-blocker which was initiated and tolerated well. Follow-up echocardiogram showed an improvement in ejection fraction compared to prior readings.
+The patient’s symptoms improved significantly with the treatment, and he remained hemodynamically stable throughout the hospital stay. 
+**Medications at Discharge**:
+1. Furosemide 40 mg, Oral, TWICE DAILY
+2. Carvedilol 6.25 mg, Oral, TWICE DAILY
+3. Lisinopril 20 mg, Oral, ONCE DAILY
+4. Spironolactone 25 mg, Oral, ONCE DAILY
+**Discharge Instructions**:
+- Continue with the prescribed medications.
+- Monitor weight daily. Report weight gain of more than 3 lbs in a day or 5 lbs in a week.
+- Follow a low-salt diet as discussed with the nutritionist.
+- Scheduled follow-up with outpatient cardiology within one week post-discharge.
+**Follow-up Appointments**:
+1. Cardiology Clinic: September 28, 2023, at 10:00 AM with Dr. Sarah Lindley
+2. Primary Care: October 5, 2023, at 2:00 PM with Dr. Michael Grant
+**Outpatient Provider(s)**:
+- Cardiology: Sarah Lindley, MD
+- Primary Care: Michael Grant, MD
+**Procedure Performed During Stay**:
+None
+**Significant Labs/Imaging**:
+- BNP on admission: 580 pg/mL
+- Echocardiogram: Estimated EF 35%
+**Consultations**:
+- Cardiology
+- Nutrition
+**Condition at Discharge**:
+Stable with improvement in heart failure symptoms.
+**Discharge Planning**:
+Reinforced heart failure management plan, emphasizing medication adherence and lifestyle modifications. Patient and family expressed understanding of the discharge instructions.
+**Signed**:
+Emily Carson, MD
+Date: September 21, 2023
+Time: 3:15 PM
+City Hospital
+**Code Status at Discharge**:
+Full Code
+**Allergies**:
+No Known Allergies
+This discharge summary provides a synthesized course of the patient's hospital stay, from initial presentation through management and follow-up planning, specifying the clinical path followed and the expectations for ongoing care outside of the hospital setting.

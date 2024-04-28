@@ -1,0 +1,42 @@
+Inpatient Discharge Summary
+------------------------------
+Susan Fox, MRN# 358609587, is a 62 y.o. female, admitted to the Cardiology service for management of acute myocardial infarction and unstable angina. 
+Admission Date: 9/13/2023
+Discharge Date: 9/22/2023
+Attending Provider: Dr. Amanda White
+Treatment Team:
+- Cardiologist: Dr. Joseph Lee
+- Cardiac Nurse Specialist: Samuel Green, RN
+Hospital Problems Noted - Resolved:
+- Acute myocardial infarction 9/13/2023 - Present Yes
+- Unstable angina pectoris 9/14/2023 - Present Yes
+Resolved Problems:
+RESOLVED: Acute lower respiratory infection 9/15/2023 - 9/19/2023 Yes
+Discharge Physician: Dr. Joseph Lee
+Brief Hospital Course:
+Mrs. Susan Fox, a 62-year-old presented with sudden onset of chest pain radiating to her left arm. She was immediately administered IV thrombolysis upon arrival and was taken to the cath lab where a coronary angioplasty was performed. The left anterior descending artery was successfully revascularized. Post-procedure, Mrs. Fox was started on a regimen of aspirin, beta-blockers, and a high-intensity statin. She was also put on a low sodium diet and began cardiac rehabilitation in the hospital.
+Significant Test or Procedure Results:
+- ECG on admission showed ST-segment elevation in the anterior leads.
+- Coronary angiography confirmed 90% stenosis in the left anterior descending artery, which was successfully treated with stenting.
+Discharge Medication List:
+- Aspirin 81 mg tablet, once daily
+- Metoprolol 50 mg tablet, once daily
+- Atorvastatin 40 mg tablet, once daily
+- Nitroglycerin spray, use as needed for chest pain
+Follow-Up Appointments:
+1. Cardiology follow-up with Dr. Joseph Lee on 10/02/2023 at City Medical Center Cardiology Clinic
+2. Cardiac Rehabilitation initial assessment on 9/30/2023
+Instructions for Patient at Discharge:
+- Continue medications as prescribed.
+- Follow a low sodium diet and engage in light exercise, increasing as tolerated.
+- Report any chest pain, shortness of breath, or dizziness immediately to a physician.
+- Attend all scheduled follow-up appointments.
+Last Recorded Vital Signs:
+BP 130/80 mmHg | Pulse 78 BPM | Temp 36.8 °C (98.24 °F) | Resp 16 | SpO2 98%
+Pertinent Discharge Physical Exam Findings:
+- General: Well-appearing, conversant, in no acute distress.
+- Cardiovascular: Regular rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally.
+- Extremities: No edema noted.
+Discharge Condition:
+- Stable with recommendations to follow up as an outpatient for ongoing management of coronary artery disease and rehabilitation. Mrs. Fox understands her discharge instructions and verbalizes comprehension of her medication regimen and follow-up plans.

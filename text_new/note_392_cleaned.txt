@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Michael Thompson
+**MRN:** 458796321
+**Age:** 54 y.o.
+**Admission Date:** August 15, 2023
+**Discharge Date:** August 23, 2023
+**Admitting Diagnosis:** Acute Cholecystitis
+**Discharge Diagnosis:** Resolved Acute Cholecystitis
+**Hospital Course:**
+Mr. Thompson was admitted to General Hospital following a seven-day history of intermittent right upper quadrant pain, nausea, and two episodes of vomiting. An ultrasound on admission revealed cholelithiasis with signs of inflammation. The patient underwent a laparoscopic cholecystectomy on August 16, 2023, which was converted to an open procedure due to extensive adhesions. Post-operatively, Mr. Thompson experienced mild ileus which resolved with conservative management. He was started on a liquid diet and gradually progressed to solid foods as tolerated. Pain was managed effectively with IV acetaminophen and transitioned to oral medication as per protocol.
+**Medications on Discharge:**
+- Acetaminophen 650 mg every 6 hours as needed for pain.
+- Omeprazole 20 mg daily.
+- Multivitamin - one tablet daily.
+**Follow-up:**
+Mr. Thompson is scheduled for a follow-up appointment with his primary care physician, Dr. Sarah Connolly, on September 3, 2023. He has also been referred for outpatient gastroenterology follow-up in two weeks at Downtown Medical Clinic to monitor post-surgical recovery and discuss gallstone disease management and dietary adjustments.
+**Diet:**
+Regular diet with low fat modifications advised. Nutritional services provided literature on appropriate dietary intake post-cholecystectomy.
+**Activity:**
+Recommended to avoid heavy lifting and strenuous activity for four weeks post-discharge. Gradual return to usual activities as pain permits.
+**Discharge Instructions:**
+- Manage pain using the prescribed medications. Be aware of signs of infection or complications including fever, excessive redness, or discharge from the incision site. 
+- Maintain hydration and follow the advised dietary modifications.
+- Seek medical attention if experiencing symptoms such as persistent vomiting, jaundice, or severe abdominal pain.
+**Home Health Services:** 
+Home health services have been coordinated to assess the home environment and assist with daily activities until Mr. Thompson is fully mobile. Initial visit scheduled for August 25, 2023.
+**Imaging Follow-Up:**
+Abdominal ultrasound in six weeks to ensure postoperative status is stable. Appointment scheduled at City Imaging Center on October 5, 2023.
+**Inpatient Care Team:**
+- Attending Surgeon: Dr. Emily Rogers
+- Assistant Surgeon: Dr. Ian Malcolm
+- Anesthesiologist: Dr. Nathan Wu
+- Nursing Care: Led by Nurse Jessica Lin
+[O] **Indicators to Watch:** Report any signs of yellowing of the eyes or skin, unexpected pain increase, or changes in stool color to the healthcare provider immediately.
+**Approved by:** Dr. Emily Rogers
+**Date:** August 23, 2023
+**Time:** 2:00 PM
+**Contact Information:** For non-emergent queries, please contact General Surgery at 555-0198. In case of an emergency, proceed to the nearest emergency room or call 911.

@@ -1,0 +1,28 @@
+Inpatient Discharge Summary
+Eleanor Tan, MRN# 958362145, is a 67-year-old female, admitted to the cardiology service following a diagnosis of acute myocardial infarction. Admission Date: 11/10/2023. Discharge Date: 11/18/2023. Attending Provider: Dr. Nathan O'Conner.
+I. Encounter Overview:
+- Eleanor presented with chest pain radiating to her left arm. Cardiac catheterization confirmed a 90% blockage in her right coronary artery.
+- Treatment: Immediate angioplasty and stent placement. Managed with medication for blood pressure control and secondary prevention.
+II. Discharge Medications:
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 100 mg twice daily
+- Lisinopril 10 mg daily
+III. Laboratory Tests and Results at Discharge:
+- Lipid Panel: LDL cholesterol 98 mg/dL (Goal <70 mg/dL for CAD patients)
+- Electrolytes, renal function, and liver enzymes within normal limits
+- Discharge EKG shows normal sinus rhythm.
+IV. Patient Education:
+- Counselled on medication adherence, symptoms of potential cardiac events and when to seek immediate care.
+- Advised on lifestyle modifications including low cholesterol diet and regular physical activity.
+- Smoking cessation resources provided, as patient is a smoker.
+V. Follow-up Care:
+- Cardiology follow-up appointment scheduled for 12/02/2023 at Heart Health Specialists Clinic.
+- Primary care appointment for routine care and medication management on 11/25/2023 with Dr. Susan Amiro.
+VI. Discharge Instructions:
+- Emphasized the importance of adhering to the medication schedule.
+- Instructed to monitor blood pressure at home; record readings toreport to her primary care provider.
+- Counseled on identifying signs of infection at the site of the catheter insertion. 
+VII. Discharge Summary Prepared By:
+Dr. Ethan Morello, Cardiology Fellow. Reviewed and co-signed by Dr. Nathan O'Conner.
+This detailed summary provides a comprehensive overview of the patient’s admission, treatment during hospitalization, and detailed follow-up instructions to ensure continuity of care post-discharge. All efforts were made to prepare the patient and her family for her return home and management of her condition to avoid readmission.

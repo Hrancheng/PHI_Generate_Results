@@ -1,0 +1,36 @@
+**St. Helena Medical Center Discharge Summary**
+Patient Identifier: Emily Thompson  
+MRN: 572839105   
+Age: 68 years old  
+Admission Date: January 15, 2023  
+Discharge Date: January 28, 2023  
+Attending Physician: Dr. Harold Greene  
+Consulting Team: Cardiovascular Surgery  
+**Hospital Course:**
+Emily Thompson was admitted following a transient ischemic attack (TIA). An extensive work-up including brain MRI, echocardiogram, and carotid ultrasounds was performed. The findings suggested a high-risk atherosclerotic plaque in the right internal carotid artery. The patient underwent a successful carotid endarterectomy on January 18, 2023.
+Post-operatively, Emily experienced mild transient aphasia, which resolved with conservative management within 24 hours. Her post-operative recovery was otherwise unremarkable, and she underwent daily physiotherapy and was actively mobilized with assistance.
+Dr. Stephen Rodriguez, the vascular surgeon, assessed her and was satisfied with her surgical recovery. Cardiology also evaluated the patient due to her history of atrial fibrillation and initiated anticoagulation with Apixaban.
+Her stay was complicated by a urinary tract infection (UTI), which was treated effectively with a course of oral antibiotics.
+**Discharge Condition:**
+The patient showed significant improvement and was stable at the time of discharge. She was ambulatory, and her speech had returned to baseline.
+**Medications At Discharge:**
+- Apixaban 5 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Co-Amoxiclav 625 mg thrice daily for 5 more days
+- Acetaminophen 1 g every 6 hours as needed for pain
+**Follow-Up Plans:**
+Emily is to follow up with Dr. Linda Walsh at St. Helena Outpatient Clinic on February 5, 2023 for surgical wound check and to discuss further preventive measures against stroke. A referral for a repeat carotid ultrasound in 6 months has been arranged. Her medications and overall stroke risk factors will be reviewed in this appointment.
+**Contact for Questions or Concerns:**
+Should there be any concerns or questions post-discharge, the patient or family members may contact 312-555-0198 during office hours or present to their nearest emergency department.
+**Last Recorded Vital Signs:**
+- BP: 132/82 mmHg
+- Pulse: 78 bpm
+- Temp: 36.8 °C 
+- SpO2: 98% on room air 
+**Advice Given Upon Discharge:**
+The patient and family were educated about signs of infection, stroke symptoms, and the importance of medication adherence. Instructions for wound care were provided in writing. Modified diet advice was also given to help manage her cholesterol levels.
+**Discharge Instructions:**
+Maintain mild to moderate physical activity, monitor blood pressure and heart rate at home, and avoid driving until cleared by Dr. Walsh. Detailed instructions regarding anticoagulation management were also provided.
+Signed: Harold Greene, M.D.  
+Date: January 28, 2023  
+Time: 2:00 PM  

@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Edward Thompson, MRN# 348266545, is a 54-year-old male admitted for management of chest pain and evaluation of reported syncopal episodes that began suddenly on 09/15/2023.
+**Admission Date:** 09/15/2023
+**Discharge Date:** 09/20/2023
+**Attending Physician:** Dr. Hannah Morales
+**Consulting Team:** Cardiology, Neurology, Dietary
+**Hospital Service:** General Medicine/Cardiology
+**Hospital Course:**
+Mr. Thompson was admitted following a syncopal episode at home. Initial assessment suggested possible cardiac origin, considering the reported chest discomfort preceding the episode. Cardiac enzymes were within normal limits, but the ECG showed unspecific ST abnormalities. An echocardiogram displayed mild left ventricular hypertrophy with preserved ejection fraction.
+Neurological consult was sought to exclude a central cause of syncopal episodes. MRI of the brain was performed, showing no acute abnormalities. Carotid ultrasonography was normal, and EEG showed no seizure activity.
+During his stay, Mr. Thompson was started on ACE inhibitors and advised dietary modifications by our Nutrition team. Frequent orthostatic blood pressure checks were performed, and the patient showed improvement with medical management and was asymptomatic for 48 hours prior to discharge.
+**Medications at Discharge:**
+1. Aspirin 81 mg daily
+2. Lisinopril 10 mg daily
+3. Atorvastatin 20 mg at bedtime
+**Follow-Up Instructions:**
+Follow up in the Cardiology clinic on 09/28/2023 at Clinic 2B. Neurology follow-up as an outpatient with Dr. Linda Grey scheduled for 10/05/2023.
+**Discharge Condition:**
+Patient is stable, expressing understanding of discharge instructions and verbalized understanding the importance of strict adherence to prescribed medications and follow-up appointments.
+**Last Recorded Vital Signs:**
+BP 132/86, Pulse 74, Temp 98.6 °F, Resp 16, SpO2 98%.
+**Significant Lab Results:**
+- Troponin series: undetectable
+- CBC and Comprehensive Metabolic Panel within normal limits
+- Echocardiogram: Mild LVH, EF 54%
+**Discharge Diagnoses:**
+1. Syncope, likely vasovagal
+2. Hypertension
+3. Hyperlipidemia
+**Instructions and Precautions:**
+1. No heavy lifting or driving until the follow-up appointment.
+2. Maintain hydration, especially in warm weather.
+3. Report any recurrences of chest pain or syncope immediately.
+**Dietary Instructions:**
+Continue low salt, low cholesterol diet as instructed by the dietician.
+**Emergency Contact:**
+In case of emergency, the patient is instructed to call the Cardiology team at 555-672-9902 or visit the nearest emergency department.
+**Signed:**
+Dr. Hannah Morales, MD
+Date: 09/20/2023
+Time: 3:00 PM

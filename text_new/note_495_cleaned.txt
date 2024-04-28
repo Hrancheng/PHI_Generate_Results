@@ -1,0 +1,66 @@
+Inpatient Discharge Summary
+St. Michael's General Hospital
+Harold Finch, MRN# 567834290, is a 58 y.o. male, admitted to the Cardiology service following a myocardial infarction (MI). 
+Admission Date: 07/12/2023
+Discharge Date: 07/20/2023
+Attending Provider: Dr. Rebecca Miriam Oster
+Treatment Team:
+- Dr. Rebecca Miriam Oster 
+- Nurse Practitioner: Johnathan Parker
+Hospital Problems Noted - Resolved:
+POA Active Problems:
+- Myocardial Infarction 07/12/2023 - Present Yes
+- Hypertension 07/12/2023 - Present Yes
+Resolved Problems:
+RESOLVED: Elevated blood glucose levels 07/12/2023 - 07/16/2023 Yes
+RESOLVED: Transient atrial fibrillation 07/14/2023 - 07/18/2023 Yes
+Other Problems: None
+Recommendations for Follow Up:
+- Attention to Primary Care Provider, Dr. Melissa Carter, MD on 07/25/2023 for follow-up and ongoing blood pressure management.
+- Cardiology: Continue current medication and monitor heart function; follow-up appointment on 08/02/2023.
+Lab, Diagnostic Testing, and Referral Follow-Up:
+Orders given to patient:
+- Comprehensive metabolic panel to be conducted on 07/25/2023.
+- Echocardiogram scheduled for 07/28/2023.
+Next Steps: Follow up at City Health Cardiology Clinic 555-932-2045.
+Discharge Medications:
+- Aspirin 81 mg tablet: 1 tablet, Oral, ONCE DAILY
+- Atorvastatin 20 mg tablet: 1 tablet, Oral, ONCE NIGHTLY
+- Metoprolol 50 mg tablet: 1 tablet, Oral, TWICE DAILY
+- Lisinopril 10 mg tablet: 1 tablet, Oral, ONCE DAILY
+Specialty: Cardiology  
+1456 West Elm St., St. Michael's Medical Building, Suite 202, Springfield, IL 62704
+Scheduled Appointments:
+Date: 07/25/2023
+Time: 10:00 AM
+Provider: Dr. Melissa Carter, Primary Care
+Department: Internal Medicine
+Center: St. Michael's General Hospital, Internal Medicine Department
+Date: 08/02/2023
+Time: 2:15 PM
+Provider: Cardiology Nurse
+Department: Cardiology
+Center: City Health Cardiology Clinic
+Past Medical History:
+- Hypertension
+- Hyperlipidemia
+Pertinent Clinical Presentation on Admission/ Reason for Hospitalization:
+58-year-old male presented to the ER with chest pain and was diagnosed with a myocardial infarction on 07/12/2023. The patient underwent successful angioplasty and was stabilized. He has responded well to treatment and is being discharged in stable condition.
+Brief Hospital Course (including treatment rendered and response to treatment):
+Mr. Harold Finch was admitted under the care of the cardiology service. He underwent coronary angioplasty with stent placement to his left anterior descending artery. Post-procedure, his course was uncomplicated with improvement in chest pain and stabilization of cardiac enzymes. He participated in cardiac rehabilitation and was educated on lifestyle modifications and medication adherence.
+Discharge Condition:
+Stable condition, understanding of discharge medications and follow-up care instructions.
+Final Diagnoses:
+1. Myocardial Infarction, managed successfully with angioplasty.
+2. Stable hypertension, continue antihypertensive medications.
+3. Hyperlipidemia, continue statin therapy.
+Special Instructions:
+- Avoid heavy lifting and strenuous activity until follow-up appointment.
+- Adhere strictly to prescribed medication regimen.
+- Maintain a heart-healthy diet as discussed with the dietary team.
+Contact Information for Follow-Up:
+555-932-2045, City Health Cardiology Clinic
+The patient and his family understand the diagnosis, planned treatment, and necessary follow-up appointments. He has been provided with prescriptions and a scheduled appointment confirmation. 
+Signed by: Dr. Rebecca Miriam Oster
+All teams involved communicated effectively ensuring the patient was well informed about his condition and care plan. We anticipate a good recovery with adherence to the post-discharge plan.
+**Discharge Summary completed and reviewed by the medical records department on 07/20/2023**

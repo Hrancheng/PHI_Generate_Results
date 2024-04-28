@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+Patient: Eleanor Rigby
+MRN#: 568937452
+DOB: June 1, 1964
+Age: 59 years old
+Admission Date: October 21, 2023
+Discharge Date: October 27, 2023
+Attending Provider: Dr. Helen Cho
+Diagnosis upon Admission: Acute cholecystitis
+**Hospital Course**:
+Ms. Eleanor Rigby was admitted with severe abdominal pain in the right upper quadrant and was diagnosed with acute cholecystitis. Her admission was marked by persistent pain and fever. An ultrasound confirmed gallstones and inflammation. She was managed with IV antibiotics and fluids.
+**Surgical Intervention**:
+Cholecystectomy performed on October 23, 2023 by Dr. Alan Grant. The procedure was laparoscopic and completed without complications. Postoperative recovery was smooth, with improvement in pain and inflammatory markers.
+**Medications on Discharge**:
+1. Paracetamol 500 mg, Oral, Q6H PRN for pain
+2. Ibuprofen 400 mg, Oral, Q8H PRN for fever or discomfort
+**Allergies**:
+No known drug allergies (NKDA)
+**Instructions on Discharge**:
+- Diet: Advance as tolerated, initially light meals recommended
+- Activities: Avoid heavy lifting and strenuous activities for 2 weeks
+- Follow-up: Appointment with Dr. Alan Grant on November 3, 2023 for postoperative evaluation
+- Wound care: Keep the surgical site clean and dry. Observe for signs of infection.
+**Particulars for Emergency**:
+If experience fever, worsening pain, or any signs of infection, please visit the nearest emergency room or call 555-0198.
+**Other Instructions**:
+Drink plenty of fluids to stay hydrated and continue walking daily to aid recovery.
+**Discharge Status**:
+The patient is stable with significant improvement in symptoms. Wound healing is progressing well, and she is cleared to return home with the outlined precautions and follow-up appointments.
+**Discharge Medications**:
+1. Paracetamol 650 mg tablet, Q4-6H PRN pain: Refills: 0
+2. Ibuprofen 400 mg tablet, Q6-8H PRN swelling or discomfort: Refills: 2
+**Follow-Up Appointments**:
+1. Surgical follow-up with Dr. Alan Grant, City General Hospital Surgical Associates, on November 3, 2023 at 10 AM.
+**Discharge Prepared by**:
+Mia Jackson, RN
+**Reviewed and Signed by**:
+Dr. Helen Cho
+October 27, 2023, 4:30 PM
+**Hospital Facility**:
+City General Hospital, 123 Wellness Drive, Springfield, IL, 62704
+**Contact Information**:
+555-1234 for General Inquiries
+555-0198 for Emergency Contact
+**Notes**:
+Ms. Rigby has been briefed on her condition and the necessity to comply strictly with the discharge instructions. She expressed understanding of all directives and verbalized confidence in managing her care at home.

@@ -1,0 +1,61 @@
+**St. Helena Medical Center - Discharge Summary**
+**HFT Inpatient Discharge Summary**  
+**Patient:** Elizabeth Morrows  
+**MRN:** 356842257  
+**Age:** 68 y.o.  
+**Admission Date:** 02/15/2023  
+**Discharge Date:** 02/28/2023  
+**Attending Provider:** Dr. Henry Carlton  
+**Treatment Team:**  
+**!! FIRST CONTACT !!:** 6th Floor Nursing - Pager 32060
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- Chronic heart failure 02/16/2023 - Present Yes  
+Resolved Problems  
+RESOLVED: Urinary tract infection (UTI) 02/15/2023 - 02/20/2023 Yes  
+RESOLVED: Hypertension 02/15/2023 - 02/28/2023 Yes
+**Recommendations for Follow-Up:**  
+Dr. Samuel Robert will continue to monitor heart condition monthly.  
+**Next Steps:**  
+- Follow-up Saint Mary’s Outpatient Clinic 585-194-3782  
+- **Instructions:**  
+  - Elizabeth will be visited by nurse from Local Home Health Care Services to assist with medication management and physical therapy.  
+**Signed:** Henry Carlton, MD, 02/28/2023, 4:45 PM
+**Last Recorded Vital Signs:**  
+- BP 122/78 | Pulse 72 | Temp 36.8°C | Resp 16 | SpO2 97%  
+**Pertinent Discharge Physical Exam Findings:**  
+- **General appearance:** alert, appears stated age  
+- **Heart:** regular rate and rhythm, no murmur noted  
+- **Lungs:** clear to auscultation bilaterally  
+- **Abdomen:** soft, non-tender  
+- **Extremities:** no edema noted, normal peripheral pulses  
+**Operations/Major Procedures:**  
+- **Case ID:** 765390  
+- **Date:** 02/20/2023  
+- **Procedure:** Cardiac catheterization with stenting  
+- **Surgeon:** Laura Hastings, MD  
+- **Location:** Cardiac Cath Lab  
+- **Status:** Completed without complications  
+**Significant Test or Procedure Results:**  
+- **Echocardiogram (02/18/2023):** Mild left ventricular hypertrophy, EF 40%  
+- **Chest X-ray (02/25/2023):** No acute disease  
+**Discharge Medications:**  
+- Lisinopril 20 mg daily  
+- Metoprolol 50 mg twice daily  
+- Furosemide 40 mg daily  
+- Aspirin 81 mg daily  
+**Patient Education:**  
+- Low sodium diet  
+- Monitoring fluid intake  
+- Regular physical activity as tolerated  
+- Importance of medication adherence discussed  
+**Follow-up Appointments:**  
+- Cardiology follow-up with Dr. Samuel Robert on 03/15/2023 at 10:00 AM  
+- Primary care appointment with Dr. Anna Choi on 03/18/2023 at 2:00 PM  
+**Additional Notes:**  
+Patient educated about signs and symptoms of worsening heart failure and when to seek immediate care. A care package including educational brochures and emergency contact numbers was provided. Patient discharged in stable condition with caregiver support at home.
+**Hospital Administration Use Only:**  
+**Document ID:** 5567-39-6802  
+**Date Filed:** 03/01/2023  
+**Prepared By:** Nancy Fielder, RN  
+**Verified By:** Jonathan Pike, MD (Chief of Medicine)

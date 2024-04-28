@@ -1,0 +1,38 @@
+Inpatient Discharge Summary
+Mercy General Hospital
+Patient Information:
+Jessica Tanner, MRN: 123456798, is a 28-year-old female admitted to the General Surgery service following a motor vehicle collision. 
+Admission Date: 2/15/2023
+Discharge Date: 2/21/2023
+Admitting Provider: Dr. John Rivera
+Primary Care Provider: Dr. Samantha Lee
+Insurance: MediCare Health, Policy #987654321
+Chief Complaint: Abdominal pain and dizziness following vehicular trauma.
+History of Present Illness:
+Jessica was brought in by ambulance following a high-speed collision wherein her vehicle was hit from the side. She complained of significant left abdominal pain and was noted to have dizziness with borderline hypotension upon arrival.
+Hospital Course:
+Upon admission, the patient underwent a full trauma workup, including a CT scan of the abdomen and pelvis which revealed a small spleen laceration and bruising on the left kidney. She was managed conservatively with success, pain controlled adequately with IV acetaminophen and ketorolac, avoiding opioids given her past medical history of opioid use disorder. Jessica remained hemodynamically stable throughout her stay, with hematocrit levels closely monitored.
+Relevant Studies:
+1. CT abdomen/pelvis on 2/15/2023: Small spleen laceration.
+2. Hemoglobin on Admission: 12.3 g/dL; Discharge: 11.9 g/dL.
+Procedure:
+None performed. 
+Consultations:
+1. General Surgery: Evaluated the abdominal trauma, recommended conservative management.
+2. Psychiatry: Consulted due to her history of opioid use; counseled on stress management and adjustments to her recovery plan after discharge.
+Discharge Medications:
+1. Acetaminophen 650 mg, Oral: Q6HR PRN for pain.
+2. Ketorolac 10 mg, Oral: Every 8 hours for 3 days.
+Follow-up:
+Patient is to follow-up in the General Surgery clinic on 2/28/2023. Psychiatry follow-up within two weeks at Mercy Behavioral Health.
+Condition at Discharge:
+Jessica is stable with pain well-controlled. She is to continue with activity as tolerated and a follow-up for a re-evaluation of the spleen laceration with an outpatient ultrasound in one week. Instructions given for seeking immediate care if symptoms worsen.
+Discharge Instructions:
+Jessica has been counseled regarding signs of bleeding, infection, and the importance of follow-up appointments. She understands the symptoms that would necessitate a return to the hospital.
+Prepared by: Dr. Laura Mitchell
+Date: 2/21/2023
+Time: 10:00 AM
+Signed Electronically by Dr. Laura Mitchell on 2/21/2023 at 10:15 AM
+Emergency Contact:
+Karen Tanner (Mother)
+555-0198

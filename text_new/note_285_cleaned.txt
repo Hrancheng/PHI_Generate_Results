@@ -1,0 +1,45 @@
+Inpatient Discharge Summary
+==========================
+Patient Name: Michael Thompson
+MRN#: 987654321
+Age: 65 y.o.
+Date of Admission: September 12, 2023
+Date of Discharge: September 20, 2023
+Attending Physician: Dr. Sarah Billings
+Referring Physician: Dr. Henry Alam
+Admission Diagnosis: Acute cholecystitis
+Discharge Diagnosis: Acute cholecystitis, resolved
+Hospital Course:
+----------------
+Mr. Thompson was admitted to Regional Health Hospital with severe right upper quadrant pain, fever, and leukocytosis. An ultrasound confirmed the presence of cholelithiasis and a thickened gallbladder wall. He was initially managed with IV antibiotics and fluids. Due to persistent symptoms, he underwent a laparoscopic cholecystectomy on September 14, 2023, which was converted to an open procedure due to difficult anatomy.
+Postoperative recovery was uneventful, and his pain was well controlled with oral analgesics. His diet was gradually advanced, and he tolerated a low-fat diet well by the time of discharge. His wound sites are clean, dry, and intact with no signs of infection.
+Discharge Medications:
+---------------------
+1. Acetaminophen 500 mg tablet: Take 1 tablet by mouth every 6 hours as needed for pain.
+2. Amoxicillin 500 mg capsule: Take 1 capsule by mouth three times a day for 7 days.
+Follow-Up:
+----------
+Mr. Thompson is scheduled for a follow-up appointment with his primary care physician, Dr. Henry Alam, on September 28, 2023 at City Medical Group. He should also schedule a postoperative visit with Dr. Sarah Billings in 2 weeks at the surgical clinic. 
+Dietary Instructions:
+---------------------
+Continue with a low-fat diet for the next 4-6 weeks. Gradually reintroduce other foods as tolerated and monitor for any gastrointestinal symptoms.
+Activity Instructions:
+----------------------
+Avoid lifting objects heavier than 10 pounds and abstain from driving for at least one week. Gradually increase activity as tolerated.
+Warning Signs:
+--------------
+Seek immediate medical attention if experiences fever, worsening pain, jaundice, or any signs of infection at the wound site.
+Discharge Condition:
+--------------------
+Stable to return home under the care of his spouse, Elizabeth Thompson. He understands all discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to the hospital.
+Last Recorded Vital Signs:
+--------------------------
+- BP: 128/76 mmHg
+- HR: 72 bpm
+- Temp: 98.6 °F
+- RR: 16 bpm
+Regional Health Hospital's Discharge Summary
+Prepared by: Sarah Billings, MD
+Date: September 20, 2023, Time: 11:30 AM
+Assistant: Nora K. Lee, RN
+Review and Signature: Sarah Billings, MD

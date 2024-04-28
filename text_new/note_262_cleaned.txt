@@ -1,0 +1,48 @@
+Inpatient Discharge Summary
+------------------------------
+Patient Name: Mary Elizabeth Winston
+MRN: 459321789
+Age: 56 years
+Dates of Service: Admitted on 2/25/2023 and Discharged on 3/5/2023
+**Chief Complaint:**
+Patient initially presented with severe abdominal pain and vomiting.
+**History of Present Illness:**
+Mary experienced escalating abdominal discomfort over the past week, described as sharp and constant. Associated symptoms included nausea and three episodes of vomiting on the day of admission. Over-the-counter antacids did not relieve her symptoms.
+**Past Medical History:**
+- Type 2 Diabetes
+- Hypertension
+- Previous appendectomy (2005)
+**Medications on Admission:**
+- Metformin 500 mg twice daily
+- Lisinopril 20 mg once daily
+**Hospital Course:**
+Mary was admitted under the care of Dr. Johnathan Meyers, gastroenterology. An abdominal ultrasound and CT scan revealed gallstones and cholecystitis. She underwent laparoscopic cholecystectomy on 2/27/2023, which was uneventful.
+Post-operatively, she developed a mild fever, managed effectively with acetaminophen and intravenous antibiotics. Her recovery was otherwise straightforward, with a gradual return to a normal diet and activity by 3/2/2023.
+**Consults:**
+- Nutrition: Evaluated and provided a low-fat diet plan.
+- Diabetes Management: Reviewed by Endocrinology; adjustments made to her diabetic medications.
+**Condition at Discharge:**
+Stable. All vital signs within normal limits. Patient reports significant improvement in symptoms.
+**Medications at Discharge:**
+- Metformin 500 mg twice daily
+- Lisinopril 20 mg once daily
+- Oxycodone 5 mg every 6 hours as needed for pain
+**Follow-Up Appointments:**
+- Community Health Clinic for surgical follow-up on 3/12/2023 with Dr. Emily Strauss, PA.
+- Diabetes follow-up with Dr. Ivan Gregor on 3/15/2023 at the Downtown Medical Center.
+**Discharge Instructions:**
+- Avoid lifting heavy objects for 4 weeks.
+- Continue a low-fat diet as discussed with the dietitian.
+- Monitor for signs of infection or undue pain at the incision sites.
+- Resume diabetes medications immediately; monitor blood sugar levels at least twice daily.
+**Labs/Results on Discharge:**
+- WBC: 7.3 (within normal range)
+- Hemoglobin: 13.2 (stable)
+- Fasting Blood Glucose: 158 mg/dL
+**Codes Status:**
+Full code
+**Prepared by:**
+Dr. Johnathan Meyers, GI specialist, 3/5/2023
+**Reviewed and co-signed by:**
+Dr. Anna Fitzgerald, Chief of Surgery, 3/5/2023
+Note: This summary is intended for use by the following medical care providers and should be included in the patient's personal health records to ensure continuity of care.

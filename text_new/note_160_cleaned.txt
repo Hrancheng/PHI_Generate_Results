@@ -1,0 +1,38 @@
+**Metro Health Medical Center Discharge Summary**
+**Patient Name**: Mary Elizabeth Thomson  
+**MRN**: 45789432  
+**Age**: 65 years  
+**Admission Date**: 09/05/2023  
+**Discharge Date**: 09/15/2023  
+**Attending Physician**: Dr. Henry George
+---
+**Hospital Course**:
+Mrs. Thomson was admitted following a fall at her home in Portland, Oregon. On arrival, severe pain in her hip was noted, and imaging confirmed a left hip fracture. She underwent successful hip replacement surgery on 09/06/2023 conducted by Dr. Lisa Huang. Post-operatively, she developed mild pneumonia, which responded well to empiric antibiotic therapy. Physical therapy was initiated early, focusing on ambulation and strengthening exercises.
+**Consultations**:
+1. Orthopedics – Dr. Lisa Huang
+2. Respiratory Medicine – Dr. Aaron Milstone
+**Medications at Discharge**:
+1. Acetaminophen 650 mg every 6 hours as needed for pain
+2. Calcium Carbonate 500 mg twice daily
+3. Enoxaparin 40 mg subcutaneous daily for 10 days
+**Allergies**:
+No known drug allergies.
+**Code Status**:
+Full Code
+**Functional Status at Discharge**: 
+Improved, able to ambulate with walker, requires assistance with daily activities.
+**Discharge Disposition**:
+The patient will be discharged to Highland Nursing Facility for continued physical therapy and rehabilitation. 
+**Follow-Up Appointments**:
+1. Orthopedic follow-up in 2 weeks with Dr. Lisa Huang at Metro Orthopedic Clinic.
+2. Primary care follow-up within 1 month with Dr. Robert Smith.
+**Pending Lab and Studies**:
+Bone density scan scheduled for 09/20/2023.
+**Instructions for Patient**:  
+Maintain weight-bearing precautions as instructed in physical therapy. Continue antibiotic course as prescribed. Regularly monitor temperature and seek medical attention if signs of infection or unusual pain occur.
+**Summary and Instructions Signed by**:
+Dr. Henry George, 09/15/2023 at 10:30 AM
+---
+For further inquiries or urgent concerns, please contact 555-123-4567 or visit our hospital located at 123 Health Avenue, Portland, OR. Use this number also to confirm appointments.
+**Acknowledgement**:
+This summary is provided to ensure seamless care transition and to guide outpatient providers about the current treatment plan. Details mentioned above are confidential and intended only for the use of individual healthcare providers handling the patient's care post-discharge.

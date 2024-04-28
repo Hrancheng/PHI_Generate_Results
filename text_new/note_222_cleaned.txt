@@ -1,0 +1,43 @@
+**Inpatient Discharge Summary**
+**Patient**: Michael Thomas, MRN# 724813506
+**Age**: 65-year-old
+**Sex**: Male
+**Admission Date**: 01/10/2023
+**Discharge Date**: 01/20/2023
+**Admitting Diagnosis**:
+1. Acute decompensated heart failure
+2. Type 2 diabetes mellitus
+**Discharge Diagnoses**:
+1. Heart failure with reduced ejection fraction stabilized
+2. Type 2 diabetes mellitus - well controlled on discharge medications
+**Hospital Course**:
+Mr. Michael Thomas presented to the emergency department on 01/10/2023 with symptoms of shortness of breath, orthopnea, and bilateral lower extremity swelling. Initial examination revealed rales half way up both lung fields, and pedal edema. Chest X-ray confirmed pulmonary edema. He was admitted under the care of Dr. Samantha Lee for acute decompensated heart failure secondary to ischemic cardiomyopathy. 
+His hospital stay involved optimization of diuretic therapy, initiation of ACE inhibitors, and careful management of his diabetes with insulin adjustments. The patient showed good clinical response with resolution of pulmonary edema and improvement in limb swelling. His glucose levels were well-managed with a regimen of Lantus and sliding scale Novolog.
+**Medications on Discharge**:
+1. Furosemide 40 mg daily
+2. Lisinopril 10 mg daily
+3. Metformin 500 mg twice daily
+4. Lantus 30 units at bedtime
+5. Novolog as per sliding scale
+**Discharge Disposition**: Home
+**Follow-up Appointments**:
+1. 01/25/2023 at 10 AM - Follow-up with primary care physician Dr. Henry Grant at City Medical Associates, 742 Evergreen Terrace, Springfield.
+2. 02/01/2023 at 2 PM - Cardiology outpatient visit with Dr. Eliza Cormier at Heart Health Clinic.
+**Diet**: Heart-healthy diet, restricted fluid and sodium intake.
+**Activity**: Gradual increase in activity as tolerated, daily weights, and monitoring for signs of fluid overload.
+**Other Instructions**:
+- Educated on the importance of medication adherence and daily weight monitoring.
+- Instructed to seek immediate medical attention if symptoms of heart failure such as increased shortness of breath, sudden weight gain, or leg swelling reoccur.
+**Discharge Condition**:
+Stable, with significant improvement noted in heart failure symptoms and general health condition.
+**Last Recorded Vital Signs**:
+- BP: 132/82
+- HR: 78 
+- RR: 16
+- Temp: 98.6°F
+- O2 Sat: 94% on room air
+**Prepared by**:
+Samantha Lee, MD, Cardiologist
+Date: 01/20/2023
+Time: 4:00 PM
+This discharge summary provides an overview of Mr. Thomas's hospital stay from admission to discharge, including treatment renditions, response to interventions, and plans for follow-up care.

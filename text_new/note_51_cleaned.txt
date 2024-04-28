@@ -1,0 +1,39 @@
+**Saint Martha's General Hospital Inpatient Discharge Summary**
+**Patient Information:**  
+- **Johnathon Pierce**  
+- MRN: 23456987  
+- 45 y.o. Male  
+- Admission Date: January 21, 2023  
+- Discharge Date: January 30, 2023  
+- Attending Physician: Dr. Alice Johnson  
+- Referring Physician: Dr. Henry Clarke  
+**Hospital Course:**  
+Mr. Pierce was admitted with a diagnosis of acute pancreatitis. His condition was managed with IV fluids, antibiotics, and pain management. He responded well to the treatment with a decrease in pain and improvement in pancreatic enzymes. The patient tolerated a liquid diet well and gradually progressed to a solid diet.
+**Consultations:**  
+Gastroenterology: Dr. Linda Grey assessed the patient and recommended an ERCP, which was performed on January 25, 2023 and showed no evidence of choledocholithiasis.
+**Procedures:**  
+- ERCP: January 25, 2023  
+- Abdominal Ultrasound: January 22, 2023  
+**Medications at Discharge:**  
+- Pantoprazole 40 mg daily  
+- Metronidazole 500 mg IV q8h until January 29, 2023 then stop  
+- Ciprofloxacin 400 mg IV q12h until January 28, 2023 then stop  
+**Allergies:**  
+No known drug allergies (NKDA)
+**Discharge Instructions:**  
+Mr. Pierce is advised to follow a low-fat diet, avoid alcohol, and abstain from smoking. He should schedule a follow-up appointment with his primary care physician, Dr. Henry Clarke, within a week after discharge. Should he experience increasing abdominal pain, vomiting, or any other concerning symptoms, he should return to the ER or contact his doctor immediately.
+**Follow-up Appointments:**  
+- Gastroenterology follow-up in four weeks at Saint Martha's Gastroenterology Clinic  
+- Primary Care Physician: Dr. Henry Clarke within one week    
+  Phone: 555-0102  
+**Address:**  
+1234 Health Drive, Wellness City, GA 30301
+**Phone:** 404-555-1234
+**Summary:**  
+- Johnathon Pierce had an uncomplicated hospital course following an admission for acute pancreatitis. His pain is well-controlled, and he has returned to a regular diet. There were no complications from his ERCP. He was counseled extensively on lifestyle modifications to prevent future episodes.
+**Discharge Condition:**  
+Improving. The patient feels better than at the time of admission and understands his discharge instructions completely.
+**Prepared by:**  
+Dr. Alice Johnson, Attending Physician  
+Date: January 30, 2023  
+Time: 11:30 AM

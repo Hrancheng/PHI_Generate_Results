@@ -1,0 +1,41 @@
+**Springfield General Hospital**
+**Inpatient Discharge Summary**
+Patient: Robert Thompson, MRN#: 784512309, is a 58 y.o. male, admitted to Springfield General’s Cardiology service for management of his chronic heart failure and episode of acute chest pain.
+Admission Date: 2/3/2023
+Discharge Date: 2/10/2023
+Attending Provider: Dr. Amelia Hart
+Treatment Team: Cardiac Care Unit Floor Team
+**Hospital Course**
+Robert Thompson presented with an exacerbation of heart failure and chest pain. After initial evaluation in the ER, he was directly admitted to the telemetry unit. Initial labs showed elevated cardiac markers, and immediate management included IV diuretics and initiation of a nitroglycerin drip. Serial echocardiograms indicated decreased ejection fraction compared to previous records.
+Significant interventions during the hospital stay included optimization of his heart failure medications and close monitoring of his fluid status. A coronary angiogram performed on 2/5/2023 identified progressive disease in the left anterior descending artery, treated with balloon angioplasty and stenting.
+The patient's response to interventions was favorable, with improvement in chest pain and stabilization of cardiac enzymes. He was stepped down from the telemetry unit to the general medical floor after three days and continued to recover uneventfully under the close observation of the cardiology team.
+**Discharge Medications**
+New meds introduced:
+1. Carvedilol 25 mg twice daily
+2. Atorvastatin 40 mg nightly
+3. Clopidogrel 75 mg daily for 12 months
+**Follow-up Instructions**
+1. Follow up with Dr. Amelia Hart in one week.
+2. Cardiac Rehabilitation Referral: Heart Strong Rehab Center, 555-892-3462.
+3. Diet and Fluid Restriction: Patient advised to restrict fluid to less than 2 liters per day and adhere to a low-sodium diet.
+**Discharge Instructions**
+Robert Thompson is advised to monitor for signs of worsening heart failure including increasing shortness of breath, weight gain of more than 3 pounds in a day, or 5 pounds in a week, swelling in the ankles, and persistent chest pain. If these occur, he should seek immediate medical attention or contact the hospital.
+**Outpatient Tests and Procedures**
+Scheduled for a repeat echocardiogram in six weeks at Springfield Diagnostic Imaging.
+**Recommendations for Health Maintenance**
+Patient encouraged to continue no smoking, engage in mild to moderate-intensity exercise as tolerated, and follow a heart-healthy diet.
+**Discharge Condition**
+Patient's condition upon discharge was stable. He was ambulatory, with vital signs within normal limits, and he expressed understanding of discharge instructions and plan to manage his health.
+**Discharge Readiness**
+Confirmed by Dr. Amelia Hart on 2/10/2023, 10:00 AM
+**LACE Readmission Risk Score**
+Total Score: 10 (Assessing risk for readmission or death within 30 days)
+ - Length of Stay: 7
+ - Acuity of Admission: Emergent
+ - Comorbidities: Multiple comorbid conditions addressed
+ - Emergency Department Visits in the last 6 months: 2
+Patient was counseled on the significance of the LACE score and the measures to be taken to avoid potential readmission.
+**Prepared By:**
+Cardiology Discharge Team
+Springfield General Hospital
+Date: 2/10/2023

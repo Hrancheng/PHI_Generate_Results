@@ -1,0 +1,32 @@
+**Discharge Summary**
+**Patient Name**: Melissa Thompson    
+**Medical Record Number**: 987654321    
+**Age**: 52 years old  
+**Admission Date**: September 14, 2023    
+**Discharge Date**: September 28, 2023    
+**Attending Physician**: Dr. Harold Green  
+**Hospital Service**: General Medicine  
+**Primary Diagnosis**: Acute Cholecystitis  
+**Secondary Diagnosis**: Hypertension
+**Hospital Course**:  
+Ms. Thompson was admitted with severe right upper quadrant pain, nausea, and vomiting. An ultrasound confirmed the presence of gallstones and acute inflammation of the gallbladder. She was initially managed with IV antibiotics and pain control. Her response was monitored by Dr. Emily Stanton, and after no significant improvement, she underwent a laparoscopic cholecystectomy performed by Dr. Leonard Kravitz. The surgery was without complications, and her post-operative recovery was smooth with good pain management and gradual reintroduction of diet.
+**Medications on Discharge**:
+1. Acetaminophen 650 mg every 6 hours as needed for pain
+2. Lisinopril 20 mg daily for hypertension
+3. Metoprolol 50 mg twice daily for blood pressure control
+**Discharge Instructions**:  
+Ms. Thompson is advised to avoid heavy lifting and fatty foods for the next four weeks. She should continue her hypertension medications as prescribed. Follow-up appointments are scheduled with her primary care physician Dr. Anna Fielding in two weeks, and a surgical follow-up with Dr. Leonard Kravitz in one week. Report any signs of infection, unresolved pain, or jaundice immediately.
+**Follow-up Contact Information**:  
+General Medicine: 555-123-4567  
+Dr. Leonard Kravitz: 555-987-6543  
+**Condition at Discharge**:  
+Ms. Thompson is discharged in stable condition, with pain well-controlled on oral medications. She is ambulating as tolerated and shows no signs of infection.
+**Labs at Discharge**:  
+- WBC: 11,000/uL (elevated post-operatively, trending down)
+- Hemoglobin: 12.5 g/dL
+- Electrolytes within normal limits
+**Pending Labs**:
+- Culture results from surgical specimens to rule out any underlying microbial infection.
+**Signed**: Dr. Harold Green  
+**Date/Time**: September 28, 2023, 3:00 PM
+This discharge summary contains all the pertinent information following the guidelines for de-identification, ensuring patient privacy while maintaining detailed medical and procedural information for continuity of care.

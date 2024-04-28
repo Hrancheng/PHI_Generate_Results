@@ -1,0 +1,43 @@
+Inpatient Discharge Summary
+Michael Thompson, MRN# 353211290, is a 41-year-old male admitted to the General Medicine service for evaluation and management of a suspected peptic ulcer. 
+Admission Date: 12/01/2022 
+Discharge Date: 12/05/2022 
+Attending Provider: Dr. Sarah Mitchell
+Treatment Team: Medical Resident: John Carter, Nurse: Emily Watson
+Hospital Problems Noted - Resolved:
+- Peptic Ulcer Disease 12/01/2022 - 12/05/2022 Yes
+- Gastroesophageal Reflux Disease (GERD) 12/01/2022 - 12/05/2022 Yes
+Resolved Problems:
+- H. pylori infection 12/02/2022 - 12/05/2022 Yes
+- Epigastric pain 12/01/2022 - 12/05/2022 Yes
+Other Problems:
+- Hypertension 12/01/2022 - Present Yes
+Recommendations for Follow-Up:
+Attention to Primary Care Attending: Laura Grey, MD at Riverside Medical Clinic
+- Follow up appointment on 12/12/2022 for H. pylori eradication therapy assessment.
+- Upper endoscopy re-evaluation scheduled for 01/15/2023.
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:
+- H. pylori stool antigen test on 12/10/2022.
+Discharge Medication List:
+- Amoxicillin 500 mg, take one tablet by mouth twice daily for 14 days.
+- Clarithromycin 500 mg, take one tablet by mouth twice daily for 14 days.
+- Lansoprazole 30 mg, take one capsule by mouth daily for 30 days.
+- Metoprolol Tartrate 50 mg, take one tablet by mouth twice daily, continued.
+Medications at Discharge:
+- Michael Thompson is to continue with his blood pressure medications as prescribed before admission.
+Discharge Instructions:
+- Avoid NSAIDs and alcohol to prevent exacerbation of ulcer symptoms.
+- Follow a bland diet for the next month to aid in the healing of the peptic ulcer.
+Next Steps and Lifestyle Adjustments:
+- Scheduled follow-up calls on 12/07/2022 and 12/09/2022 by Riverside Medical Clinic nursing staff to check on symptom progression and medication adherence.
+Pertinent Discharge Physical Exam Findings:
+General appearance: Stable and comfortable, in no acute distress.
+Abdomen: Soft, non-tender, non-distended, no palpable masses 
+Significant Test or Procedure Results:
+Upper Endoscopy (12/04/2022) - Revealed a small peptic ulcer in the antrum; biopsies taken, pending pathology results.
+Last Recorded Vital Signs:
+BP 130/85 mmHg, Pulse 78 bpm, Temp 98.6 °F, Weight 185 lb, SpO2 98% on room air.
+Discharge Condition:
+Stable for discharge, to follow up as per the plan with primary care and gastroenterology.
+Discharge Status: Cleared to return home under the care of his family member, Samantha Thompson.
+All hospital care providers concur with the discharge plan, and there are no pending tests requiring inpatient stay. A copy of the full discharge instructions has been provided to the patient and his caregiver, alongside prescriptions for ongoing medications. A follow-up outpatient appointment has been scheduled accordingly.

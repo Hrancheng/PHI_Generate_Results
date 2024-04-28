@@ -1,0 +1,35 @@
+Inpatient Discharge Summary
+Rosalie Turner, MRN# 609943827, is a 62 y.o. 4/14/1960 female, admitted to the General Medicine service for management of acute decompensated heart failure. Admission Date: 3/15/2023 Discharge Date: 3/25/2023 Attending Provider: Dr. Ethan Gregory
+Treatment Team: General Medicine Service  
+Hospital Problems Noted:
+  - Active Problems:
+    Acute Decompensated Heart Failure 3/15/2023 - Present Yes, Chronic Kidney Disease Stage 3 3/15/2023 - Present Yes
+  - Resolved Problems:
+    Elevated Blood Pressure 3/15/2023 - 3/20/2023 Yes
+Hospital Course:
+Rosalie Turner was admitted with acute exacerbation of chronic heart failure, characterized by worsening dyspnea and bilateral lower extremity edema. Upon admission, chest radiography confirmed pulmonary edema. The patient was managed with intravenous diuretics and transitioned to oral diuretics once her volume status improved.
+Plans for Discharge:
+- Cardiology follow-up within two weeks of discharge.
+- Continuation of oral diuretics and potassium supplements.
+- Monitor daily weights and adjust diuretics as instructed.
+- Blood pressure target set below 130/80 mmHg.
+Discharge Medications:
+- Furosemide 40 mg, Oral, Twice Daily
+- Potassium Chloride 20 mEq, Oral, Once Daily
+- Metoprolol Tartrate 50 mg, Oral, Twice Daily
+Discharge Condition: Stable
+Disposition: Home with home health services specified by Allied Home Health
+Instructions at Discharge:
+Patient is instructed to weigh herself daily and report any weight gain of more than 3 pounds in a day or 5 pounds in a week. She is also advised to maintain a low-salt diet and monitor her fluid intake strictly according to the given plan.
+Home Health Care:
+- Allied Home Health will visit the patient thrice weekly to monitor her health status, ensure medication compliance, and educate on dietary restrictions and fluid management.
+- Skilled nursing for administering IV medication if acute weight gain and symptoms of heart failure recur.
+Follow-up:
+- Primary care follow-up with Dr. Sylvia Jenkins within one week post-discharge.
+- Cardiology follow-up scheduled for 4/5/2023 with Dr. Ian McMurray.
+Communications:
+A summary of this hospital stay and the discharge plan have been communicated to her Primary Care Provider, Dr. Sylvia Jenkins, today, 3/25/2023 via electronic health records update.
+Signed:
+Ethan Gregory, MD, 3/25/2023, 4:30 PM
+### Summary:
+This discharge summary effectively communicates the plan for Rosalie Turner's transition from hospital to home, ensuring continuity of care with detailed instructions for both the patient and follow-up providers, while preserving the patient's privacy by de-identifying all personal health information (PHI).

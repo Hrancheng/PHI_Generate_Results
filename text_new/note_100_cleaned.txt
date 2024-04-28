@@ -1,0 +1,50 @@
+**University Medical Center Inpatient Discharge Summary**
+Eleanor Thompson, MRN# 458962357, is a 62-year-old female, admitted to the cardiology service due to chest pain and shortness of breath. 
+Admission Date: 02/15/2023
+Discharge Date: 02/20/2023
+Attending Provider: Dr. Henry Abrams
+Treatment Team: Cardiology Unit C3
+!! FIRST CONTACT !!:
+ICU Nurse Calls - PAGER 17205
+**Hospital Problems Noted - Resolved/Active Problems:**
+- Acute myocardial infarction 02/15/2023 - Present Yes
+- Hypertension 02/15/2023 - 02/20/2023 Yes
+- Diabetes Mellitus Type 2 02/15/2023 - Present Yes
+**Resolved Problems:**
+- RESOLVED: Hypoxemia 02/16/2023 - 02/18/2023 Yes
+**Other Problems:** 
+None
+**Recommendations for Follow-Up:**
+Attention to Primary Care Physician: 
+General follow-up recommended in one week.
+To Do's for Referring/Subspecialty Provider(s):
+- Cardiology: 03/01/2023 for echocardiogram follow-up
+- Endocrinology: Review and manage diabetes treatment regimen.
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders:**
+- CBC, CMP, lipid panel, and HbA1c scheduled for 02/28/2023
+Next Steps: 
+Follow up with Dr. Susan Lee, MD at Heart Health Specialists 555-423-7890
+Next Steps Follow up Instructions: 
+Samantha, Care Coordinator will arrange transport to your home and ensure all prescriptions are delivered.
+Scheduled Appointments:
+Future Appointments Date Time Provider Department Center
+2/28/2023 11:00 AM Lee, Susan, MD CARDIO HHSC
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**
+62-year-old female presented to the emergency department complaining of acute onset of chest pain radiating to her left arm, accompanied by shortness of breath while climbing stairs. Patient was immediately assessed, revealing elevated troponin levels and an abnormal EKG suggestive of anterior wall myocardial infarction. Patient was treated with emergency coronary angioplasty and stenting of the left anterior descending artery.
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+Ms. Eleanor Thompson was promptly taken to the cardiac catheterization lab upon admission, where successful stenting of her LAD artery was performed. She was monitored in the ICU for 24 hours, showing improved cardiac function and resolution of chest pain. Transitioned to the cardiac ward, where she remained stable with management of her blood pressure and blood sugar levels.
+**Discharge Medications:**
+- Aspirin 81 mg, daily
+- Metformin 500 mg, twice daily
+- Rosuvastatin 20 mg, nightly
+- Lisinopril 10 mg, daily 
+**Discharge Condition:**
+Stable 
+**Discharge Instructions:**
+Patient is advised to avoid strenuous activity for the next two weeks. Follow up with primary care physician and cardiologist as scheduled. Adhere strictly to the prescribed medication regimen. Eat a balanced diet low in sodium and saturated fats. Continue using diabetes monitoring equipment to track blood glucose levels.
+**Last Recorded Vital Signs:**
+BP 130/85 mmHg | Pulse 72 | Temp 98.6 °F | Resp 16 | SpO2 98%
+**Additional Notes:**
+Patient was counseled about smoking cessation and encouraged to join a support group. Patient and family were educated about recognizing signs of heart attack and instructed to call 911 if symptoms recur. 
+The discharge was signed off by Dr. Henry Abrams, and communicated to the Primary Care Provider, Dr. Susan Lee, on 02/20/2023 via secure email. 
+**Discharge Physician: Dr. Henry Abrams**

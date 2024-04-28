@@ -1,0 +1,43 @@
+**Inpatient Discharge Summary**
+**Elizabeth Thomas, MRN# 6554783,** is a 68 y.o. female, admitted to the Cardiac Care Unit service for management of non-ST elevation myocardial infarction (NSTEMI). 
+**Admission Date:** 11/05/2023  
+**Discharge Date:** 11/18/2023  
+**Attending Provider:** Dr. Michael Harold  
+**Treatment Team:**   
+- Cardiology  
+- Nutrition  
+- Physical Therapy  
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- NSTEMI 11/05/2023 - Present Yes  
+- Hypertension 11/05/2023 - Present Yes  
+- Type 2 Diabetes 11/05/2023 - Present Yes  
+**Resolved Problems**  
+RESOLVED: Atrial fibrillation 11/10/2023 - 11/14/2023 Yes  
+RESOLVED: Elevated cholesterol 11/05/2023 - 11/18/2023 Yes  
+**Hospital Course: Brief Overview**  
+Mrs. Thomas presented to the emergency department with chest pain and shortness of breath on 11/05/2023. Her electrocardiogram (EKG) indicated NSTEMI. Initial troponin levels were elevated. She was started on aspirin, statins, and beta-blockers. Cardiology was consulted, and coronary angiography was performed, revealing 70% occlusion in the left anterior descending artery. A drug-eluting stent was successfully placed.
+During her hospital stay, Mrs. Thomas received dietary consultation for diabetic meal planning and was enrolled in a brief cardiac rehabilitation program where she demonstrated mild endurance improvements. The atrial fibrillation self-resolved with rate control management. 
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Simvastatin 40 mg at bedtime  
+- Metoprolol 50 mg twice a day  
+- Metformin 500 mg twice a day  
+**Follow-Up Appointments:**  
+- Cardiology follow-up on 11/25/2023 with Dr. Harold  
+- Diabetes management on 11/30/2023 at General Health Clinic  
+- Nutrition follow-up via telehealth on 12/05/2023  
+**Discharge Instructions:**  
+Mrs. Thomas is to continue with the prescribed medications without alteration unless directed by a healthcare professional. She should monitor her blood glucose levels at home twice daily and report any readings consistently above 180 mg/dL. She should seek immediate medical attention if she experiences chest pain, increased shortness of breath, or signs of a stroke.
+**Contact at Discharge:**  
+Cardiac Care Unit, 555-123-4567 during office hours. After hours, contact the on-call cardiologist via the hospital switchboard.
+**Diet:**
+Diabetic and low-cholesterol diet as per dietary consultation.
+**Activity:**  
+Gradual increase in activities as tolerated. No heavy lifting or strenuous exercise for 4 weeks.
+**Signed:**  
+Dr. Michael Harold, MD  
+Date: 11/18/2023, Time: 16:00 PM
+**Hospital:**
+City General Hospital 
+This discharge summary serves to provide a comprehensive overview of Mrs. Elizabeth Thomas's hospital stay from 11/05/2023 to 11/18/2023, ensuring continuity of care with her outpatient providers and facilitating her transition back into the community.

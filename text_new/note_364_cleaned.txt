@@ -1,0 +1,40 @@
+**Inpatient Discharge Summary**
+Michael Thompson, MRN# 188427593, is a 45-year-old male, admitted to the Cardiac Care Unit for management of unstable angina and possible myocardial infarction.
+Admission Date: 09/25/2023
+Discharge Date: 10/05/2023
+Attending Provider: Dr. Sarah Goldberg
+**Hospital Problems Noted - Resolved**
+POA Active Problems:
+- Unstable angina 09/25/2023 - 10/05/2023 Yes
+- Hypertension 09/25/2023 - Present Yes
+**Other Problems**
+None
+**Hospital Course: Brief Overview**
+Mr. Michael Thompson presented to the General Hospital ED on 09/25/2023 with chest pain and shortness of breath. Initial workup included ECGs and cardiac markers which indicated evolving myocardial ischemia. Cardiology was consulted. The patient was started on IV heparin, nitroglycerin, and beta-blockers. A coronary angiogram performed on 09/27/2023 revealed significant two-vessel disease amenable to stenting, which was successfully performed the same day.
+Post-procedure, the patient showed significant improvement in symptoms and was stepped down to the telemetry unit. Dual antiplatelet therapy was initiated. The patient participated in cardiology rehabilitation and was educated on lifestyle modifications, including diet and exercise. Discharge medications focus on heart disease management and prevention of reinfarction.
+The patient was asymptomatic upon discharge with recommended outpatient follow-ups including the establishment of care with primary health care.
+**Discharge Condition:**
+Fair, with follow-up checks scheduled in cardiology at General Hospital Outpatient Services.
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg nightly
+- Metoprolol 50 mg twice daily
+- Clopidogrel 75 mg daily
+**Significant Test Results:**
+- Coronary angiogram confirmed two-vessel coronary artery disease.
+- Echocardiogram indicated preserved left ventricular function, EF 55%.
+**Appointments TO BE Scheduled:**
+- Cardiology follow-up on 10/15/2023
+- Primary care appointment on 10/20/2023 for blood pressure and cholesterol management.
+Next Steps: Follow up at Heart Health Consultants 555-347-5214
+**Patient Education Delivered:**
+Importance of compliance with a heart-healthy diet, regular exercise, cessation of smoking, and adherence to prescribed medication schedule.
+**Last Recorded Vital Signs:**
+BP 133/85 | Pulse 68 | Temp 36.7 °C (98.1 °F) | Resp 16
+Sarah Goldberg, M.D.
+Discharge Physician
+General Hospital Cardiac Care Unit
+10/05/2023, 2:30 PM
+**Case Manager:**
+Follow-up care coordinated by Jessica Lee, RN, General Hospital Case Management
+This case summary has been reviewed and signed by Dr. Sarah Goldberg confirming accuracy and completeness of the discharge planning. The patient acknowledged understanding the discharge instructions and expressed his readiness to manage his condition at home with the support of family and scheduled outpatient services.

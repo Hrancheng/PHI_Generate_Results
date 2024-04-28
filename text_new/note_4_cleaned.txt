@@ -1,0 +1,35 @@
+**General Hospital Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** Robert Anderson
+- **Medical Record Number:** 789645320
+- **Age:** 54 years old
+- **Admission Date:** August 7th, 2023
+- **Discharge Date:** August 20th, 2023
+**Admission Diagnosis:**
+- Acute myocardial infarction
+**Hospital Course:**
+Mr. Robert Anderson presented with chest pain characterized as severe, substernal, and radiating to his left arm. The pain onset was around 4 PM on August 6th, 2023. On arrival, his electrocardiogram showed ST-segment elevation in leads II, III, and aVF. Immediate cardiac catheterization identified a complete occlusion of the right coronary artery. A drug-eluting stent was successfully placed.
+Post-procedure, the patient remained stable with significant relief from chest pain. He was started on dual antiplatelet therapy consisting of aspirin and ticagrelor, and statin therapy with atorvastatin. Cardiac rehabilitation was initiated early during the hospital stay and tolerated well.
+Throughout the course, Mr. Anderson showed improvement in cardiac function as evidenced by echocardiography, which indicated an ejection fraction improvement from 40% upon admission to 50% at discharge. He participated actively in education sessions about lifestyle modification concerning diet and exercise for secondary prevention of cardiac events.
+**Discharge Medications:**
+1. Aspirin 81 mg daily
+2. Ticagrelor 90 mg twice daily
+3. Atorvastatin 80 mg at bedtime
+4. Metoprolol 50 mg twice daily
+5. Lisinopril 10 mg daily
+**Follow-up Appointments:**
+- **Cardiology Follow-Up:** August 28th, 2023 at 10 AM with Dr. Emily Stanton, General Hospital Cardiac Center
+- **Primary Care Provider:** September 5th, 2023 at 2 PM with Dr. John Malik
+**Discharge Instructions:**
+Mr. Anderson is advised to monitor for signs of chest pain, shortness of breath, or any new symptoms suggestive of cardiac distress. He should maintain a low-sodium, low-fat diet and gradually increase physical activity as recommended by the cardiac rehabilitation team. It is imperative to adhere to the prescribed medication regimen strictly and attend all scheduled follow-up appointments.
+**Discharge Condition:**
+Stable for discharge. The patient and his family (wife, Sarah Anderson and son, Tim Anderson) were educated about warning signs of potential complications and instructed on appropriate actions, including calling emergency services if symptoms recur.
+**Signature:**
+Dr. Emily Stanton, MD
+Cardiologist
+August 20th, 2023
+General Hospital
+**Contact Information:**
+- **Cardiology Office:** (555) 123-4567
+- **Primary Care Provider:** (555) 987-6543
+Please present this discharge summary during each follow-up visit to keep your healthcare providers informed of your recent hospitalization and ongoing care plan.

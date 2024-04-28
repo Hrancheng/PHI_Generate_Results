@@ -1,0 +1,40 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Name: Michael Thompson
+- Date of Birth: 01/15/1985
+- Age: 38 years old
+- Medical Record Number: 582046789
+**Hospital Information:**
+- Hospital: City General Hospital
+- Address: 1234 Health Blvd, Metropolis, State 45231
+- Admission Date: 02/15/2023
+- Discharge Date: 02/25/2023
+- Attending Physician: Dr. Emily Stark
+**Discharge Information:**
+- Condition at Discharge: Improved
+- Disposition: Home with self-care.
+- Last Recorded Vitals:
+  - Blood Pressure: 131/85 mmHg
+  - Temperature: 98.7 F
+  - Heart Rate: 78 bpm
+  - Respirations: 16 per minute
+**Summary of Hospital Stay:**
+Mr. Michael Thompson was admitted on 02/15/2023 with symptoms of acute cholecystitis characterized by severe abdominal pain, fever, and vomiting. Ultrasound confirmed the presence of gallstones and inflamed gallbladder. Surgery was conducted on 02/16/2023, and Mr. Thompson tolerated the procedure well without any complications. His postoperative recovery was unremarkable, with gradual improvement in symptoms. He completed a course of antibiotics and his pain was effectively managed with acetaminophen. Prior to discharge, pain was minimal and diet was advanced to regular as tolerated.
+**Medications at Discharge:**
+- Acetaminophen 500 mg every 6 hours as needed for pain.
+- Ciprofloxacin 250 mg orally twice daily for 7 days.
+**Follow-Up Care:**
+Mr. Thompson is to follow up with his primary care provider, Dr. Aaron Rogers, on 03/03/2023. He should also have a follow-up ultrasound in three months to ensure that his postoperative course continues without issue.
+**Specific Instructions:**
+- Maintain a low-fat diet to prevent further gallbladder issues.
+- Gradually resume regular physical activity as tolerated.
+- Report any symptoms of infection, persistent pain, or jaundice to his primary care provider immediately.
+**Emergency Contact:**
+- Wife: Sarah Thompson
+- Phone: 555-672-9802
+The patient expressed understanding of all discharge instructions and verbalized comprehension of signs and symptoms that would necessitate a return to the hospital. He was provided with written copies of his medication management plan and follow-up care instructions.
+**Discharge Physician:**
+Signature: Dr. Emily Stark
+Date: 02/25/2023
+Time: 2:00 PM
+This discharge document serves as a comprehensive overview of Mr. Michael Thompson's hospitalization from admission through discharge, including management, medications, follow-up, and specific care instructions.

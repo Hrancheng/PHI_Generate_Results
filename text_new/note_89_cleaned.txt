@@ -1,0 +1,39 @@
+**City Hospital Inpatient Discharge Summary**
+**Patient Name:** Eleanor Rigby  
+**MRN#:** 896543210  
+**Age:** 68 years  
+**Admission Date:** 06/01/2023  
+**Discharge Date:** 06/15/2023  
+**Attending Provider:** Dr. Amanda Hugginkiss  
+---
+### Medical Team:
+- **Primary Care Physician**: Martin Luther King, MD
+- **Consulting Cardiologist**: Harvey Dent, MD
+- **Nursing Contact:** nurse.johndoe@cityhospital.com
+### Hospital Problems Noted - Resolved
+**POA Active Problems:**
+- Chronic Heart Failure (CHF) 2007 - Present Yes
+- New Onset Atrial Fibrillation 06/05/2023 - Present Yes  
+**Resolved Problems:**
+- UTI 06/01/2023 - 06/04/2023 Yes  
+- Dehydration 06/01/2023 - 06/03/2023 Yes
+### Hospital Course:
+*Mrs. Rigby* was admitted with symptoms of fatigue and dizziness, attributed to dehydration and newly diagnosed atrial fibrillation. Management included IV fluids and initiation of anticoagulation with Apixaban. Rate control was achieved with low-dose Metoprolol. Her CHF was managed with adjusted doses of Lasix. 
+### Discharge Instructions:
+1. **Medications**:
+   - **Apixaban** 5 mg, Oral, TWICE DAILY
+   - **Metoprolol** 25 mg, Oral, ONCE DAILY
+   - **Lasix** 40 mg, Oral, ONCE DAILY
+2. **Activity**: Limit stair climbing and heavy lifting for two weeks. Daily walks recommended increasing in length as tolerated.
+3. **Diet**: Low-salt diet recommended. Stay hydrated, especially in hot weather or periods of extended physical activity.
+### Follow-up Appointment:
+- **Cardiology Follow-up**: 06/30/2023 with Dr. Harvey Dent, at City Hospital Cardiology Clinic
+- **Primary Care Follow-up**: 06/28/2023 with Dr. Martin Luther King, at his office at 1234 Heartbeat Lane, Springfield, IL 62704
+### Additional Recommendations:
+- Watch for signs of bleeding while on Apixaban. Any falls or head injuries should prompt immediate medical evaluation.
+- Monitor weight daily. A weight gain of 3 pounds or more in a week should prompt a call to the primary care provider.
+### Signature:
+**Signed:**  
+By: Amanda Hugginkiss, MD  
+Date: 06/15/2023, 3:45 PM
+Please contact our department at 555-123-4567 for any questions or concerns regarding this discharge summary.

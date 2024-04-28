@@ -1,0 +1,46 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Elizabeth Taylor
+**MRN#**: 546372008
+**Age**: 68 y.o.
+**Admission Date**: 9/15/2023
+**Discharge Date**: 9/25/2023
+**Attending Provider**: Dr. Jonathan Hale
+**Primary Care Provider**: Samantha Carter, MD
+**Admission Diagnosis**:
+- Transient Ischemic Attack
+- Hypertension
+**Discharge Diagnosis**:
+- Resolved Transient Ischemic Attack
+- Stable Hypertension
+**Hospital Course**:
+Ms. Taylor was admitted following a brief episode of right-sided weakness and speech difficulty which resolved spontaneously within an hour. On admission, her blood pressure was elevated at 180/95 mmHg. MRI brain ruled out any acute infarcts, confirming a Transient Ischemic Attack. Her hospital stay involved optimization of antihypertensive therapy, patient education, and ensuring secondary stroke prevention. Neurology and cardiology teams were consulted; adjustments in her medication were made with good tolerance. Her blood pressure at discharge stabilized around 135/85 mmHg. Speech and physical therapy evaluations showed no residual deficits. She participated actively in her recovery plan discussions.
+**Medications at Discharge**:
+1. Aspirin 81 mg daily
+2. Lisinopril 20 mg daily
+3. Atorvastatin 40 mg nightly
+4. Amlodipine 10 mg daily
+**Discharge Instructions**:
+Ms. Taylor is advised to continue her medications as prescribed without interruptions. She should monitor her blood pressure twice a day and maintain a low-salt diet. Follow-up appointments are scheduled with her primary care provider, Samantha Carter, MD, and the stroke clinic. She should seek immediate medical attention if she experiences symptoms of a stroke or significant changes in her blood pressure.
+**Scheduled Follow-up Appointments**:
+- 10/02/2023, 10 AM with Samantha Carter, MD at Central City General Hospital
+- Stroke clinic on 10/10/2023, 9 AM
+**Discharge Condition**: Stable
+**Activity Level**: As tolerated
+**Diet**: Low sodium, heart-healthy diet
+**Special Instructions**:
+Continue physical activity as tolerated, focusing on gentle exercises like walking. Keep a daily log of blood pressure readings and bring it to follow-up appointments. Avoid smoking and limit alcohol consumption.
+**Code Status at Discharge**: Full code
+**Legal Status at Discharge**: Competent
+**LACE - Readmission Risk Score**
+- Total Score: 7
+- Length of Stay: 10 days
+- Acute Admission: Yes
+- Comorbidities: Hypertension
+- ED Visits in last 6 months: 0
+LACE Score Risk Level: Moderate
+- Readmission Rate - 30 Day: 7.9%
+- Mortality Rate - 30 Day: 0.7%
+For any questions or urgent issues, please contact Central City General Hospital at 555-932-4780.
+**Signed**: Dr. Jonathan Hale
+**Date**: 9/25/2023
+**Time**: 3:30 PM

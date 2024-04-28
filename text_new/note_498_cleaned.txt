@@ -1,0 +1,41 @@
+**Greenwich Hospital Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** Harold Trent
+- **MRN:** 987654321
+- **Age:** 58 y.o.
+- **Admission Date:** 3/15/2023
+- **Discharge Date:** 3/25/2023
+**Admitting Physician:** Dr. Anna Lee
+- **Attending Provider:** Dr. Simon Gregory
+- **Referring Physician:** Dr. Evelyn Rhodes from Westchester Medical Group
+- **Primary Care Physician:** Dr. Johnathon Meyers, 1125 Lexington Ave, New York, NY 10075
+**Hospital Problems Noted - Resolved and Active Problems:**
+- **Myocardial Infarction:** 3/16/2023 - Present
+- **Type II Diabetes Mellitus:** Controlled, Ongoing
+- **Hypertension:** Well-managed with medication adjustments during stay
+**Other Problems:**
+- Non-compliance with dietary restrictions noted initially but improved after dietary consultation.
+**Hospital Course: Brief Overview**
+Mr. Harold Trent was admitted following an episode of chest pain while at work. Upon initial evaluation, EKG and cardiac enzymes confirmed acute myocardial infarction. He underwent successful percutaneous coronary intervention (PCI) to the right coronary artery on 3/17/2023. His hospital course was complicated by a transient episode of hypoglycemia likely secondary to his diabetes medications. Adjustments were made, and he remained stable throughout the remainder of his hospital stay. Cardiology and endocrinology were consulted and involved in his care. 
+**Diagnostic Studies During Stay:**
+- **Coronary Angiogram:** Revealed a 90% stenosis in the right coronary artery.
+- **Echocardiogram:** Showed preserved left ventricular ejection fraction with no significant valvular abnormalities.
+**Discharge Medications:**
+- **Aspirin 81 mg:** Daily
+- **Metoprolol 50 mg:** Twice daily
+- **Atorvastatin 40 mg:** Nightly
+- **Empagliflozin 10 mg:** Daily
+**Outpatient Follow-Up:**
+- **Cardiology:** Follow up with Dr. Simon Gregory at Greenwich Heart Clinic on 4/1/2023
+- **Diabetes management:** Appointment with Dr. Evelyn Rhodes on 4/8/2023
+- **Primary Care:** Dr. Johnathon Meyers on 4/15/2023 for medication review and general health check-up
+**Discharge Instructions:**
+- **Activity:** Gradual increase in light walking, avoid heavy lifting for 4-6 weeks.
+- **Diet:** Follow diabetic diet, low in saturated fats and cholesterol, rich in fruits and vegetables.
+- **Symptoms to watch for:** Chest pain, shortness of breath, extreme fatigue, or hypoglycemic episodes.
+**Additional Notes:**
+Patient educated on signs of cardiac distress and hypoglycemia. Understood and verbalized understanding of discharge instructions. Patient is to continue smoking cessation and participate in a cardiac rehabilitation program recommended by the treating cardiologist.
+**Signed:**
+Dr. Anna Lee, MD
+Date: 3/25/2023
+Time: 2:00 PM

@@ -1,0 +1,51 @@
+**Metropolitan Medical Center Inpatient Discharge Summary**
+**Patient Name**: Elizabeth Mae Thompson  
+**MRN**: 874328943  
+**Age**: 58 y.o.  
+**Date of Admission**: 09/21/2023  
+**Date of Discharge**: 09/29/2023  
+**Attending Provider**: Dr. Nathan O'Conner  
+**Consulting Team**: Cardiology, Nephrology  
+**Hospital Service**: General Medicine  
+**DISCHARGE DIAGNOSES**  
+1. Acute decompensated heart failure  
+2. Worsening chronic kidney disease  
+3. Hypertension  
+4. Type 2 diabetes mellitus  
+**HOSPITAL COURSE**  
+Ms. Thompson was admitted with shortness of breath and pedal edema. Initial echocardiogram showed reduced ejection fraction (30%) suggesting systolic dysfunction. She was started on IV diuretics with good response. Her renal function initially worsened with creatinine peaking at 2.1 mg/dL but improved with optimized fluid management. Cardiology adjusted her heart failure regimen, adding spironolactone due to the presence of resistant hypertension and chronic hypokalemia.
+**PROCEDURES**  
+1. Echocardiogram on 09/22/2023  
+2. Ultrasound-guided paracentesis on 09/25/2023  
+**CONDITION AT DISCHARGE**  
+Ms. Thompson is stable with improved dyspnea. She understands her discharge instructions and the importance of fluid restriction and medication adherence.
+**MEDICATIONS AT DISCHARGE**  
+1. Spironolactone 25 mg daily  
+2. Furosemide 40 mg twice a day  
+3. Metoprolol 50 mg twice a day  
+4. Linagliptin 5 mg daily  
+5. Aspirin 81 mg daily  
+**FOLLOW-UP**  
+Follow-up appointment with Dr. Sarah Lin at Metropolitan Heart Clinic on 10/05/2023.  
+Follow-up labs for renal function and electrolytes with City Labs on 10/04/2023.  
+**ADDITIONAL INSTRUCTIONS**  
+1. Maintain a fluid restriction of 1500 mL/day.  
+2. Weigh yourself daily and record weights for your upcoming doctor’s visit.  
+3. Contact the clinic if experiencing worsening swelling, dyspnea, or weight gain of more than 2 lbs overnight.
+**DISCHARGE CONDITION**  
+Stable for discharge with outpatient follow-up. Instructed to return to the emergency department for symptoms of worsening heart failure or renal failure.
+**PRIMARY CARE PROVIDER**  
+Dr. Gregory Yen - Metropolitan Medical Associates  
+**Discharge Time**: 09/29/2023, 11:00 AM  
+**Discharge Signed by**: Nathan O'Conner, MD, 09/29/2023, 11:15 AM
+**NURSES NOTES**  
+Patient educated by heart failure nurse specialist on diet and signs of fluid overload. Patient verbalized understanding and received written materials.  
+**COPY TO**:  
+1. Dr. Sarah Lin  
+2. Dr. Gregory Yen  
+3. Metropolitan Heart Clinic
+**TELEPHONE CONTACT**:  
+Patient's home phone: 303-555-7890  
+Clinic phone: 303-555-1234
+______
+This synthetic medical discharge summary illustrates the structured and detailed way patient information and medical history are managed upon the conclusion of a hospital stay, utilizing PHI labels for sensitive information.

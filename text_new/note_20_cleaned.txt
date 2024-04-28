@@ -1,0 +1,31 @@
+**Downtown Medical Center Inpatient Discharge Summary**
+**Patient Information:**  
+- Name: Michael Thompson  
+- Medical Record Number: 789456123  
+- Age: 52 years old  
+- Admission Date: 01/15/2023  
+- Discharge Date: 01/22/2023  
+- Attending Physician: Dr. Lisa Crane  
+**Hospital Course:**  
+Michael was admitted on January 15th, 2023 with a diagnosis of acute cholecystitis. He underwent a laparoscopic cholecystectomy on January 16th, 2023, which was performed without complications. His postoperative recovery was unremarkable, and he tolerated a diet progression from clear liquids to a low-fat solid diet well. Pain was managed with IV acetaminophen and, as needed, oxycodone, which he rarely required.
+**Medications at Discharge:**  
+- Acetaminophen 650 mg Oral, every 6 hours as needed for pain  
+- Oxycodone 5 mg Oral, every 4 hours as needed for severe pain  
+- Omeprazole 20 mg Oral, daily  
+**Follow-up Appointments:**  
+- With Dr. Alice Jordan, for postoperative check-up on 02/02/2023 at 345 Clinic Drive, Suite 120, Springfield, IL 62704  
+- General practitioner, Dr. Robert Lee, on 02/10/2023 for continuity of care at his office 120 Main Street, Springfield, IL
+**Labs and Tests:**  
+- Final CBC and metabolic panel showed normal limits. Wound site looked healthy with no signs of infection upon discharge.
+**Instructions for Patient:**  
+- Avoid lifting anything heavier than 10 pounds for at least six weeks.  
+- Keep the wound area clean and dry.  
+- Report any signs of infection, such as redness, swelling, or drainage, to your doctor.
+**Discharge Condition:**  
+Patient was discharged in a stable condition with all vital signs within normal limits. He was ambulating independently and reported pain at a manageable level of 3/10 on the pain scale.
+**Contact Information:**  
+- For any concerns or emergencies, please contact Downtown Medical Center's main line at 555-123-9876.  
+- For follow-up appointments, please call 555-456-1234.
+**Signed:**  
+Dr. Lisa Crane, MD  
+Date: 01/22/2023, 2:00 PM

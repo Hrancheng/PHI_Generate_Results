@@ -1,0 +1,36 @@
+**Westfield Regional Medical Center Inpatient Discharge Summary**
+**Patient Information:**  
+**Eleanor Thompson**, MRN# 5893467893, is a 54 y.o. female, admitted to the Intensive Care Unit for monitoring and management of severe respiratory distress with a complication of congestive heart failure.
+**Admission Date:** 9/14/2023  
+**Discharge Date:** 9/28/2023  
+**Attending Physician:** Dr. Jonathan Greene   
+**Treatment Team:** ICU Care Team   
+**Hospital Course:**  
+Ms. Thompson was admitted to our facility on 9/14/2023 following a significant increase in shortness of breath and acute hypoxemia. Initial assessments in the ER showed an SpO2 of 78% on room air, which improved to 92% on 4L of supplemental oxygen. Chest X-rays confirmed pulmonary edema and IV diuretics were initiated promptly. Her condition stabilized after aggressive diuresis and transition to CPAP for sleep and respiratory support at night.
+Throughout her hospital stay, Ms. Thompson underwent daily labs, EKG monitoring, and echocardiography, which showed improvement in her ejection fraction from 25% to 35%. The patient was also counseled on weight management and sodium intake by our dietitian, and she attended two teaching sessions to understand managing her symptoms at home.
+**Discharge Medications:**  
+**Furosemide 40 mg tablet:** 1 tablet daily in the morning, to manage fluid overload.  
+**Lisinopril 10 mg tablet:** 1 tablet daily, to support heart function.  
+**Aspirin 81 mg tablet:** 1 tablet daily, for cardiovascular protection.  
+**Potassium Chloride 20 mEq:** 1 tablet daily, to supplement potassium due to diuretic therapy.
+**Follow-Up Instructions:**  
+Ms. Thompson will need close monitoring post-discharge. She is advised to follow up with her primary care provider, Dr. Emily Stanton, within the week:  
+**10/5/2023, 2:00 PM at Thompson Community Health Clinic**  
+Phone: 654-321-9987  
+Additionally, she is scheduled to attend the Heart Failure Clinic at   
+Westfield Cardiac Rehab Center on:   
+**10/10/2023, 10:00 AM**  
+350 Valley Heart Drive, Community Room A  
+**Phone:** 654-321-4578
+Patient was instructed on the importance of adhering to her medication schedule, monitoring her weight daily, and managing fluid intake. She was provided contact numbers to reach the heart failure team should she have any concerns about her symptoms worsening. She is encouraged to use these contacts instead of waiting for her scheduled appointment should any new symptoms or concerns arise.
+A home health nurse visit has been arranged to ensure compliance with the new CPAP machine and to answer any further questions regarding medication administration. Scheduled for: 10/1/2023 at 3:00 PM.
+**Discharge Physical Exam:**   
+General appearance: Alert, no acute distress  
+Lungs: Clear to auscultation bilaterally  
+Heart: Regular rate and rhythm, no murmurs or gallops  
+Abdomen: Soft, non-tender, no swelling  
+Extremities: No edema  
+Neurologic: Alert and oriented x3  
+**Last Recorded Vital Signs:**   
+BP 128/82 mmHg | Pulse 76 BPM | Temp: 98.6 °F (37 °C) | Resp 18 | SpO2 94% on room air
+The patient expressed understanding of her condition, the importance of follow-up, and feels confident to manage her health upon discharge. The team wishes Ms. Thompson a continued recovery and good health.

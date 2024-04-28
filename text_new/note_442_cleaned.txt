@@ -1,0 +1,35 @@
+**Inpatient Discharge Summary**
+**Patient:** Michael Trenton, MRN #987654321
+**Age:** 58 years old
+**Dates:**
+- **Admission Date:** 10/10/2023
+- **Discharge Date:** 10/25/2023
+**Admitting Diagnosis:** 
+- Acute myocardial infarction
+- Type II diabetes mellitus
+**Discharge Diagnosis:**
+- Acute myocardial infarction, resolved
+- Type II diabetes mellitus, stable
+**Hospital Course:**
+Mr. Trenton presented to the emergency department on 10/10/2023 complaining of severe chest pain radiating to his left arm, onset approximately 2 hours prior to admission. ECG on arrival indicated ST-elevation myocardial infarction. Immediate cardiology consultation led to cardiac catheterization, revealing two blocked coronary arteries, which were successfully revascularized with stents.
+Post-procedure, his hospital course was complicated by transient hyperglycemic episodes, managed with insulin adjustments. A diet consultation was provided to adjust his diabetic meal plan. His recovery was steady, and he was progressively mobilized with cardiology and endocrinology managing his care collaboratively.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Metformin 500 mg twice daily
+- Insulin Glargine 40 units at bedtime
+- Rosuvastatin 20 mg at bedtime
+**Follow-up Appointments:**
+1. Cardiology follow-up on 11/05/2023 at Downtown Cardiology Clinic
+2. Diabetes management on 11/06/2023 with Dr. Emily Stanson
+3. Dietician review in two weeks via telehealth.
+**Discharge Instructions:**
+Mr. Trenton has been counseled on recognizing signs of chest pain, managing his blood sugar levels, and the importance of adherence to his therapeutic regime. He is discharged on a balanced diet suitable for his diabetic condition, advised to avoid strenuous activity for 4 weeks, and to progressively increase his physical activities as tolerated. He should continue smoking cessation.
+**Next Steps:**
+- Call your physician if you experience chest pain, uncontrolled blood sugar levels or if you have any concerns regarding your medications.
+- Ensure to attend all scheduled follow-up appointments.
+**Discharge Condition:**
+Patient is alert and oriented, ambulating independently, vitals stable, and reports readiness to return home. Discharged in stable condition.
+**Physician:** Dr. Jonathan Reed, MD, Cardiologist
+**Discharge Coordinator:** Nurse Patricia Helms
+**Location:** Regional Health Hospital, 4500 Riverwalk Parkway, Riverside, CA 92505
+This discharge summary details Mr. Michael Trenton's care during his stay at Regional Health Hospital. It should be used to coordinate care and continue monitoring his recovery and ongoing health management. Should any questions arise, please contact our facility.

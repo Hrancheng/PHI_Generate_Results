@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Patient Name:** John Appleseed  
+**MRN:** 982762345  
+**Age:** 58 years  
+**Date of Birth:** 02/25/1965
+**Admission Date:** 04/01/2023
+**Discharge Date:** 04/15/2023
+**Admission Diagnosis:** Acute cholecystitis  
+**Discharge Diagnosis:** Acute cholecystitis, resolved
+**Hospital Course:**
+John Appleseed was admitted with a two-day history of right upper quadrant pain, nausea, and vomiting. Ultrasound confirmed cholecystitis. His condition was managed with IV antibiotics and laparoscopic cholecystectomy performed on 04/03/2023. He responded well to the surgery and post-operative care. His recovery was uneventful, and pain was adequately managed with scheduled acetaminophen and intermittent oxycodone. Diet was advanced as tolerated, and he was ambulating independently at the time of discharge.
+**Medications at Discharge:**
+- Acetaminophen 650 mg PO Q4H PRN for pain  
+- Oxycodone 5 mg PO Q6H PRN for severe pain  
+- Omeprazole 20 mg PO daily
+**Allergies:**
+- No known allergies.
+**Follow-up:**
+- General Surgery Clinic follow-up in 2 weeks with Dr. Susan B. Anthony
+- Primary Care Provider follow-up within 1 week, Downtown Medical Clinic, 555-123-4567
+**Pertinent Labs:**
+- WBC 11.0 x10E3/uL on 04/01/2023, normalized to 6.5 x10E3/uL on 04/05/2023
+- Liver enzymes peaked at admission but normalized by the date of discharge.
+**Imaging:**
+- Ultrasound on 04/01/2023: Positive for cholecystitis.
+- Post-operative abdominal X-ray on 04/04/2023: No acute disease.
+**Instructions for Patient:**
+- Maintain a low fat diet for the next four weeks.
+- Avoid heavy lifting and strenuous activity for the next two weeks.
+- Resume all pre-admission medications except as noted.
+**Condition at Discharge:**
+- Stable with instructions to monitor for signs of infection or unexpected pain.
+**Discharge Prepared by:**
+- Dr. Lisa Cramer, General Surgery
+**Date/Time:** 04/15/2023, 11:00 AM
+**Location of Care:**
+- Discharge from Metropolitan Hospital Center, 123 Health St, Metropolitan City, ST 12345 
+**Summary and Recommendations:**
+Patient John Appleseed is discharged in a stable condition and should continue recovery at home with appropriate outpatient follow-ups as detailed. It is essential for the patient to adhere to the outlined dietary restrictions and medication plan to promote healing and prevent complications. Immediate medical attention should be sought if symptoms such as fever, increased pain, or jaundice develop.
+---
+This discharge summary provides a complete overview while compliantly annotating PHI following the prescribed guidelines. Please ensure that John Appleseed adheres to all follow-up appointments and medication schedules, and report any deviations from expected recovery.

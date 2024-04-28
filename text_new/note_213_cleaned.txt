@@ -1,0 +1,37 @@
+**Discharge Summary - Inpatient General Medicine**
+**Patient Name:** Miles Anderson  
+**MRN#:** 458912789  
+**Age:** 68 years  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/25/2023  
+**Attending Provider:** Dr. Samantha Lee  
+**Discharge NP/PA:** Linda Harris, PA-C
+**Admission Diagnosis:** Acute exacerbation of chronic obstructive pulmonary disease (COPD)  
+**Discharge Diagnosis:** COPD, hypertension, type 2 diabetes mellitus  
+**Hospital Course:**  
+Miles Anderson presented to the Emergency Department on 09/15/2023 with complaints of increased shortness of breath and wheezing. He was found to have an acute exacerbation of COPD on top of his baseline hypertension and type 2 diabetes. His hospital course included management with bronchodilators, corticosteroids, and adjustment of his antihypertensive medications. His blood glucose levels were closely monitored and maintained with the help of a sliding scale insulin regimen.
+During his stay, Anderson underwent a comprehensive evaluation including chest X-rays, EKGs, and lab studies. His final chest X-ray showed improvement, and his breath sounds became more clear. He participated in respiratory therapy, which improved his functional status.
+**Medications at Discharge:**
+- Albuterol Inhaler: Use two puffs every four hours as needed for wheezing.
+- Lisinopril 20mg: Take one tablet daily for hypertension.
+- Metformin 1000mg: Take one tablet twice daily for diabetes.
+**Discharge Instructions:**  
+The patient is advised to continue using his medications as prescribed. He is scheduled for a follow-up appointment with his primary care physician, Dr. John Carter, 215 Elm St., Springfield, 503-555-1234 in two weeks. He should monitor his blood pressure and blood sugar levels at home and record the results to discuss during his follow-up appointment. He should avoid exposure to smoke, including smoking cessation if applicable, and follow a low-salt, diabetes-appropriate diet. Emergency return to the hospital is advised if he experiences worsening symptoms like increased shortness of breath, chest pain, or uncontrolled blood sugar levels.
+**Follow-Up Appointments:**  
+1. Springfield Community Clinic, with Dr. John Carter
+   - 10/09/2023 at 10:00 AM
+2. Springfield Respiratory Therapy
+   - 10/11/2023 at 2:00 PM
+**Labs and Studies to Review in Follow-Up:**
+- CBC, CMP, and A1C scheduled to review on 10/07/2023
+- Repeat chest X-ray if symptomatic
+**Additional Notes:**
+Patient educated on proper inhaler techniques by respiratory therapy. He understands the significance of consistent medication adherence and scheduled follow-ups. Patient’s family, Helen Anderson (wife), has been briefed on the care plan and understands how to assist at home.
+**Last Recorded Vital Signs:** BP 132/84 | Pulse 78 | SpO2 92% on room air  
+**Weight at Discharge:** 82 kg  
+**Condition at Discharge:** Stable  
+**Discharge Summary Prepared by:** Linda Harris, PA-C  
+**Reviewed and Signed by:** Dr. Samantha Lee  
+**Signature Date:** 09/25/2023 at 3:00 PM  
+**Location:** General Medicine Ward, Room 310B, Springfield General Hospital  
+This comprehensive discharge plan aims to ensure continuity of care and optimize the patient’s health following hospitalization.

@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+**Patient Name**: Jane Doe  
+**MRN**: 456123789  
+**Admission Date**: September 12, 2023  
+**Discharge Date**: September 19, 2023   
+**DOB**: May 16, 1975   
+**Age**: 48   
+**Admitting Physician**: Dr. Linda Harris  
+**Attending Physician at Discharge**: Dr. Linda Harris  
+**Consultants**: Dr. Aaron Smith, Cardiology  
+**Hospital**: City General Hospital  
+**Reason for Hospitalization**:  
+Mr. Doe was admitted with upper abdominal pain and was diagnosed with acute pancreatitis.
+**Hospital Course**:  
+Jane Doe presented to the emergency room with severe upper abdominal pain radiating to the back, nausea, and vomiting. Her labs on admission showed elevated amylase and lipase, confirming acute pancreatitis. She was managed with IV fluids, pain control, and NPO to rest the pancreas. She gradually resumed oral intake and was switched to a low-fat diet with improvement in symptoms.
+**Medications on Discharge**:  
+1. Pantoprazole 40 mg daily  
+2. Acetaminophen 650 mg every 6 hours as needed for pain  
+**Allergies**:  
+None
+**Discharge Instructions**:  
+Jane Doe is advised to follow a low-fat diet, avoid alcohol, and stop smoking. She should follow up with her primary care physician Dr. Emily Watson in one week, or sooner if symptoms recur. She should continue medication for acid reflux as prescribed and use over-the-counter pain medications as needed for pain.
+**Follow-up Appointments**:  
+1. Outpatient visit with Dr. Emily Watson scheduled for September 26, 2023 at 10:00 AM at City Health Clinic.  
+2. Return to City General Hospital Gastroenterology for a follow-up CT in six weeks.
+**Discharge Condition**:  
+Ms. Doe is stable with significant improvement in her symptoms. She understands her discharge instructions and the signs that would necessitate an earlier follow-up.
+**Address at Discharge**:  
+1234 Maple Avenue, Unit 5, Springfield, IL, 62704  
+**Phone**: 555-623-7890  
+**Physical Examination at Discharge**:  
+General: Well-appearing, no acute distress  
+Vital Signs: BP 125/78, HR 72, Temp 98.6°F, RR 16  
+Abdomen: Soft, non-tender, normal bowel sounds  
+Extremities: No edema  
+Neurologic: Alert and oriented x4  
+**Discharge Diagnoses**:  
+1. Acute Pancreatitis  
+2. Hypertension, well-controlled
+**Condition at Discharge**:  
+Stable with instructions for outpatient follow-up.
+**Signature**:  
+Dr. Linda Harris, MD   
+September 19, 2023  
+**Copies to**:  
+Dr. Emily Watson (PCP)  
+Cardiology Department, City General Hospital  
+Dept. of Gastroenterology, City General Hospital  
+**Instructions for Further Care**:  
+Ms. Doe should maintain hydration, adhere strictly to the dietary recommendations, and slowly resume normal activities as tolerated. She should monitor her temperature and pain levels, and seek medical attention if she experiences increased abdominal pain, fever, jaundice, or any other concerning symptoms.
+**Emergency Contact**:  
+John Doe (Brother)  
+555-317-9876  
+456 Oak Lane, Springfield, IL, 62707  
+This discharge summary template categorizes all the necessary patient information while adhering to PHI de-identification standards.

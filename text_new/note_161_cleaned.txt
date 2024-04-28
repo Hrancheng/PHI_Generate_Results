@@ -1,0 +1,52 @@
+**Inpatient Discharge Summary**
+**Margaret Atwood**, MRN# 837205934, is a 68-year-old female, admitted to the Surgical Unit for management of a right hip fracture. Admission Date: 2/10/2022 Discharge Date: 2/24/2022 
+**Attending Provider:** Dr. Henry Wallace  
+**Treatment Team:** Surgical Unit Staff  
+**Primary Care Provider:** Dr. Rebecca Moore
+**Hospital Problems Noted - Resolved**  
+POA Active Problems:  
+- Right hip fracture 2/10/2022 – Present Yes  
+- Hypertension 2/12/2022 – Present Yes  
+**Resolved Problems:**  
+RESOLVED: Post-operative pain 2/10/2022 - 2/15/2022 Yes  
+**Other Problems:** None  
+**Recommendations for Follow Up:**   
+**Attention to Primary Care Attending:** Review surgical site, monitor blood pressure.  
+**To Do's for Referring / Subspecialty Provider(s):**  
+Orthopedics: Follow up appointment on 3/3/2022.  
+Pain Management: Continue prescribed medications, monitor for side effects.
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**   
+**Contact information for follow-up:**   
+Phys, Self-Refer Or No PCP/Referring Next Steps: Follow up MediCare Clinic 555-762-9923  
+Next Steps: Follow up Instructions:  
+Margaret will be delivered to your home by Community Health Services before discharge. 
+**James Cooper, Stephanie Wright, MD**  
+Lymph Nodes: No enlarged thoracic lymph nodes.  
+**Impressions:**  
+1. Successful surgical intervention for right hip fracture.  
+2. Controlled hypertension with medication adjustments.  
+**City General Hospital Discharge Medication List**  
+New Medications: Start taking as prescribed  
+- Ibuprofen 400 mg tablet Refills: 1  
+Commonly known as: MOTRIN 400 mg, Oral, EVERY 6 HOURS as needed for pain.  
+- Acetaminophen 500 mg tablet Refills: 1  
+Commonly known as: TYLENOL 500 mg, Oral, EVERY 4 HOURS as required for fever or pain.
+**Future Scheduled Appointments:**  
+Date Time Provider Department Center  
+3/1/2022 10:00 AM Lisa Monroe, PT ORTHO-TC U TC  
+3/3/2022 09:30 AM Henry Wallace, MD SURG UNIT CITY GEN 
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**  
+68-year-old female presented to the Emergency Department following a slip and fall at home resulting in a right hip fracture. On examination at City General Hospital, confirmed via X-Ray and admitted for surgical repair. 
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Mrs. Atwood underwent a right hip replacement procedure on 2/12/2022 which was successful. Post-operatively, she received IV antibiotics and pain management that facilitated early mobilization. Physical therapy started on 2/15/2022 and progressed well. Blood pressure was initially high due to post-operative pain but controlled with medication adjustments.
+**Last Recorded Vital Signs:**  
+BP 122/78 | Pulse 72 | Temp 36.8 °C | Resp 16 | Ht 1.62 m | Wt 70 kg | SpO2 98%  
+**Pertinent Discharge Physical Exam Findings:**  
+General: alert, appears comfortable in bed  
+Head: Normocephalic, atraumatic  
+Chest: Clear to auscultation bilaterally  
+Heart: Rhythm regular, no murmurs  
+Abdomen: Soft, non-tender  
+Extremities: Right lower limb with surgical dressing, no signs of infection, good capillary refill  
+Neuro: Alert and oriented, moving all extremities.  
+**Discharge Condition:** Stable to return home with support services in place. Patient understands follow-up instructions and when to seek immediate care.

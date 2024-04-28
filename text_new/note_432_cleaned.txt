@@ -1,0 +1,53 @@
+**Central City Medical Center Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** Marilyn S. Watkins
+- **MRN#:** 987654321
+- **Age:** 72 y.o.
+- **Sex:** Female
+- **Admission Date:** January 14, 2023
+- **Discharge Date:** January 28, 2023
+- **Discharging Provider:** Dr. Harold Greene
+**Hospital Service:** Cardiology
+**Primary Diagnosis:**
+- Acute Myocardial Infarction
+**Secondary Diagnoses:**
+- Type 2 Diabetes Mellitus
+- Hypertension
+- Hyperlipidemia
+**Hospital Course:**
+- Marilyn S. Watkins was admitted to Central City Medical Center following a 911 call on the evening of January 14 due to severe chest pain and shortness of breath. Initial EKG suggested an ST-segment elevation myocardial infarction (STEMI). She underwent emergency cardiac catheterization revealing a 90% blockage in her left anterior descending artery, which was successfully stented. Postoperative course was complicated by a brief episode of hypotension, responding well to fluid resuscitation. Her diabetes and hypertension were managed with insulin and a new regimen of ACE inhibitors, respectively.
+**Procedures:**
+- Cardiac Catheterization and Stent Placement: January 14, 2023
+- Echocardiogram: January 15, 2023
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Insulin regimen as adjusted during stay
+**Follow-Up Appointments:**
+- Cardiology follow-up with Dr. Irene Cho at Central City Heart Clinic on February 10, 2023
+- Endocrinology review on February 15, 2023 with Dr. Anita Patel regarding diabetes management.
+**Instructions for Patient:**
+- Continue medications as prescribed without any breaks.
+- Monitor blood pressure and blood sugar levels daily.
+- Adhere to a low-sodium, low-sugar diet as discussed with the dietitian.
+- Engage in light exercise such as walking, gradually increasing as tolerated.
+**Last Recorded Vital Signs:**
+- BP: 132/86 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6 °F
+- Respirations: 16 per minute
+**Important Notes & Warnings:**
+- Marilyn is advised to seek immediate medical attention if she experiences symptoms like chest pain, severe headache, or an abrupt change in her vision or speech. 
+**Labs at Discharge:**
+- HbA1c: 7.2% (indicating diabetes is not well controlled)
+- LDL Cholesterol: 98 mg/dL (improvement noted, continue with statin therapy)
+- Creatinine: 1.0 mg/dL (stable kidney function)
+**Discharge Summary Remarks:**
+- Marilyn Watkins' acute event has been successfully managed with interventional and medical approaches. Important to continue lifestyle modifications and medication adherence to manage her chronic conditions effectively. In view of her complex medical history, close monitoring and regular follow-up are crucial.
+**Discharge Plan:**
+- Marilyn Watkins will return home and is deemed safe to manage with the support of her family. Home health services have been arranged to assist with medication management and monitoring her recovery process. She is anticipated to have a steady recovery provided the discharge and follow-up plans are strictly followed.
+**Signed:**
+- Dr. Harold Greene
+- Date: January 28, 2023
+- Time: 2:00 PM

@@ -1,0 +1,29 @@
+Central City General Hospital Inpatient Discharge Summary
+Michael Thompson, MRN# 458732145, is a 68 y.o. male, admitted under the care of the Cardiology service due to acute chest pain and suspected myocardial infarction. Admission Date: 01/12/2023 Discharge Date: 01/20/2023 Attending Provider: Dr. Sara Kimberley
+Hospital Problems Noted - Resolved 
+POA Active Problems:
+- Acute Myocardial Infarction 01/12/2023 - Present Yes
+- Hypertension 01/12/2023 - Present Yes
+Resolved Problems:
+- Acute kidney injury 01/14/2023 - 01/17/2023 Yes
+Brief Hospital Course (including treatment rendered and response to treatment):
+Mr. Thompson was admitted with chest pain radiating to his left arm. An immediate ECG showed ST-segment elevation. He was taken to the catheterization lab where a 90% blockage was identified in the left anterior descending artery. Percutaneous Coronary Intervention (PCI) was successfully performed. Post-procedure, his chest pain resolved, and cardiac enzymes trended down. He experienced a transient episode of acute kidney injury likely related to contrast used during the procedure but resolved with aggressive hydration. Mr. Thompson participated in the cardiac rehabilitation consultation and was very engaged in the discussion about lifestyle modifications.
+Medications at Discharge:
+- Aspirin 81 mg daily
+- Lipitor 80 mg nightly
+- Metoprolol 25 mg twice daily
+- Lisinopril 10 mg daily
+Follow-Up:
+Mr. Thompson should follow up with his primary care provider, Dr. Emily Stanton, within one week post-discharge and with Cardiology in three weeks. He has been referred to Central City Cardiac Rehabilitation and should start sessions next week.
+Diet:
+Low sodium, low fat diet recommended. Outpatient dietary counseling scheduled.
+Activity:
+Gradual increase in activity advised; avoid heavy lifting and strenuous activities for the next two weeks. Include daily walks increasing by five minutes per day.
+Discharge Condition:
+Stable; Mr. Thompson has shown good understanding of his discharge instructions. He is to monitor for signs of chest pain, shortness of breath, or swelling in the legs and contact healthcare provider immediately if symptoms reappear.
+Last Recorded Vital Signs:
+BP 130/85 | Pulse 72 | Temp 37.0 °C | Resp 16 | BMI 28 kg/m²
+Sara Kimberley, MD, Cardiology
+01/20/2023, 2:00 PM
+__________________________________________________________________________
+Upon discharge, Mr. Thompson expressed his gratitude towards the medical team and felt confident about managing his health moving forward. The patient was reminded again to strictly adhere to the medication regime and follow up schedules.

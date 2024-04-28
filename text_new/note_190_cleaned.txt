@@ -1,0 +1,26 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Josephine Miles  
+**MRN**: 567834290  
+**Age**: 68 years old  
+**Admission Date**: 9/10/2023  
+**Discharge Date**: 9/20/2023  
+**Attending Physician**: Dr. Harold Greene  
+**Consultants**: Cardiology, Nephrology  
+**Primary Care Physician**: Dr. Samantha Irby  
+**Admission Diagnosis**: Decompensated heart failure, Acute kidney injury  
+**Hospital Course**:  
+Patient Josephine Miles, with a known history of chronic heart failure and stage 3 chronic kidney disease, presented with signs of volume overload and elevated creatinine levels. She was managed with IV diuretics and careful fluid management. Her heart failure regimen was optimized, adding a beta-blocker and adjusting her ACE inhibitor dosage. Renal function improved with conservative management, returning to baseline by the discharge date.  
+**Discharge Medications**:  
+- Furosemide 40 mg daily  
+- Lisinopril 20 mg daily  
+- Metoprolol 50 mg twice daily  
+- Potassium Chloride 20 mEq daily  
+**Follow-Up Appointments**:  
+Patient advised to follow up in the heart failure clinic scheduled for 9/28/2023.  
+- Next Steps: Follow up with Central City Cardiology Associates 555-123-9876  
+**Discharge Instructions**:  
+Patient instructed to weigh herself daily and monitor for signs of worsening heart failure. Diet low in sodium and fluid restriction of 1.5 liters per day recommended.  
+**Condition at Discharge**: Stable, symptoms improved with treatment.  
+**Signature**:  
+Harold Greene, MD  
+Date: 9/20/2023 4:00 PM

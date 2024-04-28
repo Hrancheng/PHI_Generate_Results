@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+Elizabeth Gomez, MRN# 985672309, is a 45 y.o. female, admitted to the Internal Medicine service due to severe abdominal pain and suspected gallstones. 
+**Admission Date:** 9/13/2023  
+**Discharge Date:** 9/19/2023   
+**Attending Provider:** Dr. Michael Thompson  
+**Treatment Team:** Internal Medicine Team B  
+**!! FIRST CONTACT !!**: Medical Resident - Dr. Sarah Lee, MD, On-call doctor - Dr. Johnathan Reeves, MD
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- Cholecystitis 9/15/2023 - Present Yes    
+- Gallstone pancreatitis 9/15/2023 - Present Yes  
+**Resolved Problems**  
+RESOLVED: Cholecystectomy 9/16/2023 - 9/18/2023 Yes   
+RESOLVED: ERCP with stone extraction 9/17/2023 Yes  
+**Other Problems**  
+None  
+**Recommendations for Follow Up:**  
+Attention to Primary Care Provider: Dr. Emma Larson, MD  
+Follow-up in one week post-discharge, scheduled for 9/26/2023.   
+Gastroenterology: Follow-up in two weeks, scheduled for 10/03/2023. 
+**Lab, Diagnostic Testing, and Referral Follow-Up**   
+Orders given to the patient:  
+Follow-up blood work to monitor liver function and pancreatic enzymes, scheduled for 9/21/2023.   
+Ultrasound follow-up in one month, scheduled for 10/19/2023.   
+**Discharge Medications:**  
+- Acetaminophen 500 mg tablet Refills: 0   
+Take 1,000 mg, Oral, EVERY 6 HOURS as needed for pain. Do not take more than 4000 mg in a 24 hour period.  
+- Ursodeoxycholic acid 250 mg capsule Refills: 1  
+250 mg, Oral, TWICE DAILY  
+**Pertinent Clinical Presentation on Admission/Reason for Hospitalization:**  
+45-year-old female presented to the emergency department of City Hospital with acute onset of severe right upper quadrant pain radiating to the back, nausea, and vomiting on 9/13/2023. Physical exam and ultrasound confirmed the presence of multiple gallstones with signs of cholecystitis. Patient was admitted for pain management and further evaluation by gastroenterology.  
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Mrs. Elizabeth Gomez underwent successful laparoscopic cholecystectomy on 9/16/2023. Postoperative course was complicated by mild pancreatitis which was managed conservatively. ERCP was performed on 9/17/2023 for suspected gallstone pancreatitis, which confirmed and successfully removed common bile duct stones.
+**Discharge Condition:**  
+Patient condition at discharge was stable with mild abdominal discomfort managed with oral analgesics. All vitals were within normal limits and patient was tolerating a liquid diet progressing to solids at the time of discharge. 
+**Discharge Instructions:**  
+Mrs. Gomez was instructed to avoid fatty and fried foods, gradually return to a normal diet over the next week, and to keep her follow-up appointments as scheduled. She was also educated on the signs of potential complications such as fever, worsening abdominal pain, or jaundice, and advised to seek immediate medical attention if these occur.
+**Comments:**  
+The case was discussed and handed over to the primary care provider, Dr. Emma Larson, MD, via a detailed discharge summary sent to info@larsonclinic.com on 9/19/2023.
+**Follow-Up Appointments:**  
+- General follow-up with Dr. Emma Larson on 9/26/2023 at 10:00 AM.  
+- Gastroenterology follow-up on 10/03/2023 at 2:00 PM.  
+**Last Recorded Vital Signs:**   
+BP 120/80 mmHg | Pulse 78 | Temp 36.9 °C | Resp 16 | Ht 1.68 m | Wt 68 kg | SpO2 98%  
+**Nurse in Charge:**  
+Jessica Miles, RN  
+**Discharge Approved by:**  
+Michael Thompson, MD  
+9/19/2023, 15:00 PM

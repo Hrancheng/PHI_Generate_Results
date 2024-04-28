@@ -1,0 +1,47 @@
+Inpatient Discharge Summary
+-----------------------------------------
+Patient: Michael Thompson   
+MRN#: 987654321   
+Age: 54 years  
+Admission Date: September 21, 2023  
+Discharge Date: September 30, 2023  
+Attending Provider: Dr. Sara Kendrick  
+Treatment Team: Drs. Allen, Ricci, and Nurse Hartman
+Hospital Problems Noted: 
+- Acute exacerbation of chronic heart failure
+- New-onset atrial fibrillation detected September 22, 2023  
+- Control of hypertension
+- Adjustment of heart failure medications
+Discharge Medications:
+- Furosemide 40 mg tablet: Take one tablet by mouth twice daily
+- Metoprolol succinate ER 100 mg tablet: Take one tablet by mouth daily
+- Warfarin 5 mg tablet: Take as directed, monitor INR regularly
+- Aspirin 81 mg tablet: Take one tablet by mouth daily
+Follow-Up Appointments:
+1. Warfarin Clinic follow-up on October 05, 2023, 10:00 AM with Lisa Monroe, NP at City Health Cardiac Unit
+2. Cardiology appointment on October 10, 2023 at 9:30 AM with Dr. Charles Martin
+Discharge Summary:
+Mr. Michael Thompson was admitted with an acute exacerbation of his chronic heart failure, possibly precipitated by uncontrolled hypertension. During his hospitalization, he was also found to have developed atrial fibrillation, which has been addressed with rate control strategy and initiation of warfarin for stroke prevention. His diuretic therapy was adjusted and showed good response with a decrease in extremity edema and improved exercise tolerance.
+Lab Results at Discharge:
+- Sodium: 139 mEq/L
+- Potassium: 4.8 mEq/L
+- Creatinine: 1.2 mg/dL (baseline 1.0-1.1 mg/dL)
+- NT-proBNP: 1850 pg/mL
+- INR: 2.3 (target range 2-3 for atrial fibrillation)
+Significant Procedures:
+- Echocardiogram performed on September 23, 2023 demonstrated LVEF of 35%, bi-atrial enlargement reflecting the new diagnosis of atrial fibrillation. No significant valvular disease observed.
+Clinical Course:
+Mr. Thompson responded well to medical management with improvements in his heart failure symptoms. His blood pressure and atrial fibrillation rate control were adequately achieved with medical therapy. Anticoagulation has been initiated and therapeutic INR range has been achieved. He has been counseled on diet, fluid intake, and medication adherence.
+Instructions Upon Discharge:
+- Monitor weight daily
+- Adhere to a low-salt diet
+- Maintain scheduled medication regimen
+- Watch for signs of bleeding while on warfarin
+- Contact healthcare provider immediately if experiencing symptoms of heart failure exacerbation, increased shortness of breath, or uncontrolled heart rate
+Discharge Condition:
+Mr. Thompson is discharged in a stable condition with management plans for outpatient follow-up as detailed above. He understands his discharge instructions and expressed confidence in managing his condition at home.
+Signed:
+Dr. Sara Kendrick  
+Date: September 30, 2023  
+Time: 2:00 PM
+This discharge summary has been transmitted to the primary care physician Andrew Clark, MD via the integrated health system network on September 30, 2023. Follow-up care continuity is ensured, and all prescribed therapies are documented in the patient’s electronic health record, accessible to the care coordination team.

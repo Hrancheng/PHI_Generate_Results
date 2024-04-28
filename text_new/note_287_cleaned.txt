@@ -1,0 +1,34 @@
+**Inpatient Discharge Summary**
+Emily Norton, MRN# 831205647, is a 62 y.o. female, admitted to the Cardiology service for acute management following a myocardial infarction (MI). 
+Admission Date: 02/25/2023  
+Discharge Date: 03/05/2023  
+Attending Provider: Dr. Henry Thomas  
+Discharge Nurse Practitioner: Sarah Menon, AGACNP-BC  
+PCP (Primary Care Provider): Dr. Alice Johnson, MD  
+450 W Medical Center Dr, Brightwell Hospital, Seattle, WA 98101
+Hospital Problems Noted - Resolved POA (Present On Admission) Active Problems  
+1. STEMI (ST-segment Elevation Myocardial Infarction) 02/25/2023 - Present Yes  
+2. Type 2 Diabetes Mellitus (controlled with insulin) - Present Yes  
+3. Hypertension - Present Yes  
+4. Hyperlipidemia - Present Yes  
+**Hospital Course: Brief Overview**  
+Ms. Emily Norton presented to the ED with chest pain that she described as "a squeezing sensation" lasting more than 20 minutes. Initial EKG confirmed the diagnosis of STEMI 02/25/2023, and she was swiftly moved to the cath lab where coronary angiography revealed 90% stenosis of the left anterior descending artery. Immediate PCI was successfully performed. 
+Post-procedural recovery was marked by consistent monitoring of cardiac enzymes and adequate glycaemic control, chiefly managed with IV insulin as per sliding scale due to her known history of Type 2 Diabetes. Ms. Norton engaged proactively in cardiac rehabilitation sessions during her stay and demonstrated significant improvement in her ambulatory capabilities.
+**Discharge Medication List**  
+1. Aspirin 81 mg tablet, Oral, ONCE DAILY  
+2. Metoprolol succinate 50 mg, Oral, TWICE DAILY  
+3. Atorvastatin 20 mg tablet, Oral, ONCE DAILY at bedtime  
+4. Lisinopril 10 mg tablet, Oral, ONCE DAILY  
+5. Insulin glargine 100 units/mL, 25 units, SubQ, ONCE DAILY at bedtime  
+**Follow-up and Instructions**  
+Ms. Norton is scheduled for a follow-up with her PCP, Dr. Alice Johnson, at Brightwell Cardiovascular Health Clinic on 03/12/2023 at 10:00 AM and with the Diabetes Management Team on 03/14/2023 at Brightwell Hospital. She has been instructed to monitor her blood pressure and blood glucose levels daily and maintain a low-sodium, low-sugar diet as advised by the dietician.
+**Pertinent Laboratory Results at Discharge**  
+- Troponin I: 0.2 ng/mL (decreasing trend)  
+- HbA1c: 7.2%  
+- LDL: 100 mg/dL (target <70 mg/dL, close monitoring recommended)  
+- Creatinine: 0.9 mg/dL  
+**Condition at Discharge**  
+Ms. Norton has been instructed regarding symptom monitoring, especially any signs of chest pain, shortness of breath, or extreme fatigue. She is to cease activities and seek immediate medical attention if symptoms recur. The patient’s clinical status at discharge is stable, and she is able to perform daily activities without assistance.
+**Signed:**  
+Dr. Henry Thomas, Cardiology  
+Discharge Date/Time: 03/05/2023, 14:00 PM.

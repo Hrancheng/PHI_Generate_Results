@@ -1,0 +1,57 @@
+**Inpatient Discharge Summary**
+---
+**Patient:** Elizabeth Turner
+**Medications on Discharge:**
+- Lisinopril 20 mg daily
+- Metformin 500 mg twice a day
+- Simvastatin 40 mg at bedtime
+**Allergies:** Penicillin - rash
+**Past Medical History:**
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Hypercholesterolemia
+**Social History:**
+- Non-smoker
+- Occasional alcohol
+- Retired school teacher
+**Family History:**
+- Father with history of CAD
+- Mother with history of hypertension
+**Hospital Course:**
+Patient Elizabeth Turner, a 68-year-old female, was admitted to General Hospital on August 15th due to worsening dyspnea and was diagnosed with congestive heart failure. The patient responded well to IV diuretics and adjustment of her oral antihypertensive regimen. Education was provided on fluid and sodium restriction.
+**Procedure:** 
+- Echocardiogram on August 16th showed reduced ejection fraction of 40%.
+**Discharge Date:** August 20th
+**Discharge Instructions:**
+- Continue medication as prescribed.
+- Follow up with cardiologist Dr. Helen Mirren in one week.
+- Monitor weight daily. Report a gain of 3 pounds or more in a day to the physician.
+- Limit fluid intake to less than 2 liters per day.
+- Maintain a low salt diet.
+**Follow-Up Appointments:**
+- Cardiology follow-up on August 27th at City Cardiology Associates, 123 Heartbeat Lane, Springfield, IL 62704.
+- Primary care follow-up with Dr. Robert Chase on September 5th.
+**Contact Information:**
+- Cardiology: (555) 123-4567
+- Primary Care: (555) 987-6543
+**Physical Examination at Discharge:**
+- BP: 130/80 mmHg
+- HR: 78 bpm
+- RR: 16 breaths per minute
+- Temp: 98.6°F (37°C)
+**Lab Results at Discharge:**
+- Sodium: 140 mEq/L
+- Potassium: 4.5 mEq/L
+- Creatinine: 1.1 mg/dL
+- BNP: 580 pg/mL
+**Summary and Recommendations:**
+Patient Elizabeth Turner to continue with outpatient management of CHF. Importance of medication adherence and lifestyle modifications stressed. Early follow-up recommended to reassess efficacy of the current treatment plan. Patient understands the discharge plan and verbalized understanding. All questions were answered.
+**Discharge Time:** 10:00 AM on August 20th
+**Signature:**
+Dr. John Miller, General Hospital
+**Discharge Condition:**
+Stable, to home, with self-care capabilities.
+**Diagnosis:**
+- Congestive Heart Failure (CHF)
+---
+This synthetic discharge summary outlines the hospital stay, treatment, and follow-up instructions for a fictional patient, ensuring all personal health information (PHI) is clearly tagged according to the given annotation guidelines.

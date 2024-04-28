@@ -1,0 +1,50 @@
+Inpatient Discharge Summary
+-----------------------------
+Patient Name: Michael Thompson, MRN: 458902378, is a 64 y.o. male, admitted to the Cardiology service for evaluation and management of chest pain and shortness of breath.
+Admission Date: April 12, 2023
+Discharge Date: April 29, 2023
+Attending Physician: Dr. Alice Johnson
+Hospital Service: Cardiology
+Admission Diagnosis:
+- Acute myocardial infarction
+- Chronic obstructive pulmonary disease exacerbation
+Hospital Course:
+Mr. Thompson arrived in the emergency department experiencing acute onset of chest pain radiating to his left arm along with shortness of breath. Initial EKG showed ST-elevation MI. He was urgently taken to the cath lab where Dr. Josephine Hart performed primary percutaneous coronary intervention on his occluded left anterior descending artery. Post-procedure, his chest pain resolved, and cardiac markers began trending down. His hospital stay was complicated by a COPD exacerbation managed with corticosteroids and bronchodilators. He progressively improved with respiratory treatments and was started on a cardiac rehab program. 
+Discharge Medications:
+- Aspirin 81 mg daily
+- Lipitor 40 mg daily
+- Metoprolol 50 mg twice daily
+- Spiriva 18 mcg daily
+- Oxygen to be used per 2 liters via nasal cannula as needed for comfort
+Follow-up Instructions:
+- Main Street Cardiology Clinic
+- Dr. Alice Johnson scheduled for May 3, 2023 at 14:00
+Special Instructions:
+- Continue cardiac rehabilitation thrice weekly
+- Monitor weight daily, report any gain of 3 lbs or more to the cardiologist
+- Use oxygen as prescribed and continue taking all medications as directed without skipping doses
+- Immediate contact to provider for any recurrence of chest pain or shortness of breath
+Discharge Diet:
+Heart-healthy diet, low in sodium and saturated fats
+Discharge Activity:
+Light walking daily, avoid lifting objects heavier than 10 pounds until further consultation
+Pending Studies:
+- Outpatient stress test scheduled for May 15, 2023
+Home Services Arranged:
+- Home health nurse to assess wound care and medication compliance
+- Respiratory therapy follow-up twice a week for the first month
+Condition at Discharge:
+Stable, capable of self-care, understanding of discharge and follow-up instructions verified.
+Discharge Disposition:
+Home
+Notifications:
+A discharge summary has been sent to Main Street Cardiology Clinic and primary care physician Dr. Lisa Raymond. An electronic copy of the medical record was sent on April 29, 2023 to ensure continuity of care.
+Signed:
+Dr. Alice Johnson, MD
+April 29, 2023, 16:00 PM
+Patient Education:
+Provided materials regarding heart-healthy diet, importance of medication adherence, and recognizing signs of cardiac distress. Patient expressed understanding and verbalized back key points to ensure comprehension.
+Follow-Up Contact:
+555-984-1234 for appointment changes or questions
+Final Note:
+The patient expressed gratitude for the care received and felt prepared for home management with the arranged support and follow-up care. Given his complex medical history, close monitoring and adherence to the treatment plan are essential to avoid potential complications.

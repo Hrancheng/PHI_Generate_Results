@@ -1,0 +1,28 @@
+**Internal Medicine Inpatient Discharge Summary**
+**Patient:** Michael Thompson, MRN# 559761342, is a 54 y.o. male, admitted to the Cardiology service due to chest pain and a diagnosed myocardial infarction.  
+**Admission Date:** 9/10/2023  
+**Discharge Date:** 9/20/2023  
+**Attending Provider:** Dr. Anna Lee  
+**Hospital Course:**
+Mr. Thompson presented to the emergency department on 9/10/2023 with acute onset of severe chest pain radiating to his left arm. Initial EKG showed ST-segment elevations in the anterior leads. He was immediately taken to the Cath Lab where a 100% occluded left anterior descending (LAD) artery was identified and successfully revascularized with a drug-eluting stent.
+During his hospital stay, Mr. Thompson underwent multiple tests and was cared for by an interdisciplinary team. He participated in daily cardiovascular rehabilitation sessions and received dietary counseling aimed at heart health. His cholesterol levels, initially high, responded well to statin therapy.
+**Discharge Medications:**
+1. Aspirin 81 mg daily 
+2. Clopidogrel 75 mg daily 
+3. Atorvastatin 40 mg at bedtime 
+4. Metoprolol 50 mg twice daily 
+**Follow-Up Appointments:**  
+- Cardiology follow-up with Dr. Anna Lee on 10/5/2023 at the Downtown Health Clinic.  
+- Primary care appointment with Dr. Robert Martin on 10/12/2023 for ongoing management of hypertension and diabetes.  
+**Lifestyle Recommendations:**  
+Patient is advised to maintain a low-sodium, low-fat diet, engage in regular moderate exercise, and continue smoking cessation. 
+**Discharge Instructions:**  
+Patient educated on the importance of medication adherence, signs of heart failure, and when to seek immediate medical attention. He was provided with written materials about managing heart conditions and a prescription plan.
+**Impression:**
+Acute myocardial infarction with successful revascularization. No complications arose during the hospitalization. Mr. Thompson showed improvement in cardiac function and understanding of his health condition. He is to continue rehabilitation and lifestyle modifications.
+**Sign-out to:** Robert Martin, MD, 4502 Medical Park Dr, Suite 302, Bloomington, IL 61704  
+**Phone:** 815-322-7007  
+**Fax:** 815-322-7008
+**Signed:**  
+Dr. Anna Lee, MD, 9/20/2023, 4:30 PM
+This discharge summary effectively communicates the patient’s inpatient course, provides clear follow-up instructions, and ensures continuity of care by coordinating with both the specialist and the primary care physician.

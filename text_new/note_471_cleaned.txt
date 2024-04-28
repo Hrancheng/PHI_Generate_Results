@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Central City Medical Center**
+**Patient Name:** Elizabeth Martin
+**MRN:** 456783290
+**Age:** 68 y.o.
+**Admission Date:** January 15, 2023
+**Discharge Date:** January 28, 2023
+**Attending Physician:** Dr. Helen Zhao
+**Consulting Team:**
+- Cardiology: Dr. Aaron Cheung
+- Endocrinology: Dr. Ivan Gregg
+- Nutrition: Susan Warner, RD
+**Hospital Problems Noted - Resolved:**
+- POA Active Problems
+  - Type II Diabetes Mellitus 1/16/2023 - Present
+  - Hypertension 1/17/2023 - Present
+  - Congestive Heart Failure 1/18/2023 - Present
+**Hospital Course:**
+Mr. Elizabeth Martin presented to the emergency department on January 15, 2023 with complaints of shortness of breath and fatigue. Initial evaluation indicated acute exacerbation of congestive heart failure. The patient was admitted under the care of Dr. Helen Zhao and treatment was initiated with IV diuretics and cardiac monitoring. The patient showed gradual improvement with reduced edema and stabilized heart function. Cardiology was consulted and echocardiogram showed EF of 40%. Diabetes management was called in due to fluctuating blood sugar levels, and a revised insulin regimen was started. The patient also benefited from dietary consultations which helped in managing fluid and sodium intake tailored to her cardiac condition. Her condition improved consistently, leading to her stabilization and readiness for discharge.
+**Medications at Discharge:**
+- Metformin 500 mg, Twice daily
+- Lisinopril 10 mg, Once daily
+- Carvedilol 6.25 mg, Twice daily
+- Lasix 40 mg, Once daily
+**Follow-Up Appointments:**
+- Dr. Aaron Cheung, Cardiology, 555 Healthway Dr., Suite 202, Central City, OR 97030, on February 5, 2023 at 10 AM.
+- Dr. Ivan Gregg, Endocrinology, same address, on February 15, 2023 at 9 AM.
+**Discharge Instructions:**
+The patient has been instructed to monitor her weight daily and report any gain of more than 3 pounds in a day to her cardiology team. She has been educated on watching her fluid and salt intake. The symptoms to watch for include increased shortness of breath, chest pain, or any swelling and to visit the ER if these occur. Medication compliance has been stressed during her discharge education.
+**Discharge Status:**
+Ms. Elizabeth Martin is being discharged to her home with home health services arranged to assist with medication management and daily monitoring for the first two weeks post-discharge. Her condition at discharge is stable with significant improvement noted during her hospital stay.
+**Next of Kin:** 
+- Son: Thomas Martin
+- Contact Phone: 503-555-0196
+**Discharge Signed By:**
+Dr. Helen Zhao
+Date: January 28, 2023
+Time: 3:00 PM 
+**Discharge Summary Prepared By:**
+Jason Lee, Medical Student
+**Note:** This summary is a continuation of care document. Please refer to the detailed medical records for a comprehensive review. Should there be any discrepancies, contact Central City Medical Center immediately at 503-555-7863.

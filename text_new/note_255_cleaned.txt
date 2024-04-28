@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Patient**: Elizabeth Miller
+**MRN**: 987654321
+**Age**: 72 years old
+**Admission Date**: February 20, 2023
+**Discharge Date**: March 2, 2023
+**Attending Physician**: Dr. Hannah Lee
+**Consulting Team**: Cardiology, Nephrology, Nutrition
+**Hospital Service**: General Medicine
+---
+**Chief Complaint**: Chest pain and elevated blood pressure
+**History of Present Illness**:
+Elizabeth Miller presented to the Emergency Department on February 20, 2023 with acute onset of chest pain described as a sharp, radiating pain to her left arm, associated with diaphoresis and nausea. Electrocardiogram (ECG) revealed T-wave inversions indicative of ischemia. Initial troponin levels were elevated. 
+**Past Medical History**:
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Previous myocardial infarction (2010)
+**Hospital Course**:
+Ms. Miller was admitted under the care of the general medicine team with consultations from cardiology and nephrology. She underwent coronary angiogram which showed a 70% occlusion in the left anterior descending artery, treated with angioplasty and stenting. Her post-procedure course was complicated by acute kidney injury, attributed to contrast nephropathy, managed conservatively with IV fluids and close monitoring of renal function. Her blood sugar levels were managed with insulin as per sliding scale due to fluctuations during her stay.
+**Medications at Discharge**:
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice a day
+- Atorvastatin 40 mg at bedtime
+- Insulin regimen adjusted according to blood glucose levels
+**Discharge Instructions**:
+Ms. Miller should follow a low-sodium and low-sugar diet as advised by the nutrition team. She is scheduled for a follow-up appointment with her primary care provider, Dr. Emily Carson, on March 9, 2023. Cardiology follow-up within one week post-discharge to reassess medication efficacy and general health status.
+**Follow-up Appointments**:
+1. Primary care follow-up: March 9, 2023 with Dr. Emily Carson
+2. Cardiology follow-up: March 7, 2023 with Dr. Johnathan Swift at the City Heart Clinic
+**Outpatient Services/Rehabilitation**:
+Patient to continue with prescribed physical activities and a gradual increase in daily exercises as per the discharge rehabilitation plan provided.
+---
+**Summary/Plan**:
+Ms. Miller is advised to maintain her follow-up appointments strictly, adhere to her medication schedule, and monitor her blood pressure and blood sugar levels daily. Dietary restrictions given by the nutritionist must be followed to avoid any cardiovascular or diabetic complications. She was discharged in a stable condition with all vital signs within normal limits. Patient and family educated about signs of potential complications and instructed to return to the emergency room or contact their provider if symptoms recur or worsen.
+**Discharge Medications**:
+Ms. Miller was provided with a one-month supply of all discharge medications with appropriate instructions for use. Her pharmacy, WellCare Pharmacy, has been notified of her medication list for continuity.
+---
+**Signed**:
+Dr. Hannah Lee
+Date: March 2, 2023
+Time: 15:45 PM

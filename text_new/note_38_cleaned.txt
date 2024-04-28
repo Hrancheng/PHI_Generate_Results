@@ -1,0 +1,36 @@
+Inpatient Discharge Summary
+Michael Thompson, MRN# 784502394, is a 58 y.o. male, admitted to the cardiology service for management of acute myocardial infarction and subsequent cardiac rehabilitation. 
+Admission Date: 03/15/2023
+Discharge Date: 04/01/2023
+Attending Physician: Dr. Emily Stanton
+Consulting Team: Cardiology, Nutrition, Physical Therapy
+Hospital Problems Noted - Resolved
+1. Myocardial Infarction 03/15/2023 - Present Yes
+2. Hypertension 03/16/2023 - Present Yes
+3. Type II Diabetes Mellitus 03/15/2023 - Present Yes
+Brief Hospital Course:
+Mr. Thompson was brought to the Emergency Department at Saint Luke’s Regional Medical Center with severe chest pain and was diagnosed with an acute myocardial infarction. He underwent an emergency coronary angioplasty and stenting. Post-procedure, his course was complicated by transient hypotension, which responded to fluid resuscitation and medications. He participated in cardiac rehabilitation and was gradually mobilized with the assistance of physical therapy. His blood sugar levels were managed with insulin and oral hypoglycemic agents. Diet consultations were provided to help manage his diabetes and cardiovascular risk factors.
+Discharge Medications:
+1. Aspirin 81 mg daily
+2. Metformin 500 mg twice daily
+3. Lisinopril 10 mg daily
+4. Atorvastatin 40 mg at bedtime
+5. Insulin Glargine 40 units at bedtime
+Follow-Up:
+1. Follow up with primary care physician Dr. John Hartley in one week at 458 West Elm Street, Springfield, IL 62704.
+2. Cardiology follow-up in three weeks with Dr. Emily Stanton at Saint Luke’s Regional Medical Center, Cardiology Unit.
+3. Diabetes management follow-up with endocrinologist Dr. Susan Lee in two weeks.
+4. Continue physical therapy twice a week at Premier Physiotherapy Clinic.
+Other Instructions:
+1. Continue low sodium, low fat diet as instructed.
+2. Check blood pressure and blood sugar levels daily.
+3. Engage in mild to moderate physical activity, gradually increasing as tolerated.
+Discharge Condition:
+The patient's condition is stable. He is advised to avoid heavy lifting and strenuous activities for the next 4 weeks. Symptoms such as chest pain, severe shortness of breath, or hypoglycemic episodes should prompt immediate medical consultation.
+Discharge Vitals:
+BP 130/85, HR 78, Temp 98.6 F, RR 16.
+Last Recorded Vital Signs:
+BP 125/80, Pulse 75, SpO2 98%, Temp 36.8°C (98.2°F)
+Signed:
+Dr. Emily Stanton, MD 04/01/2023, 11:00 AM 
+This discharge summary provides a synthesized report of the patient’s hospital stay, highlighting the significant details related to his treatment, follow-up care, and prescriptions, ensuring continuity of care following the release from the hospital setting.

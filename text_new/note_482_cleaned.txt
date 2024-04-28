@@ -1,0 +1,56 @@
+**Inpatient Discharge Summary**
+**Harold Gaines, MRN# 57831209,** is a **53-year-old** male admitted to the Medical Unit 2 for management of chest pain and rule out myocardial infarction.
+**Admission Date: 3/1/2023**  
+**Discharge Date: 3/5/2023**  
+**Attending Provider: Dr. Samantha Whitmore**  
+Treatment Team: Nurse Lucy Carrington, Cardiology Resident Ian Fitzgerald
+---------------
+###! FIRST CONTACT !:
+**Hospital Issues Noted:**  
+- Chest Pain 3/1/2023 - 3/3/2023  
+- Hypertension 3/1/2023 - Present  
+- Suspected myocardial infarction 3/1/2023 - 3/3/2023  
+**Resolved Problems:**  
+Myocardial infarction was ruled out, discomfort attributed to gastroesophageal reflux disease 3/3/2023
+### Recommendations for Follow Up: 
+**Cardiology:** Follow up appointment on 3/15/2023  
+**Gastroenterology:** Referral made, appointment on 3/10/2023  
+**Primary Care Provider:** Continue blood pressure and cholesterol monitoring.
+### Lab, Diagnostic Testing, and Referral Follow-Up: 
+**Orders given to patient:**  
+- Aspirin 81mg daily  
+- Blood pressure monitoring twice daily  
+- Labs: BMP, Lipid profile follow-up in Mercy General outpatient labs
+### Next Steps: Follow up Instructions: 
+- Harold Gaines advised a diet low in saturated fats.  
+- Dr. Elena Marks, his primary care provider, to review lab results in upcoming visit on 3/18/2023.  
+- Contact information for immediate concerns: 553-332-1108.  
+---------------
+### Discharge Condition: 
+**Mental Status:** Alert and oriented x3  
+**Physical Examination:**  
+- Chest: Clear to auscultation  
+- Heart: Regular rate and rhythm, no murmurs  
+- Abdomen: Soft, non-tender  
+**Ambulation:** Stable, walking without assistance    
+---------------
+**Significant Test Results:**  
+**EKG on 3/1/2023** - No signs of ischemia  
+**Chest X-ray 3/1/2023** - Normal heart size, clear lungs  
+### Nursing/Therapy Needs:
+- Patient educated on new medication regimen  
+- Patient instructed on low saturated fat diet  
+- Blood pressure cuff and instructions provided for home monitoring
+---------------
+**Discharge Medications:**
+- Aspirin 81mg, once daily in the morning  
+- Lisinopril 10mg, once daily for blood pressure  
+- Atorvastatin 20mg, once daily at night for cholesterol  
+---------------
+### Final Discharge Instructions:
+**Diet:** Low fat, low salt diet recommended  
+**Activity:** Gradual return to regular activities, avoid heavy lifting for 1 week  
+**Medications:** Continue with the prescribed medications, follow up with primary provider for adjustments  
+**Follow up:** Heart Care Associates on 3/15/2023 and Main Street Gastroenterology on 3/10/2023  
+Signed by: Dr. Samantha Whitmore, MD, Mercy General Hospital, 3/5/2023 at 4:00 PM  
+This discharge summary was also faxed to the primary care provider's office at 542-555-9820 for continuity of care and documentation.

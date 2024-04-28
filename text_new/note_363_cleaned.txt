@@ -1,0 +1,34 @@
+**Inpatient Discharge Summary**  
+**Robert Lee Parker, MRN# 712345678**, is a 58 y.o. male, admitted to the Cardiology service for management of acute congestive heart failure and atrial fibrillation.  
+Admission Date: 2/12/2023  
+Discharge Date: 2/22/2023  
+Admission Diagnosis: Acute congestive heart failure, Atrial fibrillation  
+Discharge Physician: Dr. Melissa Grant  
+PCP: Dr. Henry Clarkson, MD  
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+- Congestive Heart Failure 2023-02-12 - Present Yes  
+- Chronic Kidney Disease, Stage 3 2022-12-19 - Present Yes  
+- Hypertension 2023-01-10 - Present Yes  
+**Hospital Course:**  
+Robert Parker is a 58-year-old male with a past medical history significant for hypertension and chronic kidney disease who presented to the ED 2/12/2023 with complaints of worsening dyspnea and lower extremity swelling. His admission was marked by an acute exacerbation of heart failure complicated by new-onset atrial fibrillation with a rapid rate. Initial management in the emergency department included IV diuretics and rate control, which were continued throughout his hospital stay. Cardiology was consulted and recommended initiation of dofetilide, and optimization of his heart failure regimen.
+The patient's hospital course included management of fluid status with aggressive diuresis resulting in a weight reduction from 98 kg to 91 kg, achieving a euvolemic state. His rate-controlled atrial fibrillation has been stable since initiation of antiarrhythmic medication with no further episodes of rapid atrial fibrillation noted. Echocardiogram demonstrated preserved ejection fraction with signs of grade II diastolic dysfunction. Discharge planning included close outpatient follow-up and monitoring of kidney function given ongoing diuresis and potential nephrotoxicity of medications.  
+**Discharge Medications:**  
+- Furosemide 40 mg tablet, Take 1 tablet by mouth twice daily  
+- Dofetilide 500 mcg capsule, Take 1 capsule by mouth twice daily  
+- Lisinopril 20 mg tablet, Take 1 tablet by mouth once daily  
+- Potassium Chloride 20 mEq tablet, Take 1 tablet by mouth once daily  
+**Follow-Up Instructions:**  
+Dr. Melissa Grant instructed Robert Parker to follow up in her office in 1 week, to ensure proper adjustment of medications and to evaluate his response to the new heart failure regimen. Additionally, laboratory tests for renal function and potassium levels are to be repeated in three days at General Outpatient Lab, and results reviewed during the follow-up visit.
+**Last Recorded Vital Signs:**  
+BP 132/86 mmHg | Pulse 72 | Temp 36.8 °C (98.2 °F) | Resp 16 | SpO2 95%  
+**Pertinent Discharge Exam Findings:**  
+General: No acute distress, ambulating independently  
+Cardiovascular: Regular rhythm, no additional sounds or murmurs  
+Respiratory: Clear to auscultation bilaterally, no wheezes  
+Edema: Mild pedal edema, significantly improved from admission  
+**Discharge Condition:**  
+Patient is stable to be discharged to home under the outlined plan. He is to continue salt and fluid restriction as previously instructed. Emergency contact numbers were provided, including instructions to return to the ER or call if he experiences symptoms of worsening heart failure. 
+**Final Discharge Instructions:**  
+Patient educated on importance of medication adherence and dietary restrictions. Emergency signs and symptoms such as increased shortness of breath, chest pain, or uncontrolled arrhythmia were reviewed, with strict instructions to seek immediate medical attention if these occur. Patient verbalized understanding and agreed to comply with the discharge plan.
+Discharge Signed By: Dr. Melissa Grant, 2/22/2023, 10:00 AM  

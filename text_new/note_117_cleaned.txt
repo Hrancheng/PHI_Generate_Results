@@ -1,0 +1,38 @@
+**St. Jude Medical Center - Inpatient Discharge Summary**
+**Patient**: Emily Thompson  
+**MRN#:** 747748483  
+**Age**: 65  
+**Admission Date**: September 15, 2023  
+**Discharge Date**: September 22, 2023  
+**Attending Provider**: Dr. Arthur Holmes  
+**Discharge NP/PA**: Samantha Lee, PA-C  
+**PCP**: Dr. Rebecca Scott, MD  
+**Referring Physician**: Dr. Johnathan Greene  
+**Admission Diagnosis**: Community Acquired Pneumonia; Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)  
+**Discharge Diagnosis**: Same as admission
+**Hospital Course**:  
+Ms. Emily Thompson was admitted from the Maple Health Clinic following a 65-year-old female presenting with acute respiratory distress and hypoxia. On admission, patient was tachypneic with oxygen saturation levels in the low 80s requiring supplemental oxygen via nasal cannula. Chest X-ray revealed bilateral infiltrates, consistent with her diagnosis of pneumonia. Patient responded well to IV antibiotics and steroids. Tapering doses of steroids were adjusted with clinical improvement and readiness for discharge by September 22, 2023.
+**Medications on Discharge**:  
+1. Azithromycin 500 mg daily for 5 days  
+2. Prednisone taper beginning at 40 mg daily decreasing by 10 mg every 3 days  
+3. Albuterol inhaler, 2 puffs every 4 hours as needed  
+4. Tiotropium, one inhalation daily  
+**Discharge Instructions**:  
+Patient is to continue medication regimen as prescribed. She is instructed to follow up with her PCP, Dr. Rebecca Scott, within one week post discharge and earlier if there is any worsening of her respiratory symptoms. Patient should maintain oxygen supplementation at 2L via nasal cannula until further titrated by her respiratory therapist or physician.
+**Follow-up Appointments**:  
+1. September 29, 2023, 2:00 PM Rebecca Scott, MD at Maple Health Clinic  
+2. Scheduled pulmonary function test on October 3, 2023, 9:00 AM, at St. Jude Respiratory Diagnostics
+**Diet**: Regular diet as tolerated. Increase fluid intake to maintain hydration.  
+**Activity**: Light activity recommended, gradually increasing as tolerated. Avoid exposure to smoke or strong fumes.  
+**Other Instructions**: Complete the full course of antibiotics. Use oxygen continuously and monitor for signs of breathlessness or discomfort.  
+**Discharge Condition**: Patient's condition has significantly improved. She is oxygenating well on 2 liters nasal cannula with saturation levels above 92%. The patient is ambulating as tolerated with minimal shortness of breath.
+**Specialist Involved**: Pulmonary Medicine, Physical Therapy for chest physiotherapy
+**Labs and Tests During Admission**:  
+- Elevated white blood cells at time of admission, returned to normal by discharge
+- Chest X-ray from September 15, 2023 showing bilateral lower lobe infiltrates
+- Pulmonary function tests indicating moderate COPD
+**Discharge Summary Signed by**:  
+Dr. Arthur Holmes, MD, attending Pulmonologist  
+Date: September 22, 2023, Time: 04:45 PM
+**Notes**: Patient is to continue smoking cessation efforts. Counseling resources have been provided. Patient verbalizes understanding of all discharge instructions and states she feels prepared to manage her care at home with the support of her daughter, Laura.
+**Emergency Contact**: Patient's daughter, Laura Thompson, Tel: 555-234-9876

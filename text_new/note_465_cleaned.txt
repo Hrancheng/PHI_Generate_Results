@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Emily Thompson  
+**MRN**: 559672903  
+**Age**: 68 y.o.  
+**Admission Date**: August 22, 2023  
+**Discharge Date**: September 5, 2023  
+**Attending Physician**: Dr. Harold Greene  
+---
+**Hospital Course**:
+Ms. Emily Thompson was admitted with a diagnosis of congestive heart failure exacerbation and urinary tract infection. Her hospital stay involved titration of heart failure medications and antibiotic treatment. The patient responded well to diuretics with reduction of peripheral edema and improvement in respiratory status. The UTI was treated with IV Rocephin for 5 days followed by oral antibiotics.
+**Relevant Procedures**:
+1. Echocardiogram on August 23, 2023 showed left ventricular ejection fraction of 40%.
+2. Ultrasound KUB on August 25, 2023 showed no nephrolithiasis.
+**Condition at Discharge**:
+Ms. Thompson is stable with improved heart function and resolved infection. She is advised to continue with outpatient follow-up and medication adherence.
+**Discharge Medications**:  
+- Furosemide 40 mg daily  
+- Lisinopril 20 mg daily  
+- Metoprolol 50 mg twice daily
+- Ciprofloxacin 500 mg twice daily for 3 more days
+**Follow-Up Appointments**:  
+- Dr. Sara Bradley, Cardiologist on September 12, 2023 at Heart Health Clinic  
+- Dr. Jane Martin, Primary Care Physician on September 10, 2023 at General Medical Associates
+**Instructions**:
+Patient is instructed to weigh herself daily and report any weight gain of more than 3 pounds in 24 hours. She should also monitor her blood pressure twice daily using her home monitor. She is to restrict fluid intake to less than 2 liters per day and follow a low-sodium diet.
+**Signed**:  
+Dr. Harold Greene, MD  
+Date: September 5, 2023  
+Time: 4:30 PM
+---
+**Contact Information**:  
+Cardiology Clinic: 555-314-1592  
+General Medical Associates: 555-271-8281
+**Pharmacy**: Community Health Pharmacy  
+Refills authorized as prescribed. Please call 555-667-2331 for refills.
+---
+This discharge summary details the patient’s hospitalization from admission through discharge, including management of her primary health issues, relevant procedures performed, and the plan for follow-up care.

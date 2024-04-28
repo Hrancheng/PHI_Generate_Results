@@ -1,0 +1,34 @@
+Inpatient Discharge Summary
+-----------------------------
+Patient Name: Emily Townsend
+MRN#: 458902345
+Age: 62 y.o.
+Admission Date: 9/12/2023
+Discharge Date: 9/29/2023
+Attending Physician: Dr. Helen McGregor
+**Hospital Course and Treatment Summary:**
+Emily Townsend, a 62 y.o. female, was admitted under Dr. Helen McGregor's care with a diagnosis of acute cholecystitis. Initial evaluation showed leukocytosis and imaging confirmed gallstones with cholecystitis. The patient underwent a laparoscopic cholecystectomy on 9/14/2023 by Dr. Ian Smith, which was uneventful. Post-operatively, the patient experienced mild nausea which was managed with ondansetron. 
+Patient's recovery was complicated by a transient urinary tract infection diagnosed on 9/20/2023, for which she received ciprofloxacin. The infection cleared with treatment as evidenced by negative cultures on 9/25/2023. 
+She also attended physical therapy led by Lisa Chang, PT, to manage post-operative mobility, showing good progress. Patient education was provided on wound care and signs of infection by nurse Judy Heinz.  
+A dietitian consultation took place on 9/18/2023 to discuss dietary adjustments post-gallbladder removal.
+**Discharge Medications:**
+1. Acetaminophen 650 mg PO q4-6hr PRN for pain
+2. Ciprofloxacin 250 mg PO BID to complete a 7-day course
+3. Ondansetron 4 mg PO TID PRN for nausea
+**Follow-Up Appointments:**
+1. Follow-up with Dr. Ian Smith on 10/10/2023 for surgical follow-up.
+2. General Practitioner, Dr. Karen Walters, appointment on 10/05/2023 for overall health check and management of chronic conditions.
+3. Physical therapy continuation with Lisa Chang, PT, twice a week for the next three weeks.
+**Discharge Instructions:**
+Emily Townsend is advised to avoid lifting heavy objects for the next six weeks. She should monitor her wound for any signs of redness, swelling, or discharge. Pain management should be conducted as prescribed, and she is advised to gradually increase her daily activities. Diet should be low in fat as discussed with the dietitian. Any signs of fever, increased pain, or other complications should prompt an immediate consultation with her primary care provider.
+**Last Recorded Vital Signs:**
+- BP: 128/82
+- HR: 72 bpm
+- Temp: 98.6 F
+- RR: 16 per minute
+**Discharge Condition:**
+Patient is stable, ambulating with ease, and tolerating a regular diet. No acute distress noted, and patient is oriented to time, place, and person.
+**Summary by:**
+Dr. Helen McGregor
+Date: 9/29/2023
+[Note: All personal identifiers such as names, contact information, MRN#, and specific dates related to the patient and healthcare providers are fabricated for this synthetic example and are consistent with HIPAA guidelines.]

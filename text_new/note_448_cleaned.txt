@@ -1,0 +1,35 @@
+Inpatient Discharge Summary
+—————————————————————————————————————
+Patient Name: Elizabeth Johnson
+MRN#: 287654321
+54 years old female, was admitted to the Cardiology Service for evaluation and management of new-onset atrial fibrillation and heart failure.
+Admission Date: September 15, 2023
+Discharge Date: September 22, 2023
+Attending Provider: Dr. Michael Smith
+Treatment Team: Cardiology Service
+—— Past Medical History ——
+Hypertension, diabetes mellitus type 2, dyslipidemia
+—— Hospital Course ——
+Ms. Johnson presented to the Emergency Department on September 15, 2023, complaining of palpitations and shortness of breath. An EKG performed upon arrival revealed atrial fibrillation with a rapid ventricular rate. She was started on IV diltiazem, which successfully controlled her heart rate. She was admitted for further management of her atrial fibrillation and underlying heart failure.
+Echocardiography showed a reduced ejection fraction of 40%, indicative of heart failure. Ms. Johnson was started on lisinopril and metoprolol for heart failure management and rate control in atrial fibrillation. Anticoagulation therapy was initiated using apixaban to reduce stroke risk.
+Throughout her stay, her blood glucose levels were managed with an adjusted insulin regimen, and dietary adjustments were made by consulting the nutrition team. 
+Discharge medications included lisinopril, metoprolol, apixaban, and a sliding scale insulin regimen. Her diabetes medications were adjusted, discontinuing metformin and initiating a low dose of long-acting insulin at bedtime.
+Her condition stabilized, and she was scheduled for a follow-up in the outpatient cardiology clinic on October 2, 2023.
+—— Discharge Medications ——
+1. Lisinopril 10 mg, once daily
+2. Metoprolol tartrate 50 mg, twice daily
+3. Apixaban 5 mg, twice daily
+4. Insulin glargine 10 units, at bedtime
+—— Follow-up ——
+Ms. Johnson is scheduled to follow up with her primary care physician, Dr. Laura Davis, on October 2, 2023, and with Cardiology on October 10, 2023. She has been referred to the heart failure clinic and will also participate in the community-based Diabetic Support Group, Health Partners Community Wellness Program.
+—— Education ——
+Patient educated about the importance of medication adherence, monitoring her blood pressure and blood sugar at home, and recognizing signs of heart failure exacerbation. She was instructed on the use of a home blood pressure monitor and a glucometer.
+—— Discharge Condition ——
+Ms. Johnson was discharged in stable condition with an improved ejection fraction and controlled blood glucose levels. She reported understanding all discharge instructions and expressed her confidence in managing her conditions at home with the support of her family and outpatient providers.
+Signed:
+Dr. Michael Smith, MD September 22, 2023, 12:45 PM
+Nancy Lee, RN
+Cardiology Service
+[B-DATE]Contact Info:
+Cardiology Clinic: 555-123-4567
+Diabetes Support Group: 555-987-6543

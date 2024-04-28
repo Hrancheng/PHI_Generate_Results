@@ -1,0 +1,54 @@
+**Inpatient Discharge Summary**
+Patient Information:
+**Mr. Robert Thompson**, MRN#: 123456789
+Admission Date: 1/15/2023
+Discharge Date: 1/22/2023
+Diagnosis:
+1. Acute Cholecystitis
+2. Type 2 Diabetes Mellitus
+Procedures Performed:
+- Laparoscopic Cholecystectomy on 1/16/2023
+Attending Physician: Dr. Emily Stone
+Consulting Physician: Dr. Joshua Lim
+Nursing Care Coordinator: Nancy Reed, RN
+Allergies:
+- No known drug allergies
+Medications on Admission:
+1. Metformin 500 mg twice daily
+Medications on Discharge:
+1. Metformin 500 mg twice daily
+2. Oxycodone 5 mg every 6 hours as needed for pain
+Instructions for Patient:
+- Follow a low-fat diet as discussed with Dietary Services.
+- Monitor blood sugar levels twice daily.
+- Schedule follow-up appointment with Downtown Clinic for wound check and diabetes management on 1/30/2023.
+- Contact 555-123-4567 if experiencing fever, jaundice, or uncontrolled pain.
+**Patient Condition at Discharge:**
+- Stable with instructions to limit physical activity for two weeks.
+Discharge Follow-Up:
+- General Practitioner: Dr. Alan Grant at Downtown Clinic, next appointment on 1/30/2023
+- Endocrinology: Dr. Sara Knox for ongoing diabetes management, next appointment on 2/15/2023
+Discharge Nurse: Jessica Miles, RN
+Discharge Time: 14:30
+Signature of Discharging Physician:
+Emily Stone, MD
+Patient Education:
+- Discussed importance of medication adherence.
+- Provided dietary recommendations for diabetes and post-cholecystectomy recovery.
+- Educated on signs of infection to watch for at the incision site.
+**Home Care Instructions:**
+- Keep the wound dry and clean.
+- Avoid lifting heavy objects (>10 lbs) for at least 4 weeks.
+- Report any signs of infection immediately to the healthcare provider.
+**Emergency Contacts:**
+- Downtown Clinic: 555-234-5678
+- After-hours Emergency: 555-345-6789
+Transportation:
+- Patient was transported by City Medical Transport Services to his home at 1234 Maple Street, Unit 101, Springfield, IL.
+**Other Notes:**
+- Patient expressed understanding of all discharge instructions and verbalized without any questions at time of discharge.
+- All prescriptions have been sent electronically to Springfield Pharmacy.
+**City Hospital**
+100 Health Blvd., Springfield, IL 62701
+(217) 555-0101
+This discharge summary embodies an illustrative example of how to document and label Protected Health Information (PHI) according to specific annotation guidelines for confidentiality and personal data protection in healthcare records.

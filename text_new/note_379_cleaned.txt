@@ -1,0 +1,30 @@
+**Inpatient Discharge Summary**
+**Patient:** Michael Thompson, MRN: 987654321   
+**Age:** 72 years old  
+**Admission Date:** September 20, 2023  
+**Discharge Date:** September 30, 2023  
+**Admitting Diagnosis:** Acute decompensated heart failure
+**Hospital Course:**
+Michael presented to Mercy General Hospital with symptoms of shortness of breath, pedal edema, and paroxysmal nocturnal dyspnea. Initially managed in the ICU, he showed significant improvement with IV diuretics and afterload reduction. Cardiology was consulted, and an echocardiogram showed an ejection fraction of 35%. The patient's home medications were optimized, and he was stepped down to the telemetry floor on September 23, 2023.
+**Discharge Medications:**
+- Furosemide 40 mg oral, once daily
+- Lisinopril 20 mg oral, once daily
+- Metoprolol Tartrate 50 mg oral, twice daily
+- Spironolactone 25 mg oral, once daily
+**Follow-Up:**  
+Outpatient follow-up with Dr. Susan Lee at Cardiac Specialists Associates scheduled for October 10, 2023 at 10:00 AM.
+**Condition at Discharge:**  
+Stable with significantly improved respiratory function and reduced edema.
+**Instructions:**
+Patient advised to maintain low salt diet, adhere strictly to fluid restriction of 1.5 liters per day, and weigh daily. Immediate return to hospital if experiencing increased shortness of breath, weight gain more than 2 kg in 24 hours, or chest pain.
+**Physician:**
+Henry Grant, MD, Cardiology
+**Date/Time:** September 30, 2023, 15:00
+**Discharge Note Signed by:**
+Linda Walsh, RN
+**Summary of Significant Findings:**
+- No new ischemic changes on final EKG.
+- Stable blood chemistry with creatinine returned to baseline.
+- Reduced BNP from admission, indicating well-managed heart failure.
+---
+This discharge summary serves as a concise handover document tailored to ensure continuity of care, detailing the patient’s hospitalization from initial presentation to the strategy at discharge.

@@ -1,0 +1,50 @@
+**Inpatient Discharge Summary**
+---
+**Patient Name:** Michael Thomson, MRN: 987654321
+**Age:** 52 years old
+**Admission Date:** October 5, 2023
+**Discharge Date:** October 12, 2023
+**Admitting Physician:** Dr. Sarah Connolly
+**Primary Diagnosis:**
+- Acute Myocardial Infarction
+**Secondary Diagnosis:**
+- Hypertension
+- Type 2 Diabetes Mellitus
+**Hospital Course and Treatment:**
+Mr. Thomson was admitted following an episode of severe chest pain indicative of a myocardial infarction. Initial EKG confirmed ST-elevation MI, and he was taken emergently to the catheterization lab for intervention. Coronary angioplasty and stenting of the left anterior descending (LAD) artery were performed successfully.
+During hospitalization, Mr. Thomson received guideline-directed medical therapy including aspirin, beta-blockers, ACE inhibitors, and statins. His blood sugar was managed with insulin per sliding scale. 
+**Procedures:**
+- Percutaneous Coronary Intervention (PCI) Procedure #33456 on October 5, 2023
+**Consultations:**
+-Cardiology
+-Diabetes management team
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice a day
+- Lisinopril 10 mg daily
+- Atorvastatin 40 mg at bedtime
+- Insulin Glargine 30 units at bedtime
+**Disposition:** 
+Mr. Thomson has shown improvement and is being discharged in stable condition with recommendations for outpatient follow-up. 
+**Follow up Appointments:** 
+1. Cardiology follow-up with Dr. Emily Stanton on October 20, 2023
+2. Diabetes clinic on October 18, 2023
+**LACE Score:** 10 - High risk
+- Length of stay: 7 days
+- Acute Admission: Yes
+- Comorbidities: Hypertension, Diabetes
+- ER Visits in last 6 months: 0
+**Patient Instructions:**
+- Mr. Thomson is advised to maintain a low sodium diet and regular physical activity.
+- Monitor blood pressure twice daily.
+- Check blood sugars four times a day and record the results to bring to the diabetes clinic. 
+**Discharge Medication:**
+- Prescriptions have been sent electronically to Valley Pharmacy
+- Patient is to continue all home medications previously listed and follow the new dosing regimen.
+**Reconciliation of Care:**
+Information about this admission and the treatment provided have been sent to his Primary Care Physician, Dr. Laura Beck, via electronic health records system today October 12, 2023. 
+**Signature:** 
+Sarah Connolly, M.D., Attending Physician
+October 12, 2023, 15:00
+---
+This discharge summary serves as a comprehensive overview of Mr. Thomson's recent hospitalization, ensuring continuity of care with his outpatient providers and summarizing the key aspects of his treatment and follow-up recommendations.

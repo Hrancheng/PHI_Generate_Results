@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Emily Thompson  
+**MRN:** 5573921  
+**Age:** 68 y.o.  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Admitting Diagnosis:** Community Acquired Pneumonia  
+**Discharge Diagnosis:**  
+1. Community Acquired Pneumonia - Resolved  
+2. Type 2 Diabetes Mellitus - Stable  
+**Hospital Course:**  
+Emily Thompson was admitted with a high fever, cough, and shortness of breath. Initial chest X-ray confirmed right lower lobe pneumonia. She was started on IV antibiotics, her symptoms gradually improved over the course of her stay. Blood glucose levels were closely monitored and managed with sliding scale insulin. She participated consistently with physical therapy to improve her mobility and strength.
+**Consultations:**  
+Endocrinology was consulted for her diabetes management. Recommendations were made to adjust her oral hypoglycemic agents.
+**Procedures Performed:**  
+None.
+**Medications at Discharge:**  
+1. Metformin 500 mg twice daily  
+2. Insulin Aspart per sliding scale  
+3. Levofloxacin 500 mg once daily for seven days
+**Outpatient Follow-up:**  
+Follow-up appointment with her primary care physician, Dr. Sarah Clarke, scheduled for October 5, 2023. Diabetes management follow-up with Dr. Robert Liu, endocrinologist, scheduled for October 12, 2023.
+**Instructions:**  
+Patient is to continue with outpatient physical therapy twice a week. She is counseled on the importance of adherence to her antibiotic regimen and diabetes medications. Warned about signs of high or low blood sugar and instructed to seek immediate care if symptoms do not improve or worsen.
+**Discharge Condition:**  
+The patient’s condition at discharge was stable. She was feeling better with resolution of fever and reduction in cough frequency and intensity.
+**Last Recorded Vital Signs:**  
+BP 132/86 | Pulse 72 | Temp 37.0 °C | Resp 16 | SpO2 98%
+**Clinic and Non-Emergency Contact Numbers:**  
+For any non-emergency issues or general inquiries, patient or caregivers to contact Community Health Center at 555-123-4567.
+**Physicians:**  
+Admitting and Attending Physician: Dr. Sarah Clarke  
+Consulting Endocrinologist: Dr. Robert Liu
+**Sign Out:**  
+Discharge instructions reviewed with the patient and her daughter, Laura Thompson, who will be assisting her at home. All questions were answered, and both verbalized understanding of all discharge instructions.
+Signed: Dr. Sarah Clarke  
+Date: September 25, 2023

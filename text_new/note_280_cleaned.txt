@@ -1,0 +1,36 @@
+**St. Helena Health Care - Discharge Summary**
+**Patient Information:**
+- **Patient Name**: Emily Thompson
+- **MRN**: 987654321
+- **Age**: 72 years old
+- **Admission Date**: October 15, 2023
+- **Discharge Date**: October 28, 2023
+**Admission Diagnosis:**
+- Acute ischemic stroke
+**Hospital Course:**
+Emily Thompson was admitted to St. Helena Health Care following a witnessed acute ischemic stroke characterized by left-sided weakness and speech difficulty. The patient was treated with IV tPA within the therapeutic window and subsequently admitted to the Stroke Unit for further care and monitoring.
+Throughout her hospital stay, she received physiotherapy and occupational therapy, showing gradual improvement in motor function and speech. Carotid Dopplers revealed 70% stenosis on the right, managed medically as per current guidelines. Her atrial fibrillation was managed with anticoagulation.
+**Discharge Medications:**
+1. Apixaban 5 mg twice daily
+2. Atorvastatin 40 mg at bedtime
+3. Lisinopril 10 mg once daily
+**Follow-up Appointments:**
+Emily Thompson is scheduled for a follow-up with her stroke specialist, Dr. Aaron Bridges, on November 10, 2023. She will also attend physical therapy sessions twice a week at Community Rehab Services.
+**Discharge Instructions:**
+The patient and her family, including her daughter Sara Johnson, were educated about the signs of stroke and the importance of managing risk factors like hypertension and atrial fibrillation. Emily Thompson is advised to monitor her blood pressure daily and continue with the prescribed medications without interruption. She has been instructed to seek immediate medical attention if she experiences symptoms of stroke recurrence or any severe side effects from the medications.
+**Preventative Measures and Lifestyle Changes:**
+Advised to maintain a heart-healthy diet, regular physical activity as tolerated, and smoking cessation. Regular follow-ups with her primary care provider, Dr. Lisa Monroe, are recommended to monitor her overall health and adjust treatment regimens as needed.
+**Discharge Condition:**
+Patient's condition at discharge is stable with noticeable improvements in her motor and speech functions. She is able to ambulate with assistance and will continue outpatient rehabilitation to further her recovery.
+**Discharge Coordinator**: Nancy Fields, RN
+**Contacts**:
+- Stroke Specialist: 555-1234
+- Community Rehab Services: 555-5678
+- Primary Care Provider: 555-9876
+**Discharge By**:
+Dr. Aaron Bridges, attending neurologist
+**Date/Time**: October 28, 2023, 2:00 PM
+**Signed**:
+Dr. Aaron Bridges
+Nancy Fields, RN
+The medical and nursing staff wish Emily Thompson the best in her continued recovery and health improvement journey. If there are any questions or concerns regarding her health between now and the follow-up appointment, she or her family may contact our office by the numbers provided.

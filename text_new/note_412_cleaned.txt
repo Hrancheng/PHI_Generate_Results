@@ -1,0 +1,38 @@
+**MetroHealth Medical Center Discharge Summary**
+**Patient Name:** Elizabeth March  
+**Medical Record Number:** 5792043  
+**Date of Birth:** 08/14/1985  
+**Age:** 38 years  
+**Admission Date:** 09/21/2023  
+**Discharge Date:** 10/01/2023  
+**Attending Physician:** Dr. Helen Choi  
+**Referred by:** Dr. Jonathan Lee  
+**Reason for Hospitalization:** Acute cholecystitis confirmed by ultrasound.  
+**Primary Diagnosis:** Acute cholecystitis  
+**Secondary Diagnoses:** Gastroesophageal reflux disease (GERD)  
+**Allergies:** No known drug allergies  
+**Hospital Course:**  
+Upon admission, Elizabeth March exhibited severe abdominal pain radiating to her back. An ultrasound conducted on 09/22/2023 displayed gallstones and inflammation around the gallbladder, confirming acute cholecystitis. Initial management with IV antibiotics (ceftriaxone and metronidazole) provided significant relief. After consultation with Dr. Anthony Kramer, Surgical Services, scheduled for laparoscopic cholecystectomy on 09/24/2023, which was completed without complication. Post-operative recovery was uneventful, and pain was well controlled with oral acetaminophen.
+**Medications on Discharge:**
+1. Acetaminophen 500 mg tablet: Take 1 tablet every 6 hours as needed for pain.
+2. Omeprazole 20 mg capsule: Take 1 capsule daily for GERD.
+**Follow-up Instructions:**
+Follow up with Dr. Helen Choi in two weeks on 10/15/2023. Additionally, schedule an appointment with Dr. Anthony Kramer for post-surgical review on 10/18/2023. Gallstones were sent for analysis; await results for further dietary recommendations.
+**Discharge Planning:**
+Eat a low-fat diet and gradually resume regular activities. Watch for signs of infection at the incision site. Report any persistent pain, fever, or vomiting to your provider. Elizabeth understands all discharge instructions as counseled by Nurse Sandra Milford.
+**Condition at Discharge:**
+The patient is stable and pain-free. Vital signs are within normal limits, and she tolerates a regular diet.
+**Discharge Disposition:**
+Home with written and verbal instructions. Will follow up as above.
+**Signature:**
+Dr. Helen Choi, MD   
+Date: 10/01/2023  
+Time: 11:00 AM
+**Medical Center Address:**  
+MetroHealth Medical Center, 1234 Main Street, Cleveland, OH 44109  
+Phone: (216) 555-1234
+**Emergency Contact:**
+Dr. Jonathan Lee, MD   
+(216) 555-6789 
+**Summary:**  
+This comprehensive discharge summary provided for Elizabeth March outlines her admission for acute cholecystitis, the uneventful surgical intervention, and clear post-discharge instructions. Overall, her prognosis is excellent with appropriate follow-up care. Proactive, coordinated management ensured an effective and smooth transition from hospital to home care.

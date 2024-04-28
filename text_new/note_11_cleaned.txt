@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- Name: Thomas Elliot
+- Medical Record Number: 998542385
+- Admission Date: March 15, 2023
+- Discharge Date: March 20, 2023
+- Age: 52 years old
+- Discharge Physician: Dr. Hannah Stevenson
+**Hospital Course:**
+Mr. Elliot was admitted to Mercy General with symptoms indicative of an acute myocardial infarction. Cardiology was consulted, and an urgent cardiac catheterization on March 16, 2023 revealed two blocked coronary arteries. The patient underwent successful angioplasty with stent placement. His hospital course was complicated by a transient atrial fibrillation, which resolved with medication. 
+**Procedures Performed:**
+1. Cardiac Catheterization and Stent Placement: 2857362810
+**Medications Prescribed at Discharge:**
+- Clopidogrel 75 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice a day
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. Michelle Lin on March 28, 2023 at the Heart Health Clinic, 3425 Breeze Blvd, Rivertown, OH 
+- Primary care appointment with Dr. Robert Frost on April 4, 2023 at Community Health Associates
+**Discharge Instructions:**
+Mr. Elliot is advised to maintain a low-fat diet, engage in moderate exercise such as walking for 30 minutes daily, and monitor his blood pressure regularly. He should avoid smoking and alcoholic beverages. Instructions were given to seek medical attention if he experiences chest pain, breathlessness, or any new symptoms.
+**Lifestyle Modifications:**
+Smoking cessation strongly advised; patient referred to the smoking cessation program at Mercy General. Nutritional counseling scheduled to aid in dietary changes to promote heart health.
+**Final Diagnosis:**
+- Acute Myocardial Infarction
+- Coronary Artery Disease
+**Contact Information:**
+- Cardiology Clinic: (555) 123-4567
+- Primary Care: (555) 987-6543
+**Physical Examination at Discharge:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 70 bpm regular
+- Lungs: Clear to auscultation
+- No peripheral edema
+**Discharge Condition:**
+The patient is stable and shows significant improvement following the intervention. He has tolerated the prescribed medications well and is ready for discharge under the stipulated conditions with appropriate outpatient follow-up and support.
+**Signed:**
+Dr. Hannah Stevenson
+Date: March 20, 2023
+Time: 2:00 PM
+**[End of Discharge Summary]**

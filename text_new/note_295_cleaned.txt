@@ -1,0 +1,33 @@
+**Inpatient Discharge Summary**
+Patient Name: Michael Robinson
+MRN#: 987654321
+Age: 52 years
+Date of Admission: August 5th, 2023
+Date of Discharge: August 20th, 2023
+Admission Diagnosis: Acute cholecystitis
+Discharge Diagnosis: Resolved acute cholecystitis
+**Hospital Course:**
+Mr. Michael Robinson's hospitalization was necessitated by severe abdominal pain and a diagnosis of acute cholecystitis. He was managed with IV antibiotics and underwent a laparoscopic cholecystectomy on August 7th, 2023, which was successful without complications. His post-operative course was notable for mild, transient postoperative pain which was well controlled with IV acetaminophen. Post-surgery, his recovery was smooth, and he tolerated a gradual return to a regular diet. By August 15th, 2023, Mr. Robinson was ambulating independently, with no significant complaints.
+**Medications at Discharge:**
+- Amoxicillin 500 mg orally three times a day for seven days
+- Acetaminophen 650 mg orally every six hours as needed for pain
+**Allergies:**
+No known drug allergies.
+**Follow-up Instructions:**
+Mr. Robinson is advised to follow up with his primary care physician, Dr. Samantha Lee, within one week post-discharge for wound check and to manage his ongoing care. His appointment is scheduled for August 27th, 2023 at 10:00 AM. Address for the follow-up: 134 West Main Street, Springfield, IL 62704. Phone: (217) 555-0198.
+**Dietary Instructions:**
+Mr. Robinson should adhere to a low-fat diet for the next four weeks to facilitate gallbladder health. A consultation with a dietitian at Springfield Nutrition Services was arranged and is scheduled for August 23rd, 2023.
+**Activity Instructions:**
+Gradual increase in daily activities is recommended. Avoid heavy lifting and strenuous exercise for a minimum of four weeks.
+**Significant Findings:**
+- Laparoscopic cholecystectomy was performed without complications. 
+- Histopathology confirmed chronic cholecystitis.
+**Discharge Condition:**
+Stable, with recommendations to monitor for signs of infection or unusual pain around the surgical site.
+**Discharge By:**
+Dr. Emily Tran, General Surgery
+**Discharge Summary Prepared By:**
+Nurse Paula Gibson
+**Date and Time of Summary Preparation:**
+August 20th, 2023, 3:45 PM
+This discharge summary includes all pertinent patient information and care details necessary for effective follow-up in an outpatient setting. Please refer to the included instructions for detailed advice on medications, lifestyle adjustments, and diet post-discharge. Call our office with any urgent questions or concerns.

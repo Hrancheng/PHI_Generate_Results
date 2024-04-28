@@ -1,0 +1,48 @@
+**Inpatient Discharge Summary**
+**Hospital:** Metropolitan Medical Center
+**Patient:** Evelyn Carter, MRN# 65748392
+**Age:** 72 y.o.
+**Admission Date:** 10/10/2023
+**Discharge Date:** 10/25/2023
+**Attending Physician:** Dr. Henry Wallace
+**Hospital Service:** Cardiology
+**Chief Complaint:** Chest pain and shortness of breath
+**Major Diagnoses:**
+- Chronic Heart Failure (CHF)
+- Atrial Fibrillation (managed with rate control)
+- Hypertension
+**Hospital Course:**
+Evelyn Carter was admitted to Metropolitan Medical Center following an episode of acute chest pain and dyspnea. Upon admission, her EKG displayed atrial fibrillation with a rapid ventricular response. Initial management included stabilization of heart rate and anticoagulation.
+The cardiology team, led by Dr. Henry Wallace, conducted a series of diagnostic tests:
+- **Echocardiogram** revealed left ventricular ejection fraction of 35%, consistent with her known CHF.
+- **Cardiac MRI** showed no new ischemia.
+- **Holter monitoring** confirmed persistent atrial fibrillation.
+Treatment adjustments included optimization of heart failure medications. She received IV diuretics, which improved her symptoms of fluid overload. Rate control for atrial fibrillation was achieved with increased dosage of beta-blockers.
+**Discharge Medications:**
+- Furosemide 40 mg tablet, twice daily
+- Metoprolol tartrate 50 mg tablet, twice daily
+- Apixaban 5 mg tablet, twice daily
+**Consultations:**
+- Nutrition: Advised low-salt diet plan to manage CHF.
+- Physical Therapy: Assessed and provided guidelines for gradual increase in activity level.
+**Follow-Up Appointments:**
+- 11/02/2023, 10:00 AM: With Dr. Henry Wallace, Metropolitan Cardiology Clinic
+- 11/05/2023, 2:00 PM: Heart Failure Clinic, for re-evaluation of treatment efficacy.
+**Instructions for Patient at Discharge:**
+- Monitor weight daily.
+- Adhere to fluid restriction of 1500 mL/day.
+- Watch for signs of increasing shortness of breath or swelling in extremities—it may indicate worsening CHF.
+- Continue exercises as prescribed by the physical therapy team.
+**Other Notes:**
+Patient lives alone, home safety evaluation recommended. Nurse to follow-up via phone within 48 hours post-discharge. Patient and family educated about signs of worsening heart failure and when to seek immediate medical attention.
+**Discharge Condition:**
+Evelyn Carter is discharged in a stable condition, with improved heart function and controlled symptoms. She is to continue outpatient care and adhere strictly to prescribed medications and lifestyle modifications to manage her chronic conditions.
+**Last Recorded Vital Signs:**
+- BP: 130/85 mmHg
+- HR: 68 bpm (controlled)
+- Temp: 98.6 °F
+- Resp: 16 per minute
+- Oxygen Saturation: 94% on room air
+**Signature:**
+Signed: Dr. Henry Wallace, 10/25/2023, 4:00 PM
+This summary serves as a comprehensive overview of Evelyn Carter's recent inpatient stay, treatment, and plans for follow-up aimed at managing her cardiac health effectively while preventing future exacerbations.

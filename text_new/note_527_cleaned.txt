@@ -1,0 +1,25 @@
+**Suburban Hospital Inpatient Discharge Summary**
+**Patient Name:** Eleanor Thomas  
+**MRN:** 4583721  
+**Age:** 62 years old  
+**Admission Date:** July 20, 2023  
+**Discharge Date:** July 25, 2023   
+**Attending Provider:** Dr. Hannah Liu  
+**Diagnosis on Admission:** Acute Cholecystitis  
+**Procedure:** Laparoscopic Cholecystectomy  
+**Hospital Course:**  
+Ms. Thomas presented to Suburban Hospital on July 20, 2023 with acute right upper quadrant abdominal pain. An ultrasound confirmed the presence of gallstones with signs of inflammation. The decision was made to perform a laparoscopic cholecystectomy. The surgery, performed on July 21, 2023, was uncomplicated, and the gallbladder was removed successfully. Post-operatively, the patient's recovery was smooth, with pain well-controlled using IV acetaminophen and transitioned to oral medication by postoperative day 2. Diet was advanced as tolerated, and she was ambulating with assistance the day following surgery. The patient was monitored for signs of infection or complications, none of which were observed.
+**Discharge Medications:**  
+1. Acetaminophen 500 mg tablet: 1-2 tablets every 6 hours as needed for pain  
+2. Ondansetron 4 mg tablet: Take 1 tablet every 8 hours as needed for nausea  
+**Follow-Up Appointments:**  
+Please see Dr. Sarah Milton, MD for post-op check in Suburban Health Clinic on August 5, 2023 at 10:00 AM.
+**Instructions at Discharge:**  
+Patient is advised to gradually increase activity over the next week. She should avoid lifting anything heavier than 10 pounds for the next 4 weeks. The patient is to monitor the incision sites for signs of infection, including redness, swelling, or discharge. A balanced diet low in fatty foods is recommended. The importance of keeping the follow-up appointment was emphasized to ensure proper healing and recovery.
+**Home or Self Care:**  
+Ms. Thomas will return to her home at 742 Evergreen Terrace, Springfield, IL. She lives with her husband who will assist during her recovery. Ms. Thomas has been provided with numbers to call should she have any questions or concerns regarding her recovery, especially if she experiences fever, chills, or worsening pain.
+**Discharge Condition:** Good  
+**Disposition:** Discharged to Home  
+**Code Status at Discharge:** Full Code  
+**Discharge By:** Dr. Hannah Liu, MD 
+Date/Time: July 25, 2023, 2:00 PM  

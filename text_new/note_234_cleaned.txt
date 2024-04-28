@@ -1,0 +1,36 @@
+**General Hospital Inpatient Discharge Summary**
+Patient: Emily Thompson, MRN# 457902345, is a 58 y.o. female, admitted to the Cardiology service for management of acute myocardial infarction and unstable angina. 
+**Admission Date:** October 11, 2023  
+**Discharge Date:** October 18, 2023  
+**Attending Provider:** Dr. Aaron Patel
+**Hospital Problems Noted - Resolved:**  
+- Acute myocardial infarction October 11, 2023 - October 18, 2023  
+- Unstable angina October 11, 2023 - October 18, 2023
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Ms. Emily Thompson was admitted following a severe episode of chest pain while at work. Initial EKG showed ST-elevation in leads II, III, and aVF. She was taken immediately to the catheterization lab where a right coronary artery blockage was identified and successfully stented. Post-procedure, her chest pain resolved, and cardiac markers normalized. She was started on dual antiplatelet therapy and statins. Her hospital course was uncomplicated, and she participated in daily cardiac rehab sessions. 
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Atorvastatin 40 mg at bedtime
+- Metoprolol 50 mg twice daily
+**Recommendations for Follow-Up Care:**
+- Follow up with Heart Care Clinic on October 25, 2023. Dr. Sara Kim will review medication adherence and lifestyle modifications.
+- Cardiac Rehabilitation twice a week at General Hospital Rehab Center.
+- Repeat lipid panel in three months.
+**Patient Education:**
+Ms. Thompson has been counseled on the importance of medication adherence, smoking cessation, and dietary modifications to manage her cholesterol and overall cardiovascular risk.
+**Summary by:**
+Dr. Aaron Patel, Cardiologist, October 18, 2023 at 1450 hours.
+**Condition at Discharge:**  
+Stable condition to go home, pain-free with supportive family. She understands her discharge instructions and the signs that would necessitate an immediate return to the hospital.
+**Contact Information for Follow-Up:**  
+Follow-Up appointments Phone: 555-123-9876  
+Emergency Contact: 555-987-6543  
+---
+**Other Relevant Information:**
+Patient lives at 205 Maple Street, Springfield, MO, 65804. She is a non-smoker and has a history of hypertension controlled with medication. Her family has been supportive, and her daughter, Sophia Thompson, has been by her bedside throughout the hospital stay.
+**Note:** Ms. Thompson will come back to the hospital if she experiences any chest pain, difficulty breathing, or severe bleeding from the cath site.
+**Discharge Instructions Provided and Understood.**
+**Signed:**
+Lisa Grant, RN  
+October 18, 2023, 1600 hrs

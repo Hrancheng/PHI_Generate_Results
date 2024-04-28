@@ -1,0 +1,38 @@
+Inpatient Discharge Summary
+Martha Tilson, MRN# 395726158, is a 54 y.o. female, admitted to the General Medicine service due to complications associated with chronic heart failure. 
+Admission Date: 3/15/2023 
+Discharge Date: 3/22/2023 
+Attending Provider: Dr. Harold Greene
+Treatment Team: 
+- Primary Nurse: Susan Mitchell, RN 
+- Cardiology Consultant: Dr. Erika Lawson, MD 
+- Social Worker: Lisa Ford, LSW
+Hospital Problems Noted - Resolved:
+- Chronic Heart Failure 3/16/2023 - Present Yes
+- Acute exacerbation of chronic heart failure 3/16/2023 - 3/21/2023 Yes
+- Hypertension 3/16/2023 - Present Yes
+Hospital Course:
+Martha Tilson was brought in by ambulance following a 911 call due to acute shortness of breath and chest pains. On admission, her BP was 160/100 mmHg, and she was in distress with audible wheezing and crackles in lung bases bilaterally. Intravenous furosemide and enalapril were administered to manage her symptoms, which showed significant improvement in her respiratory function and blood pressure stabilization by 3/18/2023.
+During hospitalization, telemetry indicated occasional non-sustained VT, managed conservatively as suggested by Cardiology. The patient responded well to the diuretics and condition improved significantly, prepared for discharge under stable conditions.
+Recommendations for Follow Up: 
+- Follow up with City Heart Specialists (594-712-5418) next week.
+- Continue medications as prescribed without any alteration unless advised by a healthcare provider.
+Discharge Medications:
+- Furosemide 40 mg tablet, take 1 tablet twice a day
+- Enalapril 10 mg tablet, take 1 tablet every day
+- Potassium Chloride 20 mEq, take 1 tablet every day
+Labs at Discharge:
+- BNP: 580 pg/mL
+- Complete Blood Count and Metabolic Panel within normal limits
+- Next scheduled lab to check renal function on 4/1/2023 at Clinic Lab.
+Discharge Instructions:
+Patient advised to monitor weight daily, report any weight gain exceeding 3 lbs. in a 24-hour period, monitor blood pressure twice a day, and adhere closely to the fluid restriction of 1500 ml per day. Advised to avoid NSAIDs and to consult before taking any new medications, including over-the-counter products. 
+Future Appointments:
+3/30/2023, 10:00 AM with Dr. Jeffrey Harker, MD at Heart Failure Clinic.
+Other Pertinent Information:
+54-year-old female with a history of NYHA Class II heart failure typically well managed on current medication regimen, the recent exacerbation likely triggered by non-compliance to diet and fluid restrictions. Patient educated extensively regarding diet and compliance during her stay. Psychosocial evaluation suggests good family support at home.
+Martha Tilson is to be discharged home with support from her daughter, Emily Grant, who will assist with transportation and follow-up care.
+Signed:
+Dr. Harold Greene
+3/22/2023, 11:45 AM
+General Hospital

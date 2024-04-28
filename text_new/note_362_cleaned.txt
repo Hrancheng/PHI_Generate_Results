@@ -1,0 +1,46 @@
+**University General Hospital**
+**Inpatient Discharge Summary**
+**Patient Name**: Elizabeth Thompson
+**Medical Record Number**: 987654321
+**Date of Birth**: 03/15/1981
+**Age**: 42 years old
+**Admission Date**: 3/15/2023
+**Discharge Date**: 3/25/2023
+**Attending Physician**: Dr. Alice Hargrove
+**Primary Care Physician**: Dr. Michael Ray, Downtown Medical Center
+---
+**Hospital Problems Noted - Active**:
+1. Acute Cholecystitis 3/15/2023 - Present
+2. Hypertension - well controlled
+**Resolved Problems**:
+1. Acute Cholecystitis - 3/15/2023 to 3/25/2023
+---
+**Hospital Course**:
+Elizabeth Thompson was admitted with acute right upper quadrant pain radiating to the back, nausea, and vomiting. Ultrasound confirmed the presence of gallstones and thickening of the gallbladder wall. During her stay, she received IV antibiotics and underwent a laparoscopic cholecystectomy on 3/17/2023 successfully without complications. Her post-operative course was unremarkable, and she was started on a low-fat diet. Blood pressure was consistently managed with oral antihypertensives.
+**Surgeon**: Dr. Jason Clark, University General Surgery Associates
+**Procedure**:
+1. Laparoscopic Cholecystectomy on 3/17/2023
+2. IV Antibiotic Therapy from 3/15/2023 to 3/20/2023
+---
+**Medications on Discharge**:
+1. Metoprolol 50 mg oral, twice a day
+2. Paracetamol 500 mg, as needed for pain
+**Allergies**: No known drug allergies
+**Discharge Instructions**:
+Elizabeth is discharged with advice to continue a low-fat diet for the next 4 weeks to assist in recovery. She should avoid strenuous activities and heavy lifting for 10 days. Pain management should be handled with Paracetamol as per the pain scale. Follow up with her primary care provider, Dr. Michael Ray, next week and a surgical follow-up in two weeks at University General Surgery Associates. Call your physician if symptoms of infection, increasing pain, jaundice, or fever develop.
+**Phone**: 555-1234-5678 for scheduling follow-up appointments.
+---
+**LACE Readmission Risk Score**: 6
+- Length of Stay: 3
+- Acute Admission: 2
+- Comorbidities: 1
+**Risk Level**: Moderate
+- 30 Day Readmission Rate: 7.9%
+- 30 Day Mortality Rate: 0.7%
+---
+**Follow-Up Appointments**:
+1. Post-surgical follow-up with Dr. Jason Clark on 4/10/2023 at 10 AM.  
+2. Primary care follow-up with Dr. Michael Ray on 4/5/2023 at 2 PM.
+**Signature**:  
+Dr. Alice Hargrove, MD, 3/25/2023 at 4:00 PM, Attending Physician
+PLEASE NOTE: All the sensitive information included in this summary is hypothetical and generated for educational purposes following data privacy guidelines and regulations.

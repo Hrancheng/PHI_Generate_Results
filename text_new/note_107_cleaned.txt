@@ -1,0 +1,40 @@
+Inpatient Discharge Summary
+Central City Hospital
+Marilyn Trent, MRN# 56792345, a 68-year-old female, was admitted following a fall at home resulting in a hip fracture. 
+Admission Date: March 15, 2023
+Discharge Date: March 30, 2023
+Admitting Physician: Dr. Harold Lin
+Treatment Team: Nancy Oliver, RN; Susan Gregorian, PT
+Hospital Problems Noted - Resolved
+- Hip fracture (CMS/HCC) March 15, 2023 - March 30, 2023 Yes
+- Hypertension (CMS/HCC) March 15, 2023 - Present Yes
+Operations/Major Procedures:
+- 392013 March 16, 2023: HIP REPLACEMENT SURGERY Jason Merril, MD
+Significant Test or Procedure Results:
+- X-ray Hip Result Date: March 15, 2023 
+  IMPRESSION: Right hip fracture with displacement.
+- ECG March 16, 2023: Normal sinus rhythm, no significant ST changes.
+- CBC March 16, 2023: Hemoglobin 12.3 gm/dl, WBC 11,000 /µL
+Discharge Medications:
+- Acetaminophen 650 mg tablet: As needed for pain every 6 hours.
+- Lisinopril 20 mg tablet: Once daily for blood pressure.
+- Clopidogrel 75 mg tablet: Once daily to prevent clotting post-surgery.
+Rehabilitation:
+Patient demonstrated good progress with physical therapy and is mobilizing with minimal assistance. Home physical therapy to continue upon discharge until April 20, 2023.
+Recommendations for Follow Up:
+- Primary care provider Emily Rousseau for post-discharge follow-up appointment on April 5, 2023.
+- Orthopedic surgery follow-up with Dr. Jason Merril on April 15, 2023.
+Discharge Instructions:
+1. Continue weight-bearing as tolerated as instructed by a physical therapist.
+2. Take medications as prescribed without alterations unless directed by a doctor.
+3. Watch for signs of infection at surgery site—increased redness, swelling, or drainage.
+4. Call 555-312-2244 if you experience severe pain, fever, or any concerns before your scheduled follow-up visits.
+Home Services Coordination:
+- Home Health Associates will provide in-home nursing and physical therapy services.
+- Equipment delivered to home: walker, shower chair.
+Condition at Discharge:
+The patient is stable with pain controlled by medications. Ambulatory with a walker, vital signs within normal limits, and understanding of discharge plan confirmed.
+Signed:
+Dr. Harold Lin, March 30, 2023, 2:00 PM
+Social Work Consult:
+Discussed available resources and community support with Marilyn Trent. The patient and family expressed understanding and gratitude for assistance in navigating post-discharge care and services.

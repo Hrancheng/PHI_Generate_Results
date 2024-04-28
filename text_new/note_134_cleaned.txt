@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient:** Jessica Morrison, MRN: 987654321
+**Age:** 68 years old
+**Admission Date:** September 5th, 2023
+**Discharge Date:** September 20th, 2023
+**Attending Physician:** Dr. Harold Greene
+**Admission Diagnosis:**
+1. Acute myocardial infarction
+2. Type II diabetes mellitus
+3. Hypertension
+**Hospital Course:**
+Jessica Morrison was admitted to Mercy General Hospital following complaints of severe chest pain and nausea. Upon admission, an ECG confirmed a myocardial infarction. Immediate management included IV thrombolytics, aspirin, and beta-blockers. Cardiology was consulted, and a coronary angiography was performed on September 6th, 2023, revealing two blocked coronary arteries, which were successfully stented.
+Throughout her stay, blood sugar levels were closely monitored and managed with insulin as Jessica Morrison has a known history of type II diabetes. Dietary consultations were provided to optimize her diabetic condition. 
+Her hypertension was managed with ivabradine and adjustments to her existing antihypertensive medications. Jessica Morrison responded well to the interventions with improved cardiac function and stable blood sugar levels.
+**Discharge Medications:**
+1. Aspirin 81 mg daily
+2. Metoprolol 50 mg twice daily
+3. Atorvastatin 40 mg at bedtime
+4. Insulin glargine 40 units at bedtime
+5. Insulin lispro sliding scale as per diabetic chart
+**Discharge Instructions:**
+Jessica Morrison is to follow a low-sodium, diabetes-friendly diet as discussed with the dietary team. She is scheduled for a follow-up with her primary care physician, Dr. Linda Forsythe, and with Cardiology at Mercy Heart Clinic in two weeks. She has been instructed to monitor her blood pressure and blood sugar levels daily and to return to the ER if she experiences any chest pain, palpitations, or hypoglycemic symptoms.
+Physical activity level should be gradually increased as tolerated, with cardiac rehabilitation to commence one week post-discharge. Smoking cessation strongly advised.
+**Follow-Up Appointments:**
+1. Dr. Linda Forsythe at Mercy General Primary Care Clinic on September 27th, 2023 at 10 AM.
+2. Cardiology follow-up at Mercy Heart Clinic on October 4th, 2023 at 9 AM.
+**Dietary Plan:**
+Diabetes education provided, reinforcing carbohydrate counting and avoidance of concentrated sweets. Cardiac diet as per dietary consultation emphasizing low cholesterol and low sodium foods.
+**Activity:**
+Increase activity gradually. No heavy lifting or strenuous activity until evaluated by cardiologist.
+**Condition at Discharge:**
+Stable
+**Discharge Prepared by:**
+Susan Thompson, RN
+**Date:** September 20th, 2023, 2:00 PM
+**Contact Information:**
+For any questions or urgent issues, patient or family can contact 555-123-4567 or call the cardiology service directly after hours at 555-987-6543.

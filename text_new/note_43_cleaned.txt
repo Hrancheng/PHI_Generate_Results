@@ -1,0 +1,48 @@
+**Inpatient Discharge Summary**
+**Patient Information:**  
+**MRN**: A123456789  
+**Name**: John Doe  
+**Age**: 58  
+**Date of Birth**: 01/15/1965  
+**Admission Date**: 10/21/2023  
+**Discharge Date**: 10/28/2023  
+**Primary Care Physician**: Dr. Mary Watson
+**Hospitalization Information:**
+**Admission Diagnosis**: Acute Myocardial Infarction  
+**Hospital Course**: The patient, Mr. John Doe, a 58-year-old male with a history of hypertension and diabetes was admitted to General Hospital on October 21, 2023 following complaints of chest pain. During admission, the patient underwent cardiac catheterization that revealed two partially occluded vessels. Coronary angioplasty and stenting were successfully performed. 
+**Treatment Team**:  
+Cardiology: Dr. Linda Kim  
+Nursing: Susan Lee, RN  
+Case Manager: Helen Greer, LCSW
+**Condition at Discharge**:  
+The patient exhibited good recovery without complications, demonstrating stable cardiac function, and controlled blood pressure and sugar levels.  
+Disposition: Fair
+**Follow-Up Care**:  
+The patient is advised to follow-up with his cardiologist, Dr. Linda Kim, in two weeks, or sooner if he experiences any symptoms such as chest pain, shortness of breath, or extreme fatigue.
+**Medications on Discharge**:  
+1. Aspirin 81 mg daily  
+2. Atorvastatin 40 mg at bedtime  
+3. Metoprolol 25 mg twice daily  
+4. Lisinopril 10 mg once daily  
+**Instructions for Patient**:  
+- Avoid strenuous activity until the next follow-up appointment.  
+- Maintain a low sodium, low fat diet.  
+- Continue diabetes management under the care of endocrinologist Dr. Aaron Smith.  
+**Scheduled Follow-Up Appointments**:  
+1. November 10, 2023 at 10:00 AM with Dr. Linda Kim, Cardiology, 455 Health St, Mediville, MA 01234  
+2. November 15, 2023 at 09:00 AM with Dr. Aaron Smith, Endocrinology, at the same address.
+**Lab Tests to be Conducted Before Next Visit**:  
+- CBC  
+- Lipid Profile  
+- HbA1c  
+**Discharge Contacts**:  
+- Cardiology Clinic: 555-123-4567  
+- Diabetes and Endocrinology: 555-987-6543
+**Notes**:  
+The patient was counseled extensively about the symptoms of potential complications and when to seek immediate care. Mr. John Doe expressed understanding of his management plan and was encouraged to adhere to his medication schedule strictly.
+**Signature**:  
+Dr. Mary Watson  
+Cardiology  
+Discharge Physician  
+General Hospital  
+10/28/2023

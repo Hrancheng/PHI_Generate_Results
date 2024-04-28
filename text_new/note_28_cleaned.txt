@@ -1,0 +1,35 @@
+Inpatient Discharge Summary
+**Patient Information:**
+- Name: Emily Thompson 
+- MRN#: 987654321
+- Age: 68 years old
+- Admission Date: 5/12/2023
+- Discharge Date: 5/28/2023
+- Attending Physician: Dr. David Clarkson
+**Hospital Course:**
+Emily Thompson was admitted to New City Medical Center following a fall in her home located at 123 Oak Street, Springfield, IL. Initial assessment showed a fractured right hip. She underwent successful hip replacement surgery on 5/13/2023. Post-operatively, the patient was managed for pain and started on physical therapy. She responded well to treatment without any significant complications.
+During her stay, Emily developed mild urinary tract infection, which was treated effectively with antibiotics. She continued to make significant progress in mobility and her pain was adequately managed with medication.
+**Medications at Discharge:**
+- Acetaminophen 650 mg every 6 hours as needed for pain.
+- Ciprofloxacin 250 mg twice daily for 7 days.
+**Follow-up:**
+- Emily is to follow up with her primary care physician, Dr. Sarah Lee, within one week post-discharge.
+- A follow-up visit with the orthopedic team scheduled for 6/12/2023 at New City Orthopedics.
+**Instructions:**
+- Continue using walker or crutches as advised by physical therapy.
+- Monitor the surgical site for signs of infection or increased pain.
+- Ensure continuation of antibiotics until the course is completed.
+- Keep hydrated and maintain a balanced diet to support recovery.
+**Discharge Condition:**
+- Emily Thompson is discharged in stable condition with significant improvement in mobility. She is able to perform daily activities with minimal assistance and reported being pain-free at discharge.
+**Prepared by:**
+- Dr. Aaron Goldman, MD
+- Date: 5/28/2023
+- Time: 1400 hours
+**Instructions for any complications:**
+- Contact New City Medical Center at 555-123-4567 or return to the emergency department.
+**Signature:**
+[Digital Signature of Dr. Aaron Goldman]
+**Hospital Service Provider:**
+- New City Medical Center, 456 Elm Road, Springfield, IL, 62704
+This summary provides a detailed overview of Emily Thompson's hospital course, treatments received, current status at discharge, and plans for follow-up care, ensuring continuity of care post-discharge.

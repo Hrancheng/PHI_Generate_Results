@@ -1,0 +1,41 @@
+**HFT Inpatient Discharge Summary**
+**Patient Name**: Michael Thompson  
+**MRN:** 567891234  
+**Age**: 68 y.o.  
+**Admission Date**: 08/05/2023  
+**Discharge Date**: 08/20/2023  
+**Admitting Physician**: Dr. Emily Robinson  
+**Discharge Physician**: Dr. Charles Green  
+**PCP**: Dr. Henry Rodriguez  
+**Address**: 2400 Roundabout Cir, Bridgewater, NJ 08807  
+**Hospital Course**:  
+Mr. Michael Thompson was admitted with acute exacerbation of chronic obstructive pulmonary disease (COPD) and community-acquired pneumonia. Upon admission, his oxygen saturation was 88% on room air, and he was started on supplemental oxygen, bronchodilators, steroids, and antibiotics. His hospital course was complicated by a transient ischemic attack (TIA) on 08/10/2023, which resolved with no evident neurologic deficits after 24 hours. The patient gradually improved with management, achieving a stable respiratory status and was weaned off supplemental oxygen by 08/15/2023.
+**Procedures Performed**:   
+1. Chest X-ray on 08/06/2023 - showed an elevated right hemidiaphragm and bilateral infiltrates.  
+2. CT head on 08/10/2023 - no acute intracranial events noted.  
+**Medications at Discharge**:  
+1. Albuterol 90 mcg inhaler - Use 2 puffs every 4 hours as needed for wheezing.  
+2. Prednisone 40 mg daily for 5 days then taper.  
+3. Levofloxacin 750 mg once daily for 7 days.  
+4. Aspirin 81 mg daily for cardiovascular protection.  
+**Allergies**:  
+Penicillin - Rash  
+**Diagnostic Tests**:  
+1. CBC - WBC 12.3 (elevated due to infection), Hemoglobin 13.2, Platelets 237.  
+2. Electrolytes - Within normal limits.  
+3. EKG on 08/05/2023 - Normal sinus rhythm, no signs of acute ischemia.
+**Follow-up Care**:  
+1. Follow-up appointment with PCP, Dr. Henry Rodriguez, scheduled for 08/27/2023 at Bridgewater Primary Care.  
+2. Pulmonology follow-up in 4 weeks at State Pulmonary Clinic, Phone: 908-555-1234.  
+3. Cardiology consult recommended due to history of TIA; referral placed to Regional Cardiology Associates.
+**Diet/Activity**:  
+Progress to regular diet as tolerated. Encouraged to gradually increase activity levels, aiming for light exercise, like walking, at least three times a week.
+**Outstanding Issues**:  
+Monitor for signs of respiratory distress or recurrent infections. Patient was educated about signs of stroke and instructed to seek immediate medical attention if symptoms recur.
+**Special Instructions**:  
+Patient and family educated about proper inhaler technique and importance of medication adherence. An action plan for COPD exacerbations was provided, including when to seek help.
+**Discharge Condition**:  
+Stable with plans for outpatient follow-up. The patient is alert, oriented, and able to care for himself with family support at home.
+**Signatures**:  
+Discharge approved by Dr. Charles Green on 08/20/2023 at 2 PM.
+This document has been reviewed and all personal identifiers have been appropriately coded for privacy.

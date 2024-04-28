@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** James Miller
+- **Age:** 65 y.o.
+- **Admission Date:** 9/15/2023
+- **Discharge Date:** 9/25/2023
+- **MRN:** 789234578
+**Attending Provider:**
+- **Doctor:** Dr. Anna Thompson
+**Hospital Service:** General Medicine/Surgery
+**Admission Diagnosis:** Acute cholecystitis 
+**Discharge Diagnosis:**
+- Primary: Acute cholecystitis [resolved]
+- Secondary: Hypertension
+**Hospital Course:**
+Mr. James Miller was admitted to the City General Hospital on 9/15/2023 due to severe abdominal pain and diagnosis of acute cholecystitis. He underwent a laparoscopic cholecystectomy on 9/16/2023, which was uncomplicated. Post-operation, he was managed with IV antibiotics and pain control. His recovery was steady, with improvement in abdominal pain and appetite.
+**Medications at Discharge:**
+- Acetaminophen 500 mg Tablet: 1-2 tablets every 6 hours as needed for pain.
+- Lisinopril 20 mg daily for hypertension.
+**Follow-Up Appointments:**
+- Dr. Henry Wilson, General Surgery: 10/03/2023 at City General Hospital Outpatient Clinic
+- Dr. Laura Green, Primary Care: 10/10/2023 for hypertension management and general follow-up.
+**Instructions for Patient:**
+- Engage in light walking, avoid heavy lifting for at least 4 weeks.
+- Introduce solid foods gradually, starting with low-fat options to assess tolerance.
+- Check blood pressure twice a week and record the readings to present at the next primary care appointment.
+**Discharge Condition:**
+- Stable to return home with prescriptions and outpatient follow-up noted.
+- Vital Signs at Discharge: BP 130/85, HR 78, Temp 98.6 °F, Resp 16.
+**Signed:**
+- Dr. Anna Thompson, MD
+- Date: 9/25/2023
+- Time: 11:00 AM
+This document and care summary has been discussed with the patient and his wife, Mary Miller, who understands the discharge instructions and follow-up plan. They expressed their understanding and did not have further questions at this time. They were supplied with contact information for their healthcare providers and instructed to return to the ER if experiencing any concerning symptoms such as fever, severe abdominal pain, or unmanageable hypertension.
+**Pharmacy Information:**
+The prescriptions have been sent electronically to Towncrest Pharmacy. Mr. Miller was advised to pick up his medications within 24 hours of discharge.
+**Social Work Consult:**
+A social work consult was completed during the hospital stay, and the patient was provided with resources for dietary management and physical rehabilitation services close to their residence at 47 Oak Lane, Springfield.

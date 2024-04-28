@@ -1,0 +1,34 @@
+**University Health Network**
+**Inpatient Discharge Summary**
+**Patient:** Eleanor Rigby, MRN: ABC1234567  
+**Age:** 65 years  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 19, 2023  
+**Attending Physician:** Dr. Emily Stanton  
+**Admission Diagnosis:**
+Chronic heart failure, Acute exacerbation of chronic obstructive pulmonary disease (COPD).
+**Hospital Course:**
+Eleanor Rigby presented to the Emergency Department (ED) at University Health Network on September 12, 2023, with increased shortness of breath and fatigue. She was found to have a COPD exacerbation and worsening of her heart failure symptoms.  
+Treatment included IV diuretics, supplemental oxygen, and a course of antibiotics for suspected bacterial superinfection. Her response to treatment was monitored through daily chest X-rays and ECGs, showing gradual improvement. A stress test conducted on September 16, 2023 indicated no new ischemic changes.
+**Discharge Medications:**
+- Furosemide 40 mg, oral, twice daily
+- Carvedilol 25 mg, oral, twice daily
+- Tiotropium inhaler, one inhalation daily
+- Amoxicillin 500 mg, oral, three times daily for 5 days
+**Follow-Up Appointments:**
+- Cardiology follow-up with Dr. Hannah Lee on October 3, 2023 at University Heart Clinic.
+- Pulmonology follow-up with Dr. Aaron Smith on October 10, 2023 at Respiratory Health Services.
+**Instructions:**
+Patient to continue using oxygen at 2 liters per minute via nasal cannula. Monitor daily weights and report weight gain of more than 3 pounds in a 24-hour period. Continue smoking cessation. Perform daily breathing exercises as instructed by the respiratory therapist.
+**Discharge Condition:**
+The patient’s condition has stabilized, and she is being discharged to home under the care of her daughter, Julia Dawson. Home health services have been arranged to assist with medication management and physical therapy.
+**Relevant Numbers:**
+Emergency Contact: Daughter, Julia Dawson - 555-123-4567  
+Cardiology Office: 555-987-6543  
+Pulmonary Office: 555-765-4321  
+**Comments:**
+Patient and family educated about signs and symptoms of COPD and heart failure exacerbations and instructed to seek immediate medical attention if symptoms worsen.
+---
+**Signed: Dr. Emily Stanton, September 19, 2023, 8:30 AM  
+**Discharge Nurse:** Nurse Michael Rogers  
+**Discharge Instructions Reviewed with:** Julia Dawson (Daughter)

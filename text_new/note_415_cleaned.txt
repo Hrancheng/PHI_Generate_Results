@@ -1,0 +1,37 @@
+**Cedar Medical Center Inpatient Discharge Summary**
+**Patient Information:**
+- **Name:** Eleanor Townsend
+- **MRN:** 83472964
+- **Age:** 52 years old
+- **Admission Date:** February 20, 2023
+- **Discharge Date:** March 15, 2023
+- **Attending Provider:** Dr. Samuel H. Evans
+- **Admission Diagnosis:** Exacerbation of chronic heart failure
+**Hospital Course:**
+Mrs. Townsend was admitted with symptoms of worsening dyspnea and bilateral lower extremity edema. Cardiology was consulted and she underwent an echocardiogram which showed reduced ejection fraction. She was started on higher doses of diuretics and monitored closely in the Cardiac Care Unit. Her diuretic regimen was adjusted, resulting in gradual improvement of her symptoms.
+**Interventions:**
+- Increase in furosemide dosage to 80 mg twice daily from 40 mg.
+- Addition of spironolactone 25 mg daily for better volume control.
+- Dietary consultation for sodium and fluid restriction.
+**Procedures:**
+- Echocardiogram on admission revealed LVEF of 35%.
+- Ultrasound-guided paracentesis was performed on February 25, 2023 to alleviate ascites.
+**Consultation:** Cardiology, Dietary, Physical Therapy
+**Condition at Discharge:**
+The patient showed significant improvement in fluid overload and respiratory function. She will continue rehabilitation at home under the care of Home Health Services and monitor her weight daily.
+**Following Up:**
+- Dr. Samuel H. Evans, for post-discharge check-up on March 22, 2023 at Cedar Medical Center, Cardiology Clinic.
+- Daily weight monitoring with weekly phone check-ins by nursing from Home Health Services.
+**Medications at Discharge:**
+- Furosemide 80 mg orally twice a day
+- Spironolactone 25 mg orally once a day
+- Low-dose aspirin 81 mg daily
+- Atorvastatin 20 mg at bedtime
+**Social Work Consultation:**
+Evaluated patient’s home setup; coordinated with Cedar Community Social Services for necessary patient aids including a bathroom grab bar and raised toilet seat which will be installed by March 17, 2023.
+**Discharge Instructions:**
+Mrs. Townsend is to limit fluid intake to less than 1.5 liters per day and follow a low-sodium diet as instructed. She should weigh herself each morning and report any gain of more than 2 pounds in a day. She should monitor for increasing shortness of breath or chest pain and contact healthcare providers if symptoms occur. Emergency instructions were provided, including contacting Cedar Medical Emergency Department if necessary.
+**Sign-out to Primary Care Provider:**
+Communicated discharge plan to Dr. Lucy Grant via handover on March 15, 2023 at 11:00 AM including medication adjustments and follow-up arrangements.
+**Dr. Samuel H. Evans, MD March 15, 2023, 11:00 AM[O]**
+**Nurse Practitioner Jennifer Doyle**

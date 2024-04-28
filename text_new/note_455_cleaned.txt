@@ -1,0 +1,57 @@
+**Inpatient Discharge Summary**
+**Mountcastle Hospital**  
+**Rebecca Johnson, MRN** #987654321, is a 54 y.o. female, admitted to the Cardiology service for management of acute myocardial infarction and unstable angina.**
+Admission Date: 01/12/2023  
+Discharge Date: 01/20/2023  
+Attending Provider: Dr. Ian Malcolm  
+Treatment Team: Cardiology Unit 4B
+**Hospital Problems Noted - Resolved**  
+POA Active Problems  
+Hyperlipidemia 01/12/2023 - Present Yes  
+Myocardial infarction (CMS/HCC) 01/12/2023 - 01/17/2023 Yes  
+Unstable Angina 01/12/2023 - Present Yes  
+**Discharge Medications:**  
+- Aspirin 81 mg, Oral, ONCE DAILY  
+- Atorvastatin 40 mg, Oral, ONCE NIGHTLY  
+- Metoprolol 50 mg, Oral, TWICE DAILY  
+- Isosorbide Mononitrate 30 mg, Oral, ONCE DAILY  
+Refills: All medications have 2 refills.  
+**Follow-Up Appointments:**  
+Primary Care Provider: Dr. Sharon Fielding  
+Appointment: 02/01/2023 at Downtown Medical Clinic  
+Cardiology Follow-Up: Dr. Ian Malcolm  
+Appointment: 02/05/2023, at Cardiology Unit, Mountcastle Hospital
+**Clinical Summary:**  
+Ms. Rebecca Johnson presented with severe chest pain and was diagnosed with a myocardial infarction. Treatment was initiated with intravenous thrombolytics, followed by dual antiplatelet therapy. Her hospital course included monitoring in the Cardiac Care Unit, where she maintained stable vital signs post-intervention. The patient responded well to the treatment with resolution of chest pain and stabilization of cardiac enzymes.
+**Instructions for Patient:**
+- Continue medication as prescribed without missing doses.
+- Monitor blood pressure and heart rate twice daily.
+- Adhere to a low cholesterol, low sodium diet as educated by the inpatient dietitian.
+- Gradual increase of physical activity, avoiding strenuous activities until cleared by a cardiologist.
+- Cease smoking immediately, seek support from Smoking Cessation Program at Mountcastle Hospital.
+**Home Health Services:**  
+Arranged for Community Health Partners  
+Services include: Nursing visits twice a week, dietary consultation, and physical therapy.  
+555-123-4567
+**Discharge Condition:** Stable  
+Ms. Johnson was discharged in stable condition with instructions to avoid any heavy lifting or strenuous exercise. She is advised to monitor for signs of chest pain, shortness of breath, or excessive fatigue. Any such symptoms should prompt immediate medical review.
+**LACE - Readmission Risk Score:** 9  
+Total Score: 9 (Length of Stay 3, Acute Admission 3, Charleson Comorbidity Score 2, ED Visits in last 6 months 1)  
+Risk Level: Moderate  
+Readmission Rate - 30 Day: 7.9%  
+Mortality Rate - 30 Day: 0.7%
+**Last Recorded Vital Signs**  
+BP 120/80 | Pulse 72 | Temp 36.8 °C (98.2 °F) | Resp 16 | Ht 1.65 m (5' 5") | Wt 75 kg (165 lb) | SpO2 98% | BMI 27.6 kg/m²
+**Significant Test or Procedure Results:**  
+ECHO 01/15/2023 LVEF 55% showing improvement post-therapy.
+**Discharge Exam:**  
+General: Alert, in no acute distress  
+CV: RRR, no murmurs  
+Lungs: CTA bilaterally  
+Ext: No edema  
+Neuro: A&Ox3, no focal deficits  
+**Signed:**  
+Dr. Ian Malcolm  
+Cardiology, Mountcastle Hospital  
+Date: 01/20/2023, Time: 10:00 AM
+This completed document reflects a well-coordinated discharge plan aimed at maintaining the patient's health stability while providing clear instructions and support avenues to promote her continuing recovery outside the hospital environment.

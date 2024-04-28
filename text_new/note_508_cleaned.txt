@@ -1,0 +1,36 @@
+**University Hospital Discharge Summary**
+**Patient Information:**
+- **Name:** Marilyn K. Johnson
+- **Age:** 68
+- **Medical Record Number:** 4895735
+**Admission Date:** October 13, 2023    
+**Discharge Date:** October 30, 2023   
+**Admitting Diagnosis:** Exacerbation of chronic obstructive pulmonary disease (COPD)    
+**Discharge Diagnosis:** COPD, controlled; hypertension    
+**Hospital Course:**   
+Marilyn was admitted to the University Hospital following a moderate exacerbation of her COPD. Throughout her stay, her acute symptoms were managed effectively with a regimen of bronchodilators, steroids, and supplemental oxygen. Her condition stabilized after adjustment of her existing COPD medications. The patient also participated in bedside pulmonary rehabilitation sessions.
+**Medications on Discharge:**   
+- Albuterol inhaler as needed   
+- Salmeterol/fluticasone 250/50 mcg twice daily    
+- Lisinopril 20 mg daily for hypertension    
+**Follow-up Appointments:**   
+- University Hospital Respiratory Clinic  
+  November 15, 2023 at 10:00 AM  
+- Primary care follow-up  
+  November 20, 2023 at 2:00 PM
+**Additional Recommendations:**
+- Continue smoking cessation.
+- Adhere strictly to the prescribed pulmonary rehabilitation exercises.
+- Monitor peak flow daily and report any significant changes to University Hospital Respiratory Clinic.
+**Discharge Instructions:**   
+Patient was counseled on the importance of medication adherence, potential side effects, and the importance of follow-up appointments. She was also educated on the correct use of inhalers by the respiratory therapist. She verbalized understanding and received written instructions.
+**Code Status:** Full code   
+**Condition at Discharge:** Stable, improved respiratory function   
+**Signed by:** Dr. Lisa Hammond, MD, October 30, 2023 at 3:45 PM  
+**Next Steps:**
+- Continue with current medication plan. Adjustments to be reviewed during follow-up appointments.
+- Blood pressure monitoring at home, report if systolic blood pressure consistently above 160 mmHg.
+- Return to the emergency department if experiencing severe shortness of breath, chest pain, or other alarming symptoms.
+**Insurance Provider:** MediHealth Insurance  
+**Discharge Contact Number:** 555-312-4523 for any urgent issues post-discharge.
+This comprehensive discharge summary provides a detailed outline of Marilyn's hospital stay and includes specific instructions for follow-up care to ensure continued management and recovery.

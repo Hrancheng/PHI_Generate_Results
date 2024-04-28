@@ -1,0 +1,51 @@
+**UHS Medical Center Discharge Summary**
+**Patient Name:** Emily Rostova  
+**MRN#:** 312547896  
+**Age:** 68 years old  
+**Admission Date:** February 15, 2023  
+**Discharge Date:** February 28, 2023  
+**Attending Provider:** Dr. Michael Greer  
+**Hospital Problems Noted - Resolved:**  
+POA Active Problems:  
+- Chronic obstructive pulmonary disease 2/15/2023 - Present Yes  
+- Hypertension 2/15/2023 - Present Yes  
+- Type 2 Diabetes Mellitus 2/15/2023 - Present Yes
+**Resolved Problems:**  
+RESOLVED: Acute exacerbation of COPD 2/15/2023 - 2/28/2023 Yes  
+RESOLVED: Urinary tract infection 2/18/2023 - 2/24/2023 Yes
+**Recommendations for Follow Up:**  
+Attention to Primary Care Physician: Dr. Linda Schmidt  
+Follow-up appointment on March 10, 2023.  
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient: Routine blood work to monitor HbA1c. Monitor blood pressure weekly.
+**Discharge Medications:**  
+Metformin 500 mg tablet Refills: 1  
+Quantity: 60 tablet, Oral, TWICE DAILY  
+Lisinopril 20 mg tablet Refills: 1  
+Quantity: 30 tablet, Oral, ONCE DAILY  
+**Discharge Instructions:**  
+Patient instructed to maintain a low-sodium diet and continue using CPAP machine nightly. Patient educated on proper medication adherence and to schedule follow-up appointments as directed.
+**Significant Test or Procedure Results:**  
+Chest X-ray 2/20/2023: Shows no acute disease, stable COPD.  
+EKG 2/22/2023: Normal sinus rhythm, no significant changes from prior.
+**Discharge Information:**  
+Home with home health services.  
+Regional Home Health will attend to the patient starting March 1, 2023.  
+555-987-6543
+**Home Instructions:**
+Patient is encouraged to maintain light daily activities and continue pulmonary rehabilitation exercises. Keep the home environment free from potential allergens and smoking.
+**Day of Discharge Vital Signs:**  
+BP 132/82 | Pulse 78 | Temp 36.8 °C | Resp 16 | SpO2 95%
+**Discharge Exam:**  
+General Appearance: Well-appearing, adequately hydrated, and nourished.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.  
+Heart: Regular heart rate and rhythm, no murmurs.  
+Extremities: No edema.  
+Neurologic: Alert and oriented x 4, no focal deficits.  
+**Follow-Up**:  
+Follow up with Regional Home Health.  
+Follow up with PCP, Dr. Linda Schmidt, on March 10, 2023.
+**Other Notes:**  
+Patient verbalizes understanding of discharge instructions and the importance of follow-up appointments. Noted to have family support from daughter, Anna Rostova, who will assist with daily activities and transportation.
+**Signed:**  
+Dr. Michael Greer, MD  
+February 28, 2023, 2:45 PM.

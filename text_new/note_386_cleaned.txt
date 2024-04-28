@@ -1,0 +1,41 @@
+**Metro City Hospital Discharge Summary**
+**Patient Information:**  
+Name: Elaine Benson  
+Age: 52 years old  
+MRN#: 298576433  
+**Admission Date:** February 15, 2023  
+**Discharge Date:** March 2, 2023  
+**Attending Provider:** Dr. Helen Mirren  
+**Hospital Problems Noted - Resolved During Admission:**  
+Acute myocardial infarction (MI) February 15, 2023 - Present Yes  
+Hypertension (CMS/HCC) February 15, 2023 - Present Yes  
+Diabetes Mellitus Type 2 February 15, 2023 - Present Yes  
+**Hospital Course:**
+Brief Overview -  
+Ms. Benson was admitted to Metro City Hospital following a witnessed syncopal event in her home 1342 Westhaven Drive, Metro City, IL 62522. On admission, she presented with chest pain, diaphoresis, and an irregular pulse. Initial EKG revealed ST-segment elevations consistent with an acute myocardial infarction. Immediate cardiac catheterization was performed followed by stent placement in the right coronary artery. Her blood pressure was managed aggressively given her history of hypertension, and her diabetes mellitus was controlled with insulin therapy during her stay.
+**Discharge Medication List:**
+Metoprolol 50 mg tablet twice daily - Continuation  
+Aspirin 81 mg tablet once daily - Continuation  
+Insulin glargine injection (long-acting) - Dosage adjusted  
+Lisinopril 20 mg once daily - Continuation for hypertension  
+**Next Steps:**  
+Follow-up appointment with Dr. James McCarthy, Cardiology, at Metro City Specialty Clinic scheduled for March 10, 2023. Ms. Benson has been scheduled for a diabetes management review with Nancy Drew, NP at Metro City Endocrine Center on March 15, 2023.
+Discharge Labs:  
+HbA1c: 7.2%  
+LDL Cholesterol: 122 mg/dL  
+Creatinine: 1.0 mg/dL  
+Complete blood count and electrolytes within normal range  
+**Discharge Instructions:**  
+Ms. Benson is to follow a low-sodium, diabetes-appropriate diet as discussed with our dietitian. She is instructed to monitor her blood pressure twice daily and to check her blood glucose levels four times per day. She should report any symptoms of chest pain, breathlessness, or hypoglycemia to her providers immediately. 
+**Last Recorded Vital Signs:**  
+BP 132/85 | Pulse 78 | Temp 36.8 °C | Resp 16 | BMI 32 KG/M²  
+**Discharge Condition:**  
+Ms. Benson is in a stable condition at the time of discharge. She has been equipped with home monitoring tools and will receive home health visits for the first week post-discharge.
+**Physicians:**  
+Sign-off by Dr. Helen Mirren, March 2, 2023  
+Nurse Practitioner: Nancy Drew  
+**This discharge summary has been communicated via secure email to:**  
+Primary Care Practitioner, Dr. Peter Clarkson, peterc@mcphospital.org, notified on March 2, 2023.  
+**Contact for emergencies:**  
+Metro City Hospital helpline: 555-623-1122  
+Immediate return to the emergency department if severe symptoms occur.

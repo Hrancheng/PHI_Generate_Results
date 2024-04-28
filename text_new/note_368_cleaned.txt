@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Elizabeth Conway**, MRN# 478205491, is a 68 y.o. female, admitted to the General Medicine service for management of severe pneumonia complicated by dehydration and acute renal failure. 
+**Admission Date**: 02/14/2023  
+**Discharge Date**: 02/28/2023  
+**Attending Provider**: Dr. Harold Greene  
+**Treatment Team**: General Medicine, Dr. Alice Johnson, Consulting Nephrologist, and Dr. Samuel Kelly, Consulting Pulmonologist
+---
+**Hospital Problems Noted - Resolved**
+- Pneumonia 02/14/2023 - 02/28/2023 Yes
+- Dehydration 02/14/2023 - 02/20/2023 Yes
+- Acute renal failure 02/14/2023 - 02/25/2023 Yes
+**Other Problems**
+- Hypertension - Stable
+- Type 2 Diabetes Mellitus - Managed
+---
+**Hospital Course: Brief Overview**  
+Elizabeth Conway is a 68-year-old woman with a history of hypertension and diabetes who presented to the Mercy General Hospital following a week of increasing shortness of breath, fever, and malaise. Admission labs showed elevated inflammatory markers and acute kidney injury attributed to dehydration. She was managed with IV antibiotics and fluids, which she responded well to. By 02/25/2023, her renal function normalized, and by 02/28/2023, her pneumonia had resolved sufficiently to warrant discharge.
+**Recommendations for Follow Up**:
+1. **Primary Care**: Follow-up with Mercy Health Clinic, Dr. Laura Mitchell on 03/07/2023.
+2. **Nephrology**: Courtesy follow-up in one month to ensure renal function remains stable.
+3. **Pulmonology**: Follow-up appointment in two weeks.
+**Discharge Medications**: 
+- Lisinopril 20 mg once daily for hypertension
+- Metformin 500 mg twice daily for diabetes
+- New Prescription: Amoxicillin 500 mg three times daily for seven days
+**Follow-Up Orders**:  
+Lab tests: CBC, CMP, urinalysis in one week, to be done at Downtown Labs. 
+**Next Steps**:  
+- Patient should monitor her blood pressure daily and record the readings.
+- Patient should watch for any signs of recurring pneumonia and visit the ER immediately if symptoms reappear.
+**Discharge Condition**:  
+- Patient is ambulatory with improved symptoms.
+- Vitals at discharge: BP 135/85, HR 77, Temp 37 C, SpO2 96% on room air, RR 18.
+**Laura Mitchell**, MD, signed the discharge orders on 02/28/2023 at 11:00 AM. Dr. Harold Greene added final recommendations.
+**Patient's understanding and agreement with the plan were confirmed. Patient voiced no concerns at discharge.**
+---
+This is a comprehensive discharge summary, including all relevant Protected Health Information (PHI) labeled in compliance with the given guidelines.

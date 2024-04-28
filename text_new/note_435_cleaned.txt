@@ -1,0 +1,34 @@
+**Inpatient Discharge Summary**
+**Identity of the Patient:**
+Michael Thomas, MRN# 987654320, is a 45 y.o. male, admitted initially to the Cardiology department following a myocardial infarction.
+**Admission Date:** September 20, 2023
+**Discharge Date:** September 28, 2023
+**Admitting Provider:** Dr. Anna Richardson
+**Attending Provider:** Dr. Anna Richardson
+**Hospital Problems Noted - Resolved:**
+- Acute myocardial infarction (AMI) September 20, 2023 - September 25, 2023
+- Hyperlipidemia September 20, 2023 - Ongoing
+**Brief Hospital Course:**
+Mr. Michael Thomas was admitted after presenting with chest pain and diagnostic tests confirming a myocardial infarction. During his stay, he underwent a successful percutaneous coronary intervention (PCI) to his left anterior descending artery on September 21, 2023. Post-procedure, he was managed in the cardiac ICU, where he was stabilized and then transferred to a step-down unit after two days. He showed good progress with cardiac rehab, and his cholesterol levels responded well to statin therapy started immediately after admission.
+**Procedures:**
+- PCI to left anterior descending artery
+- Daily EKGs
+**Significant Test Results:**
+Cardiac enzymes peaked at admission but trended down over the subsequent two days. Echocardiogram showed ejection fraction of 45%, with mild left ventricular systolic dysfunction. No significant valve abnormalities were noted.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Atorvastatin 40 mg daily
+- Metoprolol 50 mg twice daily
+- Lisinopril 10 mg daily
+**Discharge Instructions:**
+Mr. Michael Thomas has been advised to maintain a low cholesterol diet, continue with cardiac rehabilitation, and follow up with his cardiologist, Dr. Anna Richardson. He has been prescribed medications to manage his heart condition as well as to protect against future cardiac events. It is imperative that he adheres to the medication regimen and follow-up appointments.
+**Planned Follow-Up:**
+- Follow up with Dr. Anna Richardson in two weeks at her office located at 123 Heart Health Blvd, MediCity, CA 90210.
+- Cardiac rehab sessions scheduled bi-weekly for three months at Heart Strong Rehabilitation Center.
+**Signed:** Dr. Anna Richardson, September 28, 2023, 11:45 AM
+**LACE - Readmission Risk Score (does not apply to Pediatric, OB, PM&R, or Psychiatry Patients):** 7
+- Total Score: 7
+- Length of Stay: 3
+- Acute Admission: 2
+- Charleson Comorbidity Score: 1
+- ED Visits in last 6 months: 1

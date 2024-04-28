@@ -1,0 +1,60 @@
+**University Hospital Discharge Summary**
+**Patient Information:**  
+Name: Janet Lee  
+Age: 47 years old  
+DOB: 05/28/1975  
+MRN#: 56639210
+**Admission Date:** 02/15/2023  
+**Discharge Date:** 02/22/2023  
+**Attending Provider:** Dr. Harold Finch, M.D.  
+**Consulting Team:** Cardiology, Nephrology, Physical Therapy  
+**Hospital Service:** General Internal Medicine  
+**Reason for Hospitalization:**  
+Patient, Janet Lee, presented with acute exacerbation of chronic heart failure and secondary renal insufficiency. 
+**Significant Findings:**
+1. Echocardiogram showed decreased ejection fraction of 35%.
+2. Renal function tests indicated mild deterioration compared to previous outpatient results.
+**Hospital Course:**
+During the stay, the patient was managed for fluid overload and adjustment of heart failure medications. Diuretic therapy was optimized leading to improvement in her symptoms and renal function. Patient underwent daily physical therapy sessions to improve mobility and functional status. 
+**Procedures:**    
+Echocardiogram performed on 02/16/2023  
+Chest X-Ray performed on 02/17/2023
+**Discharge Medications:**  
+- Furosemide 40 mg, twice a day  
+- Lisinopril 20 mg, daily  
+- Potassium Chloride 20 mEq, daily  
+**Follow-up Instructions:**  
+Follow up with primary care provider, Dr. Jonathan Nolan, in one week. Cardiology follow-up within one month with Dr. Sarah Connor, MD, at Heart and Vascular Institute.
+**Summary by:**  
+Harold Finch, M.D.  
+General Internal Medicine
+**Dictated By:**  
+Emily Tao, M.D.  
+Date: 02/22/2023
+**Diagnoses:**  
+1. Acute on chronic heart failure  
+2. Secondary renal insufficiency  
+3. Hypertension  
+**Allergies:**  
+No known drug allergies
+**Discharge Status:**  
+Patient discharged to home with home health services from Community Health Associates. Instructions given for weight monitoring and low salt diet. Patient and family educated about signs of worsening heart failure.
+**Discharge Vitals:**  
+Blood Pressure: 130/85 mmHg  
+Heart Rate: 78 bpm  
+Respiratory Rate: 16 per minute  
+Temperature: 98.6 F  
+Oxygen Saturation: 98% on room air  
+**Discharge Instructions:**  
+- Continue medication as prescribed.  
+- Daily weight monitoring. Report gain of 3 lbs or more in a day.  
+- Low sodium diet advised.  
+- Restrict fluid intake to less than 2 liters per day.  
+**Home Health Care Services:**  
+- Physical Therapy to continue at home for mobility enhancement.  
+- Nursing visits to monitor health status and medication compliance.
+**Contact:**  
+- Primary care follow-up at 555-123-4567.  
+- Cardiology follow-up at 555-987-6543.
+This summary is to be faxed to the primary care provider and cardiology consultant. Patient transportation by Medicab Transport Services has been scheduled for 02/23/2023 at 10 AM.
+**End of Summary**

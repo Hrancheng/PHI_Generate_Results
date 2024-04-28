@@ -1,0 +1,36 @@
+**Metropolitan General Hospital Discharge Summary**
+**Patient Information**:
+- Patient Name: Mary Thompson
+- MRN: 473829017
+- Age: 68 years old
+- Admission Date: January 12, 2023
+- Discharge Date: January 25, 2023
+- Attending Physician: Dr. James Gunn
+**Hospital Course and Treatment Summary**:
+Mary Thompson was admitted to the cardiology unit with a diagnosis of acute myocardial infarction confirmed by elevated troponin and EKG changes noted on January 12, 2023. Patient underwent successful percutaneous coronary intervention (PCI) to the right coronary artery. She was started on dual antiplatelet therapy post-procedure. The patient tolerated the procedure well and showed gradual improvement in her cardiac function.
+During her stay, Mary Thompson also received management for Type 2 Diabetes and hypertension which were well controlled with medication adjustments. 
+**Medications at Discharge**:
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Metformin 1000 mg twice daily
+- Lisinopril 20 mg daily
+- Atorvastatin 40 mg nightly
+**Recommendations for Follow-Up**:
+- Follow-up cardiology appointment scheduled for February 10, 2023 at Metropolitan Heart Clinic.
+- Diabetes management follow-up with Dr. Susan Lee on February 15, 2023.
+**Educational Information Provided**:
+Patient educated on symptoms of chest pain, importance of medication adherence, and lifestyle modifications including diet and exercise.
+**Discharge Condition**:
+Mary Thompson is discharged in stable condition with improved cardiac output. She understands her discharge instructions and verbalizes understanding of her follow-up appointments.
+**Diagnostic Studies Summary**:
+- Echocardiogram showed improved left ventricular ejection fraction to 55%.
+- Chest x-ray confirmed no acute disease.
+- Lab results at discharge showed a normalization in troponin levels.
+**Physicians Involved**:
+- Dr. James Gunn, Cardiologist
+- Dr. Susan Lee, Endocrinologist
+**Contact Information**:
+- 555-934-8274 (Cardiology Clinic)
+- 555-234-8267 (Diabetes Care Clinic)
+**Signature**:
+Signed by: Dr. James Gunn, MD, January 25, 2023, 16:00 PM

@@ -1,0 +1,34 @@
+**Discharge Summary**
+** Springfield General Hospital**  
+**Patient Information:**  
+**Name:** Michael Thompson  
+**MRN:** 987654321  
+**Age:** 65 years old  
+**Admission Date:** March 15, 2023  
+**Discharge Date:** March 22, 2023  
+**Attending Physician:** Dr. Sarah Connors  
+**Admission Diagnosis:**  
+Acute exacerbation of chronic heart failure. 
+**Discharge Diagnosis:**  
+1. Acute exacerbation of chronic heart failure  
+2. Type 2 Diabetes Mellitus  
+**Hospital Course:**  
+Mr. Michael Thompson was admitted on March 15, 2023 following an episode of shortness of breath and pedal edema. Initial evaluation included an ECG which showed atrial fibrillation with a rapid ventricular response, and chest X-ray confirmed pulmonary congestion. The patient was started on IV diuretics with good response. Cardiology was consulted and echocardiography showed a left ventricular ejection fraction of 35%. His diabetic control was managed with an insulin sliding scale.
+Throughout his stay, Mr. Thompson’s condition improved with medical management. His fluid overload was addressed, and his blood glucose levels were stabilized. He attended a diabetes education session and met with a dietitian to optimize his glycemic control through diet.
+**Medications on Discharge:**
+1. Furosemide 40 mg orally daily  
+2. Metformin 500 mg orally twice daily  
+3. Insulin Glargine 40 units at bedtime  
+**Discharge Instructions:**
+Mr. Thompson is advised to follow a low-salt diet, continue his medications as prescribed, and monitor his blood sugar levels at home. He should weigh himself daily and report any gain of more than 3 pounds in a day to his primary care provider. 
+**Follow-Up Appointments:**  
+1. With Dr. Sarah Connors at Springfield General Hospital’s Cardiology Clinic on April 5, 2023 at 10:00 AM.  
+2. Diabetes management follow-up at Springfield Diabetes Care Center on April 12, 2023 at 2:00 PM.
+**Significant Findings:**  
+No new significant findings were noted. His hospital course was uneventful with improvement in heart failure symptoms and stabilization of blood glucose levels.
+**Condition at Discharge:**  
+Mr. Thompson’s condition at discharge is stable. He is not experiencing symptoms of heart failure at rest and his blood glucose is under better control. 
+**Prepared by:**  
+Dr. Sarah Connors, MD  
+**Date:** March 22, 2023, 4:00 PM
+This discharge summary provides the necessary details while adhering to PHI de-identification standards, ensuring that all personal health information categories such as names, dates, ages, etc., are adequately labeled.

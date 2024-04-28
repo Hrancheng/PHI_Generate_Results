@@ -1,0 +1,41 @@
+Inpatient Discharge Summary
+Michael Thomas, MRN# 857473829, is a 58 y.o. male, admitted to the Cardiology service for management of chronic heart failure and recent exacerbation. 
+Admission Date: 2/14/2023 
+Discharge Date: 2/28/2023
+Attending Provider: Dr. Emily Stone
+Treatment Team: Cardiology Unit Staff
+Hospital Problems Noted - Resolved:
+- Chronic heart failure 2/14/2023 - Present Yes
+- Acute kidney injury 2/16/2023 - 2/23/2023 Yes
+- Hypokalemia 2/17/2023 - 2/20/2023 Yes
+Resolved Problems:
+- RESOLVED: Acute exacerbation of chronic heart failure 2/14/2023 - 2/28/2023 Yes
+Discharge Medication List:
+- Furosemide 40 mg tablet Refills: 2
+   Take one tablet by mouth twice daily
+- Potassium Chloride 20 mEq tablet Refills: 2
+   Take one tablet by mouth once daily
+Plan for Follow-up:
+Primary Care Physician: Dr. Sarah Lee, MD
+123 Health St, MediCare Clinic, Springfield, IL 62704
+Phone: (217) 555-0192
+Next appointment scheduled on: 3/5/2023
+Cardiology outpatient clinic:
+Follow-up appointment on 3/12/2023 with Dr. Emily Stone at Springfield Heart Institute
+Check complete blood count, electrolytes, and renal function prior to the appointment.
+Labs to be drawn on 3/3/2023:
+- Complete blood count
+- Comprehensive metabolic panel
+- NT-proBNP
+Education Provided:
+Discussed importance of medication adherence, daily weight monitoring, and dietary restrictions including fluid and salt limitation.
+Signs and symptoms of heart failure exacerbation such as increased shortness of breath, weight gain over 3 pounds in one week, or swelling of the legs were reviewed.
+Social Work Consult:
+Evaluated patient's home support system. Patient lives with wife, who is fully capable of assisting with his care. Discussed available community resources for additional support if needed.
+Disposition: 
+Patient discharged to home in stable condition, expressing understanding of discharge instructions and verbalized no further questions at this time.
+Discharge Instructions Signed by: 
+Emily Stone, MD
+Date: 2/28/2023, Time: 4:30 PM
+This discharge summary was confirmed and discussed with the patient and his wife, Susan Thomas. 
+All involved parties agreed upon the follow-up plan and were provided with contact details for any questions or emergencies.

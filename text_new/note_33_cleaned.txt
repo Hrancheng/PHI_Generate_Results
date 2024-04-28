@@ -1,0 +1,26 @@
+Inpatient Discharge Summary
+Elizabeth Green, MRN: 586234, is a 68-year-old female who was admitted to Riverdale Medical Center on January 5th, 2023 following a reported fall at home. She was discharged on January 12th, 2023.
+Admitting Provider:
+Dr. Michael Johnson
+Chief Complaint:
+Patient reported severe pain in her left hip after a fall at her residence at 1234 Maple Street, Springfield, IL.
+Hospital Course:
+Upon admission, initial X-rays confirmed a fractured left hip. Surgery was performed on January 6th, 2023 by Orthopedic Surgeon Dr. Helen Fisher. The patient responded well to the surgical intervention, receiving post-operative care under Dr. John Carter, pain management specialist. Physical therapy commenced on January 8th, 2023, with significant progress noted in mobility and pain reduction.
+Medications at Discharge:
+1. Acetaminophen 650 mg, Oral, every 4 hours as needed for pain
+2. Celecoxib 200 mg, Oral, twice daily
+3. Enoxaparin 40 mg, Subcutaneous, once daily
+Discharge Instructions:
+The patient is advised to continue with outpatient physical therapy thrice weekly at Springfield Community Health Center. Follow-up appointment scheduled with Dr. Helen Fisher on January 20th, 2023 at Riverdale Orthopedics. Continue all medications as prescribed and monitor for signs of infection or increased pain.
+Home Health Care:
+Caregivers Health Services will provide a nurse to assist with medication management and daily living activities. First visit scheduled for January 14th, 2023.
+Emergency Contact:
+Daughter, Sarah Green, Phone: 555-123-4567
+Summary by:
+Dr. Emily Stanton
+Date: January 12th, 2023 
+Time: 2:00 PM 
+This summary has been discussed with the patient and her daughter, Sarah Green, who understand the discharge plan and have agreed to follow the steps as outlined.
+Signature:
+Emily Stanton, MD
+Note: All identifiers included for medical documentation purposes only. Please ensure privacy and confidentiality in handling this information.

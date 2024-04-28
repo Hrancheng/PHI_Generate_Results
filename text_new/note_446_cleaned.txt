@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+**Patient:** Michael Thomson, MRN# 987654321, is a 45 y.o. male, admitted to the Mercy General Hospital surgical department due to complications from chronic pancreatitis.
+**Admission Date:** 03/05/2008  
+**Discharge Date:** 03/15/2008
+**Attending Provider:** Dr. Lisa Crawford  
+**Treatment Team:** SA3 Floor Calls - Pager 32567
+**Hospital Problems Noted - Resolved / Ongoing:**
+- Acute pancreatitis (03/05/2008 - Present)
+- Secondary diabetes mellitus due to underlying condition (03/06/2008 - Present)
+**PROGRESS:**
+Mr. Michael Thomson presented with increasing epigastric pain and was found to have elevated lipase levels upon admission. His pain was initially managed with IV hydro-morphone and subsequently transitioned to oral medications as tolerated. He underwent an endoscopic retrograde cholangiopancreatography (ERCP) which revealed pancreatic duct strictures for which stents were placed successfully on 03/08/2008.
+**DISCHARGE MEDICATIONS:**
+1. Creon 24,000 units, Oral, TAKE WITH MEALS, 0 refills
+2. Metformin 500 mg, Oral, TWICE DAILY, 2 refills
+**Discharge Instructions:**
+- Follow a low-fat diet, avoid alcohol and smoking.
+- Continue diabetes management with primary care provider.
+- Scheduled follow-up in the Mercy General Gastroenterology Clinic.
+**Home Care Instructions:**
+- Pancreatic enzyme replacement therapy to be taken with every meal.
+- Blood glucose monitoring four times a day.
+**Scheduled Appointments:**
+- 03/20/2008, 10:00 AM: Sarah Briggs, NP, Gastroenterology Clinic at Mercy General Hospital.
+**Discharge Condition:**
+- Stable, advised against heavy physical activity for two weeks.
+- Pain management to be followed up, with adjustments as necessary.
+**Adverse Reactions:**
+- None noted during hospital stay.
+**Significant Diagnostic Studies:**
+- CT abdomen on 03/06/2008 confirmed the presence of pancreatic inflammation without necrosis.
+- MRCP on 03/10/2008 detailed view of pancreatic duct anomalies, assisting in ERCP planning.
+**Discharge Planning:**
+Mr. Michael Thomson was provided with discharge instructions and emergency contact numbers. He is to be reevaluated in the gastroenterology clinic in two weeks. Adjustments to his insulin regimen may be needed based on his follow-up glucose monitoring results.
+**Follow-Up Needs:**
+Patient should monitor for signs of pancreatic infection or uncontrolled blood sugar, and seek immediate care if symptoms worsen.
+**Last Recorded Vital Signs:**
+BP 120/78 | Pulse 72 | Temp 98.6 °F | Resp 14 | SpO2 98%
+**Dismissed By:**
+Dr. Lisa Crawford, MD, Chief of Surgery, 03/15/2008, 11:00 AM
+**Summary and Recommendations:**
+Patient to manage diet closely, adhere to prescribed enzyme therapy, and actively monitor blood sugar levels. Immediate follow-up if symptoms of infection, increased pain, or hyperglycemia occur. Regular follow-ups in clinic to monitor condition and adjust treatments as necessary.

@@ -1,0 +1,28 @@
+Inpatient Discharge Summary
+Patient Information: 
+Michael Thompson, MRN# 56783421, a 52 y.o. male was admitted following complaints of severe abdominal pain and vomiting.
+Admission Date: 10/21/2023
+Discharge Date: 10/28/2023
+Attending Physician: Dr. Sarah Connelly
+Admission Diagnosis: Acute pancreatitis
+Discharge Diagnosis: Acute pancreatitis resolved, chronic hypertension
+Hospital Course:
+Mr. Thompson presented to the Emergency Department at Riverdale General Hospital on 10/21/2023 complaining of sudden onset severe mid-epigastric pain radiating to the back, associated with nausea and repeated vomiting. Initial labs showed elevated lipase and amylase. The patient was admitted under the care of Dr. Connelly and treated with IV fluids, pain management, and NPO status initially.
+Over the course of the week, his condition gradually improved with resolution of pain and normalization of pancreatic enzymes. Diet was advanced as tolerated and pain was well controlled with oral medications by the time of discharge. Hypertension was managed with adjustment of his ongoing antihypertensive medications. A follow-up plan to assess his chronic hypertension was arranged.
+Disposition: Patient discharged home in a stable condition.
+Follow-up: 
+Patient advised to follow up with his primary care physician, Dr. John Hargrove, within one week for a blood pressure check and review of his current medication regimen. A gastroenterology follow-up is also scheduled with Dr. Lisa Raymond in two weeks to evaluate the need for further imaging to rule out gallstones as an underlying cause for the episode of pancreatitis.
+Diet: Regular balanced diet advised, avoiding high-fat meals.
+Medications at discharge:
+1. Lisinopril 20 mg orally daily.
+2. Acetaminophen 500 mg as needed for mild pain.
+1 Sunset Blvd, Springfield, IL 62704 - Patient’s home address.
+217-555-0198 - Contact number provided for patient follow-ups.
+Imaging studies during hospital stay revealed no gallstones, and the biliary tract appeared normal. The pancreas was edematous initially with no necrosis.
+Signature:
+Signed electronically by: Dr. Sarah Connelly
+Date: 10/28/2023
+Time: 14:00
+This discharge summary was shared with the patient and his daughter, Mrs. Emily Thompson, who accompanied him during his hospital stay. Both expressed understanding of the discharge instructions and the follow-up care plan. The patient was advised to return to the emergency department if he experiences significant pain, fever, or any new concerning symptoms.
+End of Discharge Summary
+All personal health information (PHI) has been labelled according to the guidelines provided, ensuring patient confidentiality and compliance with privacy regulations.

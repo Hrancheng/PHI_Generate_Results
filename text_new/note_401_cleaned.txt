@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**  
+**Patient:** Emily Johnson  
+**MRN#:** 987602314  
+**Age:** 68 y.o.  
+**Admission Date:** 9/03/2023  
+**Discharge Date:** 9/20/2023  
+**Attending Physician:** Dr. Harold Greene  
+**Admitting Diagnosis:** Acute exacerbation of chronic heart failure  
+**Discharge Diagnosis:** Chronic heart failure, hypertension  
+**Hospital Course:**  
+Emily Johnson was admitted following recurrent episodes of shortness of breath associated with a decreased exercise tolerance. Her echocardiogram showed reduced ejection fraction (30%) and mild mitral regurgitation. During her stay, she was managed with IV diuretics and after stabilization, was transitioned to oral medications. She also underwent a dietary consultation for low-salt diet adherence training. Her hypertension was controlled with adjustments to her current antihypertensive medications.
+**Medications on Discharge:**  
+- Furosemide 40 mg tablet once daily  
+- Lisinopril 20 mg tablet once daily  
+- Metoprolol 50 mg extended-release, once daily  
+**Follow-Up Instructions:**  
+- Cardiology follow-up in one week  
+- Primary Care Physician (PCP) appointment in two weeks  
+- Continue weighing herself daily and monitor for a weight increase of more than 3 pounds in a week  
+- Adhere to a low-salt diet and restrict fluid intake as discussed  
+**LACE Score:**  
+Total Score: 11  
+Details: 4 - Length of Stay, 3 - Acute Admission, 4 - Comorbidities  
+Risk Level: High  
+Estimated Readmission and Mortality rate within 30 Days: 14.7% readmission, 2.5% mortality  
+**Discharge Condition:** Stable  
+**Disposition:** Home with home health services  
+**Home Health Care Instructions:**  
+- Monitor blood pressure and heart rate daily  
+- Keep a log of daily weights  
+- Notify healthcare provider if any significant change in symptoms occurs  
+**Next Steps:**  
+- Home Health Partners will provide a visiting nurse for the first week post-discharge  
+- Community Pharmacy will deliver medications  
+- 9/27/2023, 12:30 PM, follow-up with Dr. Amy Patel, cardiology, at City Health Medical Center
+**Discharge Instructions Provided By:**   
+Natalie Forrester, RN  
+Date: 9/20/2023 at 10:15 AM
+**Signature:**  
+Harold Greene, MD  
+Date: 9/20/2023, 10:30 AM

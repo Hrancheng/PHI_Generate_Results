@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Margaret Johnson
+**Medical Record Number:** 398765432
+**Age:** 68 years old
+**Admission Date:** March 15, 2023
+**Discharge Date:** March 22, 2023
+**Admitting Diagnosis:** Acute exacerbation of chronic heart failure 
+**Discharge Diagnosis:**
+1. Acute exacerbation of chronic heart failure
+2. Type 2 diabetes mellitus
+3. Hypertension
+**Hospital Course:**
+Margaret Johnson was admitted on March 15, 2023 with symptoms of shortness of breath and pedal edema. Her admission was complicated by an uncontrolled blood glucose level and high blood pressure. The patient was managed with IV diuretics, insulin therapy, and antihypertensive medications. She showed significant improvement with reduced symptoms of heart failure and stable blood glucose levels. Her diet was adjusted to a heart-healthy diabetic diet, and she received education on fluid restrictions and medication compliance.
+**Procedures Performed:**
+- Echocardiogram on March 16, 2023
+- Chest X-ray on March 17, 2023
+**Consultations:**
+Cardiology, Endocrinology, and Dietary were consulted. Each specialty provided recommendations that were incorporated into her treatment plan.
+**Medication on Discharge:**
+1. Furosemide 40 mg daily
+2. Metformin 1000 mg twice daily
+3. Lisinopril 20 mg daily
+4. Aspirin 81 mg daily
+**Allergies:**
+No known drug allergies.
+**Follow-up Instructions:**
+- Follow up with primary care physician, Dr. Emily Thompson, in one week.
+- Cardiology follow-up with Dr. Ian Malcolm scheduled for March 30, 2023.
+**Contact Information for Follow-Up:**
+Primary Care Physician: Dr. Emily Thompson. Phone: 555-123-4567
+**Discharge Planning:**
+Patient agrees with the discharge plan and understands all discharge instructions, including dietary restrictions and medication regimen. Home health services have been arranged to assist with the transition to home care and ensure compliance with the treatment plan.
+**Discharged By:**
+Dr. Robert Langdon, Attending Physician
+Date: March 22, 2023, Time: 2:00 PM
+**Signature:**
+Dr. Robert Langdon
+This comprehensive summary outlines the patient's course of treatment during the hospital stay, providing details necessary for appropriate follow-up care and ensuring continuity of treatment to promote optimal health outcomes.

@@ -1,0 +1,43 @@
+Inpatient Discharge Summary
+-----
+Patricia Johnson, MRN# 562312984, is a 67 y.o. female, admitted to the Internal Medicine service for management of exacerbation of chronic heart failure.
+Admission Date: 09/01/2023
+Discharge Date: 09/15/2023
+Attending Provider: Dr. Emily Stanton
+Treatment Team: Dr. Rachel Greene, Nurse Susan Bello
+Hospital Problems Noted:
+1. Chronic heart failure exacerbated (CHF 09/02/2023 - 09/14/2023) - Managed with diuretic adjustment.
+2. Hypokalemia (09/05/2023 - 09/08/2023) - Corrected with oral supplements.
+3. Elevation of blood pressure (09/06/2023) - Treated with additional antihypertensive therapy.
+Other Problems: Type 2 diabetes mellitus, stable.
+Recommendations for Follow Up:
+Attention to Primary Care Physician, Dr. Megan Li, 4831 Main Street, Springfield, IL 67890 
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:
+Follow-Up with Springfield Diabetic Care Center 555-987-6543.
+Procedure Completed During Stay:
+Echocardiogram (09/04/2023) - Showed reduced ejection fraction of 35%.
+Chest X-ray (09/10/2023) - No acute findings, stable cardiomegaly.
+Discharge Medication List:
+1. Furosemide 40 mg tablet twice daily.
+2. Potassium chloride 20 mEq once daily.
+3. Metformin 500 mg twice daily.
+Discharge Condition and Instructions:
+The patient’s condition is stable; continue current medication regimen. Monitor fluid intake and daily weights. Follow up with primary care physician within one week of discharge.
+Instructions:
+Drinking at least 8 glasses of water daily, avoiding high potassium foods, and checking blood sugar twice daily.
+Next Steps: Follow up with Laura Kim, MD in Springfield General Hospital’s Cardio Clinic 550 E. Hospital Rd., Springfield, IL 67893.
+Important Numbers:
+- Megan Li's office: 555-123-4567
+- Springfield Diabetic Care Center: 555-987-6543
+Last Recorded Vital Signs:
+BP 132/80 | Pulse 78 | Temp 37.0 °C (98.6 °F) | Resp 20 | SpO2 94%
+Significant Findings and Events During Hospitalization:
+Patient responded well to the diuretic therapy with improved respiratory symptoms. Potassium levels normalized following supplementation. Blood pressure managed with medication adjustments.
+This discharge summary was reviewed and discussed with the patient and her son, Timothy Johnson, on 09/15/2023. 
+Signed, Emily Stanton, MD
+Date: 09/15/2023, at 2:00 PM 
+Emergency Contact:
+Timothy Johnson, son
+Phone: 555-111-2222
+Address: 4900 Sheridan Rd, Springfield, IL 67891
+This summary is intended to provide a comprehensive overview of Patricia Johnson's hospital stay and outline her continuity of care needs following discharge. Please note, emergency contacts are provided for immediate concerns related to patient's care. For non-emergencies, please utilize the provided healthcare provider and clinic contacts. This document was prepared using HIPAA-compliant de-identification standards for patient privacy.

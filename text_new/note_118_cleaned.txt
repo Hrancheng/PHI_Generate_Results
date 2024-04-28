@@ -1,0 +1,40 @@
+**Inpatient Discharge Summary**
+**Patient Summary:**
+- Thomas Ackerman, MRN 654321
+- 65-year-old male
+- Admission Date: 1/12/2023
+- Discharge Date: 1/22/2023
+- Attending Physician: Dr. Emily Jordan
+- Central City Medical Center
+**Hospital Course:**
+Mr. Ackerman presented to the emergency department with symptoms of a transient ischemic attack (1/12/2023). Neurology was consulted, and an MRI of the brain indicated no permanent damage. His cholesterol levels were notably high, and he underwent dietary counseling and adjustment in his lipid-lowering medications.
+During his stay, patient underwent daily physical therapy and showed significant improvements. His strength and coordination improved, and by the time of discharge, he was ambulating with minimal assistance.
+**Discharge Medications:**
+1. Atorvastatin 40 mg once daily
+2. Aspirin 81 mg daily
+3. Lisinopril 10 mg once daily
+**Follow-up Appointments:**
+- 1/30/2023 at 10 AM with Dr. Emily Jordan Neurology, Central City Medical Clinic. 
+- 2/02/2023 at 11 AM Lipid Clinic at Central City Medical Center for cholesterol management.
+**Significant Findings:**
+- Cholesterol at admission: 240 mg/dL
+- Cholesterol at discharge: 215 mg/dL
+- MRI: No signs of chronic infarction.
+**Laboratory Tests:**
+- Most recent LDH: 190 U/L (1/21/2023)
+- Most recent HbA1c: 6.8% indicating good glucose control.
+**Education and Counseling:**
+Patient and family educated on signs and symptoms of stroke, importance of medication adherence, and lifestyle modifications including dietary changes. Stroke prevention pamphlets were provided.
+**Functional Status at Discharge:**
+Patient is alert and oriented x4. Ambulates with a walker, steady gait, no assistance needed for personal care.
+**Diagnostics:**
+- Carotid Ultrasound: No significant stenosis detected (1/13/2023).
+- ECHO: Normal left ventricular ejection fraction with no valvular abnormalities (1/14/2023).
+**Discharge Instructions:**
+Mr. Ackerman is to continue physical therapy at home and follow a low cholesterol diet. He should monitor for any signs of stroke or changes in his condition and report to the emergency department if symptoms reoccur.
+**Emergency Contacts:**
+In case of emergency, contact Central City Medical Center ER at 555-123-9870.
+**Signed:**
+Dr. Emily Jordan, MD
+Date: 1/22/2023
+Time: 3:00 PM

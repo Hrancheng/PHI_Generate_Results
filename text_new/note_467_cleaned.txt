@@ -1,0 +1,37 @@
+**University Medical Center Discharge Summary**
+**Patient**: Evelyn Carter, MRN# 458769123, is a 68 y.o. female, admitted to the Cardiology service due to episodes of syncope and palpitations.
+**Admission Date**: 9/15/2023  
+**Discharge Date**: 9/25/2023  
+**Attending Provider**: Dr. Helen Mirren  
+**Hospital Course**:  
+Ms. Carter was extensively evaluated with a series of cardiac monitoring and imaging studies. Her admission was precipitated by three episodes of fainting over the past two weeks. An implanted loop recorder captured several periods of asystole correlating with her reported symptoms. After consultation with the electrophysiology team, it was determined that Ms. Carter would benefit from a pacemaker to manage her bradycardia and prevent future syncopal episodes. The pacemaker insertion occurred on 9/20/2023 and was uncomplicated.
+**Procedures**:
+1. Pacemaker Placement: 9/20/2023 (Performed by Dr. Ian Clarke, MD)
+**Post-Operative Course**:  
+Following the procedure, the patient recuperated well without any signs of infection or procedural complications. Device interrogation confirmed good function and appropriate settings. She participated in several educational sessions regarding the management and care of her new pacemaker.
+**Consultations**:
+1. Electrophysiology Evaluation - Dr. Sarah Goldman
+2. Cardiac Rehabilitation Consultation - Heart Strong Rehab Center
+**Discharge Medications**:  
+1. Aspirin 81 mg daily    
+2. Metoprolol ER 25 mg twice daily  
+**Follow-up**:  
+1. Pacemaker Clinic: 10/5/2023 at 10:00 AM with Dr. Ian Clarke  
+2. Cardiology Follow-Up: 10/12/2023 with Dr. Helen Mirren  
+**Instructions**:  
+Ms. Carter is advised to avoid lifting more than 5 pounds with her left arm for the coming 6 weeks. She should monitor for signs of infection around the operation site and report any fever, increased redness, or discharge. She was instructed on the use of her personal emergency response device, should she feel faint or unwell.
+**Discharge Condition**:  
+Ms. Carter is stable with ongoing improvement in symptoms since the pacemaker insertion. She was advised to gradually increase her activity level as per cardiac rehabilitation guidelines.
+**Last Recorded Vital Signs**:  
+BP 130/85 | Pulse 70 (paced) | Temp 36.8 °C | Resp 16 | O2 Sat 98% on room air  
+**Significant Test or Procedure Results**:  
+1. EKG on 9/23/2023: Normal paced rhythm with no significant ST/T wave changes.  
+2. Chest X-Ray on 9/23/2023: Post-procedure films confirm proper placement of pacemaker leads.
+**Discharge Planning**:  
+Ms. Carter will return home and continue to live independently. She received outpatient physical therapy referrals and is equipped with a 24-hour nurse call device provided by Safety Alert Systems.
+**Communication**:  
+A detailed summary of the hospital stay and subsequent care plan was shared with Dr. Laura Hughes, her primary care provider, today 9/25/2023 via secure electronic medical record message. 
+**Prepared by**:  
+Paula Harrison, RN, Discharge Coordinator  
+**Date**: 9/25/2023  
+**Time**: 16:30 PM

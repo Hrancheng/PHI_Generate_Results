@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Michael Thompson**, MRN# **278102679**, is a **54 y.o.** male, admitted to the General Medicine service for management of chest pain and hypertension. 
+Admission Date: **03/15/2023**
+Discharge Date: **03/20/2023**
+Attending Provider: Dr. **Anna Patel**
+**Treatment Team:**
+- Chief Resident: Dr. **Karen Lee**
+- Medical Student: **Jason Mills**
+- Consulting Cardiologist: Dr. **Robert Clarkson**
+**Hospital Problems Noted - Resolved**
+- POA Active Problems
+  - Hypertension **03/15/2023** - Present Yes
+  - Chest pain (non-cardiac) **03/15/2023** - **03/19/2023** Yes
+**Hospital Course:**
+**Michael** arrived via EMS after experiencing severe chest pain at home. Initial EKG suggested non-ST elevation. Cardiac enzymes were trending upwards upon admission. The patient was initially managed with IV nitroglycerin and a beta-blocker. Throughout his stay, **Michael's** blood pressure measurements were consistently high, managed with adjustments to his antihypertensive medications.
+He underwent a coronary angiography on **03/18/2023**, which showed minor plaques without significant stenosis requiring intervention. His chest pain resolved with medication adjustments, and hypertension was controlled with a new regimen.
+The echocardiogram showed normal left ventricular function and no valve abnormalities. The patient participated in a diet and lifestyle changes consultation to manage his risk factors.
+Discharge Medications:
+- Amlodipine 10 mg daily
+- Lisinopril 20 mg daily
+- Metoprolol 50 mg twice daily
+- Aspirin 81 mg daily
+**Follow-Up:**
+- Outpatient follow-up with Dr. **Robert Clarkson** for cardiology evaluation in 2 weeks on **04/03/2023**.
+- Primary care follow-up with Dr. **Anna Patel** on **03/25/2023** for BP check and medication effectiveness.
+- Dietician follow-up via **Central City Health Clinic** on **03/27/2023**.
+Recommendations for Further Care:
+Patient advised to maintain low salt diet and engage in moderate physical activity like walking for at least 30 minutes daily. Recommended follow-up with a dietician to further dietary education related to hypertension management. Patient was educated about the signs and symptoms of potential heart attack and when to seek immediate medical care.
+**Discharge Instructions:**
+Patient is counseled on the importance of medication adherence and lifestyle modifications. He is provided with written instructions on when to seek medical attention for potential cardiac symptoms. The importance of follow-up appointments is stressed before leaving the hospital.
+**Last Recorded Vital Signs:**
+BP 132/82 | Pulse 72 | Temp 36.9 °C | Resp 16 | Ht 175 cm | Wt 90 kg | SpO2 98%
+**Pertinent Discharge Physical Exam Findings:**
+- General: The patient is alert and oriented x 3, in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Lungs: Clear to auscultation bilaterally.
+- Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds.
+**Michael** expressed understanding of his discharge instructions including lifestyle modifications and follow-up plans. He voiced no concerns or questions at the time of discharge and appeared comfortable with the discharge plan.

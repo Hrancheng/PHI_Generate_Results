@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+Patient Name: Margaret Cho
+MRN#: 458321006
+Age: 62 y.o.
+Sex: Female
+Admission Date: 03/12/2023
+Discharge Date: 03/20/2023
+**Attending Physician:**
+Dr. Helen Carter
+**Hospital Service:**
+General Medicine
+**Admission Diagnosis:**
+Acute exacerbation of chronic heart failure
+**Hospital Course:**
+Margaret Cho was admitted to the general medicine service with symptoms of worsening dyspnea, orthopnea, and bilateral lower extremity edema. Her past medical history includes hypertension, diabetes mellitus type 2, and chronic heart failure with reduced ejection fraction. On admission, her labs showed elevated NT-proBNP and mild renal dysfunction. Echocardiogram on admission showed reduced ejection fraction of 35%, consistent with her known history of heart failure. She was managed with IV diuretics which gradually improved her symptoms. Over the course of her stay, her diuretic regimen was adjusted, and she was closely monitored for renal function and electrolyte levels, which remained stable. Education was provided regarding fluid and salt intake and medication adherence.
+**Procedures Done:**
+1. IV diuretics administration
+2. Continuous EKG monitoring
+3. Daily Chest X-rays – findings consistent with congestive heart patterns, no acute disease.
+**Medications on Discharge:**
+1. Furosemide 40 mg tablet daily
+2. Metoprolol succinate 50 mg daily
+3. Lisinopril 20 mg daily
+4. Spironolactone 25 mg daily
+**Discharge Instructions:**
+Margaret Cho has been advised to monitor her weight daily and adhere to a low salt diet. She has been scheduled for a follow-up with her cardiologist, Dr. Robert Langdon, in two weeks. She is to continue her medication as prescribed and monitor for signs of fluid overload or hypotension.
+**Follow-Up Appointments:**
+1. Cardiology follow-up in two weeks with Dr. Robert Langdon at City Medical Center.
+2. Primary Care follow-up with Dr. Emily Stanton in one month.
+**Condition at Discharge:**
+Stable with improved symptoms of heart failure.
+**Diet:**
+Low salt, fluid-restricted to 1.5 liters per day.
+**Activity:**
+Limited to light activities, avoid heavy lifting and strenuous activities.
+**Discharge Disposition:**
+Home with home health care services from Healing Hands Home Care. 
+Contact Information:
+Primary Care Physician: 555-123-4567
+Cardiology Clinic: 555-765-4321
+-------
+This discharge summary has provided a comprehensive overview of Margaret Cho's hospital course from admission through to her discharge plan with pertinent medical details and follow-up care, ensuring a holistic continuation of care in her home environment.

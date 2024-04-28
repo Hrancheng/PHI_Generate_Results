@@ -1,0 +1,39 @@
+**General Hospital Inpatient Discharge Summary**
+Emily Thompson, MRN# 254879632, is a 78-year-old female, admitted to the Cardiology service for management of heart failure exacerbation. 
+Admission Date: 09/10/2023  
+Discharge Date: 09/23/2023  
+Attending Provider: Dr. Alan Rickman  
+**Hospital Problems Noted - Resolved**   
+POA Active Problems  
+Chronic Heart Failure 08/15/2015 - Present Yes  
+Hypertension 10/02/2001 - Present Yes  
+Atrial fibrillation 03/25/2015 - Present Yes 
+**Hospital Course: Brief Overview**  
+Mrs. Thompson was admitted with symptoms of dyspnea, orthopnea, and bilateral leg swelling. Initial lab work showed elevated BNP. She received IV diuretics with good response, showing decreased leg edema and improved breathing. She was also counseled on low salt diet and fluid restriction. Her anticoagulation therapy was monitored and adjusted due to erratic INR levels.
+**Discharge Medications:**  
+- Furosemide 40 mg tablet: Take 1 tablet by mouth twice daily.  
+- Apixaban 5 mg tablet: Take 1 tablet by mouth twice daily.  
+**Instructions for Home Care:**  
+Continue low salt diet and limit fluid intake to less than 2 liters per day. Weigh daily and report weight gain of more than 3 pounds in a single day to primary care provider, Dr. Susan O'Malley, MD.
+Significant Diagnostic Studies & Results:  
+ECG on admission showed atrial fibrillation with a rapid ventricular response. Chest X-ray confirmed small bilateral effusions. There was a mild improvement in ventricular response control after medication adjustments.
+**Last Recorded Vital Signs Before Discharge:**  
+BP 130/80 | Pulse 78 | Temp 36.8 °C (98.2 °F) | Respiration Rate 16 | SpO2 93%
+**Discharge Physical Exam Findings:**  
+General: Alert, oriented, and in no acute distress.  
+Cardiovascular: Regular rhythm, no murmurs or gallops noted.  
+Respiratory: Clear to auscultation bilaterally.  
+Extremities: No edema noted on discharge.  
+Neurologic: Alert and oriented to person, place, and time.
+**Scheduled Follow-Up Appointments:**  
+09/30/2023, 10:30 AM with Dr. Susan O'Malley, MD at Downtown Medical Clinic.  
+10/07/2023, 11:00 AM with Cardiology at General Hospital.
+Please ensure to attend all scheduled appointments and call your healthcare provider if you experience increased shortness of breath, chest pain, or any new or worsening symptoms.
+**Discharge Diagnostics and Recommendations:**  
+Keep a log of daily weight. Continue with the prescribed medication regimen. Monitor blood pressure and heart rate regularly. Engage in light to moderate exercise as tolerated, pending further recommendation from the cardiology team during follow-up. 
+**Acknowledgment by Discharge Coordinator:**  
+Reviewed and explained by Nurse Patricia Holmes, RN. All medications and follow-up appointments have been scheduled, and written instructions provided.
+**Patricia Holmes, RN  
+Date: 09/23/2023  
+Time: 2:45 PM** 
+Mrs. Emily Thompson expressed understanding of her discharge instructions and verbalized not having further questions at this time. She is being discharged in a stable condition, capable of managing her care with the support of home health services arranged to assess her adaptation to the regimen at home.

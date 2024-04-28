@@ -1,0 +1,41 @@
+### Discharge Summary
+**Inpatient Discharge Summary**
+**Patient Details:**
+- Name: William Johnson
+- Medical Record Number: 231766538
+- Age: 30 years old
+- Admission Date: April 3, 2008
+- Discharge Date: April 28, 2008
+- Attending Provider: Dr. Lars Hendrik Van den Berg
+**Hospital Details:**
+- Treatment Team: SA2 FLOOR CALLS – PAGER 14250
+- Hospital Problems Noted - Active Problems Include:
+  - Anemia due to acute blood loss – Active since April 4, 2008
+**Resolved Problems Include:**
+- Acetabular fracture noted and resolved by April 28, 2008
+- Trauma caused initially noted on April 3, 2008 and resolved by discharge
+**Recommendations for Follow-Up:**
+- Orthopedics: Follow-up appointment on May 3, 2008
+- CT Surgery: Follow-up scheduled for May 16, 2008
+**Lab, Diagnostic Testing, and Referral Follow-Up:**
+- Contact Information for follow-up: Harrison & Co., 586-755-2300
+**Miscellaneous Medical Notes:**
+- Patient was involved in a Motorcycle vs. Pedestrian accident leading to multiple injuries and trauma
+- Managed in TBICU with endografts and external fixations
+- Major operations done: Endofemoral thoracic stent placement, external fixator application on April 3, 2008
+**Medication at Discharge:**
+- Acetaminophen 500 mg - Take as prescribed for pain management
+**Discharge Plan:**
+- Patient to follow-up with primary care physician
+- Special instructions include management of pain, wound care, and signs of infection monitoring
+- Follow up in the Orthopedic clinic on May 3, 2008 and Cardiac Surgery clinic on May 4, 2008
+**Last Recorded Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Pulse Rate: 74 BPM
+- Temperature: 98.6°F
+**Summary and Impression:**
+Patient William Johnson was stabilized and managed during his hospital stay for severe physical trauma due to an accident. The care provided has led to significant improvements, enabling discharge with outpatient follow-ups scheduled. Multidisciplinary interventions from trauma, orthopedics, and cardiology were crucial. Education on signs of complications, pain management, and wound care were provided to ensure continued recovery post-discharge.
+**Discharge Condition:**
+- The patient is stable and discharged in fair condition with outpatient follow-up in place.
+**Signed by:**
+- Lars Hendrik Van den Berg, MD on April 28, 2008

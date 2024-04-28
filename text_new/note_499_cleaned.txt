@@ -1,0 +1,47 @@
+**University Medical Center Discharge Summary**
+**Patient Information**  
+Eleanor Brooks, MRN# 435299882, is a 68 y.o. female who was admitted to the Cardiology service at Sunset Ridge Health System after experiencing a transient ischemic attack (TIA).
+**Admission Date:** 08/15/2023  
+**Discharge Date:** 08/20/2023  
+**Attending Physician:** Dr. Henry Wallace
+---
+**Medical History:**  
+Patient has a past history of hypertension, hyperlipidemia, and atrial fibrillation. She is regularly followed up in the cardiology clinic.  
+**Family History:** Positive for cardiovascular diseases.
+**Hospital Course:**  
+Eleanor Brooks was brought to the emergency department at Sunset Ridge Health System experiencing left-sided weakness and speech difficulties. Initial CT imaging of the head did not show any acute hemorrhage. She was treated with IV tPA after a detailed risk assessment. Her symptoms resolved completely within seven hours of onset.
+**Procedures**:
+1. MRI Brain (MR20230816) - Conducted on 08/16/2023: Showed no evidence of acute infarction but mild chronic small vessel ischemic changes.
+2. Echocardiogram - Conducted on 08/17/2023: Showed normal left ventricular function, no clots or vegetations.
+**Consultations:**  
+Neurology consult was requested and seen by Dr. Amelia Richards. Recommendations included considering adjusting anticoagulation therapy.
+**Medications at Discharge:**  
+1. Apixaban 5 mg, twice a day.
+2. Atorvastatin 40 mg, once daily at bedtime.
+3. Lisinopril 10 mg, once daily.
+**Allergies:**  
+No known drug allergies.
+**Follow-Up Plans:**  
+Patient is advised to follow up with her cardiologist, Dr. Henry Wallace, in one week. Appointment scheduled for 08/27/2023 at 450 S. Cedar Avenue, Office 320, Sunset Ridge, WA.  
+She should also continue her annual neurology reviews; the next review is due in December 2023.
+**Instructions for Patient:**  
+1. Monitor blood pressure and report any readings higher than 160/100.
+2. Follow a low-sodium, heart-healthy diet.
+3. Maintain physical activity as advised.
+4. Watch for any signs of bleeding due to new anticoagulant therapy.
+**Discharge Condition:**  
+The patient is to be discharged in a stable condition with resolved symptoms. She is to manage at home with family support.
+---
+**Diagnostics Performed and Their Dates:**  
+- Routine blood tests on 08/16/2023.
+- Follow-up MRI on 08/21/2023, if symptoms recur.
+**Rehabilitation Services:**  
+Outpatient physical therapy and speech therapy services have been coordinated due to the initial presentation and need for cautious observation, scheduled to start on 08/23/2023.
+**Strengths and Limitations at Discharge:**  
+Patient retains full mobility and has demonstrated good understanding of her condition and discharge instructions.
+**Discharge Process:**  
+The patient was educated about her signs and symptoms and when to seek immediate health care. Discharge medications were reviewed with the patient and her daughter, Rachel Brooks, who will be assisting her at home.
+**Final Coordination:**  
+All discharge summaries and follow-up care were coordinated with Sunset Ridge Health System's Outpatient Department. Discharge prescriptions were sent electronically to Ridge Pharmacy and will be ready for pickup this afternoon.
+**Signed:**  
+Henry Wallace, MD, 08/20/2023, at 11:00 AM.

@@ -1,0 +1,42 @@
+Inpatient Discharge Summary
+-----------------------------
+Ellen Maree Johnson, MRN# 45890234, is a 78-year-old female, admitted to the cardiology service for management of acute coronary syndrome and congestive heart failure. 
+Admission Date: 07/21/2023 
+Discharge Date: 07/30/2023 
+Attending Provider: Dr. Amit Patel
+Treatment Team: Cardiology Team A
+Hospital Problems Noted - Resolved: 
+- Acute Coronary Syndrome (07/21/2023 - 07/23/2023, Resolved)
+- Congestive Heart Failure, Acute on Chronic (07/21/2023 - Present)
+Patient’s Stay Overview:
+Ellen was brought to the hospital following a witnessed syncope at home. Upon arrival via EMS, she was experiencing shortness of breath and acute chest pain. Initial EKG revealed new T-wave inversions in the anterior leads and troponin levels were elevated. Admitted to cardiology for further management and monitoring. 
+Significant interventions included coronary angiography which identified significant three-vessel coronary artery disease. She underwent successful triple coronary artery bypass surgery on 07/24/2023. Her post-operative course was complicated by low output syndrome, requiring inotropic support which was successfully tapered as her condition stabilized.
+Discharge Medications:
+- Aspirin 81 mg, daily
+- Lisinopril 10 mg, daily
+- Atorvastatin 40 mg, nightly
+- Furosemide 40 mg, twice daily
+- Spironolactone 25 mg, daily
+Follow-up Appointments:
+- Cardiology follow-up with Dr. Amit Patel on 08/10/2023 at City Hospital Cardiology Clinic.
+- Primary care follow-up within two weeks post-discharge to be scheduled by patient with Dr. Susan Lee.
+Discharge Instructions:
+- Maintain a low salt diet.
+- Continue physical therapy exercises as prescribed.
+- Monitor weight daily; report any increases of more than 3 pounds in a day to the healthcare provider.
+- Adhere to the prescribed medication regimen without alteration unless consulted by a healthcare provider.
+Discharge Condition: Stable, with improved cardiac function and controlled symptoms.
+Last Recorded Vital Signs:
+- Blood Pressure: 130/85
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Respiration Rate: 16 per minute
+- Oxygen saturation: 95% on room air
+Counseling and Health Education:
+Patient and family educated on the importance of medication adherence, lifestyle modifications including diet and smoking cessation. Information on recognizing symptoms of heart failure exacerbation provided.
+Noticeable during the stay:
+- Ellen expressed her gratitude towards the attending staff for their care and support.
+Signed: Amit Patel, MD, 07/30/2023, 11:00 AM
+Supervising Physician: Laura Thompson, MD 
+ Coordinator for Follow-up Care: Jenny McCarthy, RN
+Please note: If there is any deterioration in condition, the patient or caregivers are advised to seek immediate medical attention or contact the cardiology clinic directly at 555-123-4567.

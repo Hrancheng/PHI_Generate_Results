@@ -1,0 +1,32 @@
+**Metropolitan General Hospital Inpatient Discharge Summary**
+**Patient Name:** Emily Roberts
+**MRN:** 567890123
+**Age:** 68 years old
+**Admission Date:** February 20, 2023
+**Discharge Date:** March 15, 2023
+**Attending Physician:** Dr. Jonathan Lee
+**Admission Diagnosis:** Acute exacerbation of chronic heart failure
+**Hospital Course:**
+Emily Roberts was admitted with symptoms of worsening shortness of breath, pedal edema, and fatigue. Initial echocardiogram showed reduced ejection fraction. Patient managed with IV diuretics and adjustment of heart failure medications. Over the course of her hospital stay, symptoms gradually improved with optimal medical therapy management.
+**Discharge Medications:**
+- Furosemide 40 mg, Oral, BID
+- Carvedilol 12.5 mg, Oral, BID
+- Lisinopril 20 mg, Oral, daily
+- Spironolactone 25 mg, Oral, daily
+**Follow-Up Appointments:**
+- Cardiology follow-up with Dr. Sara Whitaker at Metropolitan Heart Institute on March 29, 2023.
+- Primary care appointment with Dr. Henry Malik on April 5, 2023.
+**Discharge Instructions:**
+Patient advised to monitor weight daily and report any gain of more than 3 pounds in 24 hours. Continue low sodium diet. Maintain fluid intake of less than 2 liters per day.
+**Discharge Condition:** Stable
+**LACE - Readmission Risk Score:** 
+LACE Score: 9 (Moderate Risk)
+Risk Level: Moderate
+Readmission Rate - 30 Day: 7.9%
+Mortality Rate - 30 Day: 0.7%
+**Signed:** Dr. Jonathan Lee, March 15, 2023 at 11:00 AM 
+**Comments on Discharge:**
+Patient and family counseled about the signs of heart failure exacerbation and advised on when to seek immediate care. Patient expressed understanding and verbalized understanding of discharge instructions. All prescriptions and follow-up appointments have been scheduled and communicated to patient and caregiver Ms. Linda Thompson. 
+**Emergency Contact:** Linda Thompson at 555-987-6543
+**Pharmacy:** Downtown Pharmacy for all discharge medications.
+Please note that any additional symptoms or issues should prompt an immediate call to the patient's primary care provider or return to the emergency department.

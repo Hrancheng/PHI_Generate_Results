@@ -1,0 +1,44 @@
+**University of Health Sciences Hospital Discharge Summary**
+Patient Name: Emily Thompson, MRN#: 875342001
+28-year-old African American female, admitted to the General Medicine service for evaluation and management of acute pancreatitis.
+**Admission Date**: October 5, 2023
+**Discharge Date**: October 15, 2023
+**Attending Provider**: Dr. Aaron Philips
+**Hospital Course**:
+Ms. Thompson presented with severe epigastric pain radiating to her back, nausea, and vomiting. Her lipase was elevated at admission. Abdominal ultrasound showed no gallstones or biliary dilation. Her condition was managed with IV fluids, pain control, and NPO status initially. Gradually, her diet was advanced as tolerated without recurrence of symptoms. Her pain has significantly reduced, and she is tolerating a low-fat diet well.
+**Problems Noted - Resolved**:
+- Acute pancreatitis: Improved with conservative management.
+**Interventions**:
+- Hydration therapy.
+- Pain management with IV acetaminophen.
+- Nutritional support initiated with a clear liquid diet progressing to a low-fat solid diet as tolerated.
+**Discharge Medications**:
+- Acetaminophen 500 mg tablet: Take 1-2 tablets every 6 hours as needed for pain.
+- Omeprazole 20 mg once daily before meals to manage and prevent gastrointestinal discomfort.
+**Disposition**: Stable
+**Condition at Discharge**: Good
+**Follow-up**:
+Ms. Thompson is instructed to follow up with her primary care physician Dr. Susan Hill in one week. She should continue with a low-fat diet and increase her fluid intake. Should she experience worsening symptoms or new onset of pain, nausea, or vomiting, she is advised to return to the ED or contact Dr. Hill immediately.
+**Outpatient Department**: University Health Primary Care Clinic
+**Appointment Date**: October 22, 2023, at 10:30 AM
+**Provider**: Dr. Susan Hill
+**Instructions for the Patient**:
+1. Adhere strictly to the low-fat diet as instructed.
+2. Avoid alcohol and smoking completely.
+3. Keep hydrated - aim for at least 8 glasses of water a day.
+4. Take the prescribed medications as directed without skipping doses.
+5. Report immediately if symptoms such as severe abdominal pain, fever, or jaundice develop.
+**Total Score (LACE Index)**: 6
+- **Length of Stay**: 10 days
+- **Acute Admission**: Yes
+- **Charleson Comorbidity Score**: 0
+- **ED Visits in last 6 months**: None
+**LACE Score Risk Level**:
+- **Total**: 6, indicating a moderate readmission risk.
+- **Readmission Rate - 30 Day**: 7.9%
+- **Mortality Rate - 30 Day**: 0.7%
+**Communication**:
+A summary of Ms. Thompson's hospital stay and her discharge plan was communicated to her primary care provider, Dr. Susan Hill, via email on October 15, 2023.
+**Signature**:
+Dr. Aaron Philips, MD, October 15, 2023, at 3:45 PM
+University of Health Sciences Hospital

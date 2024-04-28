@@ -1,0 +1,34 @@
+**Inpatient Discharge Summary**
+Discharge summary for Michael Thompson, MRN# 524673V-328, who is a 54-year-old male. Admitted to General Hospital under the care of Dr. Amy Patel, for management of acute exacerbation of chronic obstructive pulmonary disease (COPD).
+**Admission Date:** March 1st, 2023
+**Discharge Date:** March 15th, 2023
+**Chief Complaint:**
+Difficulty breathing and persistent cough
+**History of Present Illness:**
+Mr. Thompson presented to the emergency department on March 1st, 2023, with increasing shortness of breath, wheezing, and a cough that has worsened over the past week.
+**Past Medical History:**
+- Chronic Obstructive Pulmonary Disease diagnosed 10 years ago
+- Hypertension
+- Type 2 Diabetes Mellitus
+**Medications on Admission:**
+- Tiotropium Bromide
+- Metformin
+- Lisinopril
+**Hospital Course:**
+Mr. Thompson's hospital stay was complicated by an episode of acute respiratory failure requiring noninvasive ventilation. He responded well to corticosteroids and antibiotics. He underwent a series of diagnostic tests including chest X-rays, which showed no new infiltrates, and his arterial blood gases improved with treatment. Physical therapy was involved early, focusing on breathing exercises and gradual mobilization.
+**Disposition:**
+Stable for discharge. He was encouraged to continue using his inhalers as prescribed and follow up with his primary care physician, Dr. Sarah Greene, within one week post-discharge.
+**Discharge Medications:**
+- Tiotropium 18 mcg inhalation powder, 1 inhalation daily
+- Prednisone tapered over 5 days
+- Amoxicillin 500 mg, one capsule three times a day for 7 days
+**Follow-up Appointments:**
+1. Dr. Sarah Greene, primary care physician, on March 22nd, 2023 at the Downtown Medical Clinic, 255 Main St, Springfield, IL
+2. Pulmonary rehabilitation starting March 30th, 2023 at BreathEasy Rehab Center
+**Instructions for Patient:**
+Continue smoking cessation. Utilize the provided spacers with inhaler treatments. Monitor blood sugar levels more frequently while on prednisone. Seek immediate medical attention if experiencing increased shortness of breath, chest pain, or other new symptoms.
+**Summary:**
+Mr. Thompson has made satisfactory progress and has been stabilized with the goal of managing his COPD exacerbation and associated comorbidities at home. Continued outpatient follow-up is crucial in preventing future exacerbations.
+**Physician:**
+[MD]Amy Patel - General Hospital, 100 Health Parkway, Springfield, IL 62704
+This summary was dictated and signed by Dr. Amy Patel on March 15th, 2023 at 1600 hours.

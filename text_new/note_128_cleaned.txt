@@ -1,0 +1,39 @@
+**Regional Hospital Discharge Summary**
+**Patient Name**: Elizabeth Walker, MRN# 987654321  
+**Age/Gender**: 72 y.o. female  
+**Admission Date**: 10/22/2023  
+**Discharge Date**: 11/01/2023  
+**Primary Care Physician**: Dr. Harry S. Trumen, MD  
+**Referring Physician/Cardiologist**: Dr. Angela Brighton, MD  
+**Admission Diagnosis**: Worsening Congestive Heart Failure (CHF)  
+**Discharge Diagnosis**: CHF, stabilized   
+**Hospital Course**:  
+Ms. Walker was admitted with symptoms of shortness of breath, orthopnea, and ankle swelling. She was diagnosed with an acute exacerbation of heart failure. Initial treatment included intravenous diuretics and guideline-directed medical therapy for heart failure which included adjustments to her existing regimen.
+Her echocardiogram showed a left ventricular ejection fraction of 35%, consistent with her previous assessments. Her kidney function was monitored closely due to the aggressive diuresis, revealing stable renal function throughout her stay. Cardiology was involved in management adjustments and recommended continuation of beta-blockers and ACE inhibitors with close outpatient follow-up.
+Given her initial poor respiratory status, she needed bipap in the initial phase of management. She gradually improved with less respiratory distress over days and was transferred from the Intensive Care Unit to the general floor on 10/26/2023.
+**Medications at Discharge**:  
+- Furosemide 40mg tablet: 1 tablet to take twice daily  
+- Lisinopril 10mg tablet: 1 tablet daily  
+- Potassium Chloride 20 mEq: Take one tablet daily  
+- Metoprolol Tartrate 50 mg: 1 tablet twice daily
+**Discharge Instructions**:  
+Ms. Walker should monitor her weight daily and report any increase of more than 3 pounds in a day to Community Heart Care. She should adhere strictly to her low-sodium diet and continue with the outpatient heart failure rehab as scheduled. A follow-up appointment is scheduled with Community Heart Care on 11/08/2023 at 10:00 AM.
+**Follow-up Care**:  
+- 11/08/2023, 10:00 AM, Follow-up in Heart Failure Clinic with Dr. Angela Brighton, Community Heart Care.  
+- Continue home health nursing visits for vital sign monitoring and medication compliance checks.
+**Labs**:  
+Sodium: 138 mEq/L; Potassium: 4.5 mEq/L; Creatinine: 1.2 mg/dL  
+**Preventive Care**:  
+Continue to avoid NSAIDs and maintain fluid restriction at 1500 mL/day.
+**Discharge Condition**:  
+At discharge, Ms. Walker was alert and oriented, ambulating with assistance, and her condition was stabilized.
+**Discharge Follow-Up**:  
+- Cardiology follow-up as outpatient within one week  
+- Primary care follow-up within two weeks
+**Registered Nurse**: Susan O'Hara, RN  
+**Attending Physician**: Dr. Harry S. Trumen  
+**Contact Information**: Cardiology Clinic: 555-123-4567
+**Signature**:  
+Dr. Harry S. Trumen, MD, 11/01/2023, 4:00 PM
+---
+Ms. Walker's discharge summary reflects her stabilized medical condition, and careful attention should be given to her outpatient follow-up to prevent another exacerbation of her congestive heart failure. 

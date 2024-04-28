@@ -1,0 +1,44 @@
+**Inpatient Discharge Summary**
+Patient Name: Eleanor Thomas  
+Medical Record Number: 9384756  
+Age: 68 years old  
+Admission Date: 09/15/2023  
+Discharge Date: 09/25/2023  
+Attending Physician: Dr. Harriet Wolfe  
+Hospital: Mercy General Hospital
+**Diagnosis at Admission**:  
+- Acute Exacerbation of Chronic Heart Failure  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+**Hospital Course**:  
+Mrs. Thomas was admitted following increasing shortness of breath associated with mild chest pain. Initial ECG revealed no acute ischemic changes. Chest X-ray demonstrated pulmonary congestion. Her admission was marked by a rapid response to intravenous diuretics and adjustment of her heart failure medications. Blood glucose levels were sporadically high, managed by endocrinology with an insulin regimen adjusted for her stay.
+Her hospital stay included consultations from cardiologists and a dietitian who provided guidelines for a heart-healthy and diabetes-appropriate diet. Physical therapy was consulted and involved the patient in daily mobility exercises to prevent deconditioning.
+**Treatment Given**:  
+- Furosemide 40 mg IV twice daily  
+- Metoprolol 25 mg orally twice daily  
+- Insulin as per sliding scale  
+- Dietary consultation for low-sodium and low-sugar diet  
+**Procedures**:  
+1. Echocardiogram on 09/18/2023: Showed left ventricular ejection fraction of 45%.
+2. Nutrition and diabetes educational session on 09/20/2023.
+**Condition at Discharge**:  
+Mrs. Thomas is stable with improved respiratory symptoms and better control of blood sugar. She understands her medication regimen and follow-up instructions. Discharged to home with home health services arranged to assist with medication management and further physical therapy.
+**Discharge Medications**:  
+- Furosemide 40 mg orally daily  
+- Metoprolol 25 mg orally twice daily  
+- Lisinopril 10 mg daily  
+- Insulin Glargine 20 units at bedtime  
+- Insulin Lispro according to sliding scale  
+**Follow-up Appointments**:  
+- Dr. Sylvia Hayes, cardiologist, on 10/10/2023 at Mercy Cardiology Clinic  
+- Dr. Jonah Marks, endocrinologist, on 10/15/2023 at Mercy Diabetes Care Center  
+**Instructions for Patient**:  
+- Continue weighing daily and record weights to report at follow-up visits.  
+- Monitor blood sugar levels four times a day and adjust insulin as instructed.  
+- Adhere to a low-sodium, low-sugar diet as advised by the hospital dietitian.  
+- Participate in physical therapy sessions twice a week to maintain mobility and improve strength.
+**Signed**:  
+Dr. Harriet Wolfe, 09/25/2023, 2:00 PM  
+**Contact Number for Concerns/Questions**:  
+555-423-8976  
+(Note: All identifiable information in the document such as names, dates, and contact information are replaced with appropriate placeholders to maintain confidentiality and integrity of the discharge summary.)

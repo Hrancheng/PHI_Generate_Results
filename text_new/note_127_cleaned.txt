@@ -1,0 +1,48 @@
+**University Health Network**
+**Discharge Summary**
+**Patient Information:**
+- **Patient's Name**: James Randall
+- **MRN**: 392847501
+- **Age**: 58-years-old
+- **Date of Birth**: 08/02/1965
+- **Admission Date**: 09/15/2023
+- **Discharge Date**: 09/30/2023
+**Address**: 134 West Hamilton Street, Houston, TX 77493
+**Attending Physician**: Dr. Sarah Khouri
+**Consulting Team**:
+- Cardiology: Dr. Eric Freeland
+- Endocrinology: Dr. Amit Patel
+**Hospital Course**:
+Mr. James Randall was admitted to the cardiology service for management of acute decompensated heart failure and newly diagnosed type 2 diabetes. Transthoracic echocardiography performed on 09/16/2023 revealed reduced ejection fraction (35%). Cardiac catheterization on 09/18/2023 showed significant triple vessel disease, subsequently managed with coronary artery bypass graft (CABG) surgery on 09/20/2023.
+Endocrinology was consulted for glycemic control due to marked hyperglycemia at admission. Continuous insulin infusion was started, transitioning to basal-bolus regimen by day 3 of the hospital stay.
+Physical and occupational therapy assessed and intervened daily, focusing on postoperative mobility and self-care tasks to prepare for discharge to home.
+**Medications at Discharge**:
+1. Lisinopril 20 mg daily
+2. Metoprolol 50 mg twice a day
+3. Insulin Glargine 40 units at bedtime
+4. Insulin Aspart 10 units with meals
+5. Aspirin 81 mg daily
+**Allergies**: No known drug allergies.
+**Disposition**: Discharged home with support from a home health care nurse. Heart failure education provided, emphasizing salt and fluid restriction, weighing daily, and adhering to the prescribed medication regimen.
+**Follow-up Appointments**:
+1. Dr. Sarah Khouri in the cardiology clinic on 10/10/2023 at 10:00 AM.
+2. Diabetes management with Dr. Amit Patel on 10/12/2023 at 9:30 AM.
+**Diet**: Low salt, diabetic diet as tolerated.
+**Activity Level**: Gradual increase in activity as tolerated. Avoid lifting weights over 10 pounds for six weeks.
+**Instructions for Patient**: Monitor for signs of chest pain, worsening shortness of breath, or leg swelling. Check blood sugar levels four times a day. Administer insulin as prescribed. 
+**Discharge Coordinator**: Nancy Simmons, RN
+**Contact Information**:
+- Office Phone: 713-555-0198
+- Emergency Contact: Elise Randall, wife, reachable at 713-555-0274
+**LACE Score**:
+- Total Score: 12
+- Length of Stay: 15
+- Acuity of Admission: 3
+- Comorbidity: 3
+- ED Visits in Last 6 Months: 1
+**Risk Level**: High - Prepared for potential issues given the complexity of the medical condition and recent surgery.
+**Summary**: Mr. James Randall's hospital course was complicated by acute decompensated heart failure and the diagnosis of diabetes. His condition stabilized with interventions, and he is discharged with comprehensive outpatient follow-up aimed at optimizing medical management and improving quality of life.
+**Physician Signature**:
+Dr. Sarah Khouri
+09/30/2023 at 2:00 PM
+This summative document serves as an official discharge summary for the outlined hospital stay of Mr. James Randall. All information here is confidential and intended for the continuation of care by the specified following providers and the patient's personal use.

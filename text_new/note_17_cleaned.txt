@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient Information:**  
+Johnathan M. Randall, MRN# 957ET892, 54 y.o. male.
+**Admission and Discharge Dates:**  
+Admission Date: March 15, 2023  
+Discharge Date: March 22, 2023
+**Admitting Physician:**  
+Dr. Emily Stone
+**Primary Care Physician:**  
+Dr. Harold Greene, Prestige Family Health
+**Admission Diagnosis:**  
+Acute Exacerbation of Chronic Heart Failure
+**Hospital Course and Treatment:**  
+Mr. Randall was admitted with worsening dyspnea and pedal edema. Upon admission, his cardiac function was assessed and managed with intravenous diuretics and vasodilators. Compliance with diet and medication was reinforced, and the patient responded positively with a reduction in symptoms. Echocardiogram performed on March 16, 2023 revealed a left ventricular ejection fraction of 35%.
+**Discharge Medications:**  
+- Furosemide 40 mg, twice daily  
+- Lisinopril 20 mg, once daily  
+- Spironolactone 25 mg, once daily  
+- Aspirin 81 mg, daily
+**Outpatient Follow-up:**  
+Follow-up appointment with Dr. Harold Greene on April 10, 2023. Heart Failure Clinic appointment scheduled for April 8, 2023, with the nurse practitioner, Sara Jessup.
+**Instructions:**  
+Patient advised to monitor daily weights, adhere to a low salt diet, and manage fluid intake as discussed. Urged to seek immediate care if symptoms such as increased shortness of breath, chest pain, or palpitations occur.
+**Discharge Planning:**  
+Education provided by Nurse Julia Edwards on medication compliance and lifestyle modifications. Home health to follow up for the first two weeks post-discharge.
+**Other Consultations:**  
+Nutritionist Diana Brooks provided dietary planning advice specific to heart failure management.
+**Condition at Discharge:**  
+Stable with instructions to monitor symptoms closely.
+**Discharge Vital Signs:**  
+Blood Pressure: 130/85 mmHg  
+Heart Rate: 78 bpm  
+Respirations: 16 per minute  
+Oxygen Saturation: 98% on room air
+**Signature:**  
+Signed by Dr. Emily Stone, MD on March 22, 2023 at 2:00 PM.
+**Address and Contact Information for Follow-up:**  
+Prestige Family Health, 123 Health Way, Medical Plaza Suite 204, Springfield, IL 62704, (555) 912-3456.

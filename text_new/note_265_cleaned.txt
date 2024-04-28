@@ -1,0 +1,50 @@
+Inpatient Discharge Summary
+---
+City General Hospital
+Patient Information:
+Margaret Thompson, MRN# 456789123, is a 68-year-old female, admitted due to respiratory distress and confirmed acute exacerbation of chronic obstructive pulmonary disease (COPD).
+Admission Date: September 10, 2023
+Discharge Date: September 20, 2023
+Attending Provider: Dr. Helen Choi
+Treatment Team: Respiratory Therapy, Nutrition Services, Physical Therapy
+Hospital Problems Noted - Resolved POA Active Problems:
+- Acute exacerbation of COPD September 10, 2023 - Present
+- Hypertension September 10, 2023 - Present 
+- Anxiety September 14, 2023 - Present
+Resolved Problems:
+- Urinary tract infection September 10, 2023 - September 15, 2023
+Brief Hospital Course:
+Upon admission, Mrs. Thompson was in moderate respiratory distress with an oxygen saturation of 88%. She was started on a BiPAP machine with settings adjusted initially to provide adequate respiratory support. She was also administered IV corticosteroids and antibiotics due to an associated urinary tract infection. Her respiratory status improved gradually with therapy, and she was weaned to a nasal cannula by September 16, 2023.
+Recommendations for Follow-Up:
+Primary Care Provider: Dr. Laura Gibson
+- Follow-up appointment on October 1, 2023 at City General Outpatient Clinic
+- Continue with respiratory exercises as instructed by physical therapy
+- Blood pressure and anxiety management to be reviewed
+Medications at Discharge:
+1. Prednisone 20 mg, orally daily
+2. Amoxicillin 500 mg, orally three times a day for 7 days
+3. Albuterol inhaler, two puffs every four hours as needed for wheezing
+Discharge Planning:
+Mrs. Thompson is to return home with the support of her daughter, Susan James. Home oxygen to be used as per discharge instructions, with a follow-up by the home health nurse expected within 48 hours post-discharge. Patient and family educated on the importance of medication adherence and watching for signs of respiratory distress.
+Disposition: Home
+Condition at Discharge: Stable
+Follow-Up Contact:
+555-123-4567 to confirm home health services
+Susan James for primary caregiver contact
+Outpatient Clinic for medical follow-ups at 555-987-6543
+Last Recorded Vital Signs:
+BP 130/80 | Pulse 78 | Temp 98.6 °F | Resp 18 | O2 Sat 92% on 2 liters NC
+Pertinent Discharge Physical Exam Findings:
+- Lungs: Improved breath sounds, slight wheeze on exertion
+- Cardiovascular: Regular rhythm, no murmurs
+- Abdomen: Soft, non-tender
+- Extremities: No edema noted
+- Neurologic: Alert and oriented x 3
+Signed:
+Helen Choi, MD
+September 20, 2023, 2:00 PM
+Future Appointments:
+- October 1, 2023, 10:00 AM, follow-up at City General Outpatient Clinic - COPD management review.
+- October 3, 2023, 2:00 PM, review of blood pressure and anxiety management with Dr. Laura Gibson.
+--- 
+This synthetic discharge summary is modeled to follow the standard format, including detailed PHI labels as per the annotation guidelines, mimicking the clinical documentation style shown in the examples provided.

@@ -1,0 +1,40 @@
+Inpatient Discharge Summary
+—————————————————————————————————————
+Elaine Thompson, MRN# 56423987, is a 68 y.o. female, admitted to the cardiology service due to chest pain and elevated troponin levels. Admission diagnosis: Suspected Acute Coronary Syndrome.
+**Admission Date:** 10/21/2023
+**Discharge Date:** 10/25/2023
+**Attending Physician:** Dr. Harold Greene
+**Primary Care Physician:** Dr. Susan O'Malley
+**Admission Source:** Emergency Department
+**Discharge Destination:** Home
+**Hospital Service:** Cardiology
+**Hospital Course:**
+Ms. Thompson presented to the ER with chest discomfort described as pressure-like, radiating to her left arm. On admission, her troponin was elevated at 0.55 ng/mL (normal <0.1 ng/mL). She underwent cardiac catheterization revealing a 70% blockage in her right coronary artery, which was successfully treated with angioplasty and stent placement. Post-procedure, she remained stable with significant relief from chest pain. She participated in daily cardiology rounds and attended a heart-healthy education session. 
+**Major Issues Addressed:**
+1. Acute Coronary Syndrome - Treated with angioplasty and stent placement.
+2. Hypertension - Controlled with medication adjustments.
+3. Hyperlipidemia - Continued statin therapy.
+**Medications at Discharge:**
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily for 12 months
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice a day
+**Allergies:**
+Penicillin - Rash
+**Follow-up:**
+Appointment with Dr. Susan O'Malley on 11/05/2023 for post-discharge check-up.
+Cardiology follow-up in 1 month with Dr. Harold Greene to evaluate stent function and medication adherence.
+**Diet:**
+Heart-healthy diet as per dietician’s guidelines discussed during hospital stay.
+**Activity:**
+Gradual return to activity as tolerated. Cardiac rehabilitation referral made.
+**Instructions:**
+Patient advised to avoid lifting heavy objects and strenuous exercise until follow-up appointment. She is to monitor for chest pain, shortness of breath, or any signs of bleeding from the catheter insertion site. Should symptoms arise, she is to seek immediate medical attention or call 911.
+**Discharge Planning:**
+Ms. Thompson was assessed by the multidisciplinary team and deemed safe for discharge to home. She lives with her daughter who will assist with her care. Home medications have been reviewed and reconciled. No home services are required at this time.
+**Clinic Contact Information:**
+Cardiology Clinic at City General Hospital: 555-3429-0087
+**Signed by:**
+Dr. Harold Greene, 10/25/2023 at 15:30
+—————————————————————————————————————
+Patient ambulated well during the stay, participated in therapy sessions, and was educated on recognizing symptoms of cardiac distress. Patient expressed understanding of her discharge instructions and verbalized that she feels prepared to manage her health condition at home with the support of her family.

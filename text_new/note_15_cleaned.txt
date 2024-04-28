@@ -1,0 +1,26 @@
+**Inpatient Discharge Summary**
+Patient Name: Emily Thompson  
+MRN: 987654321  
+Date of Admission: January 20, 2023  
+Date of Discharge: January 27, 2023  
+Age: 41 years  
+Attending Physician: Dr. Michael Smith
+**Chief Complaint:**  
+Patient presented with severe abdominal pain and vomiting.
+**Hospital Course:**  
+Emily Thompson was admitted to the General Hospital on January 20, 2023 with symptoms of sharp abdominal pain and persistent vomiting. An initial evaluation suggested possible appendicitis. Diagnostic imaging (CT abdomen) confirmed the presence of an inflamed appendix. She underwent an appendectomy performed by Dr. Michael Smith on January 21, 2023.
+Post-operatively, the patient had an uncomplicated recovery. She was started on IV antibiotics and gradually progressed to oral intake. Pain was managed effectively with acetaminophen. Her surgical site shows no signs of infection, and sutures were intact and clean.
+The patient was advised regarding signs of infection, proper wound care, and was scheduled for a follow-up visit on February 7, 2023 at the General Surgical Clinic.
+**Medications at Discharge:**  
+- Acetaminophen 650 mg: Take one tablet by mouth every 6 hours as needed for pain.
+**Follow-Up Instructions:**  
+Follow up with Dr. Michael Smith at the General Surgical Clinic on February 7, 2023. For any signs of infection, increased pain, or issues with wound healing, the patient is advised to return to the ED or contact the clinic immediately.
+**Discharge Education:**  
+The patient received education regarding post-operative wound care, signs of possible complications, and the importance of follow-up care. She verbalized understanding and received written instructions.
+**Discharge Status:**  
+At the time of discharge, Emily Thompson was stable with all vital signs within normal limits. She reports her pain is under control and she is able to tolerate a regular diet.
+**Prepared by:**  
+Dr. Michael Smith, January 27, 2023 at 2 PM
+**Contact Information:**  
+General Surgical Clinic: (555) 123-4567  
+Emergency Department: (555) 987-6543

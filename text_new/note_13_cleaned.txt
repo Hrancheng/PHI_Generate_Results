@@ -1,0 +1,42 @@
+Discharge Summary for Michael Thomas, MRN# 987654320
+Patient Details:
+- Michael Thomas
+- MRN#: 987654320
+- 45-year-old male
+Admission Date: February 16, 2023
+Discharge Date: March 1, 2023
+Attending Physician: Dr. Sarah Connors
+Allergies:
+- Penicillin
+Chief Complaint:
+Severe abdominal pain and vomiting.
+History of Present Illness:
+Michael Thomas presented to the emergency department on February 16, 2023 with complaints of sharp, persistent abdominal pain and vomiting. He was evaluated and subsequently admitted for further management and investigation.
+Hospital Course:
+Upon admission, imaging studies including CT abdomen and pelvis were ordered and revealed a mid-sized obstructing ureteral stone. The patient underwent successful ureteroscopic stone removal on February 18, 2023. Post-operative recovery was uneventful, and pain was managed effectively with IV analgesics.
+Significant Findings:
+- CT Abdomen: Mid-sized obstructing left ureteral stone.
+- Successful ureteroscopic stone removal.
+Discharge Medications:
+- Tamsulosin 0.4 mg, once daily for 30 days.
+- Acetaminophen 500 mg, every 6 hours as needed for pain.
+Follow-up:
+Follow-up appointment scheduled with Dr. Emily Stone, Urology, on March 10, 2023 at City Hospital Outpatient Clinic.
+Instructions at Discharge:
+- Increase fluid intake to 2-3 liters/day to prevent new stone formation.
+- Follow the prescribed medication regimen.
+- Report immediately to ER if experiencing fever, uncontrollable pain, or symptoms indicating infection.
+Outpatient Providers:
+- Dr. Emily Stone, Urologist
+Social Work Consult:
+Social work involvement was not necessary.
+Discharge Condition:
+The patient is stable and has recovered well from the procedure. He is being discharged in good condition.
+Follow-up Instructions:
+- Contact City Hospital Outpatient Clinic at (555) 123-4567 for any concerns before the scheduled appointment.
+- Maintain sufficient hydration and follow diet adjustments as advised during the hospital stay.
+Signature:
+Dr. Sarah Connors
+Date: March 1, 2023
+Time: 10:00 AM
+This sample discharge summary incorporates various PHI categories as demonstrated, ensuring proper de-identification and confidentiality in line with HIPAA regulations.

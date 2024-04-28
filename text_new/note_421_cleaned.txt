@@ -1,0 +1,36 @@
+Inpatient Discharge Summary
+----------------------------------------
+**Hospital:** General Hospital   
+**MRN:** 000025481  
+**Admission Date:** 01/03/2023  
+**Discharge Date:** 01/18/2023  
+**Discharge Physician:** Elizabeth Green, MD
+## Patient Information:
+- **Name**: Robert Johnson  
+- **Age**: 65 years old  
+- **Address**: 452 Winding Creek Road, Springfield, IL, 62704  
+## Admission Diagnosis:
+- Chief Complaint: Shortness of breath and chest pain
+## Hospital Course:
+Mr. Johnson was admitted with a chief complaint of shortness of breath and chest pain which had been progressing over the past week. A series of tests including a chest X-ray, EKG, and blood work were conducted. The cardiologist, Dr. Nancy Wallace, diagnosed him with a Non-ST Segment Elevation Myocardial Infarction (NSTEMI). He was taken to Cath Lab on 01/04/2023 for a coronary angiography which showed a 90% blockage in the proximal left anterior descending artery. A stent was successfully placed during the procedure.
+## Treatment:
+Mr. Johnson received medication therapy including aspirin, beta-blockers, and a statin. Over the remainder of his stay, his condition stabilized and he showed considerable signs of improvement. Cardiac rehabilitation was started during his hospitalization and was advised to continue post-discharge.
+## Discharge Medications:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Metoprolol 50 mg twice daily
+## Discharge Instructions:
+Mr. Johnson is to follow a low-sodium diet, continue with outpatient cardiac rehabilitation, and avoid strenuous activities for at least 4 weeks. He is scheduled for a follow-up appointment with his cardiologist, Dr. Nancy Wallace, on 02/02/2023 at Springfield Cardiology Associates.
+## Follow-up:
+- **Date:** 02/02/2023  
+- **Time:** 10:00 AM  
+- **Physician:** Dr. Nancy Wallace  
+- **Location:** Springfield Cardiology Associates, 760 Riverside Drive, Springfield, IL
+**Next Steps:**
+Mr. Johnson should monitor his chest pain, and if he experiences worsening symptoms, he should seek immediate medical attention or call 911.
+## Last Recorded Vitals:
+- Blood Pressure: 130/85 mmHg  
+- Heart Rate: 72 BPM  
+- Temperature: 98.6°F  
+- Respirations: 16 per minute  
+The patient was discharged in stable condition with all medications reviewed and understood. Instructions for activity, diet, and follow-up were provided and understood. Discharge process overseen by Dr. Elizabeth Green at 01/18/2023, 15:00 PM.

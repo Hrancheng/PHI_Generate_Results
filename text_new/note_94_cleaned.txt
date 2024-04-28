@@ -1,0 +1,36 @@
+**Inpatient Discharge Summary**
+Patient: Eleanor Thompson, MRN: 458962357
+Age: 68 years old. 
+Admission Date: October 21, 2023  
+Discharge Date: November 10, 2023  
+**Admitting Diagnosis**  
+Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+**Hospital Course**  
+Eleanor Thompson was admitted with symptoms of increased shortness of breath, wheezing, and a productive cough. Upon admission, labs and imaging were performed, revealing an acute exacerbation of her COPD. She was started on IV corticosteroids and bronchodilators. Her hospital stay was complicated by a mild pneumonia, diagnosed via chest X-ray on October 23, 2023, for which she started antibiotic therapy. Her response to the treatment was favorable with marked improvement in respiratory symptoms.
+**Procedure**
+Bronchoscopy was performed on October 25, 2023 to assess airway status and exclude other potential complications. The procedure revealed moderate mucosal inflammation, consistent with her COPD exacerbation, but no other abnormalities.
+**Consultations**
+1. Pulmonology - Evaluated and managed exacerbation and underlying COPD.
+2. Infectious Diseases - Consulted for pneumonia management.
+**Medications at Discharge**
+1. Prednisone taper starting at 40mg daily.
+2. Tiotropium inhaler, one inhalation daily.
+3. Salbutamol inhaler, use as needed for shortness of breath.
+**Discharge Condition**
+Patient's condition at discharge was stable. She was counseled about smoking cessation again and was agreeable to considering it. Oxygen saturation on room air was 92%, and she was comfortably breathing at rest. 
+**Follow-Up**
+1. Pulmonary outpatient clinic on November 18, 2023. 
+2. Primary Care Physician, Dr. Harold Greer, on November 25, 2023 for ongoing COPD management and general health check-up. Book an appointment by calling 858-555-0132.
+**Instructions to Patient**
+Continue with current medication regimen as prescribed.
+Compliance with outpatient pulmonary rehabilitation is encouraged to improve lung function and overall health.
+Use oxygen concentrator at 2 L/min during sleep or as needed.
+**Physicians**  
+Attending Physician: Dr. Linda Ferrell  
+Referring Physician: Dr. Harold Greer
+Signed:  
+Dr. Linda Ferrell  
+Date:  November 10, 2023  
+Time: 2:00 PM
+**Final Note**  
+Thank the patient for cooperation during the hospital stay. Encourage adherence to discharge instructions and medication regimen to manage symptoms and prevent future exacerbations. The discharge planner has arranged all necessary home health services, including delivery of a new oxygen concentrator.

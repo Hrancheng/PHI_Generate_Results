@@ -1,0 +1,43 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Marilyn Thomas  
+**MRN:** 555117894  
+**Age:** 62 years old  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/28/2023  
+**Attending Provider:** Dr. Amelia Johnson  
+**Admitting Diagnosis:**  
+1. Acute exacerbation of chronic heart failure.  
+2. Type 2 diabetes mellitus.  
+**Hospital Course:**  
+Ms. Marilyn Thomas was admitted to the cardiology service after presenting with shortness of breath and worsening pedal edema. On admission, her echocardiogram showed decreased ejection fraction and her BNP was elevated at 580 pg/mL. She was managed with IV diuretics and adjustment of her oral heart failure medications. Her diabetes was controlled with a sliding scale insulin regimen due to erratic blood glucoses during her stay.
+**Tests and Procedures:**  
+- Echocardiogram on 09/16/2023: Showed an ejection fraction of 35%.  
+- Daily chest X-rays confirming no acute pulmonary issues.  
+- Continuous glucose monitoring was implemented to better manage her diabetic condition.
+**Discharge Medications:**  
+- Furosemide 40 mg orally twice daily.  
+- Metformin 1000 mg orally twice daily.  
+- Lisinopril 20 mg orally once daily.  
+- Insulin Glargine 40 units at bedtime.
+**Follow-Up Appointments:**  
+1. Cardiology follow-up with Dr. Amelia Johnson on 10/05/2023 at City Heart Medical Center.  
+2. Diabetes management with Dr. Laura H. Smith on 10/10/2023 at Downtown Health Clinic.
+**LACE Score:**  
+- Length of stay: 13 days  
+- Acuity of admission: Acute  
+- Comorbidity score: 4  
+- ED visits in last 6 months: 1  
+**Total LACE Score:** 12 (High risk of readmission)
+**Instructions for Patient:**  
+- Continue weighing daily and monitor for an increase of more than 2 pounds over 24 hours.  
+- Monitor blood glucose levels at least four times per day.  
+- Adhere strictly to the prescribed medication regimen.  
+- Contact the cardiology or diabetes management team if experiencing increased shortness of breath, chest pain, or blood sugar levels consistently above 200 mg/dL.
+**Discharge Condition:**  
+Patient’s condition at discharge was stable with improved cardiac function and controlled blood glucose levels. The patient and her family (daughter Susan Thomas) were educated about signs of worsening heart failure and hyperglycemia.
+**Contact Information:**  
+- Cardiology office: 555-312-5566  
+- Diabetes clinic: 555-213-7890  
+**Signed:**  
+Dr. Amelia Johnson, MD  
+Date: 09/28/2023 Time: 2:00 PM

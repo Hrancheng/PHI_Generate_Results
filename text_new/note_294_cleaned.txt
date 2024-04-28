@@ -1,0 +1,42 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Michael Thompson  
+**MRN:** 582994003  
+**Age:** 68 years old  
+**Admission Date:** January 5, 2023  
+**Discharge Date:** January 20, 2023  
+**Attending Provider:** Dr. Sarah Connors  
+---
+**Hospital Service:** Cardiology  
+**Chief Complaint:** Chest pain and shortness of breath  
+**History of Present Illness:**  
+Michael presented to the emergency department on January 5, 2023 with chest pain and difficulty breathing. Given his history of coronary artery disease, he was directly admitted for observation and further workup.  
+**Past Medical History:**  
+- Hypertension  
+- Type II Diabetes Mellitus  
+- Previous myocardial infarction (2018)
+**Hospital Course:**  
+Upon admission, Michael Thompson was found to have elevated cardiac enzymes and was taken to the cath lab for an emergency angiography performed by Dr. Linda Grey. Angiography revealed new blockage in the proximal left anterior descending artery, which was successfully stented. Post-procedure, his chest pain resolved, and he was started on a new medication regimen including dual antiplatelet therapy.
+His hospital stay was complicated by a brief episode of atrial fibrillation, which was managed with rate control and anticoagulation, initiated on January 9, 2023. He returned to sinus rhythm within 48 hours and remained stable for the duration of his stay. A follow-up echocardiogram showed preserved ejection fraction and no significant valvular disease.
+**Medications on Discharge:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily  
+- Metoprolol 50 mg twice per day  
+- Atorvastatin 40 mg at bedtime  
+- Empagliflozin 10 mg daily  
+**Discharge Instructions:**  
+Michael is advised to follow up with his primary care provider Dr. Emily Stanton within one week and return to the Cardiology clinic in three weeks. He should monitor for signs of bleeding, chest pain, or any new or worsening symptoms. He is also directed to maintain a low-sodium diet, regular physical activity as tolerated, and continue his diabetic diet.
+**Follow-Up Appointments:**  
+1. Emily Stanton, MD - January 27, 2023, at Central Medical Clinic.   
+2. Cardiology clinic on February 10, 2023, with Dr. Linda Grey at City Hospital Heart Center.
+**Discharge Condition:**  
+Stable with improvement in chest pain and well-tolerated procedure. No acute distress noted at the time of discharge.
+**Summary and Recommendations:**  
+Patient to continue medications as listed above without interruption. Immediate return to the emergency department if symptoms of chest pain, shortness of breath, or excessive bleeding occur. Continue with lifestyle modifications as discussed during hospitalization. Await lab results from discharge day blood work and review during follow-ups.
+**Last Recorded Vital Signs:**
+- Blood Pressure: 132/86 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6 °F
+- Respiratory Rate: 16 per minute
+- O2 Saturation: 98% on room air
+---
+*This discharge summary was prepared by Dr. Sarah Connors, and reviewed with the patient and his family to ensure understanding of all discharge instructions and follow-up care details.*

@@ -1,0 +1,42 @@
+**St. Jude Medical Center - Inpatient Discharge Summary**
+**Patient Information**:
+- **Elizabeth Bennett**, MRN#: 987654321, is a 45-year-old female, admitted to the General Medicine service due to complications from chronic obstructive pulmonary disease (COPD).
+- Admission Date: 09/12/2023  
+- Discharge Date: 09/20/2023  
+- Attending Provider: Dr. George Knightley  
+- Treatment Team: Dr. Charlotte Lucas, RN Jane Fairfax
+**Hospital Problems Noted - Active Problems**:
+- Exacerbation of COPD 09/12/2023 - Present
+- Recurrent pneumonia 09/14/2023 - Present
+**Hospital Course**:
+Mr. Elizabeth Bennett presented to the emergency department on 09/12/2023 with severe shortness of breath and was subsequently admitted. Initial treatment included IV corticosteroids and antibiotics, as well as supplemental oxygen via nasal cannula. Over the course of her stay, her condition improved with treatments, allowing for a gradual reduction in oxygen therapy.
+**Discharge Medications**:
+- Prednisone 40 mg daily for 5 days, then taper
+- Azithromycin 250 mg, take one daily for 5 days
+- Albuterol inhaler, use as needed for wheezing
+**Follow-Up Appointments**:
+- Follow-up with St. Jude Pulmonary Clinic on 09/27/2023, at 10:00 AM with Dr. Emma Woodhouse.
+**Discharge Instructions**:
+Ms. Bennett is to continue medication as prescribed. She should monitor her breathing and use the albuterol inhaler as needed. Should she experience an increase in shortness of breath, chest pain, or other new symptoms, she is instructed to visit the emergency room or call St. Jude Medical Emergency Hotline.
+**Last Recorded Vital Signs**:
+- BP 122/80 | Pulse 88 | Temp 98.6 °F | Resp 18 | Ht 5'6" | Wt 140 lb | SpO2 92% on room air
+**Discharge Condition**:
+Patient is stable for discharge. Outpatient follow-up within one week is strongly recommended to reassess her respiratory status and adjust medications as needed.
+**Reason for Hospitalization**:
+Acute exacerbation of COPD and suspected pneumonia based on clinical presentation and imaging.
+**Pertinent Discharge Physical Exam Findings**:
+General appearance: Alert, oriented, in no acute distress
+Chest: Decreased breath sounds at bases, no wheezes noted post-treatment
+CV: Regular rate and rhythm, no murmurs
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds
+**Brief Overview of Treatment Rendered**:
+Patient was managed with respiratory support, antibiotics, and corticosteroids. She showed gradual improvement with increased exercise tolerance and decreased oxygen requirements.
+**Final Diagnoses**:
+- COPD exacerbation
+- Pneumonia
+**Confirmed By**:
+Dr. George Knightley, 09/20/2023 at 3:00 PM who reviewed and agreed with the discharge plan.
+**Clinic Address and Contact**:  
+St. Jude Pulmonary Clinic, 123 Health Way, Suite 200, Springfield, IL 62701, Phone: (555) 123-4567
+**Instructions for the Patient**:
+Ms. Bennett is encouraged to maintain a smoke-free environment, continue using her inhaler as instructed, and attend pulmonary rehabilitation sessions as scheduled. She was provided with emergency contact numbers and detailed instructions regarding how to recognize signs of potential complications.

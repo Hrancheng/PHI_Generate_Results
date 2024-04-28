@@ -1,0 +1,37 @@
+**University of Anywhere Hospital Discharge Summary**
+**Patient Name:** Michael Thompson, MRN# 789654123, is a 45 y.o. male.
+**Admission Date:** 9/12/2023
+**Discharge Date:** 9/16/2023
+**Attending Provider:** Dr. Sarah Connors
+**Hospital Problems Noted - Resolved:**
+- Hypertension: Managed and stable
+- Type II Diabetes: Blood sugar levels controlled with adjusted medication
+**Treatment Team:**
+- Dr. James Lee, Cardiologist
+- Nurse Patricia Kim, Diabetes Specialist
+**Hospital Course Brief Overview:**
+Mr. Michael Thompson was admitted with elevated blood pressure and poorly controlled blood sugar levels. During his stay, his antihypertensive medications were adjusted, and insulin therapy was optimized. Daily blood pressure and blood glucose monitoring showed gradual improvement. Dietary consultation was provided. Mr. Thompson showed good understanding of lifestyle modifications necessary to manage his conditions.
+**Consultations:**
+- Dr. Anita Patel, Endocrinologist. Adjusted diabetes management plan.
+- Dr. Robert Frost, Dietitian. Provided dietary guidelines tailored to patient's needs.
+**Diagnostic Tests:**
+- Echocardiogram: Showed a normal ejection fraction with no significant valvular disease.
+- Labs on admission: Elevated A1C and fasting blood glucose.
+- Discharge labs showed improvement in blood sugar control.
+**Medications at Discharge:**
+1. Metformin 500 mg, twice daily.
+2. Lisinopril 10 mg, once daily.
+3. Insulin Aspart, as per sliding scale.
+**Discharge Condition:**
+Patient is stable and symptoms are well-controlled. He was educated on the importance of medication adherence and lifestyle changes including diet and exercise.
+**Discharge Instructions:**
+Mr. Thompson is advised to monitor his blood pressure and blood sugar levels at home regularly. He should follow up with his primary care provider, Dr. Susan Quire, in one week and return to the diabetes clinic in one month. Mr. Thompson has been scheduled for a follow-up appointment on 9/23/2023 at University of Anywhere Health Center.
+He has been provided with prescriptions and a detailed plan for diet and exercise. He understands the symptoms that would necessitate an earlier visit to healthcare providers or the emergency department.
+**Follow-Up Contact Information:**
+- Primary Care Provider: Dr. Susan Quire at 555-987-6543
+- Diabetes Clinic: 555-123-4567
+- Cardiology Clinic: University of Anywhere Health Center, Cardiology at 555-321-7654
+**Discharge Status:**
+Discharged to home. The patient has understood all his discharge instructions and verbalized comprehension of the follow-up plan.
+**Signed:** 
+Dr. Sarah Connors, MD, 9/16/2023, 2:00 PM.

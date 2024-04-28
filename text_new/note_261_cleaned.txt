@@ -1,0 +1,47 @@
+**University Medical Center Discharge Summary**
+**Patient:** Marilyn Hughes
+**MRN#:** 91238746
+**Age:** 72 years
+**Admission Date:** August 1st, 2023
+**Discharge Date:** August 5th, 2023
+**Attending Provider:** Dr. Harold Greene
+**Referring Physician/PCP:** Dr. Elisa Cortez, Riverside Health Clinic
+**Hospital Problems Noted — Resolved:**
+- Congestive Heart Failure - August 1st, 2023 - [B-DATE]August 5th, 2023 - Resolved
+- Acute Kidney Injury - August 2nd, 2023 - [B-DATE]August 4th, 2023 - Improved, monitor
+**Hospital Course:**
+Marilyn Hughes was admitted with exacerbated congestive heart failure and superimposed acute kidney injury. Treatment included intravenous diuretics and electrolyte rebalancing. Renal function improved slightly, yet shall require continuous outpatient monitoring. The heart failure was managed with adjustment of her oral diuretics and introduction of an ACE inhibitor.
+Upon stabilization, Marilyn Hughes has been participating in physical therapy to regain strength and has responded well to all treatments without any adverse reactions.
+**LACE - Readmission Risk Score**  
+Total Score: 12  
+  - Length of Stay: 4
+  - Acute Admission: 3
+  - Charleson Comorbidity Score: 4
+  - ED Visits in Last 6 Months: 1  
+LACE Score Risk Level: High  
+  - Readmission Rate - 30 Day: 14.7%  
+  - Mortality Rate - 30 Day: 2.5%
+**Discharge Condition:** Stable and improved. Patient is to continue …
+**Discharge Medications:**
+- Furosemide 40 mg tablet: 1 tablet to take twice daily
+- Lisinopril 10 mg tablet: 1 tablet to take once daily
+**Follow Up:**
+- Riverside Health Clinic, August 12th, 2023 with Dr. Elisa Cortez
+- Nephrology follow-up with Dr. Jonathan Swift, Riverside Specialist Centre, August 18th, 2023
+**Instructions:**
+- Monitor weight daily. Report gain of 3 lbs or more within a 24-hour period.
+- Maintain a low salt diet.
+- Keep legs elevated when seated to reduce swelling.
+- Continue physical therapy to strengthen heart function and general stamina.
+**Discharge Condition:**
+Patient's condition at discharge is stable with marked improvement in symptoms. Patient and family were educated about the signs of worsening heart failure and when to seek urgent care.
+**Discharge Planning:**
+Home with home health services from Golden Years Home Health including physical therapy and nursing care. Medication reconciliation was completed and prescriptions were verified with the patient's pharmacy, Valley Pharmacy.
+**Next Steps:**
+- Follow-up appointments scheduled as listed above.
+- Blood pressure and weight to be monitored and logged by home health nurse.
+- Telehealth check-in two days post-discharge to ensure continued stability.
+This summary and care instructions were discussed with Marilyn Hughes and her daughter, Jessica Hughes, who understands and agrees with the follow-up care plan. All questions were answered by the attending physician.
+**Signed:**
+Dr. Harold Greene, MD, August 5th, 2023 at 11:00 AM
+All relevant medical data intended for continuity of care has been communicated to Dr. Elisa Cortez via secured email on discharge.

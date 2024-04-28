@@ -1,0 +1,39 @@
+**General Hospital Inpatient Discharge Summary**
+Patient Information:
+- **Thomas Anderson**, MRN# **657839201**, is a **45-year-old** male, admitted to the Cardiology service due to chest pain and shortness of breath.
+Admission Date: **02/01/2023**
+Discharge Date: **02/15/2023**
+Attending Provider: Dr. **Emily Stanton**
+**Hospital Problems Noted - Resolved:**
+POA Active Problems:
+- Myocardial Infarction **02/01/2023** - Present Yes
+- Hypertension **Previously known** - Present Yes
+Resolved Problems:
+- Acute Respiratory Distress **02/01/2023** - **02/10/2023** Yes
+- Anxiety due to stress of hospitalization **02/05/2023** - **02/12/2023** Yes
+**Brief Hospital Course (including treatment rendered and response to treatment):**
+Mr. **Thomas Anderson** was admitted following an episode of severe chest pain at home. Initial EKG showed ST elevations in the anterior leads. He was urgently taken to the cath lab where a 90% blockage in the left anterior descending artery was successfully stented. Post-procedure, the patient was stable with significant pain relief and improvement in cardiac markers. He was started on a regimen of aspirin, a beta-blocker, a high-intensity statin, and ACE inhibitors. He participated in daily cardiac rehab and showed good tolerance to gradual increases in activity. Psychology consult was requested to address acute stress symptoms, and patient responded well to brief intervention and was scheduled for outpatient follow up.
+**Discharge Medications:**
+- Aspirin 81 mg, Oral, once daily
+- Atorvastatin 40 mg, Oral, once daily
+- Metoprolol tartrate 50 mg, Oral, twice daily
+- Lisinopril 10 mg, Oral, once daily
+**Follow-Up Care:**
+- Follow up with **General Hospital Cardiology Clinic** on **02/22/2023** at 10:00 AM with Dr. **Susan Q. Bletcher**, MD
+- Scheduled outpatient cardiac rehabilitation begins **02/20/2023**
+- Psychology follow-up as scheduled in **General Health Behavioral Services** on **03/01/2023**
+**Instructions at Discharge:**
+1. Avoid lifting weights greater than 10 pounds until **02/29/2023**.
+2. Gradually increase walking, aiming for 30 minutes a day.
+3. Continue low sodium diet as discussed with dietician.
+4. Schedule a follow-up appointment should symptoms recur: Chest pain, severe headache, dizziness, or breathlessness.
+**Discharge Condition:** Stable for discharge, patient understands all discharge instructions and verbalizes understanding of signs and symptoms that would necessitate a return to ED.
+**Last Recorded Vital Signs:**
+- BP 122/78 | Pulse 64 | Temp 98.6 °F | Resp 14 | SpO2 98%
+Discharge Readiness:
+- Education complete: Yes
+- Follow-up appointments scheduled: Yes
+- Meds to Bedside: Yes
+**Thomas Anderson** was thankful for the care received and felt prepared to continue recovery at home.
+Signed: **Emily Stanton**, MD **02/15/2023**, 3:30 PM
+**General Hospital**, Discharge Clerk: **Julie Tam**

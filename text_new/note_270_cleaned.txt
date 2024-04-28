@@ -1,0 +1,35 @@
+**Metropolitan General Hospital**
+**Inpatient Discharge Summary**
+**Patient Name:** Helen Turner
+**Medical Record Number:** 45739582
+**Age:** 68 years old
+**Admission Date:** January 15, 2023
+**Discharge Date:** January 24, 2023
+**Attending Physician:** Dr. Eric Johnson
+### Hospital Course:
+Helen Turner was admitted after presenting with symptoms of a mild stroke. Initial assessment revealed left-sided weakness and slurred speech.
+### Significant Interventions:
+1. Administered IV tPA within the first 3 hours of symptom onset, observing significant improvement in speech and mobility.
+2. Conducted MRI of the brain on January 16, 2023, confirming the presence of a small ischemic area in the right hemisphere.
+3. Rehabilitation services were consulted and initiated physical therapy from January 17, 2023.
+### Progress:
+Patient's condition improved steadily with physical therapy. Neurological evaluations showed regained strength in the left limbs. Speech therapy assisted with the recovery of speech clarity.
+### Discharge Medications:
+1. Aspirin 81 mg daily
+2. Atorvastatin 20 mg nightly
+3. Lisinopril 10 mg daily
+### Follow-Up Appointments:
+1. Neurology follow-up with Dr. Susan Malik at Metropolitan Neurological Institute on February 5, 2023.
+2. Primary care follow-up with Dr. Harold Greeves on February 12, 2023.
+**Discharge Instructions:**
+Continue with prescribed medications without interruption. Attend all scheduled physical therapy sessions and follow-up appointments. Monitor blood pressure and cholesterol levels regularly. Contact Susan Malik or Harold Greeves if symptoms such as weakness, speech difficulties, or dizziness reoccur.
+**Discharge Vitals:**
+Blood Pressure: 130/80 mmHg; Heart Rate: 72 bpm; Temperature: 98.6 F (Oral); Respiratory Rate: 16 per minute.
+**Condition at Discharge:**
+Stable with significant improvement in initial presentation symptoms.
+**Discharge Planner:** Jennifer Parkson, RN
+**Contact Information:** 555-392-4055
+**Hospital:** Metropolitan General Hospital
+**Summary and Recommendations:**
+Patient to continue rehabilitation therapies and adhere to stroke prevention strategies including lifestyle and dietary modifications. Regular monitoring of cardiovascular risk factors is strongly advised. 
+This summary has been discussed with the patient and her son, Michael Turner, ensuring understanding and agreement with the care plan post-discharge.

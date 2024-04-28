@@ -1,0 +1,51 @@
+**Inpatient Discharge Summary**
+**Micheal Dickens, MRN#458962357,** is a **45 y.o.** male, admitted to the cardiology service for management of acute myocardial infarction and subsequent stabilization. He was admitted on **October 10, 2023** and discharged on **October 24, 2023**.
+**Attending Provider:** Dr. **Helen Troy**  
+**Treatment Team:** Cardiology Unit
+**Hospital Problems Noted - Resolved:**  
+- Acute myocardial infarction **October 10, 2023** - **Present** Yes  
+- Hypertension **October 10, 2023** - **Present** Yes  
+- Type II Diabetes Mellitus **October 12, 2023** - **Present** Yes
+**Resolved Problems:**  
+RESOLVED: Chest pain **October 10, 2023** - **October 14, 2023** Yes  
+RESOLVED: Dyslipidemia **October 15, 2023** - **October 19, 2023** Yes  
+**Medications at Discharge:**  
+- Atorvastatin 40 mg daily  
+- Metoprolol 100 mg twice a day  
+- Aspirin 81 mg daily  
+- Metformin 500 mg twice a day  
+**Follow-up Appointments:**  
+- Cardiology follow-up on **November 1, 2023** at 10:00 AM with Dr. **Linda Grey**, **City General Hospital**  
+- Diabetes management follow-up on **November 5, 2023** at 2:00 PM with Dr. **Aaron Specht**, Endocrinology, **Advanced Diabetic Care Clinic**  
+**Labs to be repeated:**  
+- Lipid panel on **October 31, 2023**  
+- HbA1c on **October 31, 2023**  
+**Recommendations:**  
+- Continuous cardiac rehabilitation therapy  
+- Strict glycemic control  
+- Regular physical activity as tolerated  
+- Dietary consultation advised  
+**Discharge Condition:**  
+- Stable, with instructions provided for symptom management  
+- Advised to monitor for signs of chest pain or discomfort, and to seek immediate medical attention if symptoms recur.
+**Contact for Follow Up:**
+- Cardiology, phone: **555-314-1592**  
+- Endocrinology, phone: **555-271-8284**  
+**Signed:** Dr. **Helen Troy**
+### Last Recorded Vital Signs at Discharge:
+- BP: 130/80 mmHg  
+- Pulse: 72 bpm  
+- Temp: 36.5 °C  
+- Resp: 16/min  
+- Weight: 90 kg  
+- Height: 175 cm  
+**Discharge Instructions:**
+1. Patient educated on the importance of medication adherence.
+2. Signs of potential complications like swelling in the legs, sudden weight gain, or difficulty breathing were discussed.
+3. Patient agreed to avoid lifting heavy objects and perform only light exercises until the follow-up.
+### Additional Notes:
+- Patient exhibits a good understanding of his discharge instructions and verbalizes his capability to comply with the treatment regime.
+- An information leaflet about managing Type II Diabetes was provided.
+- Patient demonstrated the ability to reach out to healthcare providers as instructed. 
+**City General Hospital**  
+Hospital Contact: **555-162-3378**

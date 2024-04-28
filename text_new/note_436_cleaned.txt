@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Emily Thompson
+**Medical Record Number**: 584204847
+**Date of Admission:** April 15, 2023  
+**Date of Discharge:** April 21, 2023
+**Discharge Physician:** Dr. Harold Greene
+**Age:** 54 years old
+**Hospital Problems Noted - Resolved**  
+- Active Problems: Hypertension 2010 - Present Yes  
+- Resolved Problems:  
+  - Acute myocardial infarction (CMS/HCC) April 15, 2023 - April 21, 2023 Yes  
+  - Dyslipidemia 2011 - Present Yes
+**Hospital Course:**  
+Emily Thompson, a 54-year-old female, presented with chest pain and was diagnosed with an acute myocardial infarction. She underwent successful percutaneous coronary intervention (PCI) to the left anterior descending artery. The patient was stabilized on medications, including beta-blockers, ACE inhibitors, and statins. She tolerated the procedure well and showed signs of recovery throughout her hospital stay.
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Atorvastatin 20 mg at bedtime
+- Lisinopril 10 mg daily
+- Metoprolol 50 mg twice daily
+**Follow-up Appointments:**
+- Cardiology follow-up with Dr. Samantha Lee on April 28, 2023 at City General Hospital Cardiology Clinic
+- Primary care appointment with Dr. Jennifer Walcott on May 5, 2023 for blood pressure and cholesterol management at Downtown Medical Group
+**Instructions:**  
+Patient advised to maintain a low-sodium diet, regular exercise, and adherence to prescribed medication regimen. Symptoms to watch for include chest pain, shortness of breath, or dizziness, and she should report these to her healthcare provider immediately if they occur. 
+**Diet:** Heart-healthy diet recommended.
+**Activity:** Gradual return to daily activities as tolerated, avoid lifting weights over 10 pounds for the next two weeks.
+**Other Instructions:**
+- Enroll in cardiac rehabilitation program at Community Health and Fitness
+- Smoking cessation consultation scheduled with Lisa Reynolds, Tobacco Treatment Specialist, on April 30, 2023 
+**Discharge Condition:** Patient's condition has stabilized sufficiently for discharge. She is to continue with outpatient care and follow the detailed instructions provided for diet, activity, and medication.
+**Signed:**
+Dr. Harold Greene, April 21, 2023 10:00 AM
+---
+**Summary Report Sent to:**
+- Jennifer Walcott, Primary Care Physician
+- Samantha Lee, Cardiologist
+Main points covered during hospitalization and specific follow-up needs after discharge are highlighted with the relevant medical personnel noted. Patient advised to keep a personal health record of all hospital visits and medication changes.

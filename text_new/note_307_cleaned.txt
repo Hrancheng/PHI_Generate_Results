@@ -1,0 +1,42 @@
+Inpatient Discharge Summary
+**Emily Trescott**, MRN# **937528104**, is a **54 y.o.** female, admitted to the Cardiology service for evaluation and management of chest pain. 
+Admission Date: **10/1/2023** 
+Discharge Date: **10/12/2023**
+Attending Provider: Dr. **Helen Mirren**
+Treatment Team: Dr. **Jacob Wellings**, Dr. **Alisha Roy**
+**Hospital Problems Noted - Resolved POA Active Problems**
+Acute myocardial infarction **10/2/2023** - **10/4/2023** Yes
+Recurrent ventricular fibrillation **10/5/2023** - Present Yes
+Recurrent angina pectoris **10/7/2023** - Present Unknown
+**Other Problems**
+None
+**Hospital Course: Brief Overview**
+Mrs. **Emily Trescott** was admitted following an episode of severe chest pain at home. On presentation, her ECG showed ST-elevation in the anterior leads. She underwent an emergency PCI where a thrombotic occlusion was identified and successfully stented. Her post-operative period was complicated by episodes of ventricular fibrillation, which required immediate cardioversion and adjustments to her anti-arrhythmic medications. Despite ongoing angina, further diagnostic assessments have ruled out additional occlusions. She responded adequately to medical management with beta-blockers and ACE inhibitors. 
+**Discharge Medication List**
+New Medications: Start taking as prescribed
+- Aspirin 81 mg tablet, Refills: 5 
+- Clopidogrel 75 mg tablet, Refills: 5
+- Atorvastatin 40 mg tablet, Refills: 2
+- Metoprolol 50 mg tablet, Refills: 3
+**Next Steps: Follow up Instructions:** 
+Follow-up with cardiologist Dr. **Jacob Wellings** at the **City Heart Clinic** **555-398-9923**. Appointment scheduled for **10/19/2023** at 10:00 AM. Continue medication as prescribed and monitor for signs of chest pain, breathlessness, or palpitations. Engage in light exercise like walking, and follow a heart-healthy diet as discussed.
+**Significant Test or Procedure Results:**
+Coronary angiogram **10/2/2023** showing single vessel coronary artery disease, treated with PCI. Endovascular stent placement within the left anterior descending artery. Immediate post-procedure angiography confirmed successful revascularization.
+**Day of Discharge Labs:**
+- Creatinine: 1.0 mg/dL
+- WBC count: 6.4 x 10³/uL
+- Hemoglobin: 12.9 g/dL
+- Platelets: 198 x 10³/uL
+**Last Recorded Vital Signs:**
+BP 122/78 mmHg | Pulse 72 | Temp 36.8 °C (98.2 °F) | Resp 16 | SpO2 97%
+**Pertinent Discharge Physical Exam Findings:**
+General: Well-appearing, conversant, no acute distress.
+CV: RRR, no murmurs, rubs, or gallops, incision site clean, dry, and intact.
+Lungs: Clear to auscultation bilaterally.
+Ext: No edema; pulses intact.
+**Planned Tests and Procedures:**
+Follow-up echocardiogram on **10/20/2023** to assess left ventricular function.
+**Operations/Major Procedures:**
+**204819** **10/2/2023** EMERGENCY PCI CVC OR Comp
+Signed:
+Dr. **Helen Mirren**, MD **10/12/2023**, 16:00 PM

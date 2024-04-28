@@ -1,0 +1,44 @@
+**Inpatient Discharge Summary**
+Hospital Name: Valley Stream General Hospital
+Patient: Mary Huerta, MRN: 88053254, is a 68-year-old female admitted under the care of the cardiology service due to recurring episodes of atrial fibrillation and shortness of breath. 
+Admission Date: August 15, 2023
+Discharge Date: August 25, 2023
+Attending Cardiologist: Dr. Alan Grant
+Consulting Physician: Dr. Eliza Smithson, Pulmonology
+**Hospital Course:**
+Mrs. Huerta's hospitalization was necessary due to a significant exacerbation of chronic atrial fibrillation, accompanied by acute episodes of chest pain and progressive dyspnea. Despite adjustments to her existing medication regimen, her arrhythmia was unstable, warranting electrical cardioversion, which successfully restored sinus rhythm. 
+According to the cardiology management plan, her anticoagulation therapy was escalated, and rate control medications were adjusted, leading to symptom relief. She participated in heart-healthy education and stress management sessions with our Cardiac Rehab Team, denoted by RN Tracy Collins.
+**Medications at Discharge:**
+- Warfarin 5 mg daily. INR targeted between 2.0 and 3.0.
+- Metoprolol 50 mg twice daily.
+- Furosemide 40 mg daily. 
+- New prescription: Statins - Atorvastatin 20 mg at bedtime.
+**Follow-up and Discharge Planning:**
+Mrs. Huerta was scheduled for a follow-up in the Valley Stream Cardiology Clinic on September 5, 2023 at 10:00 AM, with Dr. Alan Grant. Further evaluation of her heart function with an echocardiogram and INR monitoring through our anticoagulation clinic on a weekly basis is planned.
+Discharge Location: Home Health Care Assistance by Prime Home Health Services
+Home Medication Reconciliation and Assessment scheduled by Nurse Jill Harlow, Home Health RN
+Mrs. Huerta understands her discharge instructions, which include signs of potential heart failure or stroke for which she should seek immediate medical attention, such as sudden dizziness, chest pain, or difficulty breathing.
+**Discharge Parameters:**
+- Activity Level: Limited to light housework and walks of less than 10 minutes duration.
+- Diet: Low sodium, heart-healthy diet as instructed by Valley Stream Dietary Services.
+**Discharge Vital Signs:**
+BP: 138/82 mmHg, Heart Rate: 78 bpm, Oxygen Saturation: 98% on room air.
+**Final Discharge Diagnosis:**
+1. Atrial fibrillation with rapid ventricular response - Managed and stable at discharge.
+2. Hypertension - Controlled.
+3. Hyperlipidemia - Continued management advisable.
+**Allergies & Intolerances:**
+NKDA (No Known Drug Allergies)
+**Diagnostics:**
+Echocardiogram on August 23, 2023: EF 55%, no significant valve abnormalities.
+Chest X-Ray on August 22, 2023: No acute cardiopulmonary process noted.
+**Consultations:**
+Dietician Anna Fitzgerald (for dietary review post-discharge).
+**Condition at Discharge:**
+Stable with follow-up in place. Patient expressed understanding and comfort with the discharge plan and schedule.
+Upon discharge, patient transportation home was arranged with Community Senior Transport Services.
+**Discharge Signed By:**
+Dr. Alan Grant
+Date: August 25, 2023
+Time: 4:00 PM
+Location: Valley Stream General Hospital, 8th Floor, Cardiology Unit

@@ -1,0 +1,49 @@
+**Radiology Regional Hospital**
+**Inpatient Discharge Summary**
+**Patient:** Michael Thompson, MRN# 485720663, is a 65 y.o. male.
+**Admission Date:** 2/14/2023
+**Discharge Date:** 2/28/2023
+**Attending Provider:** Dr. Sara Kendrick
+**Treatment Team:** Dr. James Harrow, Dr. Ellen Smith, NP
+**Hospital Service:** Cardiology
+---
+**Chief Complaint:**
+Patient presented with chest pain and was diagnosed with acute myocardial infarction.
+**Hospital Course and Treatment:**
+Mr. Michael Thompson was admitted following an episode of severe chest pain occurring while at home. Initial EKG in the ER showed ST elevation in anterior leads. The patient underwent emergency cardiac catheterization where Dr. Sara Kendrick performed a stenting of the left anterior descending artery. 
+Post-procedure, the patient remained stable with no recurrent chest pain. He was started on dual antiplatelet therapy apart from his ongoing medications for hypertension and diabetes. He also participated in a cardiac rehabilitation consultation where diet and exercise recommendations were given.
+**Complications:** None
+**Procedure:** 4587234 2/15/2023- Coronary Angioplasty with Stenting (LAD)
+**Consultations:**
+1. Nutrition and Dietetics: Provided dietary guidelines specific to cardiac health.
+2. Physical Therapy: Evaluated on 2/20/23, recommended light physical activity increasing over time.
+**Medications on Discharge:** 
+1. Aspirin 81 mg daily
+2. Clopidogrel 75 mg daily
+3. Atorvastatin 40 mg at bedtime
+4. Metoprolol 50 mg twice a day
+5. Lisinopril 20 mg daily
+6. Insulin regimen as per outpatient endocrinologist
+**Allergies:** No known allergies.
+**Discharge Instructions:**
+- Continue medications as prescribed without any interruption.
+- Follow up with cardiology within one week of discharge: Dr. Hannah Lore, 123 Heartway Drive, Ste 200, Springfield, IL 62704 on 3/7/2023 at 10 AM.
+- Engage in mild to moderate physical activity, avoid exhausting activities.
+- Adhere to a low-sodium, low-fat diet as advised by the nutritionist.
+- Monitor blood pressure and blood sugar levels daily.
+**Follow-up Care:**
+- Cardiology follow-up as mentioned.
+- Diabetes management review with Dr. Linda Grey on 3/10/2023.
+- Telehealth check-in on 3/3/2023 for medication adjustment and symptom review.
+**Discharge Condition:** Stable, with improvement in cardiac function. Advised to report immediately if symptoms such as chest pain, shortness of breath, or excessive fatigue occur.
+**Readmission Risk:** Moderate due to age and comorbidities including diabetes and hypertension.
+---
+**Discharge Time:** 2/28/2023 at 2:00 PM
+**Transportation:** Patient was transported by his son, David Thompson.
+**Home Care Services:** Regional Home Health Services were arranged for bi-weekly nurse visits.
+**Prescriptions:** Sent electronically to Main St Pharmacy 555-123-4567.
+**Clinician:** Joshua Evans, MD
+**Signature:** ________________________
+**Date:** 2/28/2023 at 2:30 PM
+--- 
+**NOTE:** Patient education provided regarding signs of potential complications and when to seek urgent care. Further educational materials provided on heart-healthy lifestyle adjustments. Patient expressed understanding of the discharge plan. 

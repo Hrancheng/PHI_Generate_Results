@@ -1,0 +1,44 @@
+**Metro Health Medical Center**
+**Inpatient Discharge Summary**
+**Patient Information:**
+- **Patient Name:** Thomas Bennett
+- **MRN#:** 987654321
+- **Age:** 52 years
+- **Admission Date:** September 21, 2023
+- **Discharge Date:** October 2, 2023
+- **Attending Provider:** Dr. Emily Watson
+**Hospital Service:** General Surgery
+**Admission Diagnosis:** Acute cholecystitis
+**Discharge Diagnosis:**
+- Primary: Resolved acute cholecystitis
+- Secondary: Hypertension
+**Hospital Course:**
+Mr. Thomas Bennett was admitted to the general surgery service with a diagnosis of acute cholecystitis characterized by severe right upper quadrant pain, nausea, and vomiting. His abdominal ultrasound confirmed gallstones with signs of inflammation. He underwent a laparoscopic cholecystectomy on September 22, 2023, which was completed without complications. His postoperative recovery was smooth except for mild hypertension, which was managed with IV medications initially and later transitioned to oral therapy. He progressed with diet and mobility over the subsequent days.
+**Medications on Discharge:**
+- Lisinopril 20 mg orally once daily
+- Acetaminophen 650 mg orally every 6 hours as needed for pain
+**Allergies:**
+- Penicillin - Rash
+**Follow-up Appointments:**
+1. General Surgery follow-up on October 12, 2023 with Dr. Emily Watson at Metro Health Surgical Clinic.
+2. Primary care follow-up within one month with Dr. Jonathan Reed at Metro Health Community Clinic.
+**Diet:**
+Regular diet as tolerated.
+**Activity:**
+Gradual increase in activity advised. Avoid lifting heavy objects for at least 4 weeks.
+**Instructions:**
+Mr. Bennett has been counseled on wound care and signs of infection. He should seek immediate medical attention if he experiences increased pain, fever, or any signs of incisional infection.
+**Equipment Provided:**
+No special equipment needed.
+**Code Status:**
+Full Code
+**Condition at Discharge:**
+Stable
+**Copy to:**
+Dr. Jonathan Reed
+**Signed by:**
+Dr. Emily Watson
+October 2, 2023
+**Contact Information for Follow-up:**
+- Clinic Phone: (555) 123-4567
+This discharge summary includes all pertinent information and instructions necessary for the continued care of Mr. Thomas Bennett post-discharge. Adequate documentation and communication have been secured to ensure a safe and effective transition back to community care.

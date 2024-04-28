@@ -1,0 +1,49 @@
+**University General Hospital**
+**Inpatient Discharge Summary**
+Patient Name: Elizabeth Jensen
+MRN#: 458967321
+Age: 54 y.o.
+Sex: Female
+**Admission Date**: 03/12/2023
+**Discharge Date**: 03/18/2023
+**Attending Provider**: Dr. Harold Greene
+**Treatment Team**:
+- Nursing contact: Nancy Allen, RN
+- Consulting Cardiologist: Dr. Aaron Schmidt
+**Medical History**:
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Previous Myocardial Infarction (2018)
+- Chronic Kidney Disease Stage 3
+**Hospital Course**:
+Elizabeth Jensen was admitted following a syncopal episode with initial suspicions of a cardiac event. Cardiac enzymes were elevated upon arrival, and the EKG suggested ischemic changes. She was immediately started on IV heparin and admitted to the Cardiac Care Unit. Cardiac catheterization performed by Dr. Aaron Schmidt on 03/13/2023 revealed a 90% blockage in the proximal left anterior descending artery, which was successfully treated with angioplasty and stent placement. Her post-operative course was uneventful, with improved cardiac function and stabilized kidney markers. She was stepped down to the medical floor under the care of Dr. Harold Greene on 03/15/2023.
+**Discharge Medications**:
+1. Aspirin 81 mg daily
+2. Atorvastatin 40 mg nightly
+3. Metoprolol 50 mg twice daily
+4. Lisinopril 20 mg daily
+5. Insulin Glargine 30 units at bedtime
+6. Insulin Lispro sliding scale as needed for blood glucose levels
+**Follow-Up Appointments**:
+1. Cardiology outpatient clinic with Dr. Aaron Schmidt on 04/05/2023 at University General Hospital Cardiac Center
+2. Nephrology follow-up with Dr. Laura Kim on 03/30/2023 due to CKD management at University General Hospital Nephrology Clinic
+3. Primary Care Provider, Dr. Steven Ray, appointment scheduled for 03/25/2023 to review and adjust diabetes management and general health upkeep.
+**Instructions**:
+- Continue with a low sodium diet and regular physical activity as tolerated.
+- Monitor blood pressure and blood sugar levels daily; record values to review in follow-up appointments.
+- Administer insulin as prescribed, being vigilant for signs of hypoglycemia.
+- Immediate medical attention should be sought for symptoms of chest pain, difficulty breathing, or any new or worsening symptoms.
+**Discharge Status**: 
+- Condition at discharge: Stable
+- Discharged to home under the care of daughter, Emily Thompson.
+- Instructions provided for wound care and medication management.
+- Rehabilitative services initiated for cardiac rehabilitation at University General Hospital Rehab Center, starting 03/22/2023.
+**Discharge Prepared by**: Dr. Harold Greene
+**Date/Time**: 03/18/2023, 2 PM
+### Contact Information:
+- Nurse Line: 555-0198
+- Cardiology Clinic: 555-0246
+- Nephrology Clinic: 555-0312
+- Primary Care: 555-0456
+**Signature**: Dr. Harold Greene
+**Date**: 03/18/2023

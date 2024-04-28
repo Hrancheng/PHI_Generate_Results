@@ -1,0 +1,47 @@
+**Inpatient Discharge Summary**
+**Patient Name**: Michael Thompson  
+**MRN**: 987654321  
+**Age**: 68 years  
+**Admission Date**: 11/15/2023  
+**Discharge Date**: 11/28/2023  
+**Attending Physician**: Dr. Anna Patel  
+**Consulting Team**: Cardiology, Nephrology, Nutrition  
+**Hospital Service**: General Medicine
+---
+**Hospital Course**:
+Michael Thompson, a 68-year-old male with a history of chronic hypertension and recent diagnosis of type 2 diabetes mellitus, presented to the hospital on 11/15/2023 with severe chest pain and was admitted under the care of Dr. Anna Patel. His hospital stay included management of an acute myocardial infarction and stabilization of his newly diagnosed diabetes.
+Cardiology was involved from day one and performed a successful cardiac catheterization on 11/16/2023. Two stents were placed due to significant blockage found in the coronary arteries. The patient responded well to the procedure with marked improvement in chest pain and cardiac function. Nephrology addressed the patient's chronic kidney disease, which had progressed to stage 3. Dietary consultations were ordered to aid in managing his diabetes and kidney health.
+---
+**Medications at Discharge**:
+1. Aspirin 81 mg daily
+2. Metformin 500 mg twice a day
+3. Lisinopril 20 mg daily
+4. Atorvastatin 40 mg bedtime
+---
+**Discharge Instructions**:
+- Follow up with your primary care doctor, Dr. Sarah Lee, within one week after discharge.
+- Cardiology follow-up within one month, or sooner if chest pain recurs.
+- Nephrology follow-up due to stage 3 CKD management, appointment on 12/05/2023.
+- Continue with the diabetic diet as discussed with the nutrition team. An outpatient diabetes management class is scheduled for 12/02/2023.
+- Monitor blood pressure daily and document readings for upcoming doctor visits.
+---
+**Discharge Conditions**:
+Patient's condition at discharge is stable. He is symptom-free of chest pain and his blood sugar levels are under better control with the new medication regimen. He understands the importance of lifestyle changes to manage his chronic conditions and has been compliant with hospital treatment plans.
+---
+**Follow-up Appointments**:
+1. Primary Care: Dr. Sarah Lee on 12/01/2023.
+2. Cardiology: City Heart Clinic on 12/15/2023.
+3. Nephrology: Regional Kidney Care on 12/05/2023.
+4. Diabetes Management Class: 12/02/2023 at Community Health Center.
+---
+**Precautions**:
+- Avoid lifting heavy objects for at least a month.
+- Report any symptoms of chest pain, difficulty breathing, or uncontrolled blood sugar levels to healthcare providers immediately.
+---
+**Medication Reconciliation**:
+All current medications have been reviewed and are deemed appropriate with the newly added medications required for optimal health maintenance post-discharge. 
+**Next steps**:
+Continue medication adherence, lifestyle modifications, and regularly scheduled follow-ups. Ensure adequate rest and gradual return to daily activities.
+**Signed**:
+Dr. Anna Patel,
+11/28/2023, 4:00 PM

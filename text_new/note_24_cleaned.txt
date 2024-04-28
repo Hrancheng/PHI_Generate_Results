@@ -1,0 +1,33 @@
+**University Hospital System Discharge Summary**
+**Name**: Marie C. Lorne
+**Date of Admission**: January 10, 2023  
+**Date of Discharge**: January 20, 2023
+**Date of Birth**: March 14, 1972  
+**Age**: 51 years old
+**Hospital ID**: 987654321
+**Admitting Physician**: Dr. Henry Adams
+**Discharge Physician**: Dr. Elizabeth Hutton  
+**Hospital Service**: General Medicine  
+**Discharge Diagnosis**:
+- Primary: Uncontrolled type 2 diabetes mellitus
+- Secondary: Hypertension
+**Hospital Course**:  
+Patient Marie C. Lorne was admitted with significantly elevated blood glucose levels and associated symptoms of uncontrolled diabetes including severe polydipsia and polyuria. During the stay, Marie was managed with an insulin regimen and dietary consultation. Blood pressure was consistently monitored and controlled with lisinopril adjustments.
+**Medications on Discharge**:  
+- Insulin glargine 40 units at bedtime  
+- Lisinopril 20 mg once daily  
+- Metformin 1000 mg twice daily
+**Discharge Instructions**:  
+Marie is advised to monitor blood glucose levels four times a day and adjust insulin doses as instructed during diabetes education. A follow-up with primary care physician Dr. Laura Beam at Community Health Clinic is scheduled for February 5, 2023. 51-year-old patient is also advised to monitor blood pressure and continue with a low-salt diet.
+**Follow-up Appointments**:  
+- Diabetes management follow-up with Dr. Laura Beam, scheduled for February 5, 2023 at 450 West Elm Street, Community Health Clinic.
+- Dietician follow-up via virtual visit on January 25, 2023.
+**Special Instructions**:  
+Continue low sodium diet. Engage in moderate exercise such as brisk walking for at least 30 minutes daily. Monitor for symptoms of hypoglycemia including dizziness, confusion, and sweating.
+**Contact**: In case of emergencies, contact 555-0199 or visit the nearest emergency room.
+**Discharge By**:  
+Dr. Elizabeth Hutton, MD  
+Time of Discharge: 2:00 PM
+**Condition at Discharge**: Stable  
+**Disposition**: Home
+This discharge summary includes all relevant and appropriately labeled PHI annotations following the provided guidelines.

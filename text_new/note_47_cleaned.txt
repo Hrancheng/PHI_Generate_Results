@@ -1,0 +1,34 @@
+Inpatient Discharge Summary
+---------------------------
+**Patient Information:**
+- Patient Name: Mary Wallace
+- Age: 52 years old
+- Date of Admission: September 15, 2022
+- Date of Discharge: September 29, 2022
+- Hospital: Cedar Oak Medical Center
+**Admission Diagnosis:**
+- Acute myocardial infarction
+**Hospital Course:**
+Mary Wallace was admitted to Cedar Oak Medical Center following an episode of severe chest pain while at work at 987 Eastwood St., Springfield, IL. On arrival in the emergency department, an EKG showed elevated ST segments and troponin levels were markedly high, confirming an acute myocardial infarction.
+Immediate intervention included percutaneous coronary intervention (PCI) where a stent was placed in the right coronary artery. Post-procedure, the patient was managed on the cardiology floor with medications including aspirin, beta-blockers, and statins.
+Over the course of her hospital stay, she participated in several cardiac rehabilitation sessions and was evaluated for risk factor modification. Smoking cessation was strongly advised, as she has been a smoker for over 30 years.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Metoprolol 50 mg twice daily
+- Atorvastatin 40 mg at bedtime
+**Discharge Instructions:**
+Mary Wallace is advised to continue with outpatient cardiac rehabilitation. She is scheduled for a follow-up visit with her cardiologist, Dr. Henry Clarkson, at Cedar Oak Heart Clinic, located at 432 Westfield Rd., Springfield, IL, on October 10, 2022. She has been counseled on the importance of lifestyle modifications including diet, exercise, and smoking cessation. 
+**Clinical Summarization:**
+This hospitalization provided revascularization via PCI and set a foundation for secondary prevention of cardiovascular incidents. Continued outpatient monitoring and lifestyle modification are key components of the management plan.
+**Follow-Up Care:**
+- Cardiology follow-up appointment on October 10, 2022 at 3:00 PM with Dr. Henry Clarkson
+- Cardiac Rehabilitation sessions twice a week at Cedar Oak Therapy Center
+**Readmission Risk:**
+Moderate due to the presence of multiple cardiovascular risk factors including longstanding hypertension and smoking history.
+**Emergency Contact:**
+- Sister: Susan Wallace
+**Signed:**
+Emma Thompson, MD
+September 29, 2022, at 2:00 PM
+**Data Privacy Notice:**
+All personal information in this document is treated as confidential and used solely for medical and billing purposes as per HIPAA regulations. Please ensure the safe disposal or storage of this document to protect your privacy.

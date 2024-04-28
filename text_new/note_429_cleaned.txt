@@ -1,0 +1,39 @@
+Inpatient Discharge Summary
+---------------------------
+**Patient Information:**  
+- **Marian Hill, MRN#456783121**, is a **53 y.o.** female, admitted to the General Medicine service due to complications from heart failure. 
+**Admission Date:** February 15, 2023  
+**Discharge Date:** February 25, 2023  
+**Attending Provider:** Dr. **Harold Greene**  
+**Hospital Course:**  
+Ms. **Hill** was admitted following a week of progressive dyspnea and bilateral lower extremity edema. Echo on admission demonstrated reduced ejection fraction of 30%. The patient was diuresed successfully with IV Furosemide, and her home regimen of Lisinopril was adjusted. She responded well to treatment with improvement in symptoms and was transitioned to oral diuretics.  
+**Consultations:**  
+Cardiology: Consulted for worsening heart function, recommended up-titration of ACE inhibitors and introduction of beta-blocker therapy under close supervision.  
+Nephrology: Consulted due to AKI on CKD presumed secondary to pre-renal azotemia, advised hydration and rechecking renal function post diuresis.  
+**Medications at Discharge:**  
+- Furosemide 40 mg tablet twice daily  
+- Lisinopril 10 mg tablet once daily  
+- Metoprolol 25 mg tablet once daily  
+**Follow-up Instructions:**  
+1. Cardiology follow-up in **Downtown Heart Clinic** within one week post-discharge.
+2. Telephone check-in with **Primary Health Service** **(624) 412-3124** in three days to assess weight and blood pressure.
+3. General Medicine follow-up as needed or if symptoms increase.
+**Educational Topics Discussed:**  
+Educated on low sodium diet, fluid restriction, and daily weight monitoring. Instructed on the importance of adherence to medication, especially regarding diuretic therapy.
+**Discharge Condition:**  
+Ms. **Hill**'s condition improved significantly from time of admission. Alert and oriented x 3, ambulating without assistance, heart rate 68 bpm, comfortable at rest.
+**Labs at Discharge:**  
+- Creatinine: 1.5 mg/dL (from 2.0 mg/dL on admission)  
+- Potassium: 4.2 mEq/L  
+- NT-proBNP: 800 pg/mL  
+**Discharge Instructions:**  
+Patient advised on signs of fluid overload and to return to the **Emergency Department** if she experiences worsening shortness of breath, chest pain, or other concerning symptoms. Patient given a prescription for a scale and instructed on its use for daily weight monitoring.
+**Other Pertinent Information:**  
+- Code Status: Full Code.
+- Allergies: No known allergies.
+- Durable Medical Equipment: None needed at discharge.
+- Rehabilitation: No rehabilitation prescribed.
+**Signed:**  
+Dr. **Harold Greene**, February 25, 2023 at 3:00 PM
+**Summary & Plan:**  
+Ms. **Hill** is to focus on weight and symptom management at home with close outpatient follow-up to prevent future exacerbations of heart failure.

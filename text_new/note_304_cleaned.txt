@@ -1,0 +1,47 @@
+**Inpatient Discharge Summary**
+Patient Name: Michael Thompson, MRN# 987654321
+DOB: 08/15/1985
+Age: 37 years old
+Cleveland Clinic Foundation
+Admission Date: 2/15/2023
+Discharge Date: 3/1/2023
+Attending Physician: Dr. Sara Connolly
+**Hospital Course:**
+Mr. Thompson was admitted to the hospital following a syncopal episode at home. The patient was found by his wife, Linda Thompson, and was brought to the emergency room by ambulance. Upon evaluation, he was diagnosed with a non-ST-elevation myocardial infarction (NSTEMI) and underwent successful angioplasty with stent placement to the right coronary artery. His post-operative period was complicated by transient atrial fibrillation, which was managed with rate control and anticoagulation.
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Metoprolol succinate 50 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Apixaban 5 mg twice daily
+**Discharge Instructions:**
+Mr. Thompson is advised to follow up with his primary care physician, Dr. Richard Grant, within one week of discharge. He should continue with medications as prescribed above and monitor for signs of bleeding, chest pain, or any symptom of stroke. Participation in a cardiac rehabilitation program is highly recommended to enhance recovery and improve heart function.
+**Follow-Up Appointments:** 
+- Cardiology follow-up with Dr. Helen Zhou on March 10th, 2023 at 10 AM.
+- Primary care follow-up with Dr. Richard Grant on March 5th, 2023 at 3 PM.
+**Discharge Condition:**
+The patient is stable for discharge. He is asymptomatic with stable vital signs and has been educated about his new medications. Mr. Thompson understands when to seek immediate medical attention and has all necessary prescriptions.
+**Additional Recommendations:**
+- Diet: Low cholesterol, low salt diet recommended.
+- Activity: Avoid strenuous activity until after first follow-up visit. Gradual increase in activity as tolerated.
+- Smoking cessation counseling provided and encouraged.
+**Discharge Medications List:**
+- Aspirin: Continue, as previously prescribed.
+- New prescriptions for Clopidogrel, Metoprolol, Atorvastatin, and Apixaban have been sent to Walgreens Pharmacy at 123 Health St, Cleveland, OH 44114.
+**Vital Signs at Discharge:**
+- BP: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.6 °F
+- Respiratory Rate: 16 breaths per minute
+**Total Score (Last filed: March 1, 2023 11:00 AM)** 
+- Length of Stay: 14 days
+- Acute Admission: 3
+- Charleson Comorbidity Score: 2
+- Criteria that do not apply: ED Visits in last 6 months
+**LACE Score Risk Level Readmission Rate:**
+- Total Score: 19
+  - Length of Stay: 14 to 19 days
+  - Readmission Rate: 13-19 Highest 20.8%
+  - 30-Day Mortality Rate: 5.8%
+**Signed**: Dr. Sara Connolly
+Date: 3/1/2023, Time: 11:15 AM

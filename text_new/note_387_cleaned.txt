@@ -1,0 +1,43 @@
+**Heartside Medical Center Discharge Summary**
+Patient Name: Elizabeth Grant, MRN: 987654321
+Age: 72-year-old
+Sex: Female
+Admission Date: March 12, 2023
+Discharge Date: March 20, 2023
+Admitting Diagnosis: Acute Exacerbation of Chronic Heart Failure
+**Hospital Course:**
+Elizabeth Grant was admitted with shortness of breath and pedal edema. Initial evaluation showed elevated BNP and echocardiography confirmed reduced ejection fraction. She was managed with IV diuretics and after optimization, switched to oral furosemide. Her condition stabilized with improvement in dyspnea and edema over the course of her stay.
+**Medications at Discharge:** 
+- Furosemide 40 mg orally twice daily
+- Lisinopril 20 mg orally once daily
+- Metoprolol 50 mg orally twice daily
+- Aspirin 81 mg orally once daily
+**LACE - Readmission Risk Score:**
+Total Score: 8
+Length of Stay: 8 days
+Acute Admission: 3
+Comorbidities: 3
+ED visits in last 6 months: 2
+LACE Score Risk Level: Moderate (7.9% Readmission Rate, 0.7% 30 Day Mortality Rate)
+**Discharge Condition:**
+The patient is stable with significant improvements in heart failure symptoms. She is to follow a low-salt diet and maintain fluid restriction of 1.5 liters/day.
+**Discharge Instructions:**
+1. Continue medications as prescribed.
+2. Monitor weight daily.
+3. Schedule follow-up appointment with Dr. Hannah Lee at Heartside Medical Center Cardiology Clinic on March 27, 2023 at 10 AM.
+4. Return immediately if experiencing increased shortness of breath, chest pain, or weight gain more than 3 pounds in a day.
+**Follow-up care:**
+Return to Heartside Medical Center Cardiology for ongoing management of heart failure. Refer to Heartside Dietetics for dietary counseling.
+**Outpatient Services and Support:**
+Patient was referred to Heartside Home Health Services for continued transition care. A home nurse will visit within 48 hours post-discharge to assess the living situation and compliance with the medical regimen.
+**Other Recommendations:**
+Ensure accessibility to emergency contacts and keep a list of medications accessible to home health aides. Emergency department visits and hospital readmissions should be recorded and communicated to the primary care provider and cardiologist.
+**Signed:**
+Dr. Jonathan S. Abrams, MD, Discharge Physician 
+Nurse Rebecca Milner, RN, Discharge Coordinator
+Date: March 20, 2023
+Time: 2:00 PM
+Contact Details for Follow-up:
+Phone: 555-123-4567
+Email: patient.contact@heartside.org
+This discharge summary is intended for the use by healthcare providers involved in Elizabeth Grant's care. It contains confidential health information that should be handled according to appropriate privacy laws and hospital policies.

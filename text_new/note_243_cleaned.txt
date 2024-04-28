@@ -1,0 +1,49 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Harold Jenkins    
+**MRN:** 987654321    
+**Age:** 58 y.o.  
+**Admission Date:** September 21, 2023  
+**Discharge Date:** September 28, 2023  
+**Attending Provider:** Dr. Amanda Harlow  
+**Treatment Team:** Endocrinology - Team A 
+**Hospital Problems Noted - Resolved**
+- Diabetes Mellitus Type 2 9/21/2023 - Present Yes 
+- Hypertension 9/21/2023 - Present Yes 
+**Resolved Problems**
+RESOLVED: Acute kidney injury 9/21/2023 - 9/28/2023 Yes
+**Recommendations for Follow Up:**   
+Attention to Primary Care Attending: Please monitor blood glucose levels and adjust insulin accordingly. Ensure patient adheres to a low-sodium diet to manage blood pressure effectively.
+**Lab, Diagnostic Testing, and Referral Follow-Up**  
+Orders given to patient:  
+- Follow-up appointment with Dr. Susan Cho, City Medical Clinic on October 5, 2023 for diabetes management.
+- Blood Work: Repeat renal function test and electrolytes on October 2, 2023.
+**Next Steps:**  
+**Instructions:** Harold should monitor his blood pressure twice daily using a home BP monitor.   
+**Next Steps:** Follow up with City Medical Clinic, 555-123-4567   
+**Next Steps:** Follow up with Endocrinology for ongoing diabetes management. 
+**Pertinent Clinical Presentation on Admission**  
+58-year-old male presented with hyperglycemia and dehydration.   
+Initial labs showed elevated blood glucose levels at 350 mg/dL and elevated creatinine indicating possible acute kidney injury.  
+Patient was managed with IV fluids and insulin therapy. 
+**Brief Hospital Course (including treatment rendered and response to treatment):**    
+Harold Jenkins was managed in the Endocrinology unit for stabilization of his diabetes and acute kidney injury attributed to dehydration and poor medication adherence. After IV fluid and insulin regimen, patient's blood glucose levels stabilized around 140 mg/dl. His renal function also improved with creatinine returning to baseline levels. Patient educated on importance of medication adherence and dietary management.
+**Discharge Medications:**  
+- Metformin 500 mg: Take one tablet twice daily.  
+- Lisinopril 20 mg: Take one tablet daily for hypertension.  
+- Insulin Glargine: Use 40 units subcutaneously at bedtime.
+**Discharge Instructions:**  
+Patient is advised to maintain a balanced diet limiting carbohydrates and sodium. Continued physical activity is recommended to aid in management of diabetes and hypertension. Adherence to medication schedule is critical for the control of his chronic conditions.
+**Patient Education:**  
+Harold received dietary counseling from a registered dietitian to understand the impact of food choices on his diabetes and hypertension. He was also instructed on the proper techniques for administering insulin and monitoring his blood glucose levels at home.
+**Last Recorded Vital Signs:** BP 130/85 mmHg | Pulse 72 | Temp 98.6 °F | Resp 16 | SpO2 98%
+**Pertinent Discharge Physical Exam**  
+General: Alert, oriented, and in no acute distress.  
+Cardiovascular: Regular rate and rhythm, no murmurs.   
+Respiratory: Clear to auscultation bilaterally.  
+Abdomen: Soft, non-tender, no organomegaly.  
+Extremities: No cyanosis, clubbing, or edema.
+**Follow Up Appointments**:  
+- Endocrinology follow-up at City Medical Outpatient Clinic on October 12, 2023 at 10:00AM  
+- Primary care follow-up with Dr. Susan Cho on October 5, 2023 at 2:30 PM.
+**Appointment location:** City Medical Clinic, 123 Main Street, Anytown, State, 12345  
+**Signed by:** Dr. Amanda Harlow, MD, September 28, 2023, 4:00 PM

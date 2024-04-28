@@ -1,0 +1,35 @@
+**MetroHealth Hospital Discharge Summary**
+**Patient Name:** Robert B. Willis  
+**Medical Record Number:** 568943201  
+**Age:** 54 years old  
+**Admission Date:** October 13, 2023  
+**Discharge Date:** October 20, 2023  
+**Attending Physician:** Dr. Helen Grant  
+**Admitting Diagnosis:** Acute Cholecystitis  
+**Discharge Diagnosis:** Acute Cholecystitis - Resolved  
+---
+### Hospital Course:
+Mr. Willis was admitted with severe right upper quadrant pain and fever. An ultrasound confirmed the presence of gallstones and signs of inflammation consistent with acute cholecystitis. He was started on IV antibiotics and fluids. His condition improved with medical management, and surgery was deemed unnecessary at this time. The patient tolerated the treatment well and symptoms resolved. 
+### Procedures:
+- Ultrasonography of the abdomen on October 14, 2023
+### Consultations:
+- General Surgery consult by Dr. Amy Chen on October 15, 2023
+- Gastroenterology consult by Dr. Marcus Welby on October 16, 2023
+### Lab/Diagnostic Work:
+- Complete blood count showing initial leukocytosis which normalized by day of discharge
+- Liver function tests were within normal limits
+### Medications at Discharge:
+- Amoxicillin 500 mg, taken orally three times a day for 7 days
+- Ibuprofen 400 mg, taken orally every 6 hours as needed for pain
+### Follow-Up:
+Follow-up with general surgery in 2 weeks to reassess the need for elective cholecystectomy.
+### Future Appointments:
+- November 3, 2023 - Follow-up in general surgery clinic with Dr. Amy Chen
+- November 10, 2023 - Follow-up in gastroenterology clinic with Dr. Marcus Welby
+### Discharge Instructions:
+Patient is advised to maintain a low-fat diet and monitor for recurrence of symptoms. Should fever, jaundice, or abdominal pain recur, he is to seek immediate medical attention or return to the emergency department. Continue to take all medications as prescribed.
+### Summary:
+Mr. Willis responded well to conservative management for his acute cholecystitis, and no surgical intervention was required at this time. He is stable for discharge with outpatient follow-up arranged. 
+**Prepared by:** Melissa Carter, MD  
+**Date/Time:** October 20, 2023, 4:00 PM
+[END OF DISCHARGE SUMMARY]

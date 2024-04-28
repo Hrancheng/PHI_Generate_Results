@@ -1,0 +1,25 @@
+T1	NAME 61 75	Marilyn Hughes
+T2	ID 86 94	91238746
+T3	AGE 104 112	72 years
+T4	DATE 133 149	August 1st, 2023
+T5	DATE 170 186	August 5th, 2023
+T6	NAME 215 228	Harold Greene
+T7	NAME 262 274	Elisa Cortez
+T8	ORGANIZATION 276 299	Riverside Health Clinic
+T9	DATE 369 412	August 1st, 2023 - [B-DATE]August 5th, 2023
+T10	DATE 448 491	August 2nd, 2023 - [B-DATE]August 4th, 2023
+T11	NAME 533 547	Marilyn Hughes
+T12	NAME 923 937	Marilyn Hughes
+T13	ORGANIZATION 1571 1594	Riverside Health Clinic
+T14	DATE 1596 1613	August 12th, 2023
+T15	NAME 1623 1635	Elisa Cortez
+T16	NAME 1664 1682	Dr. Jonathan Swift
+T17	ORGANIZATION 1684 1711	Riverside Specialist Centre
+T18	DATE 1713 1730	August 18th, 2023
+T19	ORGANIZATION 2257 2281	Golden Years Home Health
+T20	ORGANIZATION 2428 2443	Valley Pharmacy
+T21	NAME 2722 2736	Marilyn Hughes
+T22	NAME 2755 2769	Jessica Hughes
+T23	NAME 2900 2913	Harold Greene
+T24	DATE 2919 2935	August 5th, 2023
+T25	NAME 3031 3047	Dr. Elisa Cortez

@@ -1,0 +1,34 @@
+**Inpatient Discharge Summary**
+**Patient Information:**
+- **Michael Thompson**
+- MRN#: 578902345
+- 65 y.o. male, admitted for observation and management of heart failure exacerbation.
+- Admission Date: 10/21/2023
+- Discharge Date: 10/28/2023
+- Attending Physician: Dr. Helen Gregory
+- Treatment Team: Floor Nurse: Samuel Johnson, Cardiology Consult: Linda Ford, MD.
+**Hospital Course:**
+Mr. Thompson was admitted to General County Hospital following a two-week history of increasing shortness of breath and ankle swelling. His medical history is notable for chronic heart failure, type II diabetes, and hypertension. On admission, his ECG showed atrial fibrillation with a rapid ventricular response, and chest X-ray demonstrated pulmonary congestion. The patient was managed with IV diuretics and beta-blocker therapy. Throughout his stay, he showed gradual improvement with reduced dyspnea and diuresis.
+**Medications at Discharge:**
+1. Furosemide 40 mg twice daily.
+2. Metoprolol 50 mg once daily.
+3. Lisinopril 20 mg once daily.
+4. Spironolactone 25 mg once daily.
+**Discharge Instructions:**
+Mr. Thompson is advised to follow a low-salt diet, maintain fluid restriction of 1500 mL/day, and monitor his weight daily. He is to follow-up with his primary care provider Dr. Abigail Walsh, MD, within one week of discharge and return to the cardiology clinic in one month. The patient understands symptoms warranting urgent evaluation including increasing shortness of breath, weight gain of more than 3 pounds in a day, or chest pain.
+**Outpatient Follow-up:**
+- Primary Care: Dr. Abigail Walsh, 7754 Elm St., Springfield, IL 62704
+- Cardiology: Heart Health Specialists, Appointment on 11/28/2023 at Clinic Room 204.
+**Follow-up Tests Ordered:**
+- Blood tests including BNP, renal function panel, and complete blood count, scheduled for 11/25/2023.
+- Echocardiogram scheduled for 11/27/2023 at Diagnostic Imaging Center, Room 12.
+**Social Work Consult:**
+Engaged social worker Emily G. Torres to assist with home health arrangements and to evaluate for any additional home support needs due to mobility limitations. A referral was made to Springfield Community Home Health for thrice-weekly visits by a home health nurse.
+**Discharge Condition:**
+The patient's condition at discharge is stable, with improved cardiac symptoms. Mr. Thompson ambulates with minimal assistance, demonstrating good understanding of his discharge plan.
+**Signed:**
+Dr. Helen Gregory, MD,
+10/28/2023, 4:45 PM
+**Contact Information:**
+For non-emergency issues, Mr. Thompson or his caregiver, Susan Thompson, can reach the medical team at 555-932-0987.
+This summary encapsulates Mr. Michael Thompson's hospital course and discharge preparations with all personal health information (PHI) appropriately annotated as per the guidelines established for protection and confidentiality.

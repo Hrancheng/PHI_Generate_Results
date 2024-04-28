@@ -1,0 +1,48 @@
+**Westbrook General Hospital Inpatient Discharge Summary**
+Patient Name: Emily Tanner, MRN#: 756843509, is a 54 y.o. female, admitted to the Cardiology service for management of acute myocardial infarction and subsequent complications.
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Attending Provider:** Dr. Alan Shepherd  
+**Treatment Team:** Cardiology Team A, Nurse Susan B. Anthony
+**Hospital Problems Noted - Resolved:**  
+1. Acute myocardial infarction 09/15/2023 - Present Yes  
+2. Congestive heart failure 09/17/2023 - Present Yes  
+3. Atrial fibrillation 09/20/2023 - Present Yes  
+4. Secondary pneumonia post-MI 09/24/2023 - Present Yes  
+**Resolved Problems:**  
+RESOLVED: Acute fluid overload managed successfully 09/17/2023 - 09/20/2023  
+RESOLVED: Elevated blood pressure spikes 09/15/2023 - 09/18/2023  
+**Other Problems:** None  
+**Recommendations for Follow-Up:**  
+Attention to Primary Care Physician: Dr. Henry Gill, Maple Street Clinic  
+- Cardiac Rehab: Referral placed  
+- Pulmonary: Follow-up for pneumonia follow-up CT  
+**Lab, Diagnostic Testing, and Referral Follow-Up Orders given to patient:**
+1. **Next Steps:** Follow up with Cardiology on 10/15/2023
+2. **Next Steps:** Pulmonary follow up on 10/05/2023
+3. **Contact Information:** Maple Street Clinic 621-555-0198
+**Discharge Medication List:**  
+- **Medications**: Start taking as prescribed  
+   - Aspirin 81 mg tablet, Refills: 3  
+   - Lisinopril 10 mg tablet, Refills: 1  
+   - Atorvastatin 20 mg tablet, Refills: 2  
+   - Amoxicillin 500 mg capsule for pneumonia, Refills: 0  
+**Recovery and Activity Instructions:**  
+Patient is advised minimal physical exertion for two weeks, progressive ambulation as tolerated, and chest pain protocol as per cardiac rehab guidelines.
+**Urgent Issues to Watch For:**  
+- Chest pain not relieved by nitroglycerin  
+- Shortness of breath  
+- Increased swelling in legs  
+- High fever or productive cough  
+**Future Appointments Scheduled:**  
+- 10/03/2023 2:30 PM Molly Crenshaw, PA-C CARD at Westbrook Cardiology Center  
+- 10/10/2023 11:00 AM Dr. Sara Fields, MD PULM at Maple Street Clinic  
+**Brief Hospital Course (including treatment rendered and response to treatment):**  
+Ms. Emily Tanner was admitted following a severe myocardial infarction requiring immediate intervention. Angioplasty was performed with stent placement in the right coronary artery. Post-procedure, she developed transient atrial fibrillation which was managed with beta-blockers and reverted to sinus rhythm within 48 hours.
+During hospitalization, patient developed congestive heart failure secondary to myocardial damage, managed with diuretics and ACE inhibitors, showing good response with reduced pulmonary congestion.
+Secondary pneumonia was diagnosed based on symptoms and imaging on 09/24/2023. Treatment with broad-spectrum antibiotics led to substantial improvement, and the patient was stepped down from IV to oral antibiotics.
+Patient education was provided regarding signs of heart failure exacerbation, importance of medication adherence, and lifestyle modifications including dietary changes.
+**Condition at Discharge:** Stable; understanding and agreeable to follow-up plans. 
+**Last Recorded Vital Signs:**  
+BP 122/76 | Pulse 74 | Resp 16 | Temp 98.6 °F   
+Ongoing medications at discharge include ACE inhibitors, statins, and ongoing antibiotics for pneumonia treatment. Heart and lungs stable under current management, no acute distress noted at time of discharge.

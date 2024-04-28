@@ -1,0 +1,37 @@
+**Inpatient Discharge Summary**
+**Patient Name:** Emily Thompson
+**Medical Record Number:** 987654321
+**Age:** 72 years old
+**Admission Date:** August 15th, 2023
+**Discharge Date:** August 25th, 2023
+**Attending Provider:** Dr. Helen Carter
+**Consultants:** Cardiology, Nephrology
+**Hospital Service:** General Medicine
+**Primary Care Physician:** Dr. Ivan Gregg, City Medical Associates
+**Diagnoses at Admission:**
+- Acute exacerbation of chronic heart failure
+- Acute on chronic kidney disease
+**Hospital Course:**
+Emily Thompson was admitted following a 2-day history of increasing shortness of breath and swelling in her lower extremities. On examination, she was found to have a weight gain of 5 kg over the past month, rales halfway up both lung fields, and 2+ pitting edema up to her knees.
+Cardiology was consulted and an echocardiogram was performed showing a decreased ejection fraction of 35%. Kidney function was noted to be deteriorated with a creatinine increase from 1.5 to 2.3 mg/dL compared to her baseline.
+During her stay, she received intravenous diuretics and her home oral medications were optimized. Her symptoms of congestion gradually improved, and diuresis was achieved with a weight loss of 4 kg. Renal function also stabilized with a creatinine level decreasing back to 1.8 mg/dL.
+**Medications on Discharge:**
+- Furosemide 40 mg twice daily
+- Lisinopril 20 mg once daily
+- Potassium Chloride 20 mEq daily
+- Carvedilol 12.5 mg twice daily
+**Discharge Instructions:**
+Emily Thompson is to follow a low-salt diet, restrict fluid intake to less than 1.5 liters per day, and monitor her weight daily. She should continue her medications as prescribed. 
+**Follow-Up:**
+1. City Medical Associates 
+   - Follow up with Dr. Ivan Gregg on September 1st, 2023
+   - Phone: 555-234-5678
+2. Cardiology outpatient clinic on September 5th, 2023 for echo repeat and further optimization of heart failure management.
+**Condition at Discharge:**
+Patient's condition at discharge is stable with improved symptoms of heart failure. She understands her discharge instructions and the signs that would necessitate a return to the hospital, such as increasing shortness of breath, weight gain of more than 2 kg in 3 days, or reduced urine output.
+**Discharge Summary Prepared by:**
+Dr. Helen Carter
+Date: August 25th, 2023
+Time: 15:00
+**Additional Notes:**
+Patient expressed gratitude for the care received and feels prepared to manage her condition at home with the support of her family and primary care provider.

@@ -1,0 +1,37 @@
+**Metro Health Medical Center Discharge Summary**
+**Patient: Brian Thompson**
+**MRN: 894567123**
+**Age: 58 y.o.**
+**Admission Date: 09/05/2023**
+**Discharge Date: 09/15/2023**
+**Attending Provider: Dr. Helen Krieger**
+**Hospital Service: General Medicine**
+**Admitting Diagnosis: Acute Cholecystitis**
+**Discharge Diagnosis: 
+1. Acute Cholecystitis
+2. Hypertension**
+**Hospital Course:**
+Brian presented to the Metro Health Medical Center Emergency Department on 09/05/2023 with severe right upper quadrant pain and vomiting. An ultrasound confirmed the presence of cholelithiasis and cholecystitis. He was admitted under the care of Dr. Helen Krieger and started on IV antibiotics. His symptoms improved over the next couple of days, and he underwent laparoscopic cholecystectomy on 09/08/2023, which was uneventful. Post-operatively, Brian was managed for his hypertension, which was moderately controlled with adjustments to his medication regimen.
+**Medications on Discharge:**
+1. Metoprolol 50 mg twice daily
+2. Amoxicillin 500 mg three times daily for 7 days post-operation
+3. Amlodipine 10 mg once daily
+**Follow-up Instructions:**
+Brian Thompson is advised to follow up with his primary care physician, Dr. Susan Lee, within one week post-discharge. A post-operative check with Dr. Martin Green, surgeon, is scheduled for 09/22/2023. He should continue his low-fat diet as discussed with the dietitian, Jessica Remy.
+**Instructions for Patient:**
+- Monitor for signs of infection at the incision site.
+- Continue hypertension diet and medication.
+- Report any new symptoms or concerns to your healthcare provider immediately.
+**Discharge Condition:**
+Patient is stable for discharge. He understands his discharge instructions and verbalizes understanding of signs of complications to watch for. He is to resume normal activities as tolerated and follow up as advised.
+**Next Steps:**
+Follow up at Metro Health Primary Care on 09/20/2023.
+Follow up at Metro Health Surgical Services on 09/22/2023.
+Contact number for any urgent questions: 215-555-7890.
+**Discharge Medications:**
+1. Metoprolol - continue as current.
+2. New prescription for Amoxicillin to complete course.
+3. Continue Amlodipine as prescribed.
+**Signed: Dr. Helen Krieger, MD**
+**Date: 09/15/2023** 
+**Metro Health Medical Center**

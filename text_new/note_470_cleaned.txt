@@ -1,0 +1,64 @@
+Inpatient Discharge Summary  
+Elizabeth Johnson, MRN# 3798456, is a 43 y.o. female, admitted to the Cardiology service for chest pain and shortness of breath. Admission Date: 02/15/2023 Discharge Date: 02/25/2023 Attending Provider: Dr. Henry Wallace  
+Treatment Team: !! FIRST CONTACT !!: Cardiology Floor Calls - PAGER 25436  
+Hospital Problems Noted -   
+Resolved POA Active Problems  
+Unstable Angina 02/15/2023 - Present Yes  
+Resolved Problems   
+RESOLVED: Hypertension 02/15/2023 - 02/25/2023 Yes  
+RESOLVED: High cholesterol (CMS/HCC) 02/15/2023 - 02/25/2023 Yes  
+Other Problems  
+None   
+Recommendations for Follow-Up:   
+Attention to Primary Care Attending: (diagnostic studies and exam findings) General follow up.    
+To Do's for Referring / Subspecialty Provider(s):   
+Cardiology: Follow up appointment on 03/01/2023.   
+Endocrinology: Follow up scheduled for 03/15/2023.  
+Lab, Diagnostic Testing, and Referral Follow-Up Orders given to the patient: Contact information for follow-up.  
+Next Steps: Follow up Central City Cardiac Care 546-235-9867  
+Next Steps: Follow up Instructions: Elizabeth will be advised regarding medication adjustments in the follow-up visit. Adam Trenton, MD  
+Significant Diagnostic Studies:  
+Recent Events  
+Subjective: Denies any current chest pain or discomfort. Walked the hallways without difficulty today.  
+Interval: - On admission   
+Troponin I 0.04. - Peak at 0.1 on 02/16/2023, decreased to 0.02 on 02/18/2023.  
+- Plan for scheduled cardiology follow-up.  
+Current Studies:   
+- ECG 02/15/2023: Normal sinus rhythm, no ST or T wave abnormalities.  
+- ECHO 02/18/2023: Normal LV function, EF 55%, no valvular abnormalities.  
+Previous Studies:   
+- Stress Test 01/22/2023: No significant changes indicative of ischemia.  
+Day of Discharge Labs:   
+CMP: Lab Results Component Value Date   
+Sodium 140 02/24/2023   
+Potassium 4.3 02/24/2023   
+Chloride 104 02/24/2023   
+CO2 24 02/24/2023   
+BUN 14 02/24/2023   
+Creatinine 0.9 02/24/2023  
+Glucose 102 02/24/2023  
+Calcium 9.1 02/24/2023  
+Day of Discharge Vital Signs:  
+BP 122/78 (BP Location: Left arm, BP: Patient position: Sitting, BP Cuff Information: Adult 23-33 cm) | Pulse 72 | Temp 37.0 °C (98.6 °F) | Resp 14 | Ht 1.68 m (5' 6") | Wt 68 kg (150 lb) | SpO2 98% | BMI 24.1 kg/m²  
+Discharge Medication List  
+Home Medications: Continue taking as previously prescribed  
+Sig   
+aspirin 81 mg tablet Refills: 0  
+Commonly known as: ECOTRIN 81 mg, Oral, ONCE DAILY  
+atorvastatin 20 mg tablet Refills: 12  
+Commonly known as: LIPITOR 20 mg, Oral, ONCE DAILY  
+metoprolol tartrate 50 mg tablet Refills: 12  
+Commonly known as: lopressor 50 mg, Oral, TWICE DAILY  
+Discharge Exam:  
+Physical Exam Findings  
+General Appearance: alert, Caucasian female, appears stated age, and no distress  
+Skin: Warm, dry, not tenting  
+HEENT: NC/AT, sclera anicteric, PERRL, oral mucosa pink and moist, trachea midline  
+JVP: Not visualized Lungs: Clear to auscultation bilaterally  
+Heart: regular rate and rhythm, S1, S2 normal, no murmur, click, rub or gallop  
+Abdomen: soft, non-tender; bowel sounds normal; no masses, no organomegaly  
+Musculoskeletal: No edema, cyanosis, or clubbing  
+Neurologic: Alert and oriented x 3, no focal deficits  
+Pulses: 2+ pedal and radial bilaterally  
+Psych: calm, cooperative  
+Discharge Condition: Stable  

@@ -1,0 +1,41 @@
+**Inpatient Discharge Summary**
+Michael Thompson, MRN# 51897236, is a 45 y.o. male, admitted to the Cardiology service for management of acute myocardial infarction and subsequent complications. 
+Admission Date: 2/15/2023  
+Discharge Date: 2/25/2023  
+Attending Provider: Dr. Samantha Lee  
+Treatment Team:  
+- Cardiology Fellow: Dr. Henry Grant  
+- Primary Nurse: Nancy Drew   
+**Hospital Course: Brief Overview**  
+Mr. Michael Thompson was admitted following a severe chest pain episode while at work at Finch Technologies. He was initially managed in the Emergency Department where cardiac biomarkers confirmed an acute ST-elevation myocardial infarction (STEMI). He underwent emergent cardiac catheterization revealing triple vessel coronary artery disease, requiring the placement of two stents. 
+His post-operative course was complicated by transient acute kidney injury attributed to contrast use, which resolved with hydration and medical management. Atrial fibrillation was detected on day 3 of the admission, managed effectively with rate control and anticoagulation. The patient participated in daily cardiac rehabilitation sessions and responded well to guideline-directed medical therapy.
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily  
+- Atorvastatin 80 mg nightly  
+- Metoprolol 50 mg twice daily  
+- Furosemide 40 mg daily as needed for fluid overload  
+**Discharge Instructions:**  
+Mr. Thompson is advised to follow a low-salt, heart-healthy diet, continue with outpatient cardiac rehabilitation, and monitor his weight daily. He should keep his follow-up appointment with Dr. Lee in one week and with his primary care physician, Joseph Tanner, MD, in two weeks. Instructions for escalating diuretics if weight increases more than 2 kg in 24 hours have been provided.
+Heart Health Clinic  
+Follow-Up Appointments:  
+- 3/1/2023, 10:00 AM with Dr. Samantha Lee, Cardiology at City Hospital Cardiac Unit  
+- 3/15/2023, 2:00 PM with Joseph Tanner, MD at Downtown Medical Associates  
+213-555-0192 - City Hospital Cardiac Unit  
+213-555-0248 - Downtown Medical Associates  
+**Pertinent Discharge Physical Exam Findings:**  
+- Cardiovascular: Stable post-procedure, no chest pain, S1 and S2 heard, no murmurs.  
+- Respiratory: Clear breath sounds bilaterally.  
+- Abdomen: Soft, non-tender.  
+- Extremities: No edema, pulses intact.  
+- Neurologic: Alert and oriented to person, place, and time.
+**Lab Work to be Followed up:**  
+- CBC, CMP, lipid panel, and INR scheduled for 2/28/2023 at City Hospital Laboratory Services. 
+**Last Recorded Vital Signs:**  
+BP 132/86 | Pulse 78 | Temp 36.8°C | Resp 16 | O2 Sat 98% on room air
+**Other Instructions:**  
+- Avoid lifting objects heavier than 10 pounds for six weeks.  
+- Continue smoking cessation. Patient has been smoke-free since admission and should continue to utilize nicotine replacement therapy as prescribed.
+**Signed:** Samantha Lee, MD, 2/25/2023, 3:30 PM.  
+**Cosigned:** Henry Grant, MD, Cardiology Fellow.
+Please call the clinic with any symptoms of chest pain, excessive shortness of breath, or if weight gain exceeds 2 kg over 24 hours. Ensure you keep all medications and follow-up appointments as scheduled.

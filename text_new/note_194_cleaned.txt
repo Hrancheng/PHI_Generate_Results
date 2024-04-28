@@ -1,0 +1,38 @@
+**Inpatient Discharge Summary**
+**Patient:** Harold Greenfield  
+**MRN#:** 934562875  
+**Age:** 68 years old  
+**Admission Date:** 2/15/2023  
+**Discharge Date:** 2/25/2023  
+**Attending Physician:** Dr. Anna Patel  
+**Resident:** Dr. Jackson Li  
+**Consultants:** Dr. Sara Zimmerman (Endocrinology), Dr. Henry Chu (Cardiology)  
+**Hospital Service:** General Medicine
+**Admission Diagnosis:**
+- 2/15/2023: Decompensated heart failure
+- 2/16/2023: Type 2 Diabetes Mellitus
+**Hospital Course:**
+Mr. Greenfield was admitted with shortness of breath and pedal edema. Initial labs showed elevated BNP and echocardiogram confirmed worsening ejection fraction. He was managed with IV diuretics and adjustment of his outpatient heart failure regimen. His diabetes was poorly controlled on admission, with initial glucose of 392 mg/dL. An insulin regimen was initiated and titrated to achieve better glycemic control. Cardiology and endocrinology were consulted. Mr. Greenfield responded well to the treatment with improvement in his symptoms and a decrease in blood glucose levels to a near-normal range.
+**Procedures Performed:**
+- Echocardiogram on 2/17/2023: Showed reduction in ejection fraction to 35%.
+- Continuous glucose monitoring initiated on 2/18/2023.
+**Medications at Discharge:**
+- Furosemide 40 mg twice daily
+- Lisinopril 20 mg once daily
+- Metformin 1000 mg twice daily
+- Insulin Glargine 30 units at bedtime
+**Follow-up:**
+- Follow up with Dr. Anna Patel in 1 week at MediClinic, 123 Health St., Springfield, IL 62704.
+- Cardiology follow-up in 3 weeks with Dr. Henry Chu at the same location.
+- Diabetes management appointment scheduled with Dr. Sara Zimmerman on 3/1/2023.
+**Discharge Instructions:**
+The patient has been counseled on low salt diet and fluid restriction of 1.5 liters per day. He was instructed on the importance of monitoring his blood pressure and blood glucose at home. Signs of worsening heart failure and hypoglycemia were discussed, and he was advised when to seek immediate care.
+**Condition at Discharge:**
+Stable. The patient was ambulatory at time of discharge with improved symptoms. He understood his discharge instructions and verbalized understanding. His questions were answered.
+**Springfield General Hospital**
+**Harold Greenfield,** **2/25/2023,** **2:00 PM**  
+**Signed,**  
+Dr. Jackson Li, MD  
+2/25/2023, 2:15 PM
+---
+*Please note that all personal health identifiers were changed or removed from the actual patient details to maintain confidentiality and privacy according to healthcare regulations.*  
